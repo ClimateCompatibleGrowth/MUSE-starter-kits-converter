@@ -4,7 +4,6 @@ import logging
 from pathlib import Path
 from dotenv import find_dotenv, load_dotenv
 import glob
-import os
 
 
 @click.command()
@@ -16,11 +15,18 @@ def main(input_filepath, output_filepath):
     """
     logger = logging.getLogger(__name__)
     logger.info("Converting starter kit data into a MUSE compatible form.")
-    logger.info("Converting the following folders:")
+    get_starter_kits(input_filepath)
+
+
+def get_starter_kits(input_filepath):
+    logger = logging.getLogger(__name__)
+    logger.info("Getting starter kit folders.")
     directories = glob.glob(str(project_dir) + "/" + str(input_filepath) + "/*/")
-    logger.info("directory_contents: {}".format(directories))
-    for item in directories:
-        logger.info(item)
+    logger.info("Retrieved folders: {}".format(directories))
+    for directory in directories:
+        logger.info(directory)
+
+    return directories
 
 
 if __name__ == "__main__":
