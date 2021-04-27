@@ -4,6 +4,7 @@ import logging
 from pathlib import Path
 from dotenv import find_dotenv, load_dotenv
 import glob
+from data_transformers import Transformer
 
 
 @click.command()
@@ -16,6 +17,10 @@ def main(input_filepath, output_filepath):
     logger = logging.getLogger(__name__)
     logger.info("Converting starter kit data into a MUSE compatible form.")
     directories = get_starter_kits(input_filepath)
+
+    transformers = [Transformer(path=path) for path in directories]
+
+    logger.info("transformers: {}".format(transformers))
 
 
 def get_starter_kits(input_filepath):
