@@ -18,9 +18,15 @@ def main(input_filepath, output_filepath):
     logger.info("Converting starter kit data into a MUSE compatible form.")
     directories = get_starter_kits(input_filepath)
 
-    transformers = [Transformer(path=path) for path in directories]
+    transformers = [
+        Transformer(input_path=path, output_path=output_filepath / path)
+        for path in directories
+    ]
 
-    logger.info("transformers: {}".format(transformers))
+    logger.info("Making datasets")
+    for transformer in transformers:
+        logger.info("Creating dataset from {}".format(transformer.input_path))
+        transformer.create_muse_dataset()
 
 
 def get_starter_kits(input_filepath):

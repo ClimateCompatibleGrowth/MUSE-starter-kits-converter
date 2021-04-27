@@ -4,9 +4,10 @@ import glob
 
 
 class Transformer:
-    def __init__(self, path):
-        self.path = Path(path)
+    def __init__(self, input_path, output_path):
+        self.input_path = Path(input_path)
+        self.output_path = Path(output_path)
 
-    def get_full_dataset(self):
+    def create_muse_dataset(self):
         logger = logging.getLogger(__name__)
         logger.info("Getting full dataset.")
