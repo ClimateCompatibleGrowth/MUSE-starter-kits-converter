@@ -11,7 +11,10 @@ from src.defaults import PROJECT_DIR
 @click.command()
 @click.argument("input_filepath", type=click.Path(exists=True))
 @click.argument("output_filepath", type=click.Path())
-def main(input_filepath, output_filepath):
+@click.argument("start_year", type=click.Path())
+@click.argument("end_year", type=click.Path())
+@click.argument("benchmark_years", type=click.Path())
+def main(input_filepath, output_filepath, start_year, end_year, benchmark_years):
     """ Runs data processing scripts to turn raw data from (../raw) into
         cleaned data ready to be analyzed (saved in ../processed).
     """
@@ -20,7 +23,13 @@ def main(input_filepath, output_filepath):
     directories = get_starter_kits(input_filepath)
 
     transformers = [
-        Transformer(input_path=path, output_path=output_filepath + "/" + path)
+        Transformer(
+            input_path=path,
+            output_path=output_filepath + "/" + path,
+            start_year=start_year,
+            end_year=end_year,
+            benchmark_years=benchmark_years,
+        )
         for path in directories
     ]
 
