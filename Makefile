@@ -8,7 +8,8 @@ PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 BUCKET = [OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')
 PROFILE = default
 PROJECT_NAME = muse-starter-kits
-PYTHON_INTERPRETER = python3
+PYTHON_INTERPRETER = python
+export PATH := bin:$(PATH)
 
 ifeq (,$(shell which conda))
 HAS_CONDA=False
@@ -29,7 +30,7 @@ requirements: test_environment
 data: requirements
 	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits
 
-## Make Dataset
+## Make dataset without installing requirements
 data-no-reqs:
 	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits
 

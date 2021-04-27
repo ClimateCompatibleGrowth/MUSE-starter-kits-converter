@@ -1,6 +1,8 @@
 import logging
 from pathlib import Path
 import glob
+import pandas as pd
+from src.defaults import PROJECT_DIR
 
 
 class Transformer:
@@ -12,3 +14,9 @@ class Transformer:
     def create_muse_dataset(self):
         logger = logging.getLogger(__name__)
         logger.info("Getting full dataset.")
+        logger.info("Project dir: {}".format(PROJECT_DIR))
+
+    def installed_power_plants(self):
+        # pd.read_csv("")
+        pass
+
