@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/opt/anaconda3/envs/muse-latest/bin/python",
+    "python.pythonPath": "/opt/anaconda3/envs/starter-kits/bin/python",
     "python.formatting.provider": "black",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,

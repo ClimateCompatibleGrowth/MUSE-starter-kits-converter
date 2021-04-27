@@ -19,13 +19,13 @@ def main(input_filepath, output_filepath):
     directories = get_starter_kits(input_filepath)
 
     transformers = [
-        Transformer(input_path=path, output_path=output_filepath / path)
+        Transformer(input_path=path, output_path=output_filepath + "/" + path)
         for path in directories
     ]
 
     logger.info("Making datasets")
     for transformer in transformers:
-        logger.info("Creating dataset from {}".format(transformer.input_path))
+        logger.info("Creating dataset for {}".format(transformer.folder))
         transformer.create_muse_dataset()
 
 
