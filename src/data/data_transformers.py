@@ -23,7 +23,8 @@ class Transformer:
         muse_data = {}
 
         muse_data["existing_plants"] = self.convert_installed_power_plants()
-        muse_data["technoeconomic_power"] = self.convert_technoeconomic_power()
+        muse_data["power_technodata"] = self.convert_power_technodata()
+        muse_data["oil_technodata"] = self.convert_oil_technodata()
 
     def get_raw_data(self):
         table_directories = glob.glob(str(self.input_path / Path("*.csv")))
@@ -94,7 +95,7 @@ class Transformer:
 
         return muse_installed_capacity
 
-    def convert_technoeconomic_power(self):
+    def convert_power_technodata(self):
         logger = logging.getLogger(__name__)
         technoeconomic_data = self.raw_tables["Table2"]
 
@@ -170,9 +171,41 @@ class Transformer:
             muse_technodata.ProcessName == "Unit"
         ].append(forwardfilled_projected_technoeconomic)
 
-        logger.info(forwardfilled_projected_technoeconomic)
-
         return forwardfilled_projected_technoeconomic
+
+    def convert_oil_technodata(self):
+        logger = logging.getLogger(__name__)
+
+        oil = self.raw_tables["Table5"]
+        oil = oil.pivot(index="Technology", columns="Parameter", values="Value")
+        oil = self._insert_constant_columns(oil, "energy", "oil")
+
+        oil = oil.reset_index()
+        oil_renamed = oil.rename(
+            columns={
+                "Capital Cost ($/kW in 2020)": "cap_par",
+                "Operational Life (years)": "TechnicalLife",
+                "Technology": "ProcessName",
+            }
+        )
+        oil_renamed = oil_renamed.drop(columns="Output Ratio")
+        oil_renamed
+
+        muse_technodata = pd.read_csv(
+            str(PROJECT_DIR)
+            + "/data/external/muse_data/default/technodata/gas/Technodata.csv"
+        )
+
+        oil_renamed["Fuel"] = "oil"
+        oil_renamed["efficiency"] = 1
+        oil_renamed["ScalingSize"] = 1
+        oil_renamed["UtilizationFactor"] = 1
+        oil_renamed["fix_par"] = 1
+
+        oil_renamed = oil_renamed.reindex(muse_technodata.columns, axis=1)
+
+        logger.info(oil_renamed)
+        return oil_renamed
 
     def _fill_unknown_data(self, projected_technoeconomic):
         backfilled_projected_technoeconomic = projected_technoeconomic.groupby(
@@ -200,6 +233,8 @@ class Transformer:
         technoeconomic_data_wide["MaxCapacityAddition"] = 20
         technoeconomic_data_wide["MaxCapacityGrowth"] = 20
         technoeconomic_data_wide["TotalCapacityLimit"] = 20
+
+        return technoeconomic_data_wide
 
     def _generate_scaling_size(self, plants):
         import re
