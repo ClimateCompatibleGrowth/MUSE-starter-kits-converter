@@ -2,7 +2,7 @@ import logging
 from pathlib import Path
 import glob
 import pandas as pd
-from src.defaults import PROJECT_DIR
+from src.defaults import PROJECT_DIR, plant_fuels
 
 
 class Transformer:
@@ -36,7 +36,6 @@ class Transformer:
         return tables
 
     def convert_installed_power_plants(self):
-        logger = logging.getLogger(__name__)
         installed_capacity = self.raw_tables["Table1"]
         installed_capacity = installed_capacity.rename(
             columns={"Power Generation Technology": "Technology"}
@@ -87,7 +86,7 @@ class Transformer:
         for col in unknown_cols:
             installed_capacity_pj_y_wide[col] = 0
 
-        installed_capacity_pj_y_wide.insert(1, "RegionName", "R1")
+        installed_capacity_pj_y_wide.insert(1, "RegionName", self.folder)
         installed_capacity_pj_y_wide.insert(2, "Unit", "PJ/y")
         muse_installed_capacity = installed_capacity_pj_y_wide.rename(
             columns={"Technology": "ProcessName"}
@@ -98,4 +97,123 @@ class Transformer:
     def convert_technoeconomic_power(self):
         logger = logging.getLogger(__name__)
         technoeconomic_data = self.raw_tables["Table2"]
+
+        muse_technodata = pd.read_csv(
+            PROJECT_DIR
+            / Path("data/external/muse_data/default/technodata/power/Technodata.csv")
+        )
+
+        technoeconomic_data_wide = technoeconomic_data.pivot(
+            index="Technology", columns="Parameter", values="Value"
+        )
+        self._insert_constant_columns(technoeconomic_data_wide, "energy", "Electricity")
+
+        technoeconomic_data_wide = technoeconomic_data_wide.reset_index()
+        technoeconomic_data_wide_named = technoeconomic_data_wide.rename(
+            columns={
+                "Average Capacity Factor": "UtilizationFactor",
+                "Capital Cost ($/kW in 2020)": "cap_par",
+                "Fixed Cost ($/kW/yr in 2020)": "fix_par",
+                "Operational Life (years)": "TechnicalLife",
+                "Technology": "ProcessName",
+                "Efficiency ": "efficiency",
+            }
+        )
+
+        technoeconomic_data_wide_named["Fuel"] = technoeconomic_data_wide_named[
+            "ProcessName"
+        ].map(plant_fuels)
+
+        plants = list(pd.unique(technoeconomic_data_wide_named.ProcessName))
+
+        plant_sizes = self._generate_scaling_size(plants)
+
+        technoeconomic_data_wide_named["ScalingSize"] = technoeconomic_data_wide_named[
+            "ProcessName"
+        ].map(plant_sizes)
+
+        technoeconomic_data_wide_named = technoeconomic_data_wide_named.apply(
+            pd.to_numeric, errors="ignore"
+        )
+
+        projected_capex = self.raw_tables["Table3"]
+
+        projected_capex = projected_capex.rename(
+            columns={"Technology": "ProcessName", "Year": "Time", "Value": "cap_par"}
+        )
+        projected_capex = projected_capex.drop(columns="Parameter")
+
+        projected_technoeconomic = pd.merge(
+            technoeconomic_data_wide_named,
+            projected_capex,
+            on=["ProcessName", "Time"],
+            how="right",
+        )
+
+        forwardfilled_projected_technoeconomic = self._fill_unknown_data(
+            projected_technoeconomic
+        )
+
+        forwardfilled_projected_technoeconomic = forwardfilled_projected_technoeconomic.drop(
+            columns="cap_par_x"
+        )
+        forwardfilled_projected_technoeconomic = forwardfilled_projected_technoeconomic.rename(
+            columns={"cap_par_y": "cap_par"}
+        )
+
+        kw_columns = ["cap_par", "fix_par"]
+
+        forwardfilled_projected_technoeconomic[kw_columns] *= 1000
+        forwardfilled_projected_technoeconomic.reindex(muse_technodata.columns, axis=1)
+
+        forwardfilled_projected_technoeconomic = muse_technodata[
+            muse_technodata.ProcessName == "Unit"
+        ].append(forwardfilled_projected_technoeconomic)
+
+        logger.info(forwardfilled_projected_technoeconomic)
+
+        return forwardfilled_projected_technoeconomic
+
+    def _fill_unknown_data(self, projected_technoeconomic):
+        backfilled_projected_technoeconomic = projected_technoeconomic.groupby(
+            ["ProcessName"]
+        ).apply(lambda group: group.fillna(method="bfill"))
+        forwardfilled_projected_technoeconomic = backfilled_projected_technoeconomic.groupby(
+            ["ProcessName"]
+        ).apply(
+            lambda group: group.fillna(method="ffill")
+        )
+        return forwardfilled_projected_technoeconomic
+
+    def _insert_constant_columns(self, technoeconomic_data_wide, fuel_type, end_use):
+        technoeconomic_data_wide["RegionName"] = self.folder
+        technoeconomic_data_wide["Time"] = "2020"
+        technoeconomic_data_wide["Level"] = "fixed"
+        technoeconomic_data_wide["cap_exp"] = 1
+        technoeconomic_data_wide["fix_exp"] = 1
+        technoeconomic_data_wide["var_par"] = 0
+        technoeconomic_data_wide["var_exp"] = 1
+        technoeconomic_data_wide["Type"] = fuel_type
+        technoeconomic_data_wide["EndUse"] = end_use
+        technoeconomic_data_wide["Agent2"] = 1
+        technoeconomic_data_wide["InterestRate"] = 0.1
+        technoeconomic_data_wide["MaxCapacityAddition"] = 20
+        technoeconomic_data_wide["MaxCapacityGrowth"] = 20
+        technoeconomic_data_wide["TotalCapacityLimit"] = 20
+
+    def _generate_scaling_size(self, plants):
+        import re
+
+        plant_sizes = {}
+        for plant in plants:
+            size = 1
+            kw = False
+            if "kW" in plant:
+                kw = True
+            if re.search(r"\d+", plant) is not None:
+                size = float(re.search(r"\d+", plant).group())
+                if kw:
+                    size /= 1000
+            plant_sizes[plant] = size
+        return plant_sizes
 
