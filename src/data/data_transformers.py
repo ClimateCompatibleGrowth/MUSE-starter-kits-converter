@@ -22,22 +22,38 @@ class Transformer:
 
         muse_data = {}
 
-        muse_data["existing_plants"] = self.convert_installed_power_plants()
-        muse_data["power_technodata"] = self.convert_power_technodata()
-        muse_data["oil_technodata"] = self.convert_oil_technodata()
-        muse_data["power_comm_in"] = self.get_comm_in(
+        muse_data["power"] = {"ExistingCapacity": self.convert_installed_power_plants()}
+        muse_data["power"]["Technodata"] = self.convert_power_technodata()
+        muse_data["power"]["CommIn"] = self.get_comm_in(
             technodata=muse_data["power_technodata"]
         )
-        muse_data["power_comm_out"] = self.get_comm_out(
+        muse_data["power"]["CommOut"] = self.get_comm_out(
             technodata=muse_data["power_technodata"]
         )
-        muse_data["oil_comm_in"] = self.get_comm_in(
+        muse_data["oil"] = {"Technodata": self.convert_oil_technodata()}
+        muse_data["oil"]["CommIn"] = self.get_comm_in(
+            technodata=muse_data["oil_technodata"]
+        )
+        muse_data["oil"]["CommOut"] = self.get_comm_out(
             technodata=muse_data["oil_technodata"]
         )
 
-        muse_data["oil_comm_out"] = self.get_comm_out(
-            technodata=muse_data["oil_technodata"]
-        )
+        # muse_data["existing_plants"] = self.convert_installed_power_plants()
+        # muse_data["power_technodata"] = self.convert_power_technodata()
+        # muse_data["oil_technodata"] = self.convert_oil_technodata()
+        # muse_data["power_comm_in"] = self.get_comm_in(
+        #     technodata=muse_data["power_technodata"]
+        # )
+        # muse_data["power_comm_out"] = self.get_comm_out(
+        #     technodata=muse_data["power_technodata"]
+        # )
+        # muse_data["oil_comm_in"] = self.get_comm_in(
+        #     technodata=muse_data["oil_technodata"]
+        # )
+
+        # muse_data["oil_comm_out"] = self.get_comm_out(
+        #     technodata=muse_data["oil_technodata"]
+        # )
 
     def get_raw_data(self):
         table_directories = glob.glob(str(self.input_path / Path("*.csv")))
