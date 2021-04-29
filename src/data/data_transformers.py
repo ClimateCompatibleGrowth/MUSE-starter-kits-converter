@@ -204,7 +204,10 @@ class Transformer:
 
         oil_renamed = oil_renamed.reindex(muse_technodata.columns, axis=1)
 
-        logger.info(oil_renamed)
+        oil_renamed = muse_technodata[muse_technodata.ProcessName == "Unit"].append(
+            oil_renamed
+        )
+
         return oil_renamed
 
     def _fill_unknown_data(self, projected_technoeconomic):
