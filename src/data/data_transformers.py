@@ -2,7 +2,7 @@ import logging
 from pathlib import Path
 import glob
 import pandas as pd
-from src.defaults import PROJECT_DIR, plant_fuels
+from src.defaults import PROJECT_DIR, plant_fuels, units
 
 
 class Transformer:
@@ -25,6 +25,19 @@ class Transformer:
         muse_data["existing_plants"] = self.convert_installed_power_plants()
         muse_data["power_technodata"] = self.convert_power_technodata()
         muse_data["oil_technodata"] = self.convert_oil_technodata()
+        muse_data["power_comm_in"] = self.get_comm_in(
+            technodata=muse_data["power_technodata"]
+        )
+        muse_data["power_comm_out"] = self.get_comm_out(
+            technodata=muse_data["power_technodata"]
+        )
+        muse_data["oil_comm_in"] = self.get_comm_in(
+            technodata=muse_data["oil_technodata"]
+        )
+
+        muse_data["oil_comm_out"] = self.get_comm_out(
+            technodata=muse_data["oil_technodata"]
+        )
 
     def get_raw_data(self):
         table_directories = glob.glob(str(self.input_path / Path("*.csv")))
@@ -209,6 +222,69 @@ class Transformer:
         )
 
         return oil_renamed
+
+    def get_comm_in(self, technodata):
+        logger = logging.getLogger(__name__)
+
+        power_types = technodata[technodata.ProcessName != "Unit"][
+            ["ProcessName", "Fuel"]
+        ].drop_duplicates()
+        power_types["value"] = 1
+
+        comm_in = power_types.pivot(index="ProcessName", columns="Fuel", values="value")
+
+        comm_in.insert(0, "RegionName", self.folder)
+        comm_in.insert(1, "Time", 2020)
+        comm_in.insert(2, "Level", "fixed")
+        comm_in.insert(3, "electricity", 0)
+        comm_in["CO2f"] = 0
+
+        units_row = pd.DataFrame.from_dict(units, orient="columns")
+        units_row
+        comm_in = units_row.append(comm_in)
+        comm_in = comm_in.fillna(0)
+        return comm_in
+
+    def get_comm_out(self, technodata):
+        logger = logging.getLogger(__name__)
+
+        emissions = self.raw_tables["Table7"]
+        emissions.Value *= 0.000001
+        emissions.Fuel = emissions.Fuel.str.lower()
+        emissions.Fuel = emissions.Fuel.str.replace("natural gas", "gas")
+        emissions.Fuel = emissions.Fuel.str.replace("crude oil", "oil")
+
+        process_types = technodata[technodata.ProcessName != "Unit"][
+            ["ProcessName", "Fuel"]
+        ].drop_duplicates()
+
+        process_types_emissions = process_types.merge(
+            emissions.drop(columns="Parameter"), on="Fuel", how="left"
+        ).fillna(0)
+        process_types_emissions = process_types_emissions.rename(
+            columns={"Value": "CO2f"}
+        )
+
+        process_types_emissions["value"] = 0
+
+        comm_out = (
+            process_types_emissions.pivot(
+                index=["ProcessName", "CO2f"], columns="Fuel", values="value"
+            )
+            .fillna(0)
+            .reset_index()
+        )
+        comm_out["electricity"] = 1
+
+        comm_out.insert(1, "RegionName", self.folder)
+        comm_out.insert(2, "Time", 2020)
+        comm_out.insert(3, "Level", "fixed")
+
+        units_row = pd.DataFrame.from_dict(units, orient="columns")
+        units_row
+        comm_out = units_row.append(comm_out)
+        comm_out = comm_out.fillna(0)
+        return comm_out
 
     def _fill_unknown_data(self, projected_technoeconomic):
         backfilled_projected_technoeconomic = projected_technoeconomic.groupby(

@@ -23,3 +23,21 @@ plant_fuels = {
     "Solar PV (Utility)": "solar",
 }
 
+
+units = {
+    "ProcessName": ["Unit"],
+    "RegionName": ["-"],
+    "Time": ["Year"],
+    "Level": ["-"],
+    "CO2f": ["kt/PJ"],
+    "biomass": ["PJ/PJ"],
+    "coal": ["PJ/PJ"],
+    "gas": ["PJ/PJ"],
+    "geothermal": ["PJ/PJ"],
+    "hydro": ["PJ/PJ"],
+    "oil": ["PJ/PJ"],
+    "solar": ["PJ/PJ"],
+    "uranium": ["PJ/PJ"],
+    "wind": ["PJ/PJ"],
+    "electricity": ["PJ/PJ"],
+}
