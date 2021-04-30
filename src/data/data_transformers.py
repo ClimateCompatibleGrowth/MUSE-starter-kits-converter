@@ -58,8 +58,8 @@ class Transformer:
                 output_path = self.output_path / Path(sector)
                 if not os.path.exists(output_path):
                     os.makedirs(output_path)
-
-                results_data[sector][csv].to_csv(output_path / Path(csv))
+                print(output_path)
+                results_data[sector][csv].to_csv(str(output_path) + "/" + csv + ".csv")
 
     def convert_installed_power_plants(self):
         installed_capacity = self.raw_tables["Table1"]
