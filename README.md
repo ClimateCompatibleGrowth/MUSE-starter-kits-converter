@@ -11,6 +11,11 @@ The data has already been processed and can be viewed at the following directory
 data/processed/starter-kits/*
 ```
 
+The unprocessed data can be found at:
+```
+data/raw/starter-kits/*
+```
+
 
 Project Organization
 ------------
