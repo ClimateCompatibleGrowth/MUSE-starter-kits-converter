@@ -1,7 +1,21 @@
-starter-kits
-==============================
+CCG Starter Kits to MUSE input files
+====================================
 
-Starter kits for MUSE
+The MUSE data can be generated with the command in the root directory:
+```
+make data-no-reqs
+```
+
+The data has already been processed and can be viewed at the following directory:
+```
+data/processed/starter-kits/*
+```
+
+The unprocessed data can be found at:
+```
+data/raw/starter-kits/*
+```
+
 
 Project Organization
 ------------
