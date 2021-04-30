@@ -22,7 +22,7 @@ class Transformer:
 
         muse_data = {}
 
-        muse_data["power"] = {"ExistingCapacity": self.convert_installed_power_plants()}
+        muse_data["power"] = {"ExistingCapacity": self.create_existing_capacity_power()}
         muse_data["power"]["Technodata"] = self.convert_power_technodata()
         muse_data["power"]["CommIn"] = self.get_comm_in(
             technodata=muse_data["power"]["Technodata"]
@@ -37,6 +37,10 @@ class Transformer:
         muse_data["oil"]["CommOut"] = self.get_comm_out(
             technodata=muse_data["oil"]["Technodata"]
         )
+        muse_data["oil"]["ExistingCapacity"] = self.create_empty_existing_capacity(
+            self.raw_tables["Table5"]
+        )
+
         logger.info("Writing processed data for {}".format(self.folder))
         self.write_results(muse_data)
 
@@ -60,7 +64,7 @@ class Transformer:
                     os.makedirs(output_path)
                 results_data[sector][csv].to_csv(str(output_path) + "/" + csv + ".csv")
 
-    def convert_installed_power_plants(self):
+    def create_existing_capacity_power(self):
         installed_capacity = self.raw_tables["Table1"]
         installed_capacity = installed_capacity.rename(
             columns={"Power Generation Technology": "Technology"}
@@ -118,6 +122,21 @@ class Transformer:
         ).set_index("ProcessName")
 
         return muse_installed_capacity
+
+    def create_empty_existing_capacity(self, technodata):
+        techno = technodata
+        techs = list(pd.unique(techno.Technology))
+
+        existing_capacity_dict = {}
+        for tech in techs:
+            existing_capacity_dict[tech] = [tech, self.folder, "PJ/y"] + [0] * 17
+
+        existing_capacity = pd.DataFrame.from_dict(
+            existing_capacity_dict,
+            orient="index",
+            columns=["ProcessName", "RegionName", "Unit"] + list(range(2018, 2052, 2)),
+        )
+        return existing_capacity.reset_index(drop=True)
 
     def convert_power_technodata(self):
         logger = logging.getLogger(__name__)
