@@ -1,0 +1,12 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,oil,solar,uranium,wind,electricity
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Sudan,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Sudan,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+CSP without Storage,Sudan,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Sudan,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Sudan,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Offshore Wind,Sudan,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Onshore Wind,Sudan,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Small Hydropower Plant (<10MW),Sudan,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Solar PV (Distributed with Storage),Sudan,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Solar PV (Utility),Sudan,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
