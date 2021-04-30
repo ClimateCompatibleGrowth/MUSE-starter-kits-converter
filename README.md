@@ -1,5 +1,5 @@
-starter-kits
-==============================
+CCG Starter Kits to MUSE input files
+====================================
 
 The MUSE data can be generated with the command in the root directory:
 ```
