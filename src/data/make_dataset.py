@@ -43,9 +43,6 @@ def get_starter_kits(input_filepath):
     logger = logging.getLogger(__name__)
     logger.info("Getting starter kit folders.")
     directories = glob.glob(str(PROJECT_DIR) + "/" + str(input_filepath) + "/*/")
-    logger.info("Retrieved folders:")
-    for directory in directories:
-        logger.info(directory)
 
     return directories
 

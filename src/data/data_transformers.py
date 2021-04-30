@@ -37,7 +37,7 @@ class Transformer:
         muse_data["oil"]["CommOut"] = self.get_comm_out(
             technodata=muse_data["oil"]["Technodata"]
         )
-
+        logger.info("Writing processed data for {}".format(self.folder))
         self.write_results(muse_data)
 
     def get_raw_data(self):
@@ -58,7 +58,6 @@ class Transformer:
                 output_path = self.output_path / Path(sector)
                 if not os.path.exists(output_path):
                     os.makedirs(output_path)
-                print(output_path)
                 results_data[sector][csv].to_csv(str(output_path) + "/" + csv + ".csv")
 
     def convert_installed_power_plants(self):
