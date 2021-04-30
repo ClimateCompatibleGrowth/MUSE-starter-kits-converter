@@ -62,7 +62,9 @@ class Transformer:
                 output_path = self.output_path / Path(sector)
                 if not os.path.exists(output_path):
                     os.makedirs(output_path)
-                results_data[sector][csv].to_csv(str(output_path) + "/" + csv + ".csv")
+                results_data[sector][csv].to_csv(
+                    str(output_path) + "/" + csv + ".csv", index=False
+                )
 
     def create_existing_capacity_power(self):
         installed_capacity = self.raw_tables["Table1"]
@@ -261,7 +263,9 @@ class Transformer:
         ].drop_duplicates()
         power_types["value"] = 1
 
-        comm_in = power_types.pivot(index="ProcessName", columns="Fuel", values="value")
+        comm_in = power_types.pivot(
+            index="ProcessName", columns="Fuel", values="value"
+        ).reset_index()
 
         comm_in.insert(0, "RegionName", self.folder)
         comm_in.insert(1, "Time", 2020)
@@ -273,6 +277,7 @@ class Transformer:
         units_row
         comm_in = units_row.append(comm_in)
         comm_in = comm_in.fillna(0)
+
         return comm_in
 
     def get_comm_out(self, technodata):

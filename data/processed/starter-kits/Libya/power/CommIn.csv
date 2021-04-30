@@ -1,12 +1,12 @@
-,ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,oil,solar,uranium,wind,electricity
-0,Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,0,Libya,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
-CSP with Storage,0,Libya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-CSP without Storage,0,Libya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),0,Libya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),0,Libya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Offshore Wind,0,Libya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
-Onshore Wind,0,Libya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
-Small Hydropower Plant (<10MW),0,Libya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Solar PV (Distributed with Storage),0,Libya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-Solar PV (Utility),0,Libya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,oil,solar,uranium,wind,electricity
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Libya,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Libya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+CSP without Storage,Libya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Libya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Libya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Offshore Wind,Libya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Onshore Wind,Libya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Small Hydropower Plant (<10MW),Libya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Solar PV (Distributed with Storage),Libya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Solar PV (Utility),Libya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0

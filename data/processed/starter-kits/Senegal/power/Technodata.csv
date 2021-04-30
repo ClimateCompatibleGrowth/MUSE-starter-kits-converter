@@ -1,62 +1,62 @@
-,ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2
-0,Unit,-,Year,-,MUS$2010/PJ_a,-,MUS$2010/PJ,-,MUS$2010/PJ,-,PJ,%,PJ,Years,-,PJ,%,-,-,-,-,Retrofit
-0,Biomass Power Plant,Senegal,2015,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
-1,Solar PV (Utility),Senegal,2015,fixed,2165000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-2,CSP without Storage,Senegal,2015,fixed,6051000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-3,CSP with Storage,Senegal,2015,fixed,8645000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-4,Large Hydropower Plant (Dam) (>100MW),Senegal,2015,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
-5,Medium Hydropower Plant (10-100MW),Senegal,2015,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-6,Small Hydropower Plant (<10MW),Senegal,2015,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-7,Onshore Wind,Senegal,2015,fixed,1985000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
-8,Offshore Wind,Senegal,2015,fixed,5000000.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
-9,Solar PV (Distributed with Storage),Senegal,2015,fixed,6840000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-10,Biomass Power Plant,Senegal,2020,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
-11,Solar PV (Utility),Senegal,2020,fixed,1378000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-12,CSP without Storage,Senegal,2020,fixed,4058000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-13,CSP with Storage,Senegal,2020,fixed,5797000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-14,Large Hydropower Plant (Dam) (>100MW),Senegal,2020,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
-15,Medium Hydropower Plant (10-100MW),Senegal,2020,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-16,Small Hydropower Plant (<10MW),Senegal,2020,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-17,Onshore Wind,Senegal,2020,fixed,1489000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
-18,Offshore Wind,Senegal,2020,fixed,3972400.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
-19,Solar PV (Distributed with Storage),Senegal,2020,fixed,4320000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-20,Biomass Power Plant,Senegal,2025,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
-21,Solar PV (Utility),Senegal,2025,fixed,984000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-22,CSP without Storage,Senegal,2025,fixed,3269000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-23,CSP with Storage,Senegal,2025,fixed,4670000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-24,Large Hydropower Plant (Dam) (>100MW),Senegal,2025,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
-25,Medium Hydropower Plant (10-100MW),Senegal,2025,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-26,Small Hydropower Plant (<10MW),Senegal,2025,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-27,Onshore Wind,Senegal,2025,fixed,1191000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
-28,Offshore Wind,Senegal,2025,fixed,3020900.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
-29,Solar PV (Distributed with Storage),Senegal,2025,fixed,3415000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-30,Biomass Power Plant,Senegal,2030,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
-31,Solar PV (Utility),Senegal,2030,fixed,886000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-32,CSP without Storage,Senegal,2030,fixed,2634000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-33,CSP with Storage,Senegal,2030,fixed,3763000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-34,Large Hydropower Plant (Dam) (>100MW),Senegal,2030,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
-35,Medium Hydropower Plant (10-100MW),Senegal,2030,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-36,Small Hydropower Plant (<10MW),Senegal,2030,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-37,Onshore Wind,Senegal,2030,fixed,1087000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
-38,Offshore Wind,Senegal,2030,fixed,2450000.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
-39,Solar PV (Distributed with Storage),Senegal,2030,fixed,2700000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-40,Biomass Power Plant,Senegal,2040,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
-41,Solar PV (Utility),Senegal,2040,fixed,723000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-42,CSP without Storage,Senegal,2040,fixed,2562000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-43,CSP with Storage,Senegal,2040,fixed,3660000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-44,Large Hydropower Plant (Dam) (>100MW),Senegal,2040,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
-45,Medium Hydropower Plant (10-100MW),Senegal,2040,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-46,Small Hydropower Plant (<10MW),Senegal,2040,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-47,Onshore Wind,Senegal,2040,fixed,933000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
-48,Offshore Wind,Senegal,2040,fixed,2275000.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
-49,Solar PV (Distributed with Storage),Senegal,2040,fixed,2091000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-50,Biomass Power Plant,Senegal,2050,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
-51,Solar PV (Utility),Senegal,2050,fixed,723000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
-52,CSP without Storage,Senegal,2050,fixed,2562000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-53,CSP with Storage,Senegal,2050,fixed,3660000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
-54,Large Hydropower Plant (Dam) (>100MW),Senegal,2050,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
-55,Medium Hydropower Plant (10-100MW),Senegal,2050,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-56,Small Hydropower Plant (<10MW),Senegal,2050,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
-57,Onshore Wind,Senegal,2050,fixed,933000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
-58,Offshore Wind,Senegal,2050,fixed,2100000.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
-59,Solar PV (Distributed with Storage),Senegal,2050,fixed,2091000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2
+Unit,-,Year,-,MUS$2010/PJ_a,-,MUS$2010/PJ,-,MUS$2010/PJ,-,PJ,%,PJ,Years,-,PJ,%,-,-,-,-,Retrofit
+Biomass Power Plant,Senegal,2015,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
+Solar PV (Utility),Senegal,2015,fixed,2165000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP without Storage,Senegal,2015,fixed,6051000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP with Storage,Senegal,2015,fixed,8645000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Senegal,2015,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
+Medium Hydropower Plant (10-100MW),Senegal,2015,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Small Hydropower Plant (<10MW),Senegal,2015,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Onshore Wind,Senegal,2015,fixed,1985000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Offshore Wind,Senegal,2015,fixed,5000000.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Solar PV (Distributed with Storage),Senegal,2015,fixed,6840000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Biomass Power Plant,Senegal,2020,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
+Solar PV (Utility),Senegal,2020,fixed,1378000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP without Storage,Senegal,2020,fixed,4058000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP with Storage,Senegal,2020,fixed,5797000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Senegal,2020,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
+Medium Hydropower Plant (10-100MW),Senegal,2020,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Small Hydropower Plant (<10MW),Senegal,2020,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Onshore Wind,Senegal,2020,fixed,1489000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Offshore Wind,Senegal,2020,fixed,3972400.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Solar PV (Distributed with Storage),Senegal,2020,fixed,4320000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Biomass Power Plant,Senegal,2025,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
+Solar PV (Utility),Senegal,2025,fixed,984000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP without Storage,Senegal,2025,fixed,3269000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP with Storage,Senegal,2025,fixed,4670000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Senegal,2025,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
+Medium Hydropower Plant (10-100MW),Senegal,2025,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Small Hydropower Plant (<10MW),Senegal,2025,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Onshore Wind,Senegal,2025,fixed,1191000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Offshore Wind,Senegal,2025,fixed,3020900.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Solar PV (Distributed with Storage),Senegal,2025,fixed,3415000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Biomass Power Plant,Senegal,2030,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
+Solar PV (Utility),Senegal,2030,fixed,886000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP without Storage,Senegal,2030,fixed,2634000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP with Storage,Senegal,2030,fixed,3763000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Senegal,2030,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
+Medium Hydropower Plant (10-100MW),Senegal,2030,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Small Hydropower Plant (<10MW),Senegal,2030,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Onshore Wind,Senegal,2030,fixed,1087000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Offshore Wind,Senegal,2030,fixed,2450000.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Solar PV (Distributed with Storage),Senegal,2030,fixed,2700000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Biomass Power Plant,Senegal,2040,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
+Solar PV (Utility),Senegal,2040,fixed,723000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP without Storage,Senegal,2040,fixed,2562000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP with Storage,Senegal,2040,fixed,3660000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Senegal,2040,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
+Medium Hydropower Plant (10-100MW),Senegal,2040,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Small Hydropower Plant (<10MW),Senegal,2040,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Onshore Wind,Senegal,2040,fixed,933000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Offshore Wind,Senegal,2040,fixed,2275000.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Solar PV (Distributed with Storage),Senegal,2040,fixed,2091000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Biomass Power Plant,Senegal,2050,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.5,1.0,0.35,0.1,energy,biomass,Electricity,1.0
+Solar PV (Utility),Senegal,2050,fixed,723000.0,1.0,17910.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP without Storage,Senegal,2050,fixed,2562000.0,1.0,40580.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+CSP with Storage,Senegal,2050,fixed,3660000.0,1.0,57970.0,1.0,0.0,1.0,20.0,20.0,20.0,30.0,0.45,1.0,1.0,0.1,energy,solar,Electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Senegal,2050,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,100.0,1.0,0.1,energy,hydro,Electricity,1.0
+Medium Hydropower Plant (10-100MW),Senegal,2050,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Small Hydropower Plant (<10MW),Senegal,2050,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.41,10.0,1.0,0.1,energy,hydro,Electricity,1.0
+Onshore Wind,Senegal,2050,fixed,933000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.17,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Offshore Wind,Senegal,2050,fixed,2100000.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.37,1.0,1.0,0.1,energy,wind,Electricity,1.0
+Solar PV (Distributed with Storage),Senegal,2050,fixed,2091000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.41,1.0,1.0,0.1,energy,solar,Electricity,1.0
