@@ -3,9 +3,17 @@ Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Morocco,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Morocco,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
 CSP without Storage,Morocco,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Coal Power Plant,Morocco,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Morocco,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Morocco,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Geothermal Power Plant,Morocco,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Morocco,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Light Fuel Oil Power Plant,Morocco,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Morocco,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Morocco,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Nuclear Power Plant,Morocco,2020,fixed,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Morocco,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Oil Fired Gas Turbine (SCGT),Morocco,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Onshore Wind,Morocco,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
 Small Hydropower Plant (<10MW),Morocco,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
 Solar PV (Distributed with Storage),Morocco,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0

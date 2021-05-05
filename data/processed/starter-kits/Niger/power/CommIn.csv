@@ -3,9 +3,17 @@ Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Niger,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Niger,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
 CSP without Storage,Niger,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Coal Power Plant,Niger,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Niger,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Niger,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Geothermal Power Plant,Niger,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Niger,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Light Fuel Oil Power Plant,Niger,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Niger,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Niger,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Nuclear Power Plant,Niger,2020,fixed,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Niger,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Oil Fired Gas Turbine (SCGT),Niger,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Onshore Wind,Niger,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
 Small Hydropower Plant (<10MW),Niger,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
 Solar PV (Distributed with Storage),Niger,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0

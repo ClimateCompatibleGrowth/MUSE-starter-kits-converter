@@ -3,9 +3,17 @@ Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Namibia,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Namibia,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
 CSP without Storage,Namibia,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Coal Power Plant,Namibia,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Namibia,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Namibia,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Geothermal Power Plant,Namibia,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Namibia,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Light Fuel Oil Power Plant,Namibia,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Namibia,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Namibia,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Nuclear Power Plant,Namibia,2020,fixed,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Namibia,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Oil Fired Gas Turbine (SCGT),Namibia,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Onshore Wind,Namibia,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
 Small Hydropower Plant (<10MW),Namibia,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
 Solar PV (Distributed with Storage),Namibia,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0

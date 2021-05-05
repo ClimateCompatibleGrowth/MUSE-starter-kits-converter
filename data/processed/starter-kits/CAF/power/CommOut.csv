@@ -1,12 +1,20 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,oil,solar,uranium,wind,electricity
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,CAF,2020,fixed,9.999999999999999e-05,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-CSP with Storage,CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-CSP without Storage,CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-Large Hydropower Plant (Dam) (>100MW),CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-Medium Hydropower Plant (10-100MW),CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-Offshore Wind,CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-Onshore Wind,CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-Small Hydropower Plant (<10MW),CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-Solar PV (Distributed with Storage),CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
-Solar PV (Utility),CAF,2020,fixed,0.0,0.0,0,0,0,0.0,0,0.0,0,0.0,1
+Biomass Power Plant,CAF,2020,fixed,9.999999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+CSP with Storage,CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+CSP without Storage,CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Coal Power Plant,CAF,2020,fixed,9.46e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Gas Power Plant (CCGT),CAF,2020,fixed,5.61e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Gas Power Plant (SCGT),CAF,2020,fixed,5.61e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Geothermal Power Plant,CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Large Hydropower Plant (Dam) (>100MW),CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Light Fuel Oil Power Plant,CAF,2020,fixed,7.329999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Light Fuel Oil Standalone Generator (1kW),CAF,2020,fixed,7.329999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Medium Hydropower Plant (10-100MW),CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Nuclear Power Plant,CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Offshore Wind,CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Oil Fired Gas Turbine (SCGT),CAF,2020,fixed,7.329999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Onshore Wind,CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Small Hydropower Plant (<10MW),CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Solar PV (Distributed with Storage),CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Solar PV (Utility),CAF,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1

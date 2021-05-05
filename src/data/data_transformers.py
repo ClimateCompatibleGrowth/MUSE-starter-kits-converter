@@ -7,6 +7,9 @@ from src.defaults import PROJECT_DIR, plant_fuels, units
 
 class Transformer:
     def __init__(self, input_path, output_path, start_year, end_year, benchmark_years):
+        """
+
+        """
         self.input_path = Path(input_path)
         self.output_path = Path(output_path)
         self.start_year = int(start_year)
@@ -215,7 +218,7 @@ class Transformer:
             technoeconomic_data_wide_named,
             projected_capex,
             on=["ProcessName", "Time"],
-            how="right",
+            how="outer",
         )
 
         forwardfilled_projected_technoeconomic = self._fill_unknown_data(

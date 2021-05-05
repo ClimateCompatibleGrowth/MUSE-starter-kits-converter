@@ -3,9 +3,17 @@ Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Togo,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Togo,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
 CSP without Storage,Togo,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Coal Power Plant,Togo,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Nuclear Power Plant,Togo,2020,fixed,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Oil Fired Gas Turbine (SCGT),Togo,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Onshore Wind,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
 Small Hydropower Plant (<10MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
 Solar PV (Distributed with Storage),Togo,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0

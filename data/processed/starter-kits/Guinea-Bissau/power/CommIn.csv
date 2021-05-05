@@ -3,9 +3,17 @@ Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Guinea-Bissau,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Guinea-Bissau,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
 CSP without Storage,Guinea-Bissau,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+Coal Power Plant,Guinea-Bissau,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Guinea-Bissau,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Guinea-Bissau,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
+Geothermal Power Plant,Guinea-Bissau,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Guinea-Bissau,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Light Fuel Oil Power Plant,Guinea-Bissau,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Guinea-Bissau,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Guinea-Bissau,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
+Nuclear Power Plant,Guinea-Bissau,2020,fixed,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Guinea-Bissau,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
+Oil Fired Gas Turbine (SCGT),Guinea-Bissau,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
 Onshore Wind,Guinea-Bissau,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
 Small Hydropower Plant (<10MW),Guinea-Bissau,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
 Solar PV (Distributed with Storage),Guinea-Bissau,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
