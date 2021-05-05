@@ -361,6 +361,11 @@ class Transformer:
         """
         Fill unknown technodata for different technologies at different years.
         """
+
+        projected_technoeconomic.cap_par_y.fillna(
+            projected_technoeconomic.cap_par_x, inplace=True
+        )
+
         backfilled_projected_technoeconomic = projected_technoeconomic.groupby(
             ["ProcessName"]
         ).apply(lambda group: group.fillna(method="bfill"))
