@@ -17,6 +17,9 @@ class Transformer:
         self.raw_tables = self.get_raw_data()
 
     def create_muse_dataset(self):
+        """
+        Imports the starter kits datasets and converts them into a form used for MUSE.
+        """
         logger = logging.getLogger(__name__)
         logger.info("Converting raw data for {}.".format(self.folder))
 
@@ -45,6 +48,9 @@ class Transformer:
         self.write_results(muse_data)
 
     def get_raw_data(self):
+        """
+        Imports all starter kits data into pandas.
+        """
         table_directories = glob.glob(str(self.input_path / Path("*.csv")))
 
         tables = {}
@@ -55,6 +61,10 @@ class Transformer:
         return tables
 
     def write_results(self, results_data):
+        """
+        Writes all the processed starter kits to CSV files for use in MUSE.
+        """
+
         import os
 
         for sector in results_data:
@@ -67,6 +77,11 @@ class Transformer:
                 )
 
     def create_existing_capacity_power(self):
+        """
+        Calculates the existing power capacity from Table1 from the starter kits, 
+        and transforms them into an ExistingCapacity dataframe for MUSE.
+        """
+
         installed_capacity = self.raw_tables["Table1"]
         installed_capacity = installed_capacity.rename(
             columns={"Power Generation Technology": "Technology"}
@@ -126,6 +141,9 @@ class Transformer:
         return muse_installed_capacity
 
     def create_empty_existing_capacity(self, technodata):
+        """
+        Creates an existing capacity for MUSE, where no data is available.
+        """
         techno = technodata
         techs = list(pd.unique(techno.Technology))
 
@@ -141,6 +159,10 @@ class Transformer:
         return existing_capacity.reset_index(drop=True)
 
     def convert_power_technodata(self):
+        """
+        Converts Table2 from the starter kits into a Power Technodata file for MUSE.
+        """
+
         logger = logging.getLogger(__name__)
         technoeconomic_data = self.raw_tables["Table2"]
 
@@ -219,6 +241,9 @@ class Transformer:
         return forwardfilled_projected_technoeconomic
 
     def convert_oil_technodata(self):
+        """
+        Creates the oil technodata from Table5 in the starter kits.
+        """
         logger = logging.getLogger(__name__)
 
         oil = self.raw_tables["Table5"]
@@ -256,6 +281,10 @@ class Transformer:
         return oil_renamed
 
     def get_comm_in(self, technodata):
+        """
+        Generates the CommIn dataframe for MUSE from Table7 in the starter kits.
+        """
+
         logger = logging.getLogger(__name__)
 
         power_types = technodata[technodata.ProcessName != "Unit"][
@@ -281,6 +310,10 @@ class Transformer:
         return comm_in
 
     def get_comm_out(self, technodata):
+        """
+        Generates the CommOut dataframe for MUSE from Table7 in the starter kits.
+        """
+
         logger = logging.getLogger(__name__)
 
         emissions = self.raw_tables["Table7"]
@@ -322,6 +355,9 @@ class Transformer:
         return comm_out
 
     def _fill_unknown_data(self, projected_technoeconomic):
+        """
+        Fill unknown technodata for different technologies at different years.
+        """
         backfilled_projected_technoeconomic = projected_technoeconomic.groupby(
             ["ProcessName"]
         ).apply(lambda group: group.fillna(method="bfill"))
@@ -333,6 +369,9 @@ class Transformer:
         return forwardfilled_projected_technoeconomic
 
     def _insert_constant_columns(self, technoeconomic_data_wide, fuel_type, end_use):
+        """
+        Insert columns which are constant for technodata
+        """
         technoeconomic_data_wide["RegionName"] = self.folder
         technoeconomic_data_wide["Time"] = "2020"
         technoeconomic_data_wide["Level"] = "fixed"
@@ -351,6 +390,9 @@ class Transformer:
         return technoeconomic_data_wide
 
     def _generate_scaling_size(self, plants):
+        """
+        Finds minimum scaling size based on the name of the plant.
+        """
         import re
 
         plant_sizes = {}
