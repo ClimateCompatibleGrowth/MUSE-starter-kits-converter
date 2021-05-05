@@ -139,7 +139,7 @@ class Transformer:
         installed_capacity_pj_y_wide.insert(2, "Unit", "PJ/y")
         muse_installed_capacity = installed_capacity_pj_y_wide.rename(
             columns={"Technology": "ProcessName"}
-        ).set_index("ProcessName")
+        )
 
         return muse_installed_capacity
 
