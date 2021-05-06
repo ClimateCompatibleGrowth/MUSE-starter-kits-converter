@@ -28,24 +28,28 @@ class Transformer:
 
         muse_data = {}
 
-        muse_data["power"] = {"ExistingCapacity": self.create_existing_capacity_power()}
-        muse_data["power"]["Technodata"] = self.convert_power_technodata()
-        muse_data["power"]["CommIn"] = self.get_comm_in(
-            technodata=muse_data["power"]["Technodata"]
+        muse_data["technodata"] = {"Agents": self.generate_agents_file()}
+
+        muse_data["technodata"]["power"] = {
+            "ExistingCapacity": self.create_existing_capacity_power()
+        }
+        muse_data["technodata"]["power"]["Technodata"] = self.convert_power_technodata()
+        muse_data["technodata"]["power"]["CommIn"] = self.get_comm_in(
+            technodata=muse_data["technodata"]["power"]["Technodata"]
         )
-        muse_data["power"]["CommOut"] = self.get_comm_out(
-            technodata=muse_data["power"]["Technodata"]
+        muse_data["technodata"]["power"]["CommOut"] = self.get_comm_out(
+            technodata=muse_data["technodata"]["power"]["Technodata"]
         )
-        muse_data["oil"] = {"Technodata": self.convert_oil_technodata()}
-        muse_data["oil"]["CommIn"] = self.get_comm_in(
-            technodata=muse_data["oil"]["Technodata"]
+        muse_data["technodata"]["oil"] = {"Technodata": self.convert_oil_technodata()}
+        muse_data["technodata"]["oil"]["CommIn"] = self.get_comm_in(
+            technodata=muse_data["technodata"]["oil"]["Technodata"]
         )
-        muse_data["oil"]["CommOut"] = self.get_comm_out(
-            technodata=muse_data["oil"]["Technodata"]
+        muse_data["technodata"]["oil"]["CommOut"] = self.get_comm_out(
+            technodata=muse_data["technodata"]["oil"]["Technodata"]
         )
-        muse_data["oil"]["ExistingCapacity"] = self.create_empty_existing_capacity(
-            self.raw_tables["Table5"]
-        )
+        muse_data["technodata"]["oil"][
+            "ExistingCapacity"
+        ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
 
         logger.info("Writing processed data for {}".format(self.folder))
         self.write_results(muse_data)
@@ -70,14 +74,27 @@ class Transformer:
 
         import os
 
-        for sector in results_data:
-            for csv in results_data[sector]:
+        for folder in results_data:
+            for sector in results_data[folder]:
                 output_path = self.output_path / Path(sector)
-                if not os.path.exists(output_path):
+                if not os.path.exists(output_path) and sector != "Agents":
                     os.makedirs(output_path)
-                results_data[sector][csv].to_csv(
-                    str(output_path) + "/" + csv + ".csv", index=False
-                )
+                elif sector == "Agents":
+                    os.makedirs(self.output_path)
+                if sector == "Agents":
+                    results_data[folder][sector].to_csv(
+                        str(output_path) + ".csv", index=False
+                    )
+                else:
+                    for csv in results_data[folder][sector]:
+                        results_data[folder][sector][csv].to_csv(
+                            str(output_path) + "/" + csv + ".csv", index=False
+                        )
+
+    def generate_agents_file(self):
+        agents = pd.read_csv("data/external/muse_data/default/technodata/Agents.csv")
+        agents["RegionName"] = self.folder
+        return agents
 
     def create_existing_capacity_power(self):
         """
