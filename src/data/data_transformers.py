@@ -28,6 +28,8 @@ class Transformer:
 
         muse_data = {}
 
+        muse_data["input"] = {"GlobalCommodities": self.generate_global_commodities()}
+
         muse_data["technodata"] = {"Agents": self.generate_agents_file()}
 
         muse_data["technodata"]["power"] = {
@@ -71,18 +73,19 @@ class Transformer:
         """
         Writes all the processed starter kits to CSV files for use in MUSE.
         """
-
         import os
 
         for folder in results_data:
             for sector in results_data[folder]:
                 output_path = self.output_path / Path(sector)
-                if not os.path.exists(output_path) and sector != "Agents":
+                if (
+                    not os.path.exists(output_path)
+                    and type(results_data[folder][sector]) is dict
+                ):
                     os.makedirs(output_path)
-                elif sector == "Agents":
-                    if not os.path.exists(self.output_path):
-                        os.makedirs(self.output_path)
-                if sector == "Agents":
+                elif not os.path.exists(self.output_path):
+                    os.makedirs(self.output_path)
+                if type(results_data[folder][sector]) is pd.DataFrame:
                     results_data[folder][sector].to_csv(
                         str(output_path) + ".csv", index=False
                     )
@@ -96,6 +99,42 @@ class Transformer:
         agents = pd.read_csv("data/external/muse_data/default/technodata/Agents.csv")
         agents["RegionName"] = self.folder
         return agents
+
+    def generate_global_commodities(self):
+        commodities = self.raw_tables["Table7"]
+
+        commodities["Commodity"] = commodities["Fuel"]
+        commodities = commodities.drop(columns="Parameter")
+        commodities["Fuel"] = (
+            commodities["Fuel"]
+            .str.lower()
+            .str.replace("light fuel oil", "LFO")
+            .str.replace("heavy fuel oil", "HFO")
+            .str.replace("crude oil", "crude_oil")
+            .str.replace("natural gas", "gas")
+        )
+        commodities = commodities.rename(
+            columns={"Value": "CommodityEmissionFactor_CO2", "Fuel": "CommodityName"}
+        )
+        commodities["CommodityType"] = "Energy"
+        commodities["HeatRate"] = 1
+        commodities["Unit"] = "kg CO2/GJ"
+
+        CO2_row = {
+            "Commodity": "CO2fuelcomsbustion",
+            "CommodityType": "Environmental",
+            "CommodityName": "CO2f",
+            "CommodityEmissionFactor_CO2": 0,
+            "HeatRate": 1,
+            "Unit": "kt",
+        }
+        commodities = commodities.append(CO2_row, ignore_index=True)
+
+        muse_commodities = pd.read_csv(
+            "data/external/muse_data/default/input/GlobalCommodities.csv"
+        )
+        commodities = commodities.reindex(muse_commodities.columns, axis=1)
+        return commodities
 
     def create_existing_capacity_power(self):
         """
