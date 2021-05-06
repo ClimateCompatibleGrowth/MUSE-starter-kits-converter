@@ -8,12 +8,12 @@ Gas Power Plant (CCGT),Chad,2020,fixed,1200000.0,1.0,35000.0,1.0,0.0,1.0,20.0,20
 Gas Power Plant (SCGT),Chad,2020,fixed,700000.0,1.0,20000.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.85,1.0,0.3,0.1,energy,gas,Electricity,1.0
 Geothermal Power Plant,Chad,2020,fixed,4000000.0,1.0,120000.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.79,1.0,0.8,0.1,energy,geothermal,Electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Chad,2020,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.43,100.0,1.0,0.1,energy,hydro,Electricity,1.0
-Light Fuel Oil Power Plant,Chad,2020,fixed,1200000.0,1.0,35000.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.8,1.0,0.35,0.1,energy,oil,Electricity,1.0
-Light Fuel Oil Standalone Generator (1kW),Chad,2020,fixed,750000.0,1.0,23000.0,1.0,0.0,1.0,20.0,20.0,20.0,10.0,0.3,0.001,0.16,0.1,energy,oil,Electricity,1.0
+Light Fuel Oil Power Plant,Chad,2020,fixed,1200000.0,1.0,35000.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.8,1.0,0.35,0.1,energy,LFO,Electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Chad,2020,fixed,750000.0,1.0,23000.0,1.0,0.0,1.0,20.0,20.0,20.0,10.0,0.3,0.001,0.16,0.1,energy,LFO,Electricity,1.0
 Medium Hydropower Plant (10-100MW),Chad,2020,fixed,2500000.0,1.0,75000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.43,10.0,1.0,0.1,energy,hydro,Electricity,1.0
 Nuclear Power Plant,Chad,2020,fixed,6137000.0,1.0,184110.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.85,1.0,0.33,0.1,energy,uranium,Electricity,1.0
 Offshore Wind,Chad,2020,fixed,3972400.0,1.0,158900.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,,1.0,1.0,0.1,energy,wind,Electricity,1.0
-Oil Fired Gas Turbine (SCGT),Chad,2020,fixed,1450000.0,1.0,45000.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.8,1.0,0.35,0.1,energy,oil,Electricity,1.0
+Oil Fired Gas Turbine (SCGT),Chad,2020,fixed,1450000.0,1.0,45000.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.8,1.0,0.35,0.1,energy,HFO,Electricity,1.0
 Onshore Wind,Chad,2020,fixed,1489000.0,1.0,59560.0,1.0,0.0,1.0,20.0,20.0,20.0,25.0,0.26,1.0,1.0,0.1,energy,wind,Electricity,1.0
 Small Hydropower Plant (<10MW),Chad,2020,fixed,3000000.0,1.0,90000.0,1.0,0.0,1.0,20.0,20.0,20.0,50.0,0.43,10.0,1.0,0.1,energy,hydro,Electricity,1.0
 Solar PV (Distributed with Storage),Chad,2020,fixed,4320000.0,1.0,86400.0,1.0,0.0,1.0,20.0,20.0,20.0,24.0,0.33,1.0,1.0,0.1,energy,solar,Electricity,1.0

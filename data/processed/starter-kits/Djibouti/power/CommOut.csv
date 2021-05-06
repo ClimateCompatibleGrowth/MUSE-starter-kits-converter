@@ -1,20 +1,20 @@
-ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,oil,solar,uranium,wind,electricity
-Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,Djibouti,2020,fixed,9.999999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-CSP with Storage,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-CSP without Storage,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Coal Power Plant,Djibouti,2020,fixed,9.46e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Gas Power Plant (CCGT),Djibouti,2020,fixed,5.61e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Gas Power Plant (SCGT),Djibouti,2020,fixed,5.61e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Geothermal Power Plant,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Large Hydropower Plant (Dam) (>100MW),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Light Fuel Oil Power Plant,Djibouti,2020,fixed,7.329999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Light Fuel Oil Standalone Generator (1kW),Djibouti,2020,fixed,7.329999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Medium Hydropower Plant (10-100MW),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Nuclear Power Plant,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Offshore Wind,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Oil Fired Gas Turbine (SCGT),Djibouti,2020,fixed,7.329999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Onshore Wind,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Small Hydropower Plant (<10MW),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Solar PV (Distributed with Storage),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
-Solar PV (Utility),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Djibouti,2020,fixed,9.999999999999999e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+CSP with Storage,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+CSP without Storage,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Coal Power Plant,Djibouti,2020,fixed,9.46e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Gas Power Plant (CCGT),Djibouti,2020,fixed,5.61e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Gas Power Plant (SCGT),Djibouti,2020,fixed,5.61e-05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Geothermal Power Plant,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Large Hydropower Plant (Dam) (>100MW),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Light Fuel Oil Power Plant,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Light Fuel Oil Standalone Generator (1kW),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Medium Hydropower Plant (10-100MW),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Nuclear Power Plant,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Offshore Wind,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Oil Fired Gas Turbine (SCGT),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Onshore Wind,Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Small Hydropower Plant (<10MW),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Solar PV (Distributed with Storage),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1
+Solar PV (Utility),Djibouti,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1

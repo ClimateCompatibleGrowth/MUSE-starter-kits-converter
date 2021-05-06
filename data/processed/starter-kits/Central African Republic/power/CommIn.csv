@@ -1,20 +1,20 @@
-ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,oil,solar,uranium,wind,electricity
-Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,Central African Republic,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
-CSP with Storage,Central African Republic,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-CSP without Storage,Central African Republic,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-Coal Power Plant,Central African Republic,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Central African Republic,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Central African Republic,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
-Geothermal Power Plant,Central African Republic,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Central African Republic,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Light Fuel Oil Power Plant,Central African Republic,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Central African Republic,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Central African Republic,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Nuclear Power Plant,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,1.0,0,0
-Offshore Wind,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
-Oil Fired Gas Turbine (SCGT),Central African Republic,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
-Onshore Wind,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
-Small Hydropower Plant (<10MW),Central African Republic,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Solar PV (Distributed with Storage),Central African Republic,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-Solar PV (Utility),Central African Republic,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Central African Republic,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+CSP without Storage,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Coal Power Plant,Central African Republic,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Central African Republic,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Central African Republic,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Central African Republic,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Central African Republic,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Central African Republic,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Central African Republic,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Central African Republic,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Nuclear Power Plant,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0
+Oil Fired Gas Turbine (SCGT),Central African Republic,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Onshore Wind,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0
+Small Hydropower Plant (<10MW),Central African Republic,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Solar PV (Utility),Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0

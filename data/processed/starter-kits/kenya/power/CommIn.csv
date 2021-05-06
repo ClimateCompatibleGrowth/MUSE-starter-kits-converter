@@ -1,20 +1,20 @@
-ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,oil,solar,uranium,wind,electricity
-Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,Kenya,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0
-CSP with Storage,Kenya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-CSP without Storage,Kenya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-Coal Power Plant,Kenya,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Kenya,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Kenya,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0
-Geothermal Power Plant,Kenya,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Kenya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Light Fuel Oil Power Plant,Kenya,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Kenya,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Kenya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Nuclear Power Plant,Kenya,2020,fixed,0,0,0,0,0,0,0,0,1.0,0,0
-Offshore Wind,Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
-Oil Fired Gas Turbine (SCGT),Kenya,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0
-Onshore Wind,Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0
-Small Hydropower Plant (<10MW),Kenya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0
-Solar PV (Distributed with Storage),Kenya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
-Solar PV (Utility),Kenya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Kenya,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+CSP without Storage,Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Coal Power Plant,Kenya,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Kenya,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Kenya,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Kenya,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Kenya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Kenya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Kenya,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Kenya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Nuclear Power Plant,Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0
+Oil Fired Gas Turbine (SCGT),Kenya,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Onshore Wind,Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0
+Small Hydropower Plant (<10MW),Kenya,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Solar PV (Utility),Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0

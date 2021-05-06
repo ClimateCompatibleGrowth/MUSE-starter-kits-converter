@@ -251,7 +251,7 @@ class Transformer:
 
         oil = self.raw_tables["Table5"]
         oil = oil.pivot(index="Technology", columns="Parameter", values="Value")
-        oil = self._insert_constant_columns(oil, "energy", "oil")
+        oil = self._insert_constant_columns(oil, "energy", "HFO,LFO")
 
         oil = oil.reset_index()
         oil_renamed = oil.rename(
@@ -269,7 +269,7 @@ class Transformer:
             + "/data/external/muse_data/default/technodata/gas/Technodata.csv"
         )
 
-        oil_renamed["Fuel"] = "oil"
+        oil_renamed["Fuel"] = "crude_oil"
         oil_renamed["efficiency"] = 1
         oil_renamed["ScalingSize"] = 1
         oil_renamed["UtilizationFactor"] = 1
@@ -320,10 +320,11 @@ class Transformer:
         logger = logging.getLogger(__name__)
 
         emissions = self.raw_tables["Table7"]
+
         emissions.Value *= 0.000001
         emissions.Fuel = emissions.Fuel.str.lower()
         emissions.Fuel = emissions.Fuel.str.replace("natural gas", "gas")
-        emissions.Fuel = emissions.Fuel.str.replace("crude oil", "oil")
+        emissions.Fuel = emissions.Fuel.str.replace("crude oil", "crude_oil")
 
         process_types = technodata[technodata.ProcessName != "Unit"][
             ["ProcessName", "Fuel"]
@@ -345,7 +346,10 @@ class Transformer:
             .fillna(0)
             .reset_index()
         )
-        comm_out["electricity"] = 1
+        if comm_out["ProcessName"].str.contains("Crude Oil Refinery Option").any():
+            comm_out = self._calculate_oil_outputs(comm_out)
+        else:
+            comm_out["electricity"] = 1
 
         comm_out.insert(1, "RegionName", self.folder)
         comm_out.insert(2, "Time", 2020)
@@ -355,6 +359,22 @@ class Transformer:
         units_row
         comm_out = units_row.append(comm_out)
         comm_out = comm_out.fillna(0)
+        return comm_out
+
+    def _calculate_oil_outputs(self, comm_out):
+        raw_oil_technodata = self.raw_tables["Table5"]
+        output_ratio = raw_oil_technodata[
+            raw_oil_technodata.Parameter == "Output Ratio"
+        ]
+        output_ratio_list = output_ratio.Value.str.replace(" HFO", "").str.split(
+            " LFO : "
+        )
+        comm_out[["HFO", "LFO"]] = pd.DataFrame(
+            output_ratio_list.tolist(), index=comm_out.index
+        )
+
+        comm_out["crude_oil"] = 0
+
         return comm_out
 
     def _fill_unknown_data(self, projected_technoeconomic):
