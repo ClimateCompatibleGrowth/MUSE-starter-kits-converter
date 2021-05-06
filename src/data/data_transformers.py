@@ -121,7 +121,7 @@ class Transformer:
         commodities["Unit"] = "kg CO2/GJ"
 
         CO2_row = {
-            "Commodity": "CO2fuelcomsbustion",
+            "Commodity": "CO2fuelcombustion",
             "CommodityType": "Environmental",
             "CommodityName": "CO2f",
             "CommodityEmissionFactor_CO2": 0,
