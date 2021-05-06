@@ -80,7 +80,8 @@ class Transformer:
                 if not os.path.exists(output_path) and sector != "Agents":
                     os.makedirs(output_path)
                 elif sector == "Agents":
-                    os.makedirs(self.output_path)
+                    if not os.path.exists(self.output_path):
+                        os.makedirs(self.output_path)
                 if sector == "Agents":
                     results_data[folder][sector].to_csv(
                         str(output_path) + ".csv", index=False
@@ -106,6 +107,11 @@ class Transformer:
         installed_capacity = installed_capacity.rename(
             columns={"Power Generation Technology": "Technology"}
         )
+
+        installed_capacity["Technology"].replace(
+            "Off-grid Solar PV", "Solar PV (Distributed with Storage)", inplace=True
+        )
+
         latest_installed_capacity = installed_capacity[
             installed_capacity.Year == installed_capacity["Year"].max()
         ]
