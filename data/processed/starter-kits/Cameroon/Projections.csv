@@ -1,0 +1,8 @@
+RegionName,Attribute,Time,biomass,coal,LFO,HFO,gas
+Unit,-,Year,$/GJ,$/GJ,$/GJ,$/GJ,$/GJ
+Cameroon,CommodityPrice,12,1.76,5.199999999999999,15.09,9.075,9.024999999999999
+Cameroon,CommodityPrice,13,1.76,4.9,15.89,9.56,8.6
+Cameroon,CommodityPrice,14,1.76,5.5,17.25,10.38,10.3
+Cameroon,CommodityPrice,16,1.76,5.9,20.43,12.29,11.0
+Cameroon,CommodityPrice,19,1.76,5.9,23.61,14.2,11.0
+Cameroon,CommodityPrice,22,1.76,5.9,26.79,16.11,11.0

@@ -30,6 +30,8 @@ class Transformer:
 
         muse_data["input"] = {"GlobalCommodities": self.generate_global_commodities()}
 
+        muse_data["input"] = {"Projections": self.generate_projections()}
+
         muse_data["technodata"] = {"Agents": self.generate_agents_file()}
 
         muse_data["technodata"]["power"] = {
@@ -135,6 +137,46 @@ class Transformer:
         )
         commodities = commodities.reindex(muse_commodities.columns, axis=1)
         return commodities
+
+    def generate_projections(self):
+        costs = self.raw_tables["Table6"]
+        costs = costs.rename(columns={"Crude Oil Imports": "Variable"})
+
+        costs["Year"] = costs["Year"] + 0
+
+        import_costs = costs[~costs["Variable"].str.contains("Extraction")]
+        import_costs["Variable"] = import_costs["Variable"].str.replace("Imports", "")
+        import_costs["Variable"] = import_costs["Variable"].str.replace("Natural", "")
+        import_costs["Variable"] = import_costs["Variable"].str.lower()
+        import_costs["Variable"] = import_costs["Variable"].str.replace(
+            "light fuel oil", "LFO"
+        )
+        import_costs["Variable"] = import_costs["Variable"].str.replace(
+            "heavy fuel oil", "HFO"
+        )
+        import_costs["Variable"] = import_costs["Variable"].str.replace(" ", "")
+
+        fuels = list(pd.unique(import_costs.Variable))
+
+        projections = import_costs.pivot_table(
+            index="Year", columns="Variable", values="Value"
+        )
+
+        projections["RegionName"] = self.folder
+        projections["Attribute"] = "CommodityPrice"
+
+        projections = projections.reset_index()
+        projections = projections.rename(columns={"Year": "Time"})
+
+        col_order = ["RegionName", "Attribute", "Time"] + fuels
+        projections = projections[col_order]
+        units = {"RegionName": ["Unit"], "Attribute": ["-"], "Time": ["Year"]}
+        for commodity in fuels:
+            units[commodity] = ["$/GJ"]
+
+        units_row = pd.DataFrame.from_dict(units, orient="columns")
+        projections_out = units_row.append(projections)
+        return projections_out
 
     def create_existing_capacity_power(self):
         """
