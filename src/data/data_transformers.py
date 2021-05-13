@@ -140,26 +140,26 @@ class Transformer:
 
     def generate_projections(self):
         costs = self.raw_tables["Table6"]
-        costs = costs.rename(columns={"Crude Oil Imports": "Variable"})
+        # costs = costs.rename(columns={"Crude Oil Imports": "Variable"})
 
         costs["Year"] = costs["Year"] + 0
 
-        import_costs = costs[~costs["Variable"].str.contains("Extraction")]
-        import_costs["Variable"] = import_costs["Variable"].str.replace("Imports", "")
-        import_costs["Variable"] = import_costs["Variable"].str.replace("Natural", "")
-        import_costs["Variable"] = import_costs["Variable"].str.lower()
-        import_costs["Variable"] = import_costs["Variable"].str.replace(
+        import_costs = costs[~costs["Commodity"].str.contains("Extraction")]
+        import_costs["Commodity"] = import_costs["Commodity"].str.replace("Imports", "")
+        import_costs["Commodity"] = import_costs["Commodity"].str.replace("Natural", "")
+        import_costs["Commodity"] = import_costs["Commodity"].str.lower()
+        import_costs["Commodity"] = import_costs["Commodity"].str.replace(
             "light fuel oil", "LFO"
         )
-        import_costs["Variable"] = import_costs["Variable"].str.replace(
+        import_costs["Commodity"] = import_costs["Commodity"].str.replace(
             "heavy fuel oil", "HFO"
         )
-        import_costs["Variable"] = import_costs["Variable"].str.replace(" ", "")
+        import_costs["Commodity"] = import_costs["Commodity"].str.replace(" ", "")
 
-        fuels = list(pd.unique(import_costs.Variable))
+        fuels = list(pd.unique(import_costs.Commodity))
 
         projections = import_costs.pivot_table(
-            index="Year", columns="Variable", values="Value"
+            index="Year", columns="Commodity", values="Value"
         )
 
         projections["RegionName"] = self.folder

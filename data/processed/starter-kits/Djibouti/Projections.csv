@@ -1,8 +1,9 @@
-RegionName,Attribute,Time,biomass,coal,LFO,HFO,gas
-Unit,-,Year,$/GJ,$/GJ,$/GJ,$/GJ,$/GJ
-Djibouti,CommodityPrice,12,1.76,5.199999999999999,15.09,9.075,9.024999999999999
-Djibouti,CommodityPrice,13,1.76,4.9,15.89,9.56,8.6
-Djibouti,CommodityPrice,14,1.76,5.5,17.25,10.38,10.3
-Djibouti,CommodityPrice,16,1.76,5.9,20.43,12.29,11.0
-Djibouti,CommodityPrice,19,1.76,5.9,23.61,14.2,11.0
-Djibouti,CommodityPrice,22,1.76,5.9,26.79,16.11,11.0
+RegionName,Attribute,Time,crudeoil,biomass,coal,LFO,HFO,gas
+Unit,-,Year,$/GJ,$/GJ,$/GJ,$/GJ,$/GJ,$/GJ
+Djibouti,CommodityPrice,2015,13.14,1.76,4.9,15.89,9.56,8.6
+Djibouti,CommodityPrice,2020,12.2,1.76,5.1,14.75,8.87,8.6
+Djibouti,CommodityPrice,2025,12.76,1.76,5.3,15.43,9.28,9.45
+Djibouti,CommodityPrice,2030,14.27,1.76,5.5,17.25,10.38,10.3
+Djibouti,CommodityPrice,2040,16.9,1.76,5.9,20.43,12.29,11.0
+Djibouti,CommodityPrice,2050,19.53,1.76,5.9,23.61,14.2,11.0
+Djibouti,CommodityPrice,2060,22.15,1.76,5.9,26.79,16.11,11.0
