@@ -1,0 +1,8 @@
+Commodity,CommodityType,CommodityName,CommodityEmissionFactor_CO2,HeatRate,Unit
+Crude oil,Energy,crude_oil,73.3,1,kg CO2/GJ
+Biomass,Energy,biomass,100.0,1,kg CO2/GJ
+Coal,Energy,coal,94.6,1,kg CO2/GJ
+Light Fuel Oil,Energy,LFO,69.3,1,kg CO2/GJ
+Heavy Fuel Oil,Energy,HFO,77.4,1,kg CO2/GJ
+Natural Gas,Energy,gas,56.1,1,kg CO2/GJ
+CO2fuelcombustion,Environmental,CO2f,0.0,1,kt

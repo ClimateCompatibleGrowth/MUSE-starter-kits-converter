@@ -30,7 +30,7 @@ class Transformer:
 
         muse_data["input"] = {"GlobalCommodities": self.generate_global_commodities()}
 
-        muse_data["input"] = {"Projections": self.generate_projections()}
+        muse_data["input"]["Projections"] = self.generate_projections()
 
         muse_data["technodata"] = {"Agents": self.generate_agents_file()}
 
