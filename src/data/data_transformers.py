@@ -78,15 +78,16 @@ class Transformer:
         import os
 
         for folder in results_data:
+            output_path_folder = self.output_path / Path(folder)
             for sector in results_data[folder]:
-                output_path = self.output_path / Path(sector)
+                output_path = self.output_path / Path(folder) / Path(sector)
                 if (
                     not os.path.exists(output_path)
                     and type(results_data[folder][sector]) is dict
                 ):
                     os.makedirs(output_path)
-                elif not os.path.exists(self.output_path):
-                    os.makedirs(self.output_path)
+                elif not os.path.exists(output_path_folder):
+                    os.makedirs(output_path_folder)
                 if type(results_data[folder][sector]) is pd.DataFrame:
                     results_data[folder][sector].to_csv(
                         str(output_path) + ".csv", index=False
@@ -140,11 +141,8 @@ class Transformer:
 
     def generate_projections(self):
         costs = self.raw_tables["Table6"]
-        # costs = costs.rename(columns={"Crude Oil Imports": "Variable"})
 
-        costs["Year"] = costs["Year"] + 0
-
-        import_costs = costs[~costs["Commodity"].str.contains("Extraction")]
+        import_costs = costs[~costs["Commodity"].str.contains("Extraction")].copy()
         import_costs["Commodity"] = import_costs["Commodity"].str.replace("Imports", "")
         import_costs["Commodity"] = import_costs["Commodity"].str.replace("Natural", "")
         import_costs["Commodity"] = import_costs["Commodity"].str.lower()
