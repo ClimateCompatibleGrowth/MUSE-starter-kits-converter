@@ -113,7 +113,7 @@ class Transformer:
             .str.lower()
             .str.replace("light fuel oil", "LFO")
             .str.replace("heavy fuel oil", "HFO")
-            .str.replace("crude oil", "crude_oil")
+            .str.replace("crude oil", "crudeoil")
             .str.replace("natural gas", "gas")
         )
         commodities = commodities.rename(
@@ -316,9 +316,35 @@ class Transformer:
         )
         projected_capex = projected_capex.drop(columns="Parameter")
 
+        projected_capex_with_unknowns = pd.merge(
+            projected_capex[["ProcessName", "Time"]],
+            technoeconomic_data_wide_named[["ProcessName"]],
+            how="cross",
+        )
+        with_years = (
+            projected_capex_with_unknowns.drop(columns="ProcessName_x")
+            .drop_duplicates()
+            .rename(columns={"ProcessName_y": "ProcessName"})
+        )
+
+        filled_years = pd.merge(with_years, projected_capex, how="outer")
+        combined_years = pd.merge(
+            filled_years,
+            technoeconomic_data_wide_named[["ProcessName", "cap_par"]],
+            on="ProcessName",
+        )
+        combined_years["cap_par_x"] = combined_years["cap_par_x"].fillna(
+            combined_years["cap_par_y"]
+        )
+
+        projected_capex_all_technologies = combined_years.drop(
+            columns="cap_par_y"
+        ).rename(columns={"cap_par_x": "cap_par"})
+        projected_capex_all_technologies
+
         projected_technoeconomic = pd.merge(
             technoeconomic_data_wide_named,
-            projected_capex,
+            projected_capex_all_technologies,
             on=["ProcessName", "Time"],
             how="outer",
         )
@@ -349,11 +375,10 @@ class Transformer:
         """
         Creates the oil technodata from Table5 in the starter kits.
         """
-        logger = logging.getLogger(__name__)
 
         oil = self.raw_tables["Table5"]
         oil = oil.pivot(index="Technology", columns="Parameter", values="Value")
-        oil = self._insert_constant_columns(oil, "energy", "HFO,LFO")
+        oil = self._insert_constant_columns(oil, "energy", "LFO")
 
         oil = oil.reset_index()
         oil_renamed = oil.rename(
@@ -371,7 +396,7 @@ class Transformer:
             + "/data/external/muse_data/default/technodata/gas/Technodata.csv"
         )
 
-        oil_renamed["Fuel"] = "crude_oil"
+        oil_renamed["Fuel"] = "crudeoil"
         oil_renamed["efficiency"] = 1
         oil_renamed["ScalingSize"] = 1
         oil_renamed["UtilizationFactor"] = 1
@@ -426,7 +451,7 @@ class Transformer:
         emissions.Value *= 0.000001
         emissions.Fuel = emissions.Fuel.str.lower()
         emissions.Fuel = emissions.Fuel.str.replace("natural gas", "gas")
-        emissions.Fuel = emissions.Fuel.str.replace("crude oil", "crude_oil")
+        emissions.Fuel = emissions.Fuel.str.replace("crude oil", "crudeoil")
 
         process_types = technodata[technodata.ProcessName != "Unit"][
             ["ProcessName", "Fuel"]
@@ -475,7 +500,7 @@ class Transformer:
             output_ratio_list.tolist(), index=comm_out.index
         )
 
-        comm_out["crude_oil"] = 0
+        comm_out["crudeoil"] = 0
 
         return comm_out
 
