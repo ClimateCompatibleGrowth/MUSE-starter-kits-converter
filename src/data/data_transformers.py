@@ -104,6 +104,7 @@ class Transformer:
         return agents
 
     def generate_global_commodities(self):
+
         commodities = self.raw_tables["Table7"]
 
         commodities["Commodity"] = commodities["Fuel"]
@@ -167,6 +168,8 @@ class Transformer:
         return commodities
 
     def generate_projections(self):
+        from src.defaults import units
+
         costs = self.raw_tables["Table6"]
 
         import_costs = costs[~costs["Commodity"].str.contains("Extraction")].copy()
@@ -200,8 +203,29 @@ class Transformer:
 
         col_order = ["RegionName", "Attribute", "Time"] + fuels
         projections = projections[col_order]
+
+        commodities = units.copy()
+        for item in [
+            "ProcessName",
+            "RegionName",
+            "Time",
+            "Level",
+            "crude_oil",
+            "biomass",
+            "coal",
+            "LFO",
+            "HFO",
+            "gas",
+        ]:
+            commodities.pop(item)
+
+        for key, _ in commodities.items():
+            projections[key] = 0
+
+        projections
+
         units = {"RegionName": ["Unit"], "Attribute": ["-"], "Time": ["Year"]}
-        for commodity in fuels:
+        for commodity in fuels + list(commodities.keys()):
             units[commodity] = ["$/GJ"]
 
         units_row = pd.DataFrame.from_dict(units, orient="columns")
