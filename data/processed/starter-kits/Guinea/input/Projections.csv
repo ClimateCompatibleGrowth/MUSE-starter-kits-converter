@@ -1,4 +1,4 @@
-RegionName,Attribute,Time,crudeoil,biomass,coal,LFO,HFO,gas
+RegionName,Attribute,Time,crude_oil,biomass,coal,LFO,HFO,gas
 Unit,-,Year,$/GJ,$/GJ,$/GJ,$/GJ,$/GJ,$/GJ
 Guinea,CommodityPrice,2015,13.14,1.76,4.9,15.89,9.56,8.6
 Guinea,CommodityPrice,2020,12.2,1.76,5.1,14.75,8.87,8.6

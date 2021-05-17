@@ -137,6 +137,35 @@ class Transformer:
             "data/external/muse_data/default/input/GlobalCommodities.csv"
         )
         commodities = commodities.reindex(muse_commodities.columns, axis=1)
+
+        additional_items = [
+            "ProcessName",
+            "RegionName",
+            "Time",
+            "Level",
+            "CO2f",
+            "crude_oil",
+            "biomass",
+            "coal",
+            "LFO",
+            "HFO",
+            "gas",
+        ]
+        fuels = units.copy()
+
+        for item in additional_items:
+            fuels.pop(item)
+
+        fuels["heat"] = "[PJ/PJ]"
+
+        for commodity, _ in fuels.items():
+            entries = [commodity, "Energy", commodity, 0, 1, "kg C02/GJ"]
+            new_row = {
+                column: entry
+                for column, entry in zip(list(commodities.columns), entries)
+            }
+            commodities = commodities.append(new_row, ignore_index=True)
+
         return commodities
 
     def generate_projections(self):
@@ -152,7 +181,12 @@ class Transformer:
         import_costs["Commodity"] = import_costs["Commodity"].str.replace(
             "heavy fuel oil", "HFO"
         )
+
         import_costs["Commodity"] = import_costs["Commodity"].str.replace(" ", "")
+
+        import_costs["Commodity"] = import_costs["Commodity"].str.replace(
+            "crudeoil", "crude_oil"
+        )
 
         fuels = list(pd.unique(import_costs.Commodity))
 

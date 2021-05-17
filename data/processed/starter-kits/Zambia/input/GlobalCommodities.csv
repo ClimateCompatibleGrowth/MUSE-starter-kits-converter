@@ -6,3 +6,10 @@ Light Fuel Oil,Energy,LFO,69.3,1,kg CO2/GJ
 Heavy Fuel Oil,Energy,HFO,77.4,1,kg CO2/GJ
 Natural Gas,Energy,gas,56.1,1,kg CO2/GJ
 CO2fuelcombustion,Environmental,CO2f,0.0,1,kt
+geothermal,Energy,geothermal,0.0,1,kg C02/GJ
+hydro,Energy,hydro,0.0,1,kg C02/GJ
+solar,Energy,solar,0.0,1,kg C02/GJ
+uranium,Energy,uranium,0.0,1,kg C02/GJ
+wind,Energy,wind,0.0,1,kg C02/GJ
+electricity,Energy,electricity,0.0,1,kg C02/GJ
+heat,Energy,heat,0.0,1,kg C02/GJ
