@@ -156,8 +156,6 @@ class Transformer:
         for item in additional_items:
             fuels.pop(item)
 
-        fuels["heat"] = "[PJ/PJ]"
-
         for commodity, _ in fuels.items():
             entries = [commodity, "Energy", commodity, 0, 1, "kg C02/GJ"]
             new_row = {
