@@ -113,7 +113,7 @@ class Transformer:
             .str.lower()
             .str.replace("light fuel oil", "LFO")
             .str.replace("heavy fuel oil", "HFO")
-            .str.replace("crude oil", "crudeoil")
+            .str.replace("crude oil", "crude_oil")
             .str.replace("natural gas", "gas")
         )
         commodities = commodities.rename(
@@ -430,7 +430,7 @@ class Transformer:
             + "/data/external/muse_data/default/technodata/gas/Technodata.csv"
         )
 
-        oil_renamed["Fuel"] = "crudeoil"
+        oil_renamed["Fuel"] = "crude_oil"
         oil_renamed["efficiency"] = 1
         oil_renamed["ScalingSize"] = 1
         oil_renamed["UtilizationFactor"] = 1
@@ -485,7 +485,7 @@ class Transformer:
         emissions.Value *= 0.000001
         emissions.Fuel = emissions.Fuel.str.lower()
         emissions.Fuel = emissions.Fuel.str.replace("natural gas", "gas")
-        emissions.Fuel = emissions.Fuel.str.replace("crude oil", "crudeoil")
+        emissions.Fuel = emissions.Fuel.str.replace("crude oil", "crude_oil")
 
         process_types = technodata[technodata.ProcessName != "Unit"][
             ["ProcessName", "Fuel"]

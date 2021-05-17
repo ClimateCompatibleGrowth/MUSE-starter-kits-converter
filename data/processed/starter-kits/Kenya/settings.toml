@@ -76,7 +76,6 @@ net = 'new_to_retro'
 interaction = 'transfer'
 
 
-
 [sectors.power]
 type = 'default'
 priority = 2

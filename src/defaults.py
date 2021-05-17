@@ -42,4 +42,5 @@ units = {
     "uranium": ["PJ/PJ"],
     "wind": ["PJ/PJ"],
     "electricity": ["PJ/PJ"],
+    "heat": ["PJ/PJ"],
 }

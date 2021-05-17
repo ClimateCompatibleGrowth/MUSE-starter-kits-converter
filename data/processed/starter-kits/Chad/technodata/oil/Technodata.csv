@@ -1,4 +1,4 @@
 ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2
 Unit,-,Year,-,MUS$2010/PJ_a,-,MUS$2010/PJ,-,MUS$2010/PJ,-,PJ,%,PJ,Years,-,PJ,%,-,-,-,-,Retrofit
-Crude Oil Refinery Option 1,Chad,2020,fixed,24.1,1,1,1,0,1,20,20,20,35,1,1,1,0.1,energy,crudeoil,LFO,1
-Crude Oil Refinery Option 2,Chad,2020,fixed,24.1,1,1,1,0,1,20,20,20,35,1,1,1,0.1,energy,crudeoil,LFO,1
+Crude Oil Refinery Option 1,Chad,2020,fixed,24.1,1,1,1,0,1,20,20,20,35,1,1,1,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 2,Chad,2020,fixed,24.1,1,1,1,0,1,20,20,20,35,1,1,1,0.1,energy,crude_oil,LFO,1
