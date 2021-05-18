@@ -1,20 +1,110 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Rwanda,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Rwanda,2015,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Rwanda,2025,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Rwanda,2030,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Rwanda,2040,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Rwanda,2050,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Rwanda,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Rwanda,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Rwanda,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Rwanda,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Rwanda,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Rwanda,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Rwanda,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Rwanda,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Rwanda,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Rwanda,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Rwanda,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Rwanda,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Coal Power Plant,Rwanda,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Rwanda,2015,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Rwanda,2025,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Rwanda,2030,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Rwanda,2040,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Rwanda,2050,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
 Gas Power Plant (CCGT),Rwanda,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Rwanda,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Rwanda,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Rwanda,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Rwanda,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Rwanda,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
 Gas Power Plant (SCGT),Rwanda,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Rwanda,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Rwanda,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Rwanda,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Rwanda,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Rwanda,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
 Geothermal Power Plant,Rwanda,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Rwanda,2015,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Rwanda,2025,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Rwanda,2030,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Rwanda,2040,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Rwanda,2050,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Rwanda,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Rwanda,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Rwanda,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Rwanda,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Rwanda,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Rwanda,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Light Fuel Oil Power Plant,Rwanda,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Rwanda,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Rwanda,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Rwanda,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Rwanda,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Rwanda,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
 Light Fuel Oil Standalone Generator (1kW),Rwanda,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Rwanda,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Rwanda,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Rwanda,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Rwanda,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Rwanda,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Rwanda,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Rwanda,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Rwanda,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Rwanda,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Rwanda,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Rwanda,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Nuclear Power Plant,Rwanda,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Rwanda,2015,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Rwanda,2025,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Rwanda,2030,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Rwanda,2040,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Rwanda,2050,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
 Offshore Wind,Rwanda,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Rwanda,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Rwanda,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Rwanda,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Rwanda,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Rwanda,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Oil Fired Gas Turbine (SCGT),Rwanda,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Rwanda,2015,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Rwanda,2025,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Rwanda,2030,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Rwanda,2040,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Rwanda,2050,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
 Onshore Wind,Rwanda,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Rwanda,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Rwanda,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Rwanda,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Rwanda,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Rwanda,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Small Hydropower Plant (<10MW),Rwanda,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Rwanda,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Rwanda,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Rwanda,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Rwanda,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Rwanda,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Solar PV (Distributed with Storage),Rwanda,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Rwanda,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Rwanda,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Rwanda,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Rwanda,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Rwanda,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Rwanda,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Rwanda,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Rwanda,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Rwanda,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Rwanda,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Rwanda,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

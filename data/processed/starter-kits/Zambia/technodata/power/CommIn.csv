@@ -1,20 +1,110 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Zambia,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Zambia,2015,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Zambia,2025,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Zambia,2030,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Zambia,2040,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Zambia,2050,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Zambia,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Zambia,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Zambia,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Zambia,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Zambia,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Zambia,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Zambia,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Zambia,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Zambia,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Zambia,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Zambia,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Zambia,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Coal Power Plant,Zambia,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Zambia,2015,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Zambia,2025,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Zambia,2030,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Zambia,2040,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Zambia,2050,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
 Gas Power Plant (CCGT),Zambia,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Zambia,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Zambia,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Zambia,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Zambia,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Zambia,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
 Gas Power Plant (SCGT),Zambia,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Zambia,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Zambia,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Zambia,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Zambia,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Zambia,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
 Geothermal Power Plant,Zambia,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Zambia,2015,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Zambia,2025,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Zambia,2030,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Zambia,2040,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Zambia,2050,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Zambia,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Zambia,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Zambia,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Zambia,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Zambia,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Zambia,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Light Fuel Oil Power Plant,Zambia,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Zambia,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Zambia,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Zambia,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Zambia,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Zambia,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
 Light Fuel Oil Standalone Generator (1kW),Zambia,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Zambia,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Zambia,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Zambia,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Zambia,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Zambia,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Zambia,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Zambia,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Zambia,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Zambia,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Zambia,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Zambia,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Nuclear Power Plant,Zambia,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Zambia,2015,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Zambia,2025,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Zambia,2030,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Zambia,2040,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Zambia,2050,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
 Offshore Wind,Zambia,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Zambia,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Zambia,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Zambia,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Zambia,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Zambia,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Oil Fired Gas Turbine (SCGT),Zambia,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Zambia,2015,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Zambia,2025,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Zambia,2030,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Zambia,2040,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Zambia,2050,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
 Onshore Wind,Zambia,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Zambia,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Zambia,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Zambia,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Zambia,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Zambia,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Small Hydropower Plant (<10MW),Zambia,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Zambia,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Zambia,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Zambia,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Zambia,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Zambia,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Solar PV (Distributed with Storage),Zambia,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Zambia,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Zambia,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Zambia,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Zambia,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Zambia,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Zambia,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Zambia,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Zambia,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Zambia,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Zambia,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Zambia,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

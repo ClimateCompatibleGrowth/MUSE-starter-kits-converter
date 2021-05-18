@@ -1,20 +1,110 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Egypt,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Egypt,2015,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Egypt,2025,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Egypt,2030,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Egypt,2040,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Egypt,2050,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Egypt,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Egypt,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Egypt,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Egypt,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Egypt,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Egypt,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Egypt,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Egypt,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Egypt,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Egypt,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Egypt,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Egypt,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Coal Power Plant,Egypt,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Egypt,2015,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Egypt,2025,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Egypt,2030,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Egypt,2040,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Egypt,2050,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
 Gas Power Plant (CCGT),Egypt,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Egypt,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Egypt,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Egypt,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Egypt,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Egypt,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
 Gas Power Plant (SCGT),Egypt,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Egypt,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Egypt,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Egypt,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Egypt,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Egypt,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
 Geothermal Power Plant,Egypt,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Egypt,2015,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Egypt,2025,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Egypt,2030,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Egypt,2040,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Egypt,2050,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Egypt,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Egypt,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Egypt,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Egypt,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Egypt,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Egypt,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Light Fuel Oil Power Plant,Egypt,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Egypt,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Egypt,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Egypt,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Egypt,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Egypt,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
 Light Fuel Oil Standalone Generator (1kW),Egypt,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Egypt,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Egypt,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Egypt,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Egypt,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Egypt,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Egypt,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Egypt,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Egypt,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Egypt,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Egypt,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Egypt,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Nuclear Power Plant,Egypt,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Egypt,2015,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Egypt,2025,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Egypt,2030,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Egypt,2040,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Egypt,2050,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
 Offshore Wind,Egypt,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Egypt,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Egypt,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Egypt,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Egypt,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Egypt,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Oil Fired Gas Turbine (SCGT),Egypt,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Egypt,2015,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Egypt,2025,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Egypt,2030,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Egypt,2040,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Egypt,2050,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
 Onshore Wind,Egypt,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Egypt,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Egypt,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Egypt,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Egypt,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Egypt,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Small Hydropower Plant (<10MW),Egypt,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Egypt,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Egypt,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Egypt,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Egypt,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Egypt,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Solar PV (Distributed with Storage),Egypt,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Egypt,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Egypt,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Egypt,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Egypt,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Egypt,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Egypt,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Egypt,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Egypt,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Egypt,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Egypt,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Egypt,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

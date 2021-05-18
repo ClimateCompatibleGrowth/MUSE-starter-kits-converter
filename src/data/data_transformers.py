@@ -488,8 +488,16 @@ class Transformer:
         comm_in.insert(3, "electricity", 0)
         comm_in["CO2f"] = 0
 
+        # Replicate rows for each year
+        comm_in_merged = pd.merge(
+            comm_in,
+            pd.Series(list(pd.unique(technodata.Time))[1:], name="Time"),
+            how="cross",
+        )
+        comm_in_merged = comm_in_merged.drop(columns="Time_x")
+        comm_in = comm_in_merged.rename(columns={"Time_y": "Time"})
+
         units_row = pd.DataFrame.from_dict(units, orient="columns")
-        units_row
         comm_in = units_row.append(comm_in)
         comm_in = comm_in.fillna(0)
 
@@ -537,6 +545,15 @@ class Transformer:
         comm_out.insert(1, "RegionName", self.folder)
         comm_out.insert(2, "Time", 2020)
         comm_out.insert(3, "Level", "fixed")
+
+        # Replicate rows for each year
+        comm_out_merged = pd.merge(
+            comm_out,
+            pd.Series(list(pd.unique(technodata.Time))[1:], name="Time"),
+            how="cross",
+        )
+        comm_out_merged = comm_out_merged.drop(columns="Time_x")
+        comm_out = comm_out_merged.rename(columns={"Time_y": "Time"})
 
         units_row = pd.DataFrame.from_dict(units, orient="columns")
         units_row

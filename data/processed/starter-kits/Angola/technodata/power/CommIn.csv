@@ -1,20 +1,110 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Biomass Power Plant,Angola,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Angola,2015,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Angola,2025,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Angola,2030,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Angola,2040,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Angola,2050,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Angola,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Angola,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Angola,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Angola,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Angola,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Angola,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Angola,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Angola,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Angola,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Angola,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Angola,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Angola,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Coal Power Plant,Angola,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Angola,2015,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Angola,2025,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Angola,2030,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Angola,2040,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Angola,2050,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
 Gas Power Plant (CCGT),Angola,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Angola,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Angola,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Angola,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Angola,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Angola,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
 Gas Power Plant (SCGT),Angola,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Angola,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Angola,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Angola,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Angola,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Angola,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
 Geothermal Power Plant,Angola,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Angola,2015,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Angola,2025,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Angola,2030,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Angola,2040,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Angola,2050,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Angola,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Angola,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Angola,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Angola,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Angola,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Angola,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Light Fuel Oil Power Plant,Angola,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Angola,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Angola,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Angola,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Angola,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Angola,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
 Light Fuel Oil Standalone Generator (1kW),Angola,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Angola,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Angola,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Angola,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Angola,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Angola,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Angola,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Angola,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Angola,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Angola,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Angola,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Angola,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Nuclear Power Plant,Angola,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Angola,2015,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Angola,2025,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Angola,2030,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Angola,2040,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
+Nuclear Power Plant,Angola,2050,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
 Offshore Wind,Angola,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Angola,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Angola,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Angola,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Angola,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Angola,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Oil Fired Gas Turbine (SCGT),Angola,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Angola,2015,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Angola,2025,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Angola,2030,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Angola,2040,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Angola,2050,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
 Onshore Wind,Angola,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Angola,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Angola,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Angola,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Angola,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Angola,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Small Hydropower Plant (<10MW),Angola,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Angola,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Angola,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Angola,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Angola,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Angola,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Solar PV (Distributed with Storage),Angola,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Angola,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Angola,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Angola,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Angola,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Angola,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Angola,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Angola,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Angola,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Angola,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Angola,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Angola,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
