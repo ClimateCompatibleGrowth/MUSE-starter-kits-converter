@@ -1,5 +1,5 @@
-ProcessName,RegionName,Unit,2018,2020,2022,2024,2026,2028,2030,2032,2034,2036,2038,2040,2042,2044,2046,2048,2050
-Large Hydropower Plant (Dam) (>100MW),Mali,PJ/y,39420.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Mali,PJ/y,20892.600000000002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Small Hydropower Plant (<10MW),Mali,PJ/y,985.5000000000001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Mali,PJ/y,2644.279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
+Large Hydropower Plant (Dam) (>100MW),Mali,PJ/y,39420.0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Mali,PJ/y,20892.600000000002,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Mali,PJ/y,985.5000000000001,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Mali,PJ/y,2644.279,0,0,0,0,0,0

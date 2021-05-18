@@ -1,6 +1,6 @@
-ProcessName,RegionName,Unit,2018,2020,2022,2024,2026,2028,2030,2032,2034,2036,2038,2040,2042,2044,2046,2048,2050
-Large Hydropower Plant (Dam) (>100MW),Guinea,PJ/y,37668.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Guinea,PJ/y,14308.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Guinea,PJ/y,27937.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Guinea,PJ/y,93702.79999999999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Guinea,PJ/y,1696.5199999999998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
+Large Hydropower Plant (Dam) (>100MW),Guinea,PJ/y,37668.0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Guinea,PJ/y,14308.0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Guinea,PJ/y,27937.1,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Guinea,PJ/y,93702.79999999999,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Guinea,PJ/y,1696.5199999999998,0,0,0,0,0,0

@@ -32,7 +32,7 @@ data: requirements
 
 ## Make dataset without installing requirements
 data-no-reqs:
-	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits 2018 2050 2
+	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits 2020 2055 5
 
 ## Delete all compiled Python files
 clean:

@@ -283,13 +283,7 @@ class Transformer:
             values="estimated_installed_capacity_PJ_y",
         ).reset_index()
 
-        unknown_cols = list(
-            range(
-                self.start_year + self.benchmark_years,
-                self.end_year + self.benchmark_years,
-                self.benchmark_years,
-            )
-        )
+        unknown_cols = list(range(self.start_year, self.end_year, self.benchmark_years))
         for col in unknown_cols:
             installed_capacity_pj_y_wide[col] = 0
 
@@ -298,6 +292,8 @@ class Transformer:
         muse_installed_capacity = installed_capacity_pj_y_wide.rename(
             columns={"Technology": "ProcessName"}
         )
+        muse_installed_capacity = muse_installed_capacity.drop(columns=2020)
+        muse_installed_capacity = muse_installed_capacity.rename(columns={2018: 2020})
 
         return muse_installed_capacity
 
@@ -309,13 +305,17 @@ class Transformer:
         techs = list(pd.unique(techno.Technology))
 
         existing_capacity_dict = {}
+
+        all_years = list(range(self.start_year, self.end_year, self.benchmark_years))
         for tech in techs:
-            existing_capacity_dict[tech] = [tech, self.folder, "PJ/y"] + [0] * 17
+            existing_capacity_dict[tech] = [tech, self.folder, "PJ/y"] + [0] * (
+                len(all_years)
+            )
 
         existing_capacity = pd.DataFrame.from_dict(
             existing_capacity_dict,
             orient="index",
-            columns=["ProcessName", "RegionName", "Unit"] + list(range(2018, 2052, 2)),
+            columns=["ProcessName", "RegionName", "Unit"] + all_years,
         )
         return existing_capacity.reset_index(drop=True)
 
