@@ -120,7 +120,7 @@ class Transformer:
         commodities = commodities.rename(
             columns={"Value": "CommodityEmissionFactor_CO2", "Fuel": "CommodityName"}
         )
-        commodities["CommodityType"] = "Energy"
+        commodities["CommodityType"] = "energy"
         commodities["HeatRate"] = 1
         commodities["Unit"] = "kg CO2/GJ"
 
@@ -158,7 +158,7 @@ class Transformer:
             fuels.pop(item)
 
         for commodity, _ in fuels.items():
-            entries = [commodity, "Energy", commodity, 0, 1, "kg C02/GJ"]
+            entries = [commodity, "energy", commodity, 0, 1, "kg C02/GJ"]
             new_row = {
                 column: entry
                 for column, entry in zip(list(commodities.columns), entries)

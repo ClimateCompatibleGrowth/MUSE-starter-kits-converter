@@ -5,7 +5,7 @@ regions = ["Kenya"]
 interest_rate = 0.1
 interpolation_mode = 'Active'
 log_level = 'info'
-excluded_commodities = ["crude_oil", "biomass", "coal", "LFO", "HFO", "gas", "CO2f", "geothermal", "hydro", "solar", "uranium", "wind", "heat"]
+excluded_commodities = ["crude_oil", "biomass", "coal", "HFO", "gas", "CO2f", "geothermal", "hydro", "solar", "uranium", "wind", "heat"]
 
 
 # Convergence parameters
