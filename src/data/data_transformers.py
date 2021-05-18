@@ -458,6 +458,15 @@ class Transformer:
         oil_renamed["UtilizationFactor"] = 1
         oil_renamed["fix_par"] = 1
 
+        years_required = pd.Series(
+            list(range(self.start_year, self.end_year, self.benchmark_years)),
+            name="Time",
+        )
+        oil_renamed = pd.merge(oil_renamed, years_required, how="cross")
+        oil_renamed = oil_renamed.drop(columns="Time_x").rename(
+            columns={"Time_y": "Time"}
+        )
+
         oil_renamed = oil_renamed.reindex(muse_technodata.columns, axis=1)
 
         oil_renamed = muse_technodata[muse_technodata.ProcessName == "Unit"].append(
@@ -573,7 +582,7 @@ class Transformer:
             output_ratio_list.tolist(), index=comm_out.index
         )
 
-        comm_out["crudeoil"] = 0
+        comm_out["crude_oil"] = 0
 
         return comm_out
 

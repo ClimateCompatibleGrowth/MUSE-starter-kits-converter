@@ -1,4 +1,16 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
 Crude Oil Refinery Option 1,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Central African Republic,2025,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Central African Republic,2030,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Central African Republic,2035,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Central African Republic,2040,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Central African Republic,2045,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Central African Republic,2050,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 Crude Oil Refinery Option 2,Central African Republic,2020,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Central African Republic,2025,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Central African Republic,2030,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Central African Republic,2035,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Central African Republic,2040,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Central African Republic,2045,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Central African Republic,2050,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0

@@ -1,0 +1,16 @@
+asset,year,region,installed,technology,capacity
+0,2020,Kenya,2020,Biomass Power Plant,16425.00000000000
+2,2025,Kenya,2020,Gas Power Plant (SCGT),8.94120000000
+2,2030,Kenya,2020,Gas Power Plant (SCGT),8.94120000000
+2,2035,Kenya,2020,Gas Power Plant (SCGT),8.94120000000
+2,2040,Kenya,2020,Gas Power Plant (SCGT),8.94120000000
+2,2045,Kenya,2020,Gas Power Plant (SCGT),8.94120000000
+2,2049,Kenya,2020,Gas Power Plant (SCGT),8.94120000000
+3,2020,Kenya,2020,Geothermal Power Plant,120818.64999999999
+4,2020,Kenya,2020,Large Hydropower Plant (Dam) (>100MW),87424.80000000000
+5,2020,Kenya,2020,Light Fuel Oil Power Plant,83950.00000000000
+6,2020,Kenya,2020,Medium Hydropower Plant (10-100MW),43589.76000000000
+7,2020,Kenya,2020,Oil Fired Gas Turbine (SCGT),130524.00000000000
+8,2020,Kenya,2020,Onshore Wind,23761.50000000000
+9,2020,Kenya,2020,Solar PV (Distributed with Storage),4419.71200000000
+10,2020,Kenya,2020,Solar PV (Utility),2803.20000000000

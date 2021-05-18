@@ -1,0 +1,13 @@
+technology,dst_region,region,agent,sector,type,year,capacity
+gasboiler,Kenya,Kenya,A1,residential,retrofit,2020,10.00000000000
+Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2020,16425.00000000000
+Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2020,120818.64999999999
+Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2020,87424.80000000000
+Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2020,83950.00000000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2020,43589.76000000000
+Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2020,130524.00000000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2020,23761.50000000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2020,4419.71200000000
+Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2020,2803.20000000000
+Crude Oil Refinery Option 1,Kenya,Kenya,A1,oil,retrofit,2020,120818.00000000000
+Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2020,120818.00000000000
