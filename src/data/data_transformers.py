@@ -335,7 +335,7 @@ class Transformer:
         technoeconomic_data_wide = technoeconomic_data.pivot(
             index="Technology", columns="Parameter", values="Value"
         )
-        self._insert_constant_columns(technoeconomic_data_wide, "energy", "Electricity")
+        self._insert_constant_columns(technoeconomic_data_wide, "energy", "electricity")
 
         technoeconomic_data_wide = technoeconomic_data_wide.reset_index()
         technoeconomic_data_wide_named = technoeconomic_data_wide.rename(

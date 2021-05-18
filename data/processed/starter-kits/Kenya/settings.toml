@@ -5,11 +5,13 @@ regions = ["Kenya"]
 interest_rate = 0.1
 interpolation_mode = 'Active'
 log_level = 'info'
+excluded_commodities = ["crude_oil", "biomass", "coal", "LFO", "HFO", "gas", "CO2f", "geothermal", "hydro", "solar", "uranium", "wind", "heat"]
+
 
 # Convergence parameters
 equilibrium_variable = 'demand'
 maximum_iterations = 100
-tolerance = 0.1
+tolerance = 0.1 
 tolerance_unmet_demand = -0.1
 
 [[outputs]]
@@ -75,7 +77,6 @@ overwrite = true
 net = 'new_to_retro'
 interaction = 'transfer'
 
-
 [sectors.power]
 type = 'default'
 priority = 2
@@ -89,6 +90,15 @@ commodities_out = '{path}/technodata/power/CommOut.csv'
 agents = '{path}/technodata/Agents.csv'
 existing_capacity = '{path}/technodata/power/ExistingCapacity.csv'
 lpsolver = "scipy"
+
+constraints = [  # Optional, defaults to the constraints below
+    "max_production",
+    "max_capacity_expansion",
+    "demand",
+    "search_space",
+]
+demand_share = "new_and_retro"  # Optional, default to new_and_retro
+forecast = 5  # Optional, defaults to 5 
 
 [[sectors.power.outputs]]
 filename = '{cwd}/{default_output_dir}/{Sector}/{Quantity}/{year}{suffix}'
