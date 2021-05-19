@@ -317,7 +317,10 @@ class Transformer:
             orient="index",
             columns=["ProcessName", "RegionName", "Unit"] + all_years,
         )
-        return existing_capacity.reset_index(drop=True)
+
+        existing_capacity = existing_capacity.reset_index(drop=True)
+        existing_capacity[2020] = 100
+        return existing_capacity
 
     def convert_power_technodata(self):
         """
