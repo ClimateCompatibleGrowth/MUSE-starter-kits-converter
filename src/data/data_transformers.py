@@ -621,9 +621,9 @@ class Transformer:
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
         technoeconomic_data_wide["InterestRate"] = 0.1
-        technoeconomic_data_wide["MaxCapacityAddition"] = 20
-        technoeconomic_data_wide["MaxCapacityGrowth"] = 20
-        technoeconomic_data_wide["TotalCapacityLimit"] = 20
+        technoeconomic_data_wide["MaxCapacityAddition"] = 20000
+        technoeconomic_data_wide["MaxCapacityGrowth"] = 20000
+        technoeconomic_data_wide["TotalCapacityLimit"] = 20000
 
         return technoeconomic_data_wide
 
