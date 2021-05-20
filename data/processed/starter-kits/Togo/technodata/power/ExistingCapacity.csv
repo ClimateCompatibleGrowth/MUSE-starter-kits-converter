@@ -1,5 +1,5 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-Gas Power Plant (CCGT),Togo,PJ/y,8687.0,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Togo,PJ/y,5540.7,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Togo,PJ/y,29492.0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Togo,PJ/y,284.7,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,PJ/y,0.86688,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Togo,PJ/y,2.04336,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,PJ/y,3.12696,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Togo,PJ/y,0.09287999999999999,0,0,0,0,0,0

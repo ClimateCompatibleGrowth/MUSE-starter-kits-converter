@@ -1,7 +1,7 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-Biomass Power Plant,Senegal,PJ/y,4562.5,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Senegal,PJ/y,17958.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Senegal,PJ/y,246605.68,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Senegal,PJ/y,3212.0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Senegal,PJ/y,1795.8,0,0,0,0,0,0
-Solar PV (Utility),Senegal,PJ/y,1646.1499999999999,0,0,0,0,0,0
+Biomass Power Plant,Senegal,PJ/y,0.7739999999999999,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Senegal,PJ/y,3.7152,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Senegal,PJ/y,26.1469584,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Senegal,PJ/y,0.34056,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Senegal,PJ/y,0.37151999999999996,0,0,0,0,0,0
+Solar PV (Utility),Senegal,PJ/y,0.34056,0,0,0,0,0,0

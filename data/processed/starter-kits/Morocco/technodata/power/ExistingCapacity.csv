@@ -1,10 +1,10 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-CSP without Storage,Morocco,PJ/y,113332.5,0,0,0,0,0,0
-Coal Power Plant,Morocco,PJ/y,813171.4550000001,0,0,0,0,0,0
-Gas Power Plant (CCGT),Morocco,PJ/y,516876.5,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Morocco,PJ/y,57272.15,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Morocco,PJ/y,21494.850000000002,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Morocco,PJ/y,98696.0,0,0,0,0,0,0
-Onshore Wind,Morocco,PJ/y,166398.38999999998,0,0,0,0,0,0
-Small Hydropower Plant (<10MW),Morocco,PJ/y,379.6,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Morocco,PJ/y,3092.645,0,0,0,0,0,0
+CSP without Storage,Morocco,PJ/y,21.362399999999997,0,0,0,0,0,0
+Coal Power Plant,Morocco,PJ/y,81.1467792,0,0,0,0,0,0
+Gas Power Plant (CCGT),Morocco,PJ/y,51.57936,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Morocco,PJ/y,37.368719999999996,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Morocco,PJ/y,14.02488,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Morocco,PJ/y,10.46448,0,0,0,0,0,0
+Onshore Wind,Morocco,PJ/y,39.206196,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Morocco,PJ/y,0.24767999999999998,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Morocco,PJ/y,0.708984,0,0,0,0,0,0

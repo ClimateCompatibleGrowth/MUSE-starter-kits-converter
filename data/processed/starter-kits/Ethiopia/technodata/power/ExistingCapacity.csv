@@ -1,7 +1,7 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-Geothermal Power Plant,Ethiopia,PJ/y,2450.975,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Ethiopia,PJ/y,541882.65,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Ethiopia,PJ/y,28583.149999999998,0,0,0,0,0,0
-Onshore Wind,Ethiopia,PJ/y,11246.526,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Ethiopia,PJ/y,1882.5969999999998,0,0,0,0,0,0
-Solar PV (Utility),Ethiopia,PJ/y,3106.15,0,0,0,0,0,0
+Geothermal Power Plant,Ethiopia,PJ/y,0.26316,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Ethiopia,PJ/y,112.10615999999999,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Ethiopia,PJ/y,5.91336,0,0,0,0,0,0
+Onshore Wind,Ethiopia,PJ/y,5.2997328,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Ethiopia,PJ/y,0.4315824,0,0,0,0,0,0
+Solar PV (Utility),Ethiopia,PJ/y,0.7120799999999999,0,0,0,0,0,0

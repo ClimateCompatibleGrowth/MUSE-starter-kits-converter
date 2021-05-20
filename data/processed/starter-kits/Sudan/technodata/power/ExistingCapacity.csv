@@ -1,7 +1,7 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-Biomass Power Plant,Sudan,PJ/y,34857.5,0,0,0,0,0,0
-Gas Power Plant (CCGT),Sudan,PJ/y,98969.75,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Sudan,PJ/y,344660.63049999997,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Sudan,PJ/y,8789.2,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Sudan,PJ/y,270465.0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Sudan,PJ/y,1193.842,0,0,0,0,0,0
+Biomass Power Plant,Sudan,PJ/y,5.91336,0,0,0,0,0,0
+Gas Power Plant (CCGT),Sudan,PJ/y,9.87624,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Sudan,PJ/y,67.98785039999999,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Sudan,PJ/y,1.73376,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Sudan,PJ/y,28.6767,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Sudan,PJ/y,0.38947679999999996,0,0,0,0,0,0

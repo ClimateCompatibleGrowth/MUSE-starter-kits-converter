@@ -268,9 +268,7 @@ class Transformer:
         )
 
         installed_capacity_cf["estimated_installed_capacity_PJ_y"] = (
-            installed_capacity_cf.estimated_installed_capacity_MW
-            * 365
-            * installed_capacity_cf.average_capacity_factor
+            installed_capacity_cf.estimated_installed_capacity_MW * 8600 * 0.0000036
         )
 
         installed_capacity_pj_y = installed_capacity_cf.drop(

@@ -1,6 +1,6 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-Biomass Power Plant,Malawi,PJ/y,1825.0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Malawi,PJ/y,4964.0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Malawi,PJ/y,49669.200000000004,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Malawi,PJ/y,18133.2,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Malawi,PJ/y,3513.928,0,0,0,0,0,0
+Biomass Power Plant,Malawi,PJ/y,0.3096,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,PJ/y,0.49535999999999997,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Malawi,PJ/y,7.80192,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Malawi,PJ/y,2.8483199999999997,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Malawi,PJ/y,0.6774047999999999,0,0,0,0,0,0

@@ -1,7 +1,7 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-Gas Power Plant (SCGT),Rwanda,PJ/y,8066.5,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Rwanda,PJ/y,17476.2,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Rwanda,PJ/y,8176.0,0,0,0,0,0,0
-Small Hydropower Plant (<10MW),Rwanda,PJ/y,416.1,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Rwanda,PJ/y,3059.4300000000003,0,0,0,0,0,0
-Solar PV (Utility),Rwanda,PJ/y,1084.05,0,0,0,0,0,0
+Gas Power Plant (SCGT),Rwanda,PJ/y,0.80496,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Rwanda,PJ/y,3.90096,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Rwanda,PJ/y,0.86688,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Rwanda,PJ/y,0.09287999999999999,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Rwanda,PJ/y,0.786384,0,0,0,0,0,0
+Solar PV (Utility),Rwanda,PJ/y,0.27864,0,0,0,0,0,0

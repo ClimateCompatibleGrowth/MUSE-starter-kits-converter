@@ -1,13 +1,13 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-Biomass Power Plant,South Africa,PJ/y,40611.725,0,0,0,0,0,0
-CSP with Storage,South Africa,PJ/y,73912.5,0,0,0,0,0,0
-Coal Power Plant,South Africa,PJ/y,11880868.625,0,0,0,0,0,0
-Gas Power Plant (SCGT),South Africa,PJ/y,116774.9975,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),South Africa,PJ/y,50437.159999999996,0,0,0,0,0,0
-Light Fuel Oil Power Plant,South Africa,PJ/y,658471.68,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),South Africa,PJ/y,3525.9,0,0,0,0,0,0
-Nuclear Power Plant,South Africa,PJ/y,567757.5,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),South Africa,PJ/y,168305.88,0,0,0,0,0,0
-Onshore Wind,South Africa,PJ/y,185420.0,0,0,0,0,0,0
-Small Hydropower Plant (<10MW),South Africa,PJ/y,587.65,0,0,0,0,0,0
-Solar PV (Utility),South Africa,PJ/y,244805.5,0,0,0,0,0,0
+Biomass Power Plant,South Africa,PJ/y,6.8895288,0,0,0,0,0,0
+CSP with Storage,South Africa,PJ/y,13.931999999999999,0,0,0,0,0,0
+Coal Power Plant,South Africa,PJ/y,1185.59772,0,0,0,0,0,0
+Gas Power Plant (SCGT),South Africa,PJ/y,11.6530344,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),South Africa,PJ/y,18.600768,0,0,0,0,0,0
+Light Fuel Oil Power Plant,South Africa,PJ/y,69.8160384,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),South Africa,PJ/y,1.30032,0,0,0,0,0,0
+Nuclear Power Plant,South Africa,PJ/y,56.6568,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),South Africa,PJ/y,17.8450344,0,0,0,0,0,0
+Onshore Wind,South Africa,PJ/y,62.91072,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),South Africa,PJ/y,0.21672,0,0,0,0,0,0
+Solar PV (Utility),South Africa,PJ/y,54.6444,0,0,0,0,0,0
