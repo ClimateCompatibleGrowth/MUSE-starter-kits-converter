@@ -281,17 +281,26 @@ class Transformer:
             values="estimated_installed_capacity_PJ_y",
         ).reset_index()
 
-        unknown_cols = list(range(self.start_year, self.end_year, self.benchmark_years))
-        for col in unknown_cols:
-            installed_capacity_pj_y_wide[col] = 0
-
         installed_capacity_pj_y_wide.insert(1, "RegionName", self.folder)
         installed_capacity_pj_y_wide.insert(2, "Unit", "PJ/y")
         muse_installed_capacity = installed_capacity_pj_y_wide.rename(
             columns={"Technology": "ProcessName"}
         )
-        muse_installed_capacity = muse_installed_capacity.drop(columns=2020)
+
         muse_installed_capacity = muse_installed_capacity.rename(columns={2018: 2020})
+
+        unknown_cols = list(
+            range(
+                self.start_year + self.benchmark_years,
+                self.end_year,
+                self.benchmark_years,
+            )
+        )
+
+        for col in unknown_cols:
+            muse_installed_capacity[col] = (
+                muse_installed_capacity[col - self.benchmark_years] * 0.8
+            )
 
         return muse_installed_capacity
 
@@ -325,7 +334,6 @@ class Transformer:
         Converts Table2 from the starter kits into a Power Technodata file for MUSE.
         """
 
-        logger = logging.getLogger(__name__)
         technoeconomic_data = self.raw_tables["Table2"]
 
         muse_technodata = pd.read_csv(

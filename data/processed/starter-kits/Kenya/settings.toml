@@ -11,8 +11,8 @@ excluded_commodities = ["crude_oil", "biomass", "coal", "HFO", "gas", "CO2f", "g
 # Convergence parameters
 equilibrium_variable = 'demand'
 maximum_iterations = 100
-tolerance = 0.1 
-tolerance_unmet_demand = -0.1
+tolerance = 0.5 
+tolerance_unmet_demand = -0.5
 
 [[outputs]]
 quantity = "prices"
