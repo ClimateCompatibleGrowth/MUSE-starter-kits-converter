@@ -470,6 +470,9 @@ class Transformer:
         oil_renamed["UtilizationFactor"] = 1
         oil_renamed["fix_par"] = 1
 
+        oil_renamed = oil_renamed.apply(pd.to_numeric, errors="ignore")
+        oil_renamed["cap_par"] *= 1 / (8600 * 0.0036)
+
         years_required = pd.Series(
             list(range(self.start_year, self.end_year, self.benchmark_years)),
             name="Time",

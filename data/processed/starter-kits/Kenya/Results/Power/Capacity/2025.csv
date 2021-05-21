@@ -19,17 +19,6 @@ asset,year,region,technology,installed,capacity
 10,2045,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
 10,2048,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
 10,2049,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
-11,2030,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-11,2034,Kenya,Gas Power Plant (SCGT),2025,4.61380000000
-11,2035,Kenya,Gas Power Plant (SCGT),2025,4.61380000000
-11,2039,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-11,2040,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-11,2045,Kenya,Gas Power Plant (SCGT),2025,4.61380000000
-11,2048,Kenya,Gas Power Plant (SCGT),2025,4.61380000000
-11,2049,Kenya,Gas Power Plant (SCGT),2025,4.61380000000
-11,2050,Kenya,Gas Power Plant (SCGT),2025,4.61380000000
-11,2053,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-11,2054,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
 12,2025,Kenya,Geothermal Power Plant,2020,11.67500000000
 12,2030,Kenya,Geothermal Power Plant,2020,10.50750000000
 12,2034,Kenya,Geothermal Power Plant,2020,9.66690000000
@@ -63,6 +52,17 @@ asset,year,region,technology,installed,capacity
 16,2049,Kenya,Light Fuel Oil Power Plant,2020,4.83550000000
 16,2050,Kenya,Light Fuel Oil Power Plant,2020,4.73040000000
 16,2053,Kenya,Light Fuel Oil Power Plant,2020,1.18260000000
+17,2030,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+17,2034,Kenya,Light Fuel Oil Power Plant,2025,4.90210000000
+17,2035,Kenya,Light Fuel Oil Power Plant,2025,4.90210000000
+17,2039,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+17,2040,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+17,2045,Kenya,Light Fuel Oil Power Plant,2025,4.90210000000
+17,2048,Kenya,Light Fuel Oil Power Plant,2025,4.90210000000
+17,2049,Kenya,Light Fuel Oil Power Plant,2025,4.90210000000
+17,2050,Kenya,Light Fuel Oil Power Plant,2025,4.90210000000
+17,2053,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+17,2054,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
 20,2025,Kenya,Medium Hydropower Plant (10-100MW),2020,6.93260000000
 20,2030,Kenya,Medium Hydropower Plant (10-100MW),2020,6.23930000000
 20,2034,Kenya,Medium Hydropower Plant (10-100MW),2020,5.74020000000

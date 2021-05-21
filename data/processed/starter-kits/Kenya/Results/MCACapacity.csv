@@ -26,74 +26,48 @@ Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2025,32.04360000000
 gasboiler,Kenya,Kenya,A1,residential,retrofit,2030,6.40000000000
 Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2030,2.25700000000
 Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2030,473.67410000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2030,280.61380000000
 Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2030,10.50750000000
 Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2030,12.51370000000
 Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2030,7.20980000000
+Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2030,298.15210000000
 Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2030,6.23930000000
 Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2030,11.20970000000
 Onshore Wind,Kenya,Kenya,A1,power,retrofit,2030,7.77410000000
 Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2030,0.94890000000
 Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2030,0.60190000000
 Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2030,32.04360000000
+Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2030,1189.40410000000
 gasboiler,Kenya,Kenya,A1,residential,retrofit,2035,5.12000000000
 Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2035,2.03130000000
 Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2035,473.67410000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2035,280.61380000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2035,280.15240000000
 Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2035,9.45680000000
 Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2035,11.26240000000
 Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2035,6.48880000000
+Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2035,298.15210000000
+Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2035,297.66190000000
 Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2035,5.61540000000
 Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2035,10.08870000000
 Onshore Wind,Kenya,Kenya,A1,power,retrofit,2035,6.99670000000
 Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2035,0.85400000000
 Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2035,0.54170000000
 Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2035,32.04360000000
+Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2035,1189.40410000000
+Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2035,1187.76370000000
 gasboiler,Kenya,Kenya,A1,residential,retrofit,2040,4.09200000000
 Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2040,1.82820000000
 Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2040,473.67410000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2040,280.61380000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2040,280.15240000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2040,279.73710000000
 Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2040,8.51110000000
 Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2040,10.13610000000
 Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2040,5.83990000000
+Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2040,298.15210000000
+Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2040,297.66190000000
+Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2040,297.22070000000
 Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2040,5.05380000000
 Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2040,9.07980000000
 Onshore Wind,Kenya,Kenya,A1,power,retrofit,2040,6.29700000000
 Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2040,0.76860000000
 Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2040,0.48750000000
 Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2040,32.04360000000
-gasboiler,Kenya,Kenya,A1,residential,retrofit,2045,3.27000000000
-Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2045,1.64530000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2045,473.67410000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2045,280.61380000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2045,280.15240000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2045,279.73710000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2045,279.36340000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,7.66000000000
-Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2045,9.12250000000
-Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2045,5.25600000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2045,4.54850000000
-Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2045,8.17190000000
-Onshore Wind,Kenya,Kenya,A1,power,retrofit,2045,5.66730000000
-Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2045,0.69180000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2045,0.43880000000
-Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2045,32.04360000000
-gasboiler,Kenya,Kenya,A1,residential,retrofit,2050,2.62000000000
-Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2050,1.48080000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2050,280.61380000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2050,280.15240000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2050,279.73710000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2050,279.36340000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2050,752.70120000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,6.89400000000
-Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2050,8.21030000000
-Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2050,4.73040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2050,4.09360000000
-Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2050,7.35470000000
-Onshore Wind,Kenya,Kenya,A1,power,retrofit,2050,5.10060000000
-Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2050,0.62260000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2050,0.39490000000
-Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2050,32.04360000000
+Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2040,1189.40410000000
+Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2040,1187.76370000000
+Crude Oil Refinery Option 2,Kenya,Kenya,A1,oil,retrofit,2040,1186.28730000000

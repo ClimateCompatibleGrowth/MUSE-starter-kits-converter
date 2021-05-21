@@ -11,54 +11,6 @@ asset,year,region,technology,installed,capacity
 25,2045,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
 25,2048,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
 25,2049,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
-26,2040,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-26,2044,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-26,2045,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-26,2048,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-26,2049,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-26,2050,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-26,2053,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-26,2054,Kenya,Gas Power Plant (SCGT),2025,280.61380000000
-27,2040,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2044,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2045,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2048,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2049,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2050,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2053,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2054,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2055,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2058,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-27,2059,Kenya,Gas Power Plant (SCGT),2030,280.15240000000
-28,2040,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2044,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2045,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2048,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2049,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2050,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2053,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2054,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2055,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2058,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2059,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2060,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2063,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-28,2064,Kenya,Gas Power Plant (SCGT),2035,279.73710000000
-29,2045,Kenya,Gas Power Plant (SCGT),2040,279.36340000000
-29,2048,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2049,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2050,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2053,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2054,Kenya,Gas Power Plant (SCGT),2040,279.36340000000
-29,2055,Kenya,Gas Power Plant (SCGT),2040,279.36340000000
-29,2058,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2059,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2060,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2063,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2064,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2065,Kenya,Gas Power Plant (SCGT),2040,3.36340000000
-29,2068,Kenya,Gas Power Plant (SCGT),2040,279.36340000000
-29,2069,Kenya,Gas Power Plant (SCGT),2040,279.36340000000
 30,2040,Kenya,Geothermal Power Plant,2020,8.51110000000
 30,2044,Kenya,Geothermal Power Plant,2020,7.83020000000
 30,2045,Kenya,Geothermal Power Plant,2020,7.66000000000
@@ -80,6 +32,54 @@ asset,year,region,technology,installed,capacity
 40,2049,Kenya,Light Fuel Oil Power Plant,2020,4.83550000000
 40,2050,Kenya,Light Fuel Oil Power Plant,2020,4.73040000000
 40,2053,Kenya,Light Fuel Oil Power Plant,2020,1.18260000000
+41,2040,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+41,2044,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+41,2045,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+41,2048,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+41,2049,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+41,2050,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+41,2053,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+41,2054,Kenya,Light Fuel Oil Power Plant,2025,298.15210000000
+42,2040,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2044,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2045,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2048,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2049,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2050,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2053,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2054,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2055,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2058,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+42,2059,Kenya,Light Fuel Oil Power Plant,2030,297.66190000000
+43,2040,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2044,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2045,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2048,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2049,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2050,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2053,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2054,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2055,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2058,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2059,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2060,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2063,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+43,2064,Kenya,Light Fuel Oil Power Plant,2035,297.22070000000
+44,2045,Kenya,Light Fuel Oil Power Plant,2040,296.82360000000
+44,2048,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2049,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2050,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2053,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2054,Kenya,Light Fuel Oil Power Plant,2040,296.82360000000
+44,2055,Kenya,Light Fuel Oil Power Plant,2040,296.82360000000
+44,2058,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2059,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2060,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2063,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2064,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2065,Kenya,Light Fuel Oil Power Plant,2040,3.57360000000
+44,2068,Kenya,Light Fuel Oil Power Plant,2040,296.82360000000
+44,2069,Kenya,Light Fuel Oil Power Plant,2040,296.82360000000
 48,2040,Kenya,Medium Hydropower Plant (10-100MW),2020,5.05380000000
 48,2044,Kenya,Medium Hydropower Plant (10-100MW),2020,4.64950000000
 48,2045,Kenya,Medium Hydropower Plant (10-100MW),2020,4.54850000000
