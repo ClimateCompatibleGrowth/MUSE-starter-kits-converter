@@ -536,7 +536,6 @@ class Transformer:
 
         emissions = self.raw_tables["Table7"]
 
-        emissions.Value *= 0.000001
         emissions.Fuel = emissions.Fuel.str.lower()
         emissions.Fuel = emissions.Fuel.str.replace("natural gas", "gas")
         emissions.Fuel = emissions.Fuel.str.replace("crude oil", "crude_oil")
