@@ -433,6 +433,8 @@ class Transformer:
         forwardfilled_projected_technoeconomic[kw_columns] *= 1 / (8600 * 0.0036)
         forwardfilled_projected_technoeconomic.reindex(muse_technodata.columns, axis=1)
 
+        forwardfilled_projected_technoeconomic["efficiency"] *= 100
+
         forwardfilled_projected_technoeconomic = muse_technodata[
             muse_technodata.ProcessName == "Unit"
         ].append(forwardfilled_projected_technoeconomic)
@@ -466,7 +468,7 @@ class Transformer:
         )
 
         oil_renamed["Fuel"] = "crude_oil"
-        oil_renamed["efficiency"] = 1
+        oil_renamed["efficiency"] = 100
         oil_renamed["ScalingSize"] = 1
         oil_renamed["UtilizationFactor"] = 1
         oil_renamed["fix_par"] = 1
