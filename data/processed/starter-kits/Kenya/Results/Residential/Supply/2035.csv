@@ -1,11 +1,1 @@
-commodity,year,asset,region,technology,installed,supply
-CO2f,2035,0,Kenya,gasboiler,2025,395.45000000000
-CO2f,2035,1,Kenya,gasboiler,2030,255.24500000000
-CO2f,2040,1,Kenya,gasboiler,2030,255.24500000000
-CO2f,2040,2,Kenya,gasboiler,2035,611.15000000000
-heat,2035,0,Kenya,gasboiler,2025,6.11110000000
-heat,2035,1,Kenya,gasboiler,2030,3.94440000000
-heat,2035,4,Kenya,heatpump,2030,9.94440000000
-heat,2040,1,Kenya,gasboiler,2030,3.94440000000
-heat,2040,2,Kenya,gasboiler,2035,9.44440000000
-heat,2040,4,Kenya,heatpump,2030,9.94440000000
+commodity,year,asset,region,installed,technology,supply

@@ -158,7 +158,7 @@ class Transformer:
             fuels.pop(item)
 
         for commodity, _ in fuels.items():
-            entries = [commodity, "energy", commodity, 0, 1, "kg C02/GJ"]
+            entries = [commodity, "energy", commodity, 0, 1, "kg CO2/GJ"]
             new_row = {
                 column: entry
                 for column, entry in zip(list(commodities.columns), entries)
@@ -299,7 +299,7 @@ class Transformer:
 
         for col in unknown_cols:
             muse_installed_capacity[col] = (
-                muse_installed_capacity[col - self.benchmark_years] * 0.8
+                muse_installed_capacity[col - self.benchmark_years] * 0.9
             )
 
         return muse_installed_capacity
