@@ -1,4 +1,6 @@
 asset,year,region,technology,installed,capacity
+1,2030,Kenya,Crude Oil Refinery Option 1,2025,378.80820000000
+1,2064,Kenya,Crude Oil Refinery Option 1,2025,378.80820000000
 2,2025,Kenya,Crude Oil Refinery Option 2,2020,32.04360000000
 2,2030,Kenya,Crude Oil Refinery Option 2,2020,32.04360000000
 2,2035,Kenya,Crude Oil Refinery Option 2,2020,32.04360000000
@@ -6,5 +8,5 @@ asset,year,region,technology,installed,capacity
 2,2045,Kenya,Crude Oil Refinery Option 2,2020,32.04360000000
 2,2050,Kenya,Crude Oil Refinery Option 2,2020,32.04360000000
 2,2059,Kenya,Crude Oil Refinery Option 2,2020,32.04360000000
-3,2030,Kenya,Crude Oil Refinery Option 2,2025,1189.40410000000
-3,2064,Kenya,Crude Oil Refinery Option 2,2025,1189.40410000000
+3,2030,Kenya,Crude Oil Refinery Option 2,2025,1000.00000000000
+3,2064,Kenya,Crude Oil Refinery Option 2,2025,1000.00000000000
