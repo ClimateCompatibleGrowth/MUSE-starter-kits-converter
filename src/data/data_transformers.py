@@ -172,6 +172,8 @@ class Transformer:
 
         costs = self.raw_tables["Table6"]
 
+        costs["Value"] = costs["Value"]
+
         import_costs = costs[~costs["Commodity"].str.contains("Extraction")].copy()
         import_costs["Commodity"] = import_costs["Commodity"].str.replace("Imports", "")
         import_costs["Commodity"] = import_costs["Commodity"].str.replace("Natural", "")
@@ -222,11 +224,12 @@ class Transformer:
         for key, _ in commodities.items():
             projections[key] = 0
 
-        projections
-
         units = {"RegionName": ["Unit"], "Attribute": ["-"], "Time": ["Year"]}
         for commodity in fuels + list(commodities.keys()):
-            units[commodity] = ["$/GJ"]
+            if commodity != "CO2f":
+                units[commodity] = ["MUS$2020/PJ"]
+            else:
+                units[commodity] = ["MUS$2020/kt"]
 
         units_row = pd.DataFrame.from_dict(units, orient="columns")
         projections_out = units_row.append(projections)
@@ -427,7 +430,7 @@ class Transformer:
 
         kw_columns = ["cap_par", "fix_par"]
 
-        forwardfilled_projected_technoeconomic[kw_columns] *= 1000
+        forwardfilled_projected_technoeconomic[kw_columns] *= 1 / (8600 * 0.0036)
         forwardfilled_projected_technoeconomic.reindex(muse_technodata.columns, axis=1)
 
         forwardfilled_projected_technoeconomic = muse_technodata[
@@ -475,7 +478,6 @@ class Transformer:
         oil_renamed = oil_renamed.drop(columns="Time_x").rename(
             columns={"Time_y": "Time"}
         )
-
         oil_renamed = oil_renamed.reindex(muse_technodata.columns, axis=1)
 
         oil_renamed = muse_technodata[muse_technodata.ProcessName == "Unit"].append(
