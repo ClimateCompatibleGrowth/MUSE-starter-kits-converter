@@ -447,11 +447,12 @@ class Transformer:
         oil = self.raw_tables["Table5"]
         oil = oil.pivot(index="Technology", columns="Parameter", values="Value")
         oil = self._insert_constant_columns(oil, "energy", "LFO")
-
+        oil = oil.drop(columns="var_par")
         oil = oil.reset_index()
         oil_renamed = oil.rename(
             columns={
                 "Capital Cost ($/kW in 2020)": "cap_par",
+                "Variable Cost ($/GJ in 2020)": "var_par",
                 "Operational Life (years)": "TechnicalLife",
                 "Technology": "ProcessName",
             }
