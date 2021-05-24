@@ -6,7 +6,7 @@ CSP without Storage,Libya,2020,fixed,131.0723514211886,1.0,1.310723514211886,1.0
 Coal Power Plant,Libya,2020,fixed,80.74935400516796,1.0,2.51937984496124,1.0,0.0,1.0,20000.0,2000.0,200000.0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
 Gas Power Plant (CCGT),Libya,2020,fixed,38.75968992248062,1.0,1.1304909560723513,1.0,0.0,1.0,20000.0,2000.0,200000.0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
 Gas Power Plant (SCGT),Libya,2020,fixed,22.609819121447025,1.0,0.6459948320413436,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
-Geothermal Power Plant,Libya,2020,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Libya,2020,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Libya,2020,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.41,100.0,100.0,0.1,energy,hydro,electricity,1.0
 Light Fuel Oil Power Plant,Libya,2020,fixed,38.75968992248062,1.0,1.1304909560723513,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
 Light Fuel Oil Standalone Generator (1kW),Libya,2020,fixed,24.224806201550386,1.0,0.7428940568475452,1.0,0.0,1.0,20000.0,2000.0,200000.0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
@@ -48,11 +48,11 @@ Gas Power Plant (SCGT),Libya,2025,fixed,22.609819121447025,1.0,0.645994832041343
 Gas Power Plant (SCGT),Libya,2030,fixed,22.609819121447025,1.0,0.6459948320413436,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
 Gas Power Plant (SCGT),Libya,2040,fixed,22.609819121447025,1.0,0.6459948320413436,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
 Gas Power Plant (SCGT),Libya,2050,fixed,22.609819121447025,1.0,0.6459948320413436,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
-Geothermal Power Plant,Libya,2015,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
-Geothermal Power Plant,Libya,2025,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
-Geothermal Power Plant,Libya,2030,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
-Geothermal Power Plant,Libya,2040,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
-Geothermal Power Plant,Libya,2050,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Libya,2015,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Libya,2025,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Libya,2030,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Libya,2040,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Libya,2050,fixed,129.19896640826872,1.0,3.875968992248062,1.0,0.0,1.0,20000.0,2000.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Libya,2015,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.41,100.0,100.0,0.1,energy,hydro,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Libya,2025,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.41,100.0,100.0,0.1,energy,hydro,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Libya,2030,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.41,100.0,100.0,0.1,energy,hydro,electricity,1.0

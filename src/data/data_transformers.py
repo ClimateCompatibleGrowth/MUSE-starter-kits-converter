@@ -338,6 +338,32 @@ class Transformer:
         """
 
         technoeconomic_data = self.raw_tables["Table2"]
+        growth_limits = self.raw_tables["Table8"]
+
+        growth_limits["Value"] = growth_limits.Value * 24 * 365 * 3.6e-6
+
+        growth_limits["Technology"] = growth_limits.Technology.str.replace(
+            "Geothermal (MW)", "Geothermal Power Plant", regex=False
+        )
+        growth_limits["Technology"] = growth_limits.Technology.str.replace(
+            "Small Hydropower (MW)", "Small Hydropower Plant (<10MW)", regex=False
+        )
+        growth_limits["Technology"] = growth_limits.Technology.str.replace(
+            "Hydropower (MW)", "Large Hydropower Plant (Dam)", regex=False
+        )
+        try:
+            large_hydropower_limit = growth_limits[
+                growth_limits.Technology == "Large Hydropower Plant (Dam)"
+            ].Value.values[0]
+        except:
+            large_hydropower_limit = 0
+
+        medium_hydropower_row = {
+            "Technology": "Medium Hydropower Plant",
+            "Parameter": "Estimated Renewable Energy Potential",
+            "Value": large_hydropower_limit,
+        }
+        growth_limits = growth_limits.append(medium_hydropower_row, ignore_index=True)
 
         muse_technodata = pd.read_csv(
             PROJECT_DIR
@@ -347,7 +373,17 @@ class Transformer:
         technoeconomic_data_wide = technoeconomic_data.pivot(
             index="Technology", columns="Parameter", values="Value"
         )
-        self._insert_constant_columns(technoeconomic_data_wide, "energy", "electricity")
+        technoeconomic_data_wide = self._insert_constant_columns(
+            technoeconomic_data_wide, "energy", "electricity"
+        )
+
+        technoeconomic_data_wide = technoeconomic_data_wide.reset_index()
+        technoeconomic_data_wide = technoeconomic_data_wide.set_index("Technology")
+        growth_limits = growth_limits.reset_index()
+        growth_limits = growth_limits.rename(columns={"Value": "TotalCapacityLimit"})
+        growth_limits = growth_limits.set_index("Technology")
+
+        technoeconomic_data_wide.update(growth_limits)
 
         technoeconomic_data_wide = technoeconomic_data_wide.reset_index()
         technoeconomic_data_wide_named = technoeconomic_data_wide.rename(

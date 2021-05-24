@@ -15,7 +15,7 @@ Nuclear Power Plant,Central African Republic,2020,fixed,198.22351421188628,1.0,5
 Offshore Wind,Central African Republic,2020,fixed,128.30749354005167,1.0,5.1324289405684755,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Central African Republic,2020,fixed,46.83462532299741,1.0,1.4534883720930232,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Onshore Wind,Central African Republic,2020,fixed,48.09431524547803,1.0,1.9237726098191215,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.08,1.0,100.0,0.1,energy,wind,electricity,1.0
-Small Hydropower Plant (<10MW),Central African Republic,2020,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Central African Republic,2020,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,1.292976,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Solar PV (Distributed with Storage),Central African Republic,2020,fixed,139.53488372093022,1.0,2.7906976744186047,1.0,0.0,1.0,20000.0,2000.0,200000.0,24.0,0.28,1.0,100.0,0.1,energy,solar,electricity,1.0
 Solar PV (Utility),Central African Republic,2020,fixed,44.50904392764858,1.0,0.5784883720930232,1.0,0.0,1.0,20000.0,2000.0,200000.0,24.0,0.28,1.0,100.0,0.1,energy,solar,electricity,1.0
 Biomass Power Plant,Central African Republic,2015,fixed,80.74935400516796,1.0,2.4224806201550386,1.0,0.0,1.0,20000.0,2000.0,200000.0,30.0,0.5,1.0,35.0,0.1,energy,biomass,electricity,1.0
@@ -93,11 +93,11 @@ Onshore Wind,Central African Republic,2025,fixed,38.468992248062015,1.0,1.923772
 Onshore Wind,Central African Republic,2030,fixed,35.109819121447025,1.0,1.9237726098191215,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.08,1.0,100.0,0.1,energy,wind,electricity,1.0
 Onshore Wind,Central African Republic,2040,fixed,30.13565891472868,1.0,1.9237726098191215,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.08,1.0,100.0,0.1,energy,wind,electricity,1.0
 Onshore Wind,Central African Republic,2050,fixed,30.13565891472868,1.0,1.9237726098191215,1.0,0.0,1.0,20000.0,2000.0,200000.0,25.0,0.08,1.0,100.0,0.1,energy,wind,electricity,1.0
-Small Hydropower Plant (<10MW),Central African Republic,2015,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
-Small Hydropower Plant (<10MW),Central African Republic,2025,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
-Small Hydropower Plant (<10MW),Central African Republic,2030,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
-Small Hydropower Plant (<10MW),Central African Republic,2040,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
-Small Hydropower Plant (<10MW),Central African Republic,2050,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,200000.0,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Central African Republic,2015,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,1.292976,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Central African Republic,2025,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,1.292976,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Central African Republic,2030,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,1.292976,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Central African Republic,2040,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,1.292976,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Central African Republic,2050,fixed,96.89922480620154,1.0,2.9069767441860463,1.0,0.0,1.0,20000.0,2000.0,1.292976,50.0,0.7,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Solar PV (Distributed with Storage),Central African Republic,2015,fixed,220.93023255813952,1.0,2.7906976744186047,1.0,0.0,1.0,20000.0,2000.0,200000.0,24.0,0.28,1.0,100.0,0.1,energy,solar,electricity,1.0
 Solar PV (Distributed with Storage),Central African Republic,2025,fixed,110.30361757105942,1.0,2.7906976744186047,1.0,0.0,1.0,20000.0,2000.0,200000.0,24.0,0.28,1.0,100.0,0.1,energy,solar,electricity,1.0
 Solar PV (Distributed with Storage),Central African Republic,2030,fixed,87.20930232558139,1.0,2.7906976744186047,1.0,0.0,1.0,20000.0,2000.0,200000.0,24.0,0.28,1.0,100.0,0.1,energy,solar,electricity,1.0
