@@ -1,0 +1,32 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+
+capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/MCACapacity.csv")
+head(capacity)
+```
+
+
+```{r}
+capacity_summed = capacity %>% group_by(technology, sector, year, agent) %>% summarise(capacity=sum(capacity))
+head(capacity_summed)
+```
+
+```{r}
+ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, color=technology, linetype=agent)) + geom_line() + theme_classic()
+```
+
+
+```{r}
+
+ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, fill=technology)) + geom_bar(stat='identity', colour="black") + facet_grid(cols=vars(agent)) + theme_classic()
+```
