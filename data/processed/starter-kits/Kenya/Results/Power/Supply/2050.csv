@@ -1,0 +1,66 @@
+,commodity,region,technology,year,supply
+0,CO2f,Kenya,Biomass Power Plant,2050,74.04060000000
+1,CO2f,Kenya,Coal Power Plant,2050,0.00110000000
+2,CO2f,Kenya,Gas Power Plant (CCGT),2050,0.00140000000
+3,CO2f,Kenya,Biomass Power Plant,2050,0.00010000000
+4,CO2f,Kenya,Coal Power Plant,2050,0.00020000000
+5,CO2f,Kenya,Gas Power Plant (CCGT),2050,0.00020000000
+6,CO2f,Kenya,Gas Power Plant (SCGT),2050,0.00030000000
+7,CO2f,Kenya,Biomass Power Plant,2050,0.00010000000
+8,CO2f,Kenya,Coal Power Plant,2050,0.00020000000
+9,CO2f,Kenya,Gas Power Plant (CCGT),2050,0.00020000000
+10,CO2f,Kenya,Gas Power Plant (SCGT),2050,0.00020000000
+11,CO2f,Kenya,Biomass Power Plant,2050,0.00010000000
+12,CO2f,Kenya,Coal Power Plant,2050,0.00030000000
+13,CO2f,Kenya,Gas Power Plant (CCGT),2050,0.00020000000
+14,CO2f,Kenya,Gas Power Plant (SCGT),2050,0.00030000000
+15,CO2f,Kenya,Biomass Power Plant,2050,0.00010000000
+16,CO2f,Kenya,Coal Power Plant,2050,0.00040000000
+17,CO2f,Kenya,Gas Power Plant (CCGT),2050,0.00030000000
+18,CO2f,Kenya,Gas Power Plant (SCGT),2050,0.00040000000
+19,CO2f,Kenya,Biomass Power Plant,2050,0.00010000000
+20,CO2f,Kenya,Coal Power Plant,2050,0.00060000000
+21,CO2f,Kenya,Gas Power Plant (CCGT),2050,0.00040000000
+22,CO2f,Kenya,Gas Power Plant (SCGT),2050,0.00070000000
+23,CO2f,Kenya,Coal Power Plant,2055,0.00110000000
+24,CO2f,Kenya,Biomass Power Plant,2055,0.00010000000
+25,CO2f,Kenya,Coal Power Plant,2055,0.00020000000
+26,CO2f,Kenya,Gas Power Plant (CCGT),2055,0.00020000000
+27,CO2f,Kenya,Biomass Power Plant,2055,0.00010000000
+28,CO2f,Kenya,Coal Power Plant,2055,0.00020000000
+29,CO2f,Kenya,Gas Power Plant (CCGT),2055,0.00020000000
+30,CO2f,Kenya,Gas Power Plant (SCGT),2055,0.00020000000
+31,CO2f,Kenya,Biomass Power Plant,2055,0.00010000000
+32,CO2f,Kenya,Coal Power Plant,2055,0.00030000000
+33,CO2f,Kenya,Gas Power Plant (CCGT),2055,0.00020000000
+34,CO2f,Kenya,Gas Power Plant (SCGT),2055,0.00030000000
+35,CO2f,Kenya,Biomass Power Plant,2055,0.00010000000
+36,CO2f,Kenya,Coal Power Plant,2055,0.00040000000
+37,CO2f,Kenya,Gas Power Plant (CCGT),2055,0.00030000000
+38,CO2f,Kenya,Gas Power Plant (SCGT),2055,0.00040000000
+39,CO2f,Kenya,Biomass Power Plant,2055,0.00010000000
+40,CO2f,Kenya,Coal Power Plant,2055,0.00060000000
+41,CO2f,Kenya,Gas Power Plant (CCGT),2055,0.00040000000
+42,CO2f,Kenya,Gas Power Plant (SCGT),2055,0.00070000000
+43,CO2f,Kenya,Coal Power Plant,2055,0.00010000000
+44,CO2f,Kenya,Gas Power Plant (CCGT),2055,0.00010000000
+45,CO2f,Kenya,Gas Power Plant (SCGT),2055,0.00020000000
+46,electricity,Kenya,Biomass Power Plant,2050,0.74040000000
+47,electricity,Kenya,Geothermal Power Plant,2050,5.44620000000
+48,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2050,3.94090000000
+49,electricity,Kenya,Light Fuel Oil Power Plant,2050,3.78430000000
+50,electricity,Kenya,Medium Hydropower Plant (10-100MW),2050,1.96490000000
+51,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2050,5.88370000000
+52,electricity,Kenya,Onshore Wind,2050,1.07110000000
+53,electricity,Kenya,Solar PV (Distributed with Storage),2050,0.19920000000
+54,electricity,Kenya,Solar PV (Utility),2050,0.12640000000
+55,electricity,Kenya,Light Fuel Oil Power Plant,2050,238.52160000000
+56,electricity,Kenya,Light Fuel Oil Power Plant,2050,238.12950000000
+57,electricity,Kenya,Light Fuel Oil Power Plant,2050,237.77650000000
+58,electricity,Kenya,Light Fuel Oil Power Plant,2050,237.45890000000
+59,electricity,Kenya,Light Fuel Oil Power Plant,2050,639.79590000000
+60,electricity,Kenya,Light Fuel Oil Power Plant,2055,238.12950000000
+61,electricity,Kenya,Light Fuel Oil Power Plant,2055,237.77650000000
+62,electricity,Kenya,Light Fuel Oil Power Plant,2055,237.45890000000
+63,electricity,Kenya,Light Fuel Oil Power Plant,2055,639.79600000000
+64,electricity,Kenya,Light Fuel Oil Power Plant,2055,261.67890000000
