@@ -222,7 +222,10 @@ class Transformer:
             commodities.pop(item)
 
         for key, _ in commodities.items():
-            projections[key] = 0
+            if key == "CO2f" or key == "electricity":
+                projections[key] = 1
+            else:
+                projections[key] = 0
 
         units = {"RegionName": ["Unit"], "Attribute": ["-"], "Time": ["Year"]}
         for commodity in fuels + list(commodities.keys()):
@@ -672,8 +675,8 @@ class Transformer:
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
         technoeconomic_data_wide["InterestRate"] = 0.1
-        technoeconomic_data_wide["MaxCapacityAddition"] = 20000
-        technoeconomic_data_wide["MaxCapacityGrowth"] = 2000
+        technoeconomic_data_wide["MaxCapacityAddition"] = 200
+        technoeconomic_data_wide["MaxCapacityGrowth"] = 0.2
         technoeconomic_data_wide["TotalCapacityLimit"] = 200000
 
         return technoeconomic_data_wide
