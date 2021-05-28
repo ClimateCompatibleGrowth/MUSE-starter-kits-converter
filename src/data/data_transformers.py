@@ -118,6 +118,7 @@ class Transformer:
             .str.replace("crude oil", "crude_oil")
             .str.replace("natural gas", "gas")
         )
+
         commodities = commodities.rename(
             columns={"Value": "CommodityEmissionFactor_CO2", "Fuel": "CommodityName"}
         )
@@ -587,6 +588,8 @@ class Transformer:
         emissions.Fuel = emissions.Fuel.str.lower()
         emissions.Fuel = emissions.Fuel.str.replace("natural gas", "gas")
         emissions.Fuel = emissions.Fuel.str.replace("crude oil", "crude_oil")
+        emissions.Fuel = emissions.Fuel.str.replace("light fuel oil", "LFO")
+        emissions.Fuel = emissions.Fuel.str.replace("heavy fuel oil", "HFO")
 
         process_types = technodata[technodata.ProcessName != "Unit"][
             ["ProcessName", "Fuel"]
@@ -630,6 +633,7 @@ class Transformer:
         units_row
         comm_out = units_row.append(comm_out)
         comm_out = comm_out.fillna(0)
+
         return comm_out
 
     def _calculate_oil_outputs(self, comm_out):

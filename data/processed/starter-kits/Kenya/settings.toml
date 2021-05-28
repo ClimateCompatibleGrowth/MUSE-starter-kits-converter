@@ -31,18 +31,18 @@ quantity = "supply"
 sink = "aggregate"
 filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
 
-# Carbon BUDGET control
-[carbon_budget_control]
-budget = [500, 1000, 1000, 1000, 1000, 1000, 1000]
-commodities = ['CO2f']
-method = 'bisection'
-debug = false
-control_undershoot = false
-control_overshoot = false
-method_options.sample_size = 2
-method_options.refine_price = true
-method_options.price_too_high_threshold = 2
-method_options.fitter = 'linear'
+# # Carbon BUDGET control
+# [carbon_budget_control]
+# budget = [500, 1000, 1000, 1000, 1000, 1000, 1000]
+# commodities = ['CO2f']
+# method = 'bisection'
+# debug = false
+# control_undershoot = false
+# control_overshoot = false
+# method_options.sample_size = 2
+# method_options.refine_price = true
+# method_options.price_too_high_threshold = 2
+# method_options.fitter = 'linear'
 
 [global_input_files]
 projections = '{path}/input/Projections.csv'

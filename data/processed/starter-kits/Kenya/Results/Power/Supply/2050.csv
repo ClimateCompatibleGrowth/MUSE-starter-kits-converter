@@ -1,26 +1,25 @@
 ,commodity,region,technology,year,supply
-0,CO2f,Kenya,Biomass Power Plant,2050,74.04040000000
-1,electricity,Kenya,Biomass Power Plant,2050,0.74040000000
-2,electricity,Kenya,Geothermal Power Plant,2050,5.44620000000
-3,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2050,3.94090000000
-4,electricity,Kenya,Light Fuel Oil Power Plant,2050,3.78430000000
-5,electricity,Kenya,Medium Hydropower Plant (10-100MW),2050,1.96490000000
-6,electricity,Kenya,Nuclear Power Plant,2050,158.06900000000
-7,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2050,5.88370000000
-8,electricity,Kenya,Onshore Wind,2050,1.07110000000
-9,electricity,Kenya,Solar PV (Distributed with Storage),2050,0.19920000000
-10,electricity,Kenya,Solar PV (Utility),2050,0.12640000000
-11,electricity,Kenya,Light Fuel Oil Power Plant,2050,237.46610000000
-12,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2050,1.05560000000
-13,electricity,Kenya,Light Fuel Oil Power Plant,2050,238.12950000000
-14,electricity,Kenya,Light Fuel Oil Power Plant,2050,237.77660000000
-15,electricity,Kenya,Light Fuel Oil Power Plant,2050,237.45890000000
-16,electricity,Kenya,Light Fuel Oil Power Plant,2050,476.89480000000
-17,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2050,4.83230000000
-18,electricity,Kenya,Nuclear Power Plant,2055,158.06900000000
-19,electricity,Kenya,Light Fuel Oil Power Plant,2055,238.12950000000
-20,electricity,Kenya,Light Fuel Oil Power Plant,2055,237.77660000000
-21,electricity,Kenya,Light Fuel Oil Power Plant,2055,237.45890000000
-22,electricity,Kenya,Light Fuel Oil Power Plant,2055,476.89480000000
-23,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2055,4.83230000000
-24,electricity,Kenya,Light Fuel Oil Power Plant,2055,261.67890000000
+0,CO2f,Kenya,Biomass Power Plant,2050,9613.18220000000
+1,CO2f,Kenya,Coal Power Plant,2050,30889.49290000000
+2,CO2f,Kenya,Gas Power Plant (CCGT),2050,18318.18770000000
+3,CO2f,Kenya,Coal Power Plant,2055,59050.78290000000
+4,electricity,Kenya,Biomass Power Plant,2050,96.13180000000
+5,electricity,Kenya,CSP with Storage,2050,172.86750000000
+6,electricity,Kenya,CSP without Storage,2050,172.86750000000
+7,electricity,Kenya,Coal Power Plant,2050,326.52740000000
+8,electricity,Kenya,Gas Power Plant (CCGT),2050,326.52740000000
+9,electricity,Kenya,Geothermal Power Plant,2050,0.41840000000
+10,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2050,92.69820000000
+11,electricity,Kenya,Light Fuel Oil Power Plant,2050,0.29070000000
+12,electricity,Kenya,Medium Hydropower Plant (10-100MW),2050,92.44640000000
+13,electricity,Kenya,Nuclear Power Plant,2050,326.52740000000
+14,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2050,0.45200000000
+15,electricity,Kenya,Onshore Wind,2050,0.08230000000
+16,electricity,Kenya,Small Hydropower Plant (<10MW),2050,6.97800000000
+17,electricity,Kenya,Solar PV (Distributed with Storage),2050,0.01530000000
+18,electricity,Kenya,Solar PV (Utility),2050,0.00970000000
+19,electricity,Kenya,Coal Power Plant,2055,624.21550000000
+20,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2055,176.63030000000
+21,electricity,Kenya,Medium Hydropower Plant (10-100MW),2055,176.43910000000
+22,electricity,Kenya,Nuclear Power Plant,2055,624.21550000000
+23,electricity,Kenya,Small Hydropower Plant (<10MW),2055,13.33970000000
