@@ -21,7 +21,8 @@ class Transformer:
 
     def create_muse_dataset(self):
         """
-        Imports the starter kits datasets and converts them into a form used for MUSE.
+        Imports the starter kits datasets and converts them into a form used 
+        for MUSE.
         """
         logger = logging.getLogger(__name__)
         logger.info("Converting raw data for {}.".format(self.folder))
@@ -507,13 +508,19 @@ class Transformer:
         )
 
         oil_renamed["Fuel"] = "crude_oil"
-        oil_renamed["efficiency"] = 100
+        oil_renamed[
+            "efficiency"
+        ] = 90.6  # https://iea-etsap.org/E-TechDS/PDF/P04_Oil%20Ref_KV_Apr2014_GSOK.pdf
         oil_renamed["ScalingSize"] = 1
-        oil_renamed["UtilizationFactor"] = 1
+        oil_renamed[
+            "UtilizationFactor"
+        ] = 0.824  # https://iea-etsap.org/E-TechDS/PDF/P04_Oil%20Ref_KV_Apr2014_GSOK.pdf
         oil_renamed["fix_par"] = 1
 
         oil_renamed = oil_renamed.apply(pd.to_numeric, errors="ignore")
-        oil_renamed["cap_par"] *= 1 / (8600 * 0.0036)
+        # oil_renamed["cap_par"] *= 1 / (8600 * 0.0036)
+        oil_renamed["cap_par"] *= 0.001 / (0.00000611 * 365)
+        oil_renamed["var_par"] = (oil_renamed["var_par"] + 9) / 6.11
 
         years_required = pd.Series(
             list(range(self.start_year, self.end_year, self.benchmark_years)),
@@ -669,14 +676,14 @@ class Transformer:
         technoeconomic_data_wide["Level"] = "fixed"
         technoeconomic_data_wide["cap_exp"] = 1
         technoeconomic_data_wide["fix_exp"] = 1
-        technoeconomic_data_wide["var_par"] = 0
+        technoeconomic_data_wide["var_par"] = 1
         technoeconomic_data_wide["var_exp"] = 1
         technoeconomic_data_wide["Type"] = fuel_type
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
         technoeconomic_data_wide["InterestRate"] = 0.1
-        technoeconomic_data_wide["MaxCapacityAddition"] = 200
-        technoeconomic_data_wide["MaxCapacityGrowth"] = 0.2
+        technoeconomic_data_wide["MaxCapacityAddition"] = 500
+        technoeconomic_data_wide["MaxCapacityGrowth"] = 0.05
         technoeconomic_data_wide["TotalCapacityLimit"] = 200000
 
         return technoeconomic_data_wide

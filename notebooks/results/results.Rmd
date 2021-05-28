@@ -11,6 +11,19 @@ library(tidyverse)
 
 ```{r}
 
+prices = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/MCAPrices.csv")
+prices
+```
+
+```{r}
+prices %>% group_by(commodity, year) %>% summarise(price = mean(prices))
+
+```
+
+
+
+```{r}
+
 capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/MCACapacity.csv")
 head(capacity)
 ```

@@ -1,16 +1,16 @@
 ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2
 Unit,-,Year,-,MUS$2010/PJ_a,-,MUS$2010/PJ,-,MUS$2010/PJ,-,PJ,%,PJ,Years,-,PJ,%,-,-,-,-,Retrofit
-Crude Oil Refinery Option 1,Burundi,2020,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 1,Burundi,2025,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 1,Burundi,2030,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 1,Burundi,2035,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 1,Burundi,2040,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 1,Burundi,2045,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 1,Burundi,2050,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 2,Burundi,2020,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 2,Burundi,2025,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 2,Burundi,2030,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 2,Burundi,2035,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 2,Burundi,2040,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 2,Burundi,2045,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
-Crude Oil Refinery Option 2,Burundi,2050,fixed,0.7784237726098191,1,1,1,0.71775,1,200,0.2,200000,35,1,1,100,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 1,Burundi,2020,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 1,Burundi,2025,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 1,Burundi,2030,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 1,Burundi,2035,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 1,Burundi,2040,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 1,Burundi,2045,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 1,Burundi,2050,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 2,Burundi,2020,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 2,Burundi,2025,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 2,Burundi,2030,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 2,Burundi,2035,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 2,Burundi,2040,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 2,Burundi,2045,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
+Crude Oil Refinery Option 2,Burundi,2050,fixed,10.806447996771517,1,1,1,1.5904664484451718,1,500,0.05,200000,35,0.824,1,90.6,0.1,energy,crude_oil,LFO,1
