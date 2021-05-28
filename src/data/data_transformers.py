@@ -650,6 +650,10 @@ class Transformer:
 
         comm_out["crude_oil"] = 0
 
+        comm_out[
+            "CO2f"
+        ] = 7.98  # https://iea-etsap.org/E-TechDS/PDF/P04_Oil%20Ref_KV_Apr2014_GSOK.pdf
+
         return comm_out
 
     def _fill_unknown_data(self, projected_technoeconomic):
