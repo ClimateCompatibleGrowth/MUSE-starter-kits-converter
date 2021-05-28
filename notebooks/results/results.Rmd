@@ -16,11 +16,14 @@ prices
 ```
 
 ```{r}
-prices %>% group_by(commodity, year) %>% summarise(price = mean(prices))
-
+prices_grouped = prices %>% group_by(commodity, year) %>% summarise(price = mean(prices))
+prices_grouped
 ```
 
+```{r}
+prices_grouped %>% ggplot() + geom_line(aes(x=year, y=price, color=commodity)) + theme_bw()
 
+```
 
 ```{r}
 
@@ -30,7 +33,7 @@ head(capacity)
 
 
 ```{r}
-capacity_summed = capacity %>% group_by(technology, sector, year, agent) %>% summarise(capacity=sum(capacity))
+capacity_summed = capacity %>% group_by(technology, sector, year, agent) %>% summarise(capacity=mean(capacity))
 head(capacity_summed)
 ```
 
