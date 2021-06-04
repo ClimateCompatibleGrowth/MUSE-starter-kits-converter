@@ -46,3 +46,10 @@ ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, co
 
 ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, fill=technology)) + geom_bar(stat='identity', colour="black") + facet_grid(cols=vars(agent)) + theme_classic()
 ```
+
+```{r}
+supply <-
+    list.files(pattern = "/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/Power/Supply/*.csv") %>% 
+    map_df(~read_csv(.))
+
+```

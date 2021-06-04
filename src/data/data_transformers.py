@@ -224,7 +224,8 @@ class Transformer:
             commodities.pop(item)
 
         for key, _ in commodities.items():
-            if key == "CO2f" or key == "electricity":
+            # if key == "CO2f" or key == "electricity":
+            if key == "electricity":
                 projections[key] = 1
             elif key == "uranium":
                 projections[key] = 1.764 # http://www.world-nuclear.org/uploadedfiles/org/info/pdf/economicsnp.pdf

@@ -5,7 +5,7 @@ regions = ["Kenya"]
 interest_rate = 0.1
 interpolation_mode = 'Active'
 log_level = 'info'
-excluded_commodities = ["crude_oil", "biomass", "coal", "gas", "geothermal", "hydro", "solar", "uranium", "wind", "heat"]
+excluded_commodities = ["crude_oil", "biomass", "coal", "gas", "geothermal", "hydro", "solar", "uranium", "wind", "heat", "HFO", "LFO"]
 
 
 # Convergence parameters
@@ -92,32 +92,32 @@ net = 'new_to_retro'
 interaction = 'transfer'
 
 
-[sectors.oil]
-type = 'default'
-priority = 3
-dispatch_production = 'share'
+# [sectors.oil]
+# type = 'default'
+# priority = 3
+# dispatch_production = 'share'
 
-technodata = '{path}/technodata/oil/Technodata.csv'
-commodities_in = '{path}/technodata/oil/CommIn.csv'
-commodities_out = '{path}/technodata/oil/CommOut.csv'
+# technodata = '{path}/technodata/oil/Technodata.csv'
+# commodities_in = '{path}/technodata/oil/CommIn.csv'
+# commodities_out = '{path}/technodata/oil/CommOut.csv'
 
-[sectors.oil.subsectors.retro_and_new]
-agents = '{path}/technodata/Agents.csv'
-existing_capacity = '{path}/technodata/oil/ExistingCapacity.csv'
-lpsolver = "scipy"
-
-
-[[sectors.oil.outputs]]
-filename = '{cwd}/{default_output_dir}/{Sector}/{Quantity}/{year}{suffix}'
-quantity = "capacity"
-sink = 'csv'
-overwrite = true
-index = false
+# [sectors.oil.subsectors.retro_and_new]
+# agents = '{path}/technodata/Agents.csv'
+# existing_capacity = '{path}/technodata/oil/ExistingCapacity.csv'
+# lpsolver = "scipy"
 
 
-[[sectors.oil.interactions]] 
-net = 'new_to_retro'
-interaction = 'transfer'
+# [[sectors.oil.outputs]]
+# filename = '{cwd}/{default_output_dir}/{Sector}/{Quantity}/{year}{suffix}'
+# quantity = "capacity"
+# sink = 'csv'
+# overwrite = true
+# index = false
+
+
+# [[sectors.oil.interactions]] 
+# net = 'new_to_retro'
+# interaction = 'transfer'
 
 
 [sectors.electricity_presets]
