@@ -10,6 +10,7 @@ PROFILE = default
 PROJECT_NAME = muse-starter-kits
 PYTHON_INTERPRETER = python
 export PATH := bin:$(PATH)
+export PATH=$PATH:${PWD}
 
 ifeq (,$(shell which conda))
 HAS_CONDA=False
@@ -28,7 +29,7 @@ requirements: test_environment
 
 ## Make Dataset
 data: requirements
-	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits
+	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits 2020 2055 5
 
 ## Make dataset without installing requirements
 data-no-reqs:
