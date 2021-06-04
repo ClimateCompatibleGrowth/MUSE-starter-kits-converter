@@ -31,7 +31,6 @@ Project Organization
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original raw data.
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures        <- Generated graphics and figures to be used in reporting
     ├── requirements.txt   <- The requirements file for reproducing the analysis
