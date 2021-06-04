@@ -29,11 +29,11 @@ requirements: test_environment
 
 ## Make Dataset
 data: requirements
-	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits 2020 2055 5
+	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits $(start_year) $($(end_year)+5) $(milestone_year)
 
 ## Make dataset without installing requirements
 data-no-reqs:
-	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits 2020 2055 5
+	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits $(start_year) $($(end_year)+5) $(milestone_year)
 
 ## Delete all compiled Python files
 clean:
