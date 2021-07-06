@@ -39,14 +39,14 @@ class Transformer:
             "ExistingCapacity": self.create_existing_capacity_power()
         }
         muse_data["technodata"]["power"]["Technodata"] = self.convert_power_technodata()
-        muse_data["technodata"]["power"]["CommIn"] = self.get_comm_in(
+        muse_data["technodata"]["power"]["CommIn"] = self.get_power_comm_in(
             technodata=muse_data["technodata"]["power"]["Technodata"]
         )
         muse_data["technodata"]["power"]["CommOut"] = self.get_comm_out(
             technodata=muse_data["technodata"]["power"]["Technodata"]
         )
         muse_data["technodata"]["oil"] = {"Technodata": self.convert_oil_technodata()}
-        muse_data["technodata"]["oil"]["CommIn"] = self.get_comm_in(
+        muse_data["technodata"]["oil"]["CommIn"] = self.get_oil_comm_in(
             technodata=muse_data["technodata"]["oil"]["Technodata"]
         )
         muse_data["technodata"]["oil"]["CommOut"] = self.get_comm_out(
@@ -544,9 +544,81 @@ class Transformer:
 
         return oil_renamed
 
-    def get_comm_in(self, technodata):
+    def get_power_comm_in(self, technodata):
         """
-        Generates the CommIn dataframe for MUSE from Table7 in the starter kits.
+        Generates the power sector CommIn dataframe for MUSE from Table7 and 
+        Legacy data
+        """
+        from src.defaults import technology_converter
+
+        power_types = technodata[technodata.ProcessName != "Unit"][
+            ["ProcessName", "Fuel"]
+        ].drop_duplicates()
+
+        example_technoeconomic = pd.read_csv(
+            "/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/external/example_model/Techno_Economic.csv"
+        )
+        example_technoeconomic = example_technoeconomic.iloc[1:]
+        example_technoeconomic = example_technoeconomic.apply(
+            pd.to_numeric, errors="ignore"
+        )
+        africa_technoeconomic = example_technoeconomic[
+            (example_technoeconomic.RegionName == "OAFR")
+            & (example_technoeconomic.Time <= 2050)
+        ]
+        africa_technoeconomic["CommIn"] = 1 / (
+            africa_technoeconomic.GrossEfficiency / 100
+        )
+
+        power_types = technodata[technodata.ProcessName != "Unit"][
+            ["ProcessName", "Fuel"]
+        ].drop_duplicates()
+
+        technodata = technodata.reset_index()
+        power_types["ExampleTechs"] = power_types["ProcessName"].map(
+            technology_converter
+        )
+
+        power_types = power_types.merge(
+            africa_technoeconomic[["ProcessName", "CommIn", "Time"]],
+            left_on="ExampleTechs",
+            right_on="ProcessName",
+        )
+
+        power_types = power_types.drop(columns=["ProcessName_y", "ExampleTechs"])
+        power_types = power_types.rename(
+            columns={"ProcessName_x": "ProcessName", "CommIn": "value"}
+        )
+        power_types = power_types.drop_duplicates()
+
+        comm_in = power_types.pivot(
+            index=["ProcessName", "Time"], columns="Fuel", values="value"
+        ).reset_index()
+
+        comm_in.insert(0, "RegionName", self.folder)
+        # comm_in.insert(1, "Time", 2020)
+        comm_in.insert(2, "Level", "fixed")
+        comm_in.insert(3, "electricity", 0)
+        comm_in["CO2f"] = 0
+
+        # Replicate rows for each year
+        # comm_in_merged = pd.merge(
+        #     comm_in,
+        #     pd.Series(list(pd.unique(technodata.Time))[1:], name="Time"),
+        #     how="cross",
+        # )
+        # comm_in_merged = comm_in_merged.drop(columns="Time_x")
+        # comm_in = comm_in_merged.rename(columns={"Time_y": "Time"})
+
+        units_row = pd.DataFrame.from_dict(units, orient="columns")
+        comm_in = units_row.append(comm_in)
+        comm_in = comm_in.fillna(0)
+
+        return comm_in
+
+    def get_oil_comm_in(self, technodata):
+        """
+        Generates the oil CommIn dataframe for MUSE from Table7 in the starter kits.
         """
 
         logger = logging.getLogger(__name__)
@@ -697,7 +769,7 @@ class Transformer:
         technoeconomic_data_wide["InterestRate"] = 0.1
         technoeconomic_data_wide["MaxCapacityAddition"] = 500
         technoeconomic_data_wide["MaxCapacityGrowth"] = 0.05
-        technoeconomic_data_wide["TotalCapacityLimit"] = 5000
+        technoeconomic_data_wide["TotalCapacityLimit"] = 50000
 
         return technoeconomic_data_wide
 

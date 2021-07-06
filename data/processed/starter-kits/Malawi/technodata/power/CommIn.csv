@@ -1,110 +1,164 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,Malawi,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Malawi,2015,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Malawi,2025,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Malawi,2030,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Malawi,2040,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Malawi,2050,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-CSP with Storage,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Biomass Power Plant,Malawi,2010,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Malawi,2015,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Malawi,2020,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Malawi,2025,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Malawi,2030,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Malawi,2035,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Malawi,2040,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Malawi,2045,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Malawi,2050,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Malawi,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Malawi,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Malawi,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Malawi,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Malawi,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Malawi,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Malawi,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Malawi,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-CSP without Storage,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Malawi,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Malawi,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Malawi,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Malawi,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Malawi,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Malawi,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Malawi,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Malawi,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Coal Power Plant,Malawi,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Malawi,2015,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Malawi,2025,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Malawi,2030,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Malawi,2040,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Malawi,2050,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Malawi,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Malawi,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Malawi,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Malawi,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Malawi,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Malawi,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Malawi,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Malawi,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Malawi,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Malawi,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Malawi,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Malawi,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Malawi,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Malawi,2015,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Malawi,2025,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Malawi,2030,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Malawi,2040,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Malawi,2050,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Malawi,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2010,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2015,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2020,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2025,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2030,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2035,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2040,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2045,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Malawi,2050,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2010,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2015,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2020,fixed,0,0,0,2.7272727270247934,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2025,fixed,0,0,0,2.678571428810587,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2035,fixed,0,0,0,2.5974025974025974,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2040,fixed,0,0,0,2.564102564102564,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2045,fixed,0,0,0,2.531645569620253,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Malawi,2050,fixed,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2010,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2015,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2020,fixed,0,0,0,2.7272727270247934,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2025,fixed,0,0,0,2.678571428810587,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2035,fixed,0,0,0,2.5974025974025974,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2040,fixed,0,0,0,2.564102564102564,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2045,fixed,0,0,0,2.531645569620253,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Malawi,2050,fixed,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2010,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2015,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2020,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2025,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2030,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2035,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2040,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2045,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Malawi,2050,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Malawi,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Malawi,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Malawi,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Malawi,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Malawi,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Malawi,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Malawi,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Malawi,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Malawi,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Malawi,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Malawi,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Malawi,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Malawi,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Malawi,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Malawi,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Malawi,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Malawi,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Malawi,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Malawi,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Malawi,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Malawi,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Malawi,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2010,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2015,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2020,fixed,0,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2025,fixed,0,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2030,fixed,0,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2035,fixed,0,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2040,fixed,0,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2045,fixed,0,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Malawi,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2010,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2015,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2020,fixed,0,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2025,fixed,0,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2030,fixed,0,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2035,fixed,0,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2040,fixed,0,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2045,fixed,0,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Malawi,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Malawi,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Malawi,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Malawi,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Malawi,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Malawi,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Malawi,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Malawi,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Malawi,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Malawi,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Nuclear Power Plant,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Malawi,2015,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Malawi,2025,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Malawi,2030,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Malawi,2040,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Malawi,2050,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Offshore Wind,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Nuclear Power Plant,Malawi,2010,fixed,0,0,0,0,0,0,0,0,0,0,2.7777777777777777,0,0,0
+Nuclear Power Plant,Malawi,2015,fixed,0,0,0,0,0,0,0,0,0,0,2.7777777777777777,0,0,0
+Nuclear Power Plant,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,0,2.7522935782341555,0,0,0
+Nuclear Power Plant,Malawi,2025,fixed,0,0,0,0,0,0,0,0,0,0,2.7272727270247934,0,0,0
+Nuclear Power Plant,Malawi,2030,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Malawi,2035,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Malawi,2040,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Malawi,2045,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Malawi,2050,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Offshore Wind,Malawi,2010,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Malawi,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Malawi,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Malawi,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Malawi,2035,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Malawi,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Malawi,2045,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Malawi,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Oil Fired Gas Turbine (SCGT),Malawi,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Malawi,2015,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Malawi,2025,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Malawi,2030,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Malawi,2040,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Malawi,2050,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Onshore Wind,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2010,fixed,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2015,fixed,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2020,fixed,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2025,fixed,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2030,fixed,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2035,fixed,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2040,fixed,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2045,fixed,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Malawi,2050,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Onshore Wind,Malawi,2010,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Malawi,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Malawi,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Malawi,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Malawi,2035,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Malawi,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Malawi,2045,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Malawi,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Small Hydropower Plant (<10MW),Malawi,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Malawi,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Malawi,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Malawi,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Malawi,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Malawi,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Malawi,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Malawi,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Malawi,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Malawi,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Malawi,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Malawi,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Malawi,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Malawi,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Malawi,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Malawi,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Malawi,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Malawi,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Solar PV (Utility),Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Malawi,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Malawi,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Malawi,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Malawi,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Malawi,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Malawi,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Malawi,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Malawi,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Malawi,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

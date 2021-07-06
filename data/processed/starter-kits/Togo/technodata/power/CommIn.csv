@@ -1,110 +1,164 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,Togo,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Togo,2015,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Togo,2025,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Togo,2030,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Togo,2040,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Togo,2050,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-CSP with Storage,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Biomass Power Plant,Togo,2010,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Togo,2015,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Togo,2020,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Togo,2025,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Togo,2030,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Togo,2035,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Togo,2040,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Togo,2045,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Togo,2050,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Togo,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Togo,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Togo,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Togo,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Togo,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Togo,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Togo,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Togo,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-CSP without Storage,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Togo,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Togo,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Togo,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Togo,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Togo,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Togo,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Togo,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Togo,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Coal Power Plant,Togo,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Togo,2015,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Togo,2025,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Togo,2030,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Togo,2040,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Togo,2050,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Togo,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Togo,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Togo,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Togo,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Togo,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Togo,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Togo,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Togo,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Togo,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Togo,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Togo,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Togo,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Togo,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Togo,2015,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Togo,2025,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Togo,2030,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Togo,2040,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Togo,2050,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2010,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2015,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2020,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2025,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2030,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2035,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2040,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2045,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Togo,2050,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2010,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2015,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2020,fixed,0,0,0,2.7272727270247934,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2025,fixed,0,0,0,2.678571428810587,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2035,fixed,0,0,0,2.5974025974025974,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2040,fixed,0,0,0,2.564102564102564,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2045,fixed,0,0,0,2.531645569620253,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Togo,2050,fixed,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2010,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2015,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2020,fixed,0,0,0,2.7272727270247934,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2025,fixed,0,0,0,2.678571428810587,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2035,fixed,0,0,0,2.5974025974025974,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2040,fixed,0,0,0,2.564102564102564,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2045,fixed,0,0,0,2.531645569620253,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Togo,2050,fixed,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2010,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2015,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2020,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2025,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2030,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2035,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2040,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2045,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Togo,2050,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Togo,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Togo,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Togo,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Togo,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Togo,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Togo,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Togo,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Togo,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Togo,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Togo,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Togo,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Togo,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Togo,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Togo,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Togo,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Togo,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Togo,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Togo,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Togo,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Togo,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2010,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2015,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2020,fixed,0,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2025,fixed,0,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2030,fixed,0,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2035,fixed,0,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2040,fixed,0,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2045,fixed,0,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Togo,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2010,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2015,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2020,fixed,0,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2025,fixed,0,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2030,fixed,0,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2035,fixed,0,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2040,fixed,0,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2045,fixed,0,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Togo,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Togo,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Togo,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Togo,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Togo,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Togo,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Togo,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Togo,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Togo,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Nuclear Power Plant,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Togo,2015,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Togo,2025,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Togo,2030,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Togo,2040,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Togo,2050,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Offshore Wind,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Nuclear Power Plant,Togo,2010,fixed,0,0,0,0,0,0,0,0,0,0,2.7777777777777777,0,0,0
+Nuclear Power Plant,Togo,2015,fixed,0,0,0,0,0,0,0,0,0,0,2.7777777777777777,0,0,0
+Nuclear Power Plant,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,0,2.7522935782341555,0,0,0
+Nuclear Power Plant,Togo,2025,fixed,0,0,0,0,0,0,0,0,0,0,2.7272727270247934,0,0,0
+Nuclear Power Plant,Togo,2030,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Togo,2035,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Togo,2040,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Togo,2045,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Togo,2050,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Offshore Wind,Togo,2010,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Togo,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Togo,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Togo,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Togo,2035,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Togo,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Togo,2045,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Togo,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Oil Fired Gas Turbine (SCGT),Togo,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Togo,2015,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Togo,2025,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Togo,2030,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Togo,2040,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Togo,2050,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Onshore Wind,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2010,fixed,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2015,fixed,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2020,fixed,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2025,fixed,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2030,fixed,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2035,fixed,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2040,fixed,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2045,fixed,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Togo,2050,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Onshore Wind,Togo,2010,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Togo,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Togo,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Togo,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Togo,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Togo,2035,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Togo,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Togo,2045,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Togo,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Small Hydropower Plant (<10MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Togo,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Togo,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Togo,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Togo,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Togo,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Togo,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Togo,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Togo,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Togo,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Togo,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Togo,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Togo,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Togo,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Togo,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Togo,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Togo,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Togo,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Solar PV (Utility),Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Togo,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Togo,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Togo,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Togo,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Togo,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Togo,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Togo,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Togo,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Togo,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

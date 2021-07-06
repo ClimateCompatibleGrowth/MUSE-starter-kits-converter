@@ -109,23 +109,27 @@ asset,year,region,technology,installed,capacity
 0,2525,Kenya,Biomass Power Plant,2020,0.00010000000
 0,2530,Kenya,Biomass Power Plant,2020,0.00010000000
 0,2535,Kenya,Biomass Power Plant,2020,0.00010000000
-5,2025,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
-5,2030,Kenya,Gas Power Plant (SCGT),2020,197.67410000000
-5,2034,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
-5,2035,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
-5,2040,Kenya,Gas Power Plant (SCGT),2020,197.67410000000
-5,2045,Kenya,Gas Power Plant (SCGT),2020,197.67410000000
-5,2048,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
-5,2049,Kenya,Gas Power Plant (SCGT),2020,473.67410000000
+3,2025,Kenya,Coal Power Plant,2020,193.45430000000
+3,2030,Kenya,Coal Power Plant,2020,193.45430000000
+3,2034,Kenya,Coal Power Plant,2020,193.45430000000
+3,2035,Kenya,Coal Power Plant,2020,193.45430000000
+3,2040,Kenya,Coal Power Plant,2020,193.45430000000
+3,2045,Kenya,Coal Power Plant,2020,193.45430000000
+3,2048,Kenya,Coal Power Plant,2020,193.45430000000
+3,2049,Kenya,Coal Power Plant,2020,193.45430000000
+3,2050,Kenya,Coal Power Plant,2020,193.45430000000
+3,2054,Kenya,Coal Power Plant,2020,193.45430000000
+3,2055,Kenya,Coal Power Plant,2020,193.45430000000
+3,2059,Kenya,Coal Power Plant,2020,193.45430000000
 6,2020,Kenya,Geothermal Power Plant,2020,12.97220000000
-6,2025,Kenya,Geothermal Power Plant,2020,11.67500000000
-6,2030,Kenya,Geothermal Power Plant,2020,10.50750000000
-6,2034,Kenya,Geothermal Power Plant,2020,9.66690000000
-6,2035,Kenya,Geothermal Power Plant,2020,9.45680000000
-6,2040,Kenya,Geothermal Power Plant,2020,8.51110000000
-6,2045,Kenya,Geothermal Power Plant,2020,7.66000000000
-6,2048,Kenya,Geothermal Power Plant,2020,7.20040000000
-6,2049,Kenya,Geothermal Power Plant,2020,7.04720000000
+6,2025,Kenya,Geothermal Power Plant,2020,313.17730000000
+6,2030,Kenya,Geothermal Power Plant,2020,15.04780000000
+6,2034,Kenya,Geothermal Power Plant,2020,311.16920000000
+6,2035,Kenya,Geothermal Power Plant,2020,310.95910000000
+6,2040,Kenya,Geothermal Power Plant,2020,13.05140000000
+6,2045,Kenya,Geothermal Power Plant,2020,12.20030000000
+6,2048,Kenya,Geothermal Power Plant,2020,308.70270000000
+6,2049,Kenya,Geothermal Power Plant,2020,308.54950000000
 6,2050,Kenya,Geothermal Power Plant,2020,6.89400000000
 6,2054,Kenya,Geothermal Power Plant,2020,6.34250000000
 6,2055,Kenya,Geothermal Power Plant,2020,6.20460000000

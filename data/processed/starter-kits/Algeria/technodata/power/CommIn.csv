@@ -1,110 +1,164 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,Algeria,2020,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Algeria,2015,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Algeria,2025,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Algeria,2030,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Algeria,2040,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Algeria,2050,fixed,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0
-CSP with Storage,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Biomass Power Plant,Algeria,2010,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Algeria,2015,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Algeria,2020,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Algeria,2025,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Algeria,2030,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Algeria,2035,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Algeria,2040,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Algeria,2045,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Algeria,2050,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Algeria,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Algeria,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Algeria,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Algeria,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Algeria,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Algeria,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP with Storage,Algeria,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Algeria,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-CSP without Storage,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Algeria,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Algeria,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Algeria,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Algeria,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Algeria,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Algeria,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+CSP without Storage,Algeria,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Algeria,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Coal Power Plant,Algeria,2020,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Algeria,2015,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Algeria,2025,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Algeria,2030,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Algeria,2040,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Algeria,2050,fixed,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Algeria,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Algeria,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Algeria,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Algeria,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Algeria,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Algeria,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Algeria,2020,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Algeria,2015,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Algeria,2025,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Algeria,2030,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Algeria,2040,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Algeria,2050,fixed,0,0,0,1.0,0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Algeria,2020,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Algeria,2015,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Algeria,2025,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Algeria,2030,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Algeria,2040,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Algeria,2050,fixed,0,0,0,0,1.0,0,0,0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Algeria,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2010,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2015,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2020,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2025,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2030,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2035,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2040,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2045,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Algeria,2050,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2010,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2015,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2020,fixed,0,0,0,2.7272727270247934,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2025,fixed,0,0,0,2.678571428810587,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2035,fixed,0,0,0,2.5974025974025974,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2040,fixed,0,0,0,2.564102564102564,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2045,fixed,0,0,0,2.531645569620253,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Algeria,2050,fixed,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2010,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2015,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2020,fixed,0,0,0,2.7272727270247934,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2025,fixed,0,0,0,2.678571428810587,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2035,fixed,0,0,0,2.5974025974025974,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2040,fixed,0,0,0,2.564102564102564,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2045,fixed,0,0,0,2.531645569620253,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Algeria,2050,fixed,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2010,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2015,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2020,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2025,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2030,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2035,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2040,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2045,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Algeria,2050,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Algeria,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Algeria,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Algeria,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Algeria,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Algeria,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Algeria,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Algeria,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Algeria,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Algeria,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Algeria,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Algeria,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Algeria,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Algeria,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Algeria,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Algeria,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Algeria,2020,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Algeria,2015,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Algeria,2025,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Algeria,2030,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Algeria,2040,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Algeria,2050,fixed,0,0,0,0,0,0,0,1.0,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Algeria,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2010,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2015,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2020,fixed,0,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2025,fixed,0,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2030,fixed,0,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2035,fixed,0,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2040,fixed,0,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2045,fixed,0,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Algeria,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2010,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2015,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2020,fixed,0,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2025,fixed,0,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2030,fixed,0,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2035,fixed,0,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2040,fixed,0,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2045,fixed,0,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Algeria,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Algeria,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Algeria,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Algeria,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Algeria,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Algeria,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Algeria,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Algeria,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Algeria,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Algeria,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Nuclear Power Plant,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Algeria,2015,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Algeria,2025,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Algeria,2030,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Algeria,2040,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Nuclear Power Plant,Algeria,2050,fixed,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0
-Offshore Wind,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Nuclear Power Plant,Algeria,2010,fixed,0,0,0,0,0,0,0,0,0,0,2.7777777777777777,0,0,0
+Nuclear Power Plant,Algeria,2015,fixed,0,0,0,0,0,0,0,0,0,0,2.7777777777777777,0,0,0
+Nuclear Power Plant,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,0,2.7522935782341555,0,0,0
+Nuclear Power Plant,Algeria,2025,fixed,0,0,0,0,0,0,0,0,0,0,2.7272727270247934,0,0,0
+Nuclear Power Plant,Algeria,2030,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Algeria,2035,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Algeria,2040,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Algeria,2045,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Nuclear Power Plant,Algeria,2050,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
+Offshore Wind,Algeria,2010,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Algeria,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Algeria,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Algeria,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Algeria,2035,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Algeria,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Algeria,2045,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Algeria,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Oil Fired Gas Turbine (SCGT),Algeria,2020,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Algeria,2015,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Algeria,2025,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Algeria,2030,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Algeria,2040,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Algeria,2050,fixed,0,0,0,0,0,0,1.0,0,0,0,0,0,0,0
-Onshore Wind,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2010,fixed,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2015,fixed,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2020,fixed,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2025,fixed,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2030,fixed,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2035,fixed,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2040,fixed,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2045,fixed,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Algeria,2050,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Onshore Wind,Algeria,2010,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Algeria,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Algeria,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Algeria,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Algeria,2035,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Algeria,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Algeria,2045,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Algeria,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Small Hydropower Plant (<10MW),Algeria,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Algeria,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Algeria,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Algeria,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Algeria,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Algeria,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Algeria,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Algeria,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Algeria,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Algeria,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Algeria,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Algeria,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Algeria,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Algeria,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Algeria,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Algeria,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Algeria,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Algeria,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Solar PV (Utility),Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Algeria,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Algeria,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Algeria,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Algeria,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Algeria,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Algeria,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Algeria,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Algeria,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Algeria,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
