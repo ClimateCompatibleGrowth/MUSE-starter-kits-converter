@@ -228,7 +228,9 @@ class Transformer:
             if key == "electricity":
                 projections[key] = 1
             elif key == "uranium":
-                projections[key] = 1.764 # http://www.world-nuclear.org/uploadedfiles/org/info/pdf/economicsnp.pdf
+                projections[
+                    key
+                ] = 1.764  # http://www.world-nuclear.org/uploadedfiles/org/info/pdf/economicsnp.pdf
             else:
                 projections[key] = 0
 
@@ -695,7 +697,7 @@ class Transformer:
         technoeconomic_data_wide["InterestRate"] = 0.1
         technoeconomic_data_wide["MaxCapacityAddition"] = 500
         technoeconomic_data_wide["MaxCapacityGrowth"] = 0.05
-        technoeconomic_data_wide["TotalCapacityLimit"] = 200000
+        technoeconomic_data_wide["TotalCapacityLimit"] = 5000
 
         return technoeconomic_data_wide
 
