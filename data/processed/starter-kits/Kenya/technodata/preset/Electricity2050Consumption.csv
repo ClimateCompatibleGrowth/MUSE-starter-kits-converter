@@ -1,9 +1,9 @@
 ,RegionName,ProcessName,Timeslice,electricity,gas,heat,CO2f,wind
-0,Kenya,electricity_demand,1,269.14,0,0,0,0
-1,Kenya,electricity_demand,2,269.14,0,0,0,0
-2,Kenya,electricity_demand,3,269.14,0,0,0,0
-3,Kenya,electricity_demand,4,269.14,0,0,0,0
-4,Kenya,electricity_demand,5,269.14,0,0,0,0
-5,Kenya,electricity_demand,6,269.14,0,0,0,0
-5,Kenya,electricity_demand,7,269.14,0,0,0,0
-5,Kenya,electricity_demand,8,269.14,0,0,0,0
+0,Kenya,electricity_demand,1,237,0,0,0,0
+1,Kenya,electricity_demand,2,292,0,0,0,0
+2,Kenya,electricity_demand,3,233,0,0,0,0
+3,Kenya,electricity_demand,4,292,0,0,0,0
+4,Kenya,electricity_demand,5,238,0,0,0,0
+5,Kenya,electricity_demand,6,300,0,0,0,0
+6,Kenya,electricity_demand,7,247,0,0,0,0
+7,Kenya,electricity_demand,8,310,0,0,0,0

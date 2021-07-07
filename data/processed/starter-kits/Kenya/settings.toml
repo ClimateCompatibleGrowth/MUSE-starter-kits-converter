@@ -4,7 +4,7 @@ foresight = 5   # Has to be a multiple of the minimum separation between the yea
 regions = ["Kenya"]
 interest_rate = 0.1
 interpolation_mode = 'Active'
-log_level = 'debug'
+log_level = 'info'
 excluded_commodities = ["crude_oil", "biomass", "coal", "gas", "geothermal", "hydro", "solar", "uranium", "wind", "heat", "HFO", "LFO"]
 
 
