@@ -1,865 +1,865 @@
-ProcessName,Time,UtilizationFactor,day,season,MinimumServiceFactor,RegionName,ObjSort
-Biomass Power Plant,2015,0.5,night,winter,0,Nigeria,Upper
-Biomass Power Plant,2015,0.5,day,winter,0,Nigeria,Upper
-Biomass Power Plant,2015,0.5,night,spring,0,Nigeria,Upper
-Biomass Power Plant,2015,0.5,day,spring,0,Nigeria,Upper
-Biomass Power Plant,2015,0.5,night,summer,0,Nigeria,Upper
-Biomass Power Plant,2015,0.5,day,summer,0,Nigeria,Upper
-Biomass Power Plant,2015,0.5,night,autumn,0,Nigeria,Upper
-Biomass Power Plant,2015,0.5,day,autumn,0,Nigeria,Upper
-Biomass Power Plant,2020,0.5,night,winter,0,Nigeria,Upper
-Biomass Power Plant,2020,0.5,day,winter,0,Nigeria,Upper
-Biomass Power Plant,2020,0.5,night,spring,0,Nigeria,Upper
-Biomass Power Plant,2020,0.5,day,spring,0,Nigeria,Upper
-Biomass Power Plant,2020,0.5,night,summer,0,Nigeria,Upper
-Biomass Power Plant,2020,0.5,day,summer,0,Nigeria,Upper
-Biomass Power Plant,2020,0.5,night,autumn,0,Nigeria,Upper
-Biomass Power Plant,2020,0.5,day,autumn,0,Nigeria,Upper
-Biomass Power Plant,2025,0.5,night,winter,0,Nigeria,Upper
-Biomass Power Plant,2025,0.5,day,winter,0,Nigeria,Upper
-Biomass Power Plant,2025,0.5,night,spring,0,Nigeria,Upper
-Biomass Power Plant,2025,0.5,day,spring,0,Nigeria,Upper
-Biomass Power Plant,2025,0.5,night,summer,0,Nigeria,Upper
-Biomass Power Plant,2025,0.5,day,summer,0,Nigeria,Upper
-Biomass Power Plant,2025,0.5,night,autumn,0,Nigeria,Upper
-Biomass Power Plant,2025,0.5,day,autumn,0,Nigeria,Upper
-Biomass Power Plant,2030,0.5,night,winter,0,Nigeria,Upper
-Biomass Power Plant,2030,0.5,day,winter,0,Nigeria,Upper
-Biomass Power Plant,2030,0.5,night,spring,0,Nigeria,Upper
-Biomass Power Plant,2030,0.5,day,spring,0,Nigeria,Upper
-Biomass Power Plant,2030,0.5,night,summer,0,Nigeria,Upper
-Biomass Power Plant,2030,0.5,day,summer,0,Nigeria,Upper
-Biomass Power Plant,2030,0.5,night,autumn,0,Nigeria,Upper
-Biomass Power Plant,2030,0.5,day,autumn,0,Nigeria,Upper
-Biomass Power Plant,2040,0.5,night,winter,0,Nigeria,Upper
-Biomass Power Plant,2040,0.5,day,winter,0,Nigeria,Upper
-Biomass Power Plant,2040,0.5,night,spring,0,Nigeria,Upper
-Biomass Power Plant,2040,0.5,day,spring,0,Nigeria,Upper
-Biomass Power Plant,2040,0.5,night,summer,0,Nigeria,Upper
-Biomass Power Plant,2040,0.5,day,summer,0,Nigeria,Upper
-Biomass Power Plant,2040,0.5,night,autumn,0,Nigeria,Upper
-Biomass Power Plant,2040,0.5,day,autumn,0,Nigeria,Upper
-Biomass Power Plant,2050,0.5,night,winter,0,Nigeria,Upper
-Biomass Power Plant,2050,0.5,day,winter,0,Nigeria,Upper
-Biomass Power Plant,2050,0.5,night,spring,0,Nigeria,Upper
-Biomass Power Plant,2050,0.5,day,spring,0,Nigeria,Upper
-Biomass Power Plant,2050,0.5,night,summer,0,Nigeria,Upper
-Biomass Power Plant,2050,0.5,day,summer,0,Nigeria,Upper
-Biomass Power Plant,2050,0.5,night,autumn,0,Nigeria,Upper
-Biomass Power Plant,2050,0.5,day,autumn,0,Nigeria,Upper
-CSP with Storage,2015,0.45,night,winter,0,Nigeria,Upper
-CSP with Storage,2015,0.45,day,winter,0,Nigeria,Upper
-CSP with Storage,2015,0.45,night,spring,0,Nigeria,Upper
-CSP with Storage,2015,0.45,day,spring,0,Nigeria,Upper
-CSP with Storage,2015,0.45,night,summer,0,Nigeria,Upper
-CSP with Storage,2015,0.45,day,summer,0,Nigeria,Upper
-CSP with Storage,2015,0.45,night,autumn,0,Nigeria,Upper
-CSP with Storage,2015,0.45,day,autumn,0,Nigeria,Upper
-CSP with Storage,2020,0.45,night,winter,0,Nigeria,Upper
-CSP with Storage,2020,0.45,day,winter,0,Nigeria,Upper
-CSP with Storage,2020,0.45,night,spring,0,Nigeria,Upper
-CSP with Storage,2020,0.45,day,spring,0,Nigeria,Upper
-CSP with Storage,2020,0.45,night,summer,0,Nigeria,Upper
-CSP with Storage,2020,0.45,day,summer,0,Nigeria,Upper
-CSP with Storage,2020,0.45,night,autumn,0,Nigeria,Upper
-CSP with Storage,2020,0.45,day,autumn,0,Nigeria,Upper
-CSP with Storage,2025,0.45,night,winter,0,Nigeria,Upper
-CSP with Storage,2025,0.45,day,winter,0,Nigeria,Upper
-CSP with Storage,2025,0.45,night,spring,0,Nigeria,Upper
-CSP with Storage,2025,0.45,day,spring,0,Nigeria,Upper
-CSP with Storage,2025,0.45,night,summer,0,Nigeria,Upper
-CSP with Storage,2025,0.45,day,summer,0,Nigeria,Upper
-CSP with Storage,2025,0.45,night,autumn,0,Nigeria,Upper
-CSP with Storage,2025,0.45,day,autumn,0,Nigeria,Upper
-CSP with Storage,2030,0.45,night,winter,0,Nigeria,Upper
-CSP with Storage,2030,0.45,day,winter,0,Nigeria,Upper
-CSP with Storage,2030,0.45,night,spring,0,Nigeria,Upper
-CSP with Storage,2030,0.45,day,spring,0,Nigeria,Upper
-CSP with Storage,2030,0.45,night,summer,0,Nigeria,Upper
-CSP with Storage,2030,0.45,day,summer,0,Nigeria,Upper
-CSP with Storage,2030,0.45,night,autumn,0,Nigeria,Upper
-CSP with Storage,2030,0.45,day,autumn,0,Nigeria,Upper
-CSP with Storage,2040,0.45,night,winter,0,Nigeria,Upper
-CSP with Storage,2040,0.45,day,winter,0,Nigeria,Upper
-CSP with Storage,2040,0.45,night,spring,0,Nigeria,Upper
-CSP with Storage,2040,0.45,day,spring,0,Nigeria,Upper
-CSP with Storage,2040,0.45,night,summer,0,Nigeria,Upper
-CSP with Storage,2040,0.45,day,summer,0,Nigeria,Upper
-CSP with Storage,2040,0.45,night,autumn,0,Nigeria,Upper
-CSP with Storage,2040,0.45,day,autumn,0,Nigeria,Upper
-CSP with Storage,2050,0.45,night,winter,0,Nigeria,Upper
-CSP with Storage,2050,0.45,day,winter,0,Nigeria,Upper
-CSP with Storage,2050,0.45,night,spring,0,Nigeria,Upper
-CSP with Storage,2050,0.45,day,spring,0,Nigeria,Upper
-CSP with Storage,2050,0.45,night,summer,0,Nigeria,Upper
-CSP with Storage,2050,0.45,day,summer,0,Nigeria,Upper
-CSP with Storage,2050,0.45,night,autumn,0,Nigeria,Upper
-CSP with Storage,2050,0.45,day,autumn,0,Nigeria,Upper
-CSP without Storage,2015,0.45,night,winter,0,Nigeria,Upper
-CSP without Storage,2015,0.45,day,winter,0,Nigeria,Upper
-CSP without Storage,2015,0.45,night,spring,0,Nigeria,Upper
-CSP without Storage,2015,0.45,day,spring,0,Nigeria,Upper
-CSP without Storage,2015,0.45,night,summer,0,Nigeria,Upper
-CSP without Storage,2015,0.45,day,summer,0,Nigeria,Upper
-CSP without Storage,2015,0.45,night,autumn,0,Nigeria,Upper
-CSP without Storage,2015,0.45,day,autumn,0,Nigeria,Upper
-CSP without Storage,2020,0.45,night,winter,0,Nigeria,Upper
-CSP without Storage,2020,0.45,day,winter,0,Nigeria,Upper
-CSP without Storage,2020,0.45,night,spring,0,Nigeria,Upper
-CSP without Storage,2020,0.45,day,spring,0,Nigeria,Upper
-CSP without Storage,2020,0.45,night,summer,0,Nigeria,Upper
-CSP without Storage,2020,0.45,day,summer,0,Nigeria,Upper
-CSP without Storage,2020,0.45,night,autumn,0,Nigeria,Upper
-CSP without Storage,2020,0.45,day,autumn,0,Nigeria,Upper
-CSP without Storage,2025,0.45,night,winter,0,Nigeria,Upper
-CSP without Storage,2025,0.45,day,winter,0,Nigeria,Upper
-CSP without Storage,2025,0.45,night,spring,0,Nigeria,Upper
-CSP without Storage,2025,0.45,day,spring,0,Nigeria,Upper
-CSP without Storage,2025,0.45,night,summer,0,Nigeria,Upper
-CSP without Storage,2025,0.45,day,summer,0,Nigeria,Upper
-CSP without Storage,2025,0.45,night,autumn,0,Nigeria,Upper
-CSP without Storage,2025,0.45,day,autumn,0,Nigeria,Upper
-CSP without Storage,2030,0.45,night,winter,0,Nigeria,Upper
-CSP without Storage,2030,0.45,day,winter,0,Nigeria,Upper
-CSP without Storage,2030,0.45,night,spring,0,Nigeria,Upper
-CSP without Storage,2030,0.45,day,spring,0,Nigeria,Upper
-CSP without Storage,2030,0.45,night,summer,0,Nigeria,Upper
-CSP without Storage,2030,0.45,day,summer,0,Nigeria,Upper
-CSP without Storage,2030,0.45,night,autumn,0,Nigeria,Upper
-CSP without Storage,2030,0.45,day,autumn,0,Nigeria,Upper
-CSP without Storage,2040,0.45,night,winter,0,Nigeria,Upper
-CSP without Storage,2040,0.45,day,winter,0,Nigeria,Upper
-CSP without Storage,2040,0.45,night,spring,0,Nigeria,Upper
-CSP without Storage,2040,0.45,day,spring,0,Nigeria,Upper
-CSP without Storage,2040,0.45,night,summer,0,Nigeria,Upper
-CSP without Storage,2040,0.45,day,summer,0,Nigeria,Upper
-CSP without Storage,2040,0.45,night,autumn,0,Nigeria,Upper
-CSP without Storage,2040,0.45,day,autumn,0,Nigeria,Upper
-CSP without Storage,2050,0.45,night,winter,0,Nigeria,Upper
-CSP without Storage,2050,0.45,day,winter,0,Nigeria,Upper
-CSP without Storage,2050,0.45,night,spring,0,Nigeria,Upper
-CSP without Storage,2050,0.45,day,spring,0,Nigeria,Upper
-CSP without Storage,2050,0.45,night,summer,0,Nigeria,Upper
-CSP without Storage,2050,0.45,day,summer,0,Nigeria,Upper
-CSP without Storage,2050,0.45,night,autumn,0,Nigeria,Upper
-CSP without Storage,2050,0.45,day,autumn,0,Nigeria,Upper
-Coal Power Plant,2015,0.85,night,winter,0,Nigeria,Upper
-Coal Power Plant,2015,0.85,day,winter,0,Nigeria,Upper
-Coal Power Plant,2015,0.85,night,spring,0,Nigeria,Upper
-Coal Power Plant,2015,0.85,day,spring,0,Nigeria,Upper
-Coal Power Plant,2015,0.85,night,summer,0,Nigeria,Upper
-Coal Power Plant,2015,0.85,day,summer,0,Nigeria,Upper
-Coal Power Plant,2015,0.85,night,autumn,0,Nigeria,Upper
-Coal Power Plant,2015,0.85,day,autumn,0,Nigeria,Upper
-Coal Power Plant,2020,0.85,night,winter,0,Nigeria,Upper
-Coal Power Plant,2020,0.85,day,winter,0,Nigeria,Upper
-Coal Power Plant,2020,0.85,night,spring,0,Nigeria,Upper
-Coal Power Plant,2020,0.85,day,spring,0,Nigeria,Upper
-Coal Power Plant,2020,0.85,night,summer,0,Nigeria,Upper
-Coal Power Plant,2020,0.85,day,summer,0,Nigeria,Upper
-Coal Power Plant,2020,0.85,night,autumn,0,Nigeria,Upper
-Coal Power Plant,2020,0.85,day,autumn,0,Nigeria,Upper
-Coal Power Plant,2025,0.85,night,winter,0,Nigeria,Upper
-Coal Power Plant,2025,0.85,day,winter,0,Nigeria,Upper
-Coal Power Plant,2025,0.85,night,spring,0,Nigeria,Upper
-Coal Power Plant,2025,0.85,day,spring,0,Nigeria,Upper
-Coal Power Plant,2025,0.85,night,summer,0,Nigeria,Upper
-Coal Power Plant,2025,0.85,day,summer,0,Nigeria,Upper
-Coal Power Plant,2025,0.85,night,autumn,0,Nigeria,Upper
-Coal Power Plant,2025,0.85,day,autumn,0,Nigeria,Upper
-Coal Power Plant,2030,0.85,night,winter,0,Nigeria,Upper
-Coal Power Plant,2030,0.85,day,winter,0,Nigeria,Upper
-Coal Power Plant,2030,0.85,night,spring,0,Nigeria,Upper
-Coal Power Plant,2030,0.85,day,spring,0,Nigeria,Upper
-Coal Power Plant,2030,0.85,night,summer,0,Nigeria,Upper
-Coal Power Plant,2030,0.85,day,summer,0,Nigeria,Upper
-Coal Power Plant,2030,0.85,night,autumn,0,Nigeria,Upper
-Coal Power Plant,2030,0.85,day,autumn,0,Nigeria,Upper
-Coal Power Plant,2040,0.85,night,winter,0,Nigeria,Upper
-Coal Power Plant,2040,0.85,day,winter,0,Nigeria,Upper
-Coal Power Plant,2040,0.85,night,spring,0,Nigeria,Upper
-Coal Power Plant,2040,0.85,day,spring,0,Nigeria,Upper
-Coal Power Plant,2040,0.85,night,summer,0,Nigeria,Upper
-Coal Power Plant,2040,0.85,day,summer,0,Nigeria,Upper
-Coal Power Plant,2040,0.85,night,autumn,0,Nigeria,Upper
-Coal Power Plant,2040,0.85,day,autumn,0,Nigeria,Upper
-Coal Power Plant,2050,0.85,night,winter,0,Nigeria,Upper
-Coal Power Plant,2050,0.85,day,winter,0,Nigeria,Upper
-Coal Power Plant,2050,0.85,night,spring,0,Nigeria,Upper
-Coal Power Plant,2050,0.85,day,spring,0,Nigeria,Upper
-Coal Power Plant,2050,0.85,night,summer,0,Nigeria,Upper
-Coal Power Plant,2050,0.85,day,summer,0,Nigeria,Upper
-Coal Power Plant,2050,0.85,night,autumn,0,Nigeria,Upper
-Coal Power Plant,2050,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2015,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2015,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2015,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2015,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2015,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2015,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2015,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2015,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2020,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2020,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2020,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2020,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2020,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2020,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2020,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2020,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2025,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2025,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2025,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2025,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2025,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2025,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2025,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2025,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2030,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2030,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2030,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2030,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2030,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2030,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2030,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2030,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2040,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2040,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2040,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2040,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2040,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2040,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2040,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2040,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2050,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2050,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (CCGT),2050,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2050,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (CCGT),2050,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2050,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (CCGT),2050,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (CCGT),2050,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2015,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2015,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2015,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2015,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2015,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2015,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2015,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2015,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2020,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2020,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2020,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2020,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2020,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2020,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2020,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2020,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2025,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2025,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2025,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2025,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2025,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2025,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2025,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2025,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2030,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2030,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2030,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2030,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2030,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2030,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2030,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2030,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2040,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2040,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2040,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2040,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2040,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2040,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2040,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2040,0.85,day,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2050,0.85,night,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2050,0.85,day,winter,0,Nigeria,Upper
-Gas Power Plant (SCGT),2050,0.85,night,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2050,0.85,day,spring,0,Nigeria,Upper
-Gas Power Plant (SCGT),2050,0.85,night,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2050,0.85,day,summer,0,Nigeria,Upper
-Gas Power Plant (SCGT),2050,0.85,night,autumn,0,Nigeria,Upper
-Gas Power Plant (SCGT),2050,0.85,day,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2015,0.79,night,winter,0,Nigeria,Upper
-Geothermal Power Plant,2015,0.79,day,winter,0,Nigeria,Upper
-Geothermal Power Plant,2015,0.79,night,spring,0,Nigeria,Upper
-Geothermal Power Plant,2015,0.79,day,spring,0,Nigeria,Upper
-Geothermal Power Plant,2015,0.79,night,summer,0,Nigeria,Upper
-Geothermal Power Plant,2015,0.79,day,summer,0,Nigeria,Upper
-Geothermal Power Plant,2015,0.79,night,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2015,0.79,day,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2020,0.79,night,winter,0,Nigeria,Upper
-Geothermal Power Plant,2020,0.79,day,winter,0,Nigeria,Upper
-Geothermal Power Plant,2020,0.79,night,spring,0,Nigeria,Upper
-Geothermal Power Plant,2020,0.79,day,spring,0,Nigeria,Upper
-Geothermal Power Plant,2020,0.79,night,summer,0,Nigeria,Upper
-Geothermal Power Plant,2020,0.79,day,summer,0,Nigeria,Upper
-Geothermal Power Plant,2020,0.79,night,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2020,0.79,day,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2025,0.79,night,winter,0,Nigeria,Upper
-Geothermal Power Plant,2025,0.79,day,winter,0,Nigeria,Upper
-Geothermal Power Plant,2025,0.79,night,spring,0,Nigeria,Upper
-Geothermal Power Plant,2025,0.79,day,spring,0,Nigeria,Upper
-Geothermal Power Plant,2025,0.79,night,summer,0,Nigeria,Upper
-Geothermal Power Plant,2025,0.79,day,summer,0,Nigeria,Upper
-Geothermal Power Plant,2025,0.79,night,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2025,0.79,day,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2030,0.79,night,winter,0,Nigeria,Upper
-Geothermal Power Plant,2030,0.79,day,winter,0,Nigeria,Upper
-Geothermal Power Plant,2030,0.79,night,spring,0,Nigeria,Upper
-Geothermal Power Plant,2030,0.79,day,spring,0,Nigeria,Upper
-Geothermal Power Plant,2030,0.79,night,summer,0,Nigeria,Upper
-Geothermal Power Plant,2030,0.79,day,summer,0,Nigeria,Upper
-Geothermal Power Plant,2030,0.79,night,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2030,0.79,day,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2040,0.79,night,winter,0,Nigeria,Upper
-Geothermal Power Plant,2040,0.79,day,winter,0,Nigeria,Upper
-Geothermal Power Plant,2040,0.79,night,spring,0,Nigeria,Upper
-Geothermal Power Plant,2040,0.79,day,spring,0,Nigeria,Upper
-Geothermal Power Plant,2040,0.79,night,summer,0,Nigeria,Upper
-Geothermal Power Plant,2040,0.79,day,summer,0,Nigeria,Upper
-Geothermal Power Plant,2040,0.79,night,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2040,0.79,day,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2050,0.79,night,winter,0,Nigeria,Upper
-Geothermal Power Plant,2050,0.79,day,winter,0,Nigeria,Upper
-Geothermal Power Plant,2050,0.79,night,spring,0,Nigeria,Upper
-Geothermal Power Plant,2050,0.79,day,spring,0,Nigeria,Upper
-Geothermal Power Plant,2050,0.79,night,summer,0,Nigeria,Upper
-Geothermal Power Plant,2050,0.79,day,summer,0,Nigeria,Upper
-Geothermal Power Plant,2050,0.79,night,autumn,0,Nigeria,Upper
-Geothermal Power Plant,2050,0.79,day,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2015,0.36,night,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2015,0.36,day,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2015,0.36,night,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2015,0.36,day,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2015,0.36,night,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2015,0.36,day,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2015,0.36,night,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2015,0.36,day,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2020,0.36,night,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2020,0.36,day,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2020,0.36,night,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2020,0.36,day,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2020,0.36,night,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2020,0.36,day,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2020,0.36,night,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2020,0.36,day,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2025,0.36,night,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2025,0.36,day,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2025,0.36,night,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2025,0.36,day,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2025,0.36,night,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2025,0.36,day,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2025,0.36,night,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2025,0.36,day,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2030,0.36,night,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2030,0.36,day,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2030,0.36,night,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2030,0.36,day,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2030,0.36,night,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2030,0.36,day,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2030,0.36,night,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2030,0.36,day,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2040,0.36,night,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2040,0.36,day,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2040,0.36,night,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2040,0.36,day,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2040,0.36,night,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2040,0.36,day,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2040,0.36,night,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2040,0.36,day,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2050,0.36,night,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2050,0.36,day,winter,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2050,0.36,night,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2050,0.36,day,spring,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2050,0.36,night,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2050,0.36,day,summer,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2050,0.36,night,autumn,0,Nigeria,Upper
-Large Hydropower Plant (Dam) (>100MW),2050,0.36,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2015,0.8,night,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2015,0.8,day,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2015,0.8,night,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2015,0.8,day,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2015,0.8,night,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2015,0.8,day,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2015,0.8,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2015,0.8,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2020,0.8,night,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2020,0.8,day,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2020,0.8,night,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2020,0.8,day,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2020,0.8,night,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2020,0.8,day,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2020,0.8,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2020,0.8,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2025,0.8,night,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2025,0.8,day,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2025,0.8,night,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2025,0.8,day,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2025,0.8,night,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2025,0.8,day,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2025,0.8,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2025,0.8,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2030,0.8,night,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2030,0.8,day,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2030,0.8,night,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2030,0.8,day,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2030,0.8,night,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2030,0.8,day,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2030,0.8,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2030,0.8,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2040,0.8,night,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2040,0.8,day,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2040,0.8,night,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2040,0.8,day,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2040,0.8,night,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2040,0.8,day,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2040,0.8,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2040,0.8,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2050,0.8,night,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2050,0.8,day,winter,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2050,0.8,night,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2050,0.8,day,spring,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2050,0.8,night,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2050,0.8,day,summer,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2050,0.8,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Power Plant,2050,0.8,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2015,0.3,night,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2015,0.3,day,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2015,0.3,night,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2015,0.3,day,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2015,0.3,night,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2015,0.3,day,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2015,0.3,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2015,0.3,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2020,0.3,night,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2020,0.3,day,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2020,0.3,night,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2020,0.3,day,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2020,0.3,night,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2020,0.3,day,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2020,0.3,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2020,0.3,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2025,0.3,night,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2025,0.3,day,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2025,0.3,night,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2025,0.3,day,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2025,0.3,night,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2025,0.3,day,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2025,0.3,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2025,0.3,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2030,0.3,night,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2030,0.3,day,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2030,0.3,night,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2030,0.3,day,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2030,0.3,night,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2030,0.3,day,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2030,0.3,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2030,0.3,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2040,0.3,night,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2040,0.3,day,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2040,0.3,night,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2040,0.3,day,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2040,0.3,night,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2040,0.3,day,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2040,0.3,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2040,0.3,day,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2050,0.3,night,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2050,0.3,day,winter,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2050,0.3,night,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2050,0.3,day,spring,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2050,0.3,night,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2050,0.3,day,summer,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2050,0.3,night,autumn,0,Nigeria,Upper
-Light Fuel Oil Standalone Generator (1kW),2050,0.3,day,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2015,0.36,night,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2015,0.36,day,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2015,0.36,night,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2015,0.36,day,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2015,0.36,night,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2015,0.36,day,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2015,0.36,night,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2015,0.36,day,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2020,0.36,night,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2020,0.36,day,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2020,0.36,night,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2020,0.36,day,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2020,0.36,night,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2020,0.36,day,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2020,0.36,night,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2020,0.36,day,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2025,0.36,night,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2025,0.36,day,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2025,0.36,night,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2025,0.36,day,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2025,0.36,night,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2025,0.36,day,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2025,0.36,night,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2025,0.36,day,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2030,0.36,night,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2030,0.36,day,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2030,0.36,night,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2030,0.36,day,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2030,0.36,night,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2030,0.36,day,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2030,0.36,night,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2030,0.36,day,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2040,0.36,night,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2040,0.36,day,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2040,0.36,night,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2040,0.36,day,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2040,0.36,night,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2040,0.36,day,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2040,0.36,night,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2040,0.36,day,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2050,0.36,night,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2050,0.36,day,winter,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2050,0.36,night,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2050,0.36,day,spring,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2050,0.36,night,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2050,0.36,day,summer,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2050,0.36,night,autumn,0,Nigeria,Upper
-Medium Hydropower Plant (10-100MW),2050,0.36,day,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2015,0.85,night,winter,0,Nigeria,Upper
-Nuclear Power Plant,2015,0.85,day,winter,0,Nigeria,Upper
-Nuclear Power Plant,2015,0.85,night,spring,0,Nigeria,Upper
-Nuclear Power Plant,2015,0.85,day,spring,0,Nigeria,Upper
-Nuclear Power Plant,2015,0.85,night,summer,0,Nigeria,Upper
-Nuclear Power Plant,2015,0.85,day,summer,0,Nigeria,Upper
-Nuclear Power Plant,2015,0.85,night,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2015,0.85,day,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2020,0.85,night,winter,0,Nigeria,Upper
-Nuclear Power Plant,2020,0.85,day,winter,0,Nigeria,Upper
-Nuclear Power Plant,2020,0.85,night,spring,0,Nigeria,Upper
-Nuclear Power Plant,2020,0.85,day,spring,0,Nigeria,Upper
-Nuclear Power Plant,2020,0.85,night,summer,0,Nigeria,Upper
-Nuclear Power Plant,2020,0.85,day,summer,0,Nigeria,Upper
-Nuclear Power Plant,2020,0.85,night,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2020,0.85,day,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2025,0.85,night,winter,0,Nigeria,Upper
-Nuclear Power Plant,2025,0.85,day,winter,0,Nigeria,Upper
-Nuclear Power Plant,2025,0.85,night,spring,0,Nigeria,Upper
-Nuclear Power Plant,2025,0.85,day,spring,0,Nigeria,Upper
-Nuclear Power Plant,2025,0.85,night,summer,0,Nigeria,Upper
-Nuclear Power Plant,2025,0.85,day,summer,0,Nigeria,Upper
-Nuclear Power Plant,2025,0.85,night,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2025,0.85,day,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2030,0.85,night,winter,0,Nigeria,Upper
-Nuclear Power Plant,2030,0.85,day,winter,0,Nigeria,Upper
-Nuclear Power Plant,2030,0.85,night,spring,0,Nigeria,Upper
-Nuclear Power Plant,2030,0.85,day,spring,0,Nigeria,Upper
-Nuclear Power Plant,2030,0.85,night,summer,0,Nigeria,Upper
-Nuclear Power Plant,2030,0.85,day,summer,0,Nigeria,Upper
-Nuclear Power Plant,2030,0.85,night,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2030,0.85,day,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2040,0.85,night,winter,0,Nigeria,Upper
-Nuclear Power Plant,2040,0.85,day,winter,0,Nigeria,Upper
-Nuclear Power Plant,2040,0.85,night,spring,0,Nigeria,Upper
-Nuclear Power Plant,2040,0.85,day,spring,0,Nigeria,Upper
-Nuclear Power Plant,2040,0.85,night,summer,0,Nigeria,Upper
-Nuclear Power Plant,2040,0.85,day,summer,0,Nigeria,Upper
-Nuclear Power Plant,2040,0.85,night,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2040,0.85,day,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2050,0.85,night,winter,0,Nigeria,Upper
-Nuclear Power Plant,2050,0.85,day,winter,0,Nigeria,Upper
-Nuclear Power Plant,2050,0.85,night,spring,0,Nigeria,Upper
-Nuclear Power Plant,2050,0.85,day,spring,0,Nigeria,Upper
-Nuclear Power Plant,2050,0.85,night,summer,0,Nigeria,Upper
-Nuclear Power Plant,2050,0.85,day,summer,0,Nigeria,Upper
-Nuclear Power Plant,2050,0.85,night,autumn,0,Nigeria,Upper
-Nuclear Power Plant,2050,0.85,day,autumn,0,Nigeria,Upper
-Offshore Wind,2015,0.286,night,winter,0,Nigeria,Upper
-Offshore Wind,2015,0.441,day,winter,0,Nigeria,Upper
-Offshore Wind,2015,0.326,night,spring,0,Nigeria,Upper
-Offshore Wind,2015,0.414,day,spring,0,Nigeria,Upper
-Offshore Wind,2015,0.667,night,summer,0,Nigeria,Upper
-Offshore Wind,2015,0.719,day,summer,0,Nigeria,Upper
-Offshore Wind,2015,0.335,night,autumn,0,Nigeria,Upper
-Offshore Wind,2015,0.44,day,autumn,0,Nigeria,Upper
-Offshore Wind,2020,0.286,night,winter,0,Nigeria,Upper
-Offshore Wind,2020,0.441,day,winter,0,Nigeria,Upper
-Offshore Wind,2020,0.326,night,spring,0,Nigeria,Upper
-Offshore Wind,2020,0.414,day,spring,0,Nigeria,Upper
-Offshore Wind,2020,0.667,night,summer,0,Nigeria,Upper
-Offshore Wind,2020,0.719,day,summer,0,Nigeria,Upper
-Offshore Wind,2020,0.335,night,autumn,0,Nigeria,Upper
-Offshore Wind,2020,0.44,day,autumn,0,Nigeria,Upper
-Offshore Wind,2025,0.286,night,winter,0,Nigeria,Upper
-Offshore Wind,2025,0.441,day,winter,0,Nigeria,Upper
-Offshore Wind,2025,0.326,night,spring,0,Nigeria,Upper
-Offshore Wind,2025,0.414,day,spring,0,Nigeria,Upper
-Offshore Wind,2025,0.667,night,summer,0,Nigeria,Upper
-Offshore Wind,2025,0.719,day,summer,0,Nigeria,Upper
-Offshore Wind,2025,0.335,night,autumn,0,Nigeria,Upper
-Offshore Wind,2025,0.44,day,autumn,0,Nigeria,Upper
-Offshore Wind,2030,0.286,night,winter,0,Nigeria,Upper
-Offshore Wind,2030,0.441,day,winter,0,Nigeria,Upper
-Offshore Wind,2030,0.326,night,spring,0,Nigeria,Upper
-Offshore Wind,2030,0.414,day,spring,0,Nigeria,Upper
-Offshore Wind,2030,0.667,night,summer,0,Nigeria,Upper
-Offshore Wind,2030,0.719,day,summer,0,Nigeria,Upper
-Offshore Wind,2030,0.335,night,autumn,0,Nigeria,Upper
-Offshore Wind,2030,0.44,day,autumn,0,Nigeria,Upper
-Offshore Wind,2040,0.286,night,winter,0,Nigeria,Upper
-Offshore Wind,2040,0.441,day,winter,0,Nigeria,Upper
-Offshore Wind,2040,0.326,night,spring,0,Nigeria,Upper
-Offshore Wind,2040,0.414,day,spring,0,Nigeria,Upper
-Offshore Wind,2040,0.667,night,summer,0,Nigeria,Upper
-Offshore Wind,2040,0.719,day,summer,0,Nigeria,Upper
-Offshore Wind,2040,0.335,night,autumn,0,Nigeria,Upper
-Offshore Wind,2040,0.44,day,autumn,0,Nigeria,Upper
-Offshore Wind,2050,0.286,night,winter,0,Nigeria,Upper
-Offshore Wind,2050,0.441,day,winter,0,Nigeria,Upper
-Offshore Wind,2050,0.326,night,spring,0,Nigeria,Upper
-Offshore Wind,2050,0.414,day,spring,0,Nigeria,Upper
-Offshore Wind,2050,0.667,night,summer,0,Nigeria,Upper
-Offshore Wind,2050,0.719,day,summer,0,Nigeria,Upper
-Offshore Wind,2050,0.335,night,autumn,0,Nigeria,Upper
-Offshore Wind,2050,0.44,day,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2015,0.8,night,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2015,0.8,day,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2015,0.8,night,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2015,0.8,day,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2015,0.8,night,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2015,0.8,day,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2015,0.8,night,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2015,0.8,day,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2020,0.8,night,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2020,0.8,day,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2020,0.8,night,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2020,0.8,day,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2020,0.8,night,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2020,0.8,day,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2020,0.8,night,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2020,0.8,day,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2025,0.8,night,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2025,0.8,day,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2025,0.8,night,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2025,0.8,day,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2025,0.8,night,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2025,0.8,day,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2025,0.8,night,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2025,0.8,day,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2030,0.8,night,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2030,0.8,day,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2030,0.8,night,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2030,0.8,day,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2030,0.8,night,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2030,0.8,day,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2030,0.8,night,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2030,0.8,day,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2040,0.8,night,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2040,0.8,day,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2040,0.8,night,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2040,0.8,day,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2040,0.8,night,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2040,0.8,day,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2040,0.8,night,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2040,0.8,day,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2050,0.8,night,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2050,0.8,day,winter,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2050,0.8,night,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2050,0.8,day,spring,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2050,0.8,night,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2050,0.8,day,summer,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2050,0.8,night,autumn,0,Nigeria,Upper
-Oil Fired Gas Turbine (SCGT),2050,0.8,day,autumn,0,Nigeria,Upper
-Onshore Wind,2015,0.15,night,winter,0,Nigeria,Upper
-Onshore Wind,2015,0.15,day,winter,0,Nigeria,Upper
-Onshore Wind,2015,0.15,night,spring,0,Nigeria,Upper
-Onshore Wind,2015,0.15,day,spring,0,Nigeria,Upper
-Onshore Wind,2015,0.15,night,summer,0,Nigeria,Upper
-Onshore Wind,2015,0.15,day,summer,0,Nigeria,Upper
-Onshore Wind,2015,0.15,night,autumn,0,Nigeria,Upper
-Onshore Wind,2015,0.15,day,autumn,0,Nigeria,Upper
-Onshore Wind,2020,0.15,night,winter,0,Nigeria,Upper
-Onshore Wind,2020,0.15,day,winter,0,Nigeria,Upper
-Onshore Wind,2020,0.15,night,spring,0,Nigeria,Upper
-Onshore Wind,2020,0.15,day,spring,0,Nigeria,Upper
-Onshore Wind,2020,0.15,night,summer,0,Nigeria,Upper
-Onshore Wind,2020,0.15,day,summer,0,Nigeria,Upper
-Onshore Wind,2020,0.15,night,autumn,0,Nigeria,Upper
-Onshore Wind,2020,0.15,day,autumn,0,Nigeria,Upper
-Onshore Wind,2025,0.15,night,winter,0,Nigeria,Upper
-Onshore Wind,2025,0.15,day,winter,0,Nigeria,Upper
-Onshore Wind,2025,0.15,night,spring,0,Nigeria,Upper
-Onshore Wind,2025,0.15,day,spring,0,Nigeria,Upper
-Onshore Wind,2025,0.15,night,summer,0,Nigeria,Upper
-Onshore Wind,2025,0.15,day,summer,0,Nigeria,Upper
-Onshore Wind,2025,0.15,night,autumn,0,Nigeria,Upper
-Onshore Wind,2025,0.15,day,autumn,0,Nigeria,Upper
-Onshore Wind,2030,0.15,night,winter,0,Nigeria,Upper
-Onshore Wind,2030,0.15,day,winter,0,Nigeria,Upper
-Onshore Wind,2030,0.15,night,spring,0,Nigeria,Upper
-Onshore Wind,2030,0.15,day,spring,0,Nigeria,Upper
-Onshore Wind,2030,0.15,night,summer,0,Nigeria,Upper
-Onshore Wind,2030,0.15,day,summer,0,Nigeria,Upper
-Onshore Wind,2030,0.15,night,autumn,0,Nigeria,Upper
-Onshore Wind,2030,0.15,day,autumn,0,Nigeria,Upper
-Onshore Wind,2040,0.15,night,winter,0,Nigeria,Upper
-Onshore Wind,2040,0.15,day,winter,0,Nigeria,Upper
-Onshore Wind,2040,0.15,night,spring,0,Nigeria,Upper
-Onshore Wind,2040,0.15,day,spring,0,Nigeria,Upper
-Onshore Wind,2040,0.15,night,summer,0,Nigeria,Upper
-Onshore Wind,2040,0.15,day,summer,0,Nigeria,Upper
-Onshore Wind,2040,0.15,night,autumn,0,Nigeria,Upper
-Onshore Wind,2040,0.15,day,autumn,0,Nigeria,Upper
-Onshore Wind,2050,0.15,night,winter,0,Nigeria,Upper
-Onshore Wind,2050,0.15,day,winter,0,Nigeria,Upper
-Onshore Wind,2050,0.15,night,spring,0,Nigeria,Upper
-Onshore Wind,2050,0.15,day,spring,0,Nigeria,Upper
-Onshore Wind,2050,0.15,night,summer,0,Nigeria,Upper
-Onshore Wind,2050,0.15,day,summer,0,Nigeria,Upper
-Onshore Wind,2050,0.15,night,autumn,0,Nigeria,Upper
-Onshore Wind,2050,0.15,day,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2015,0.36,night,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2015,0.36,day,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2015,0.36,night,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2015,0.36,day,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2015,0.36,night,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2015,0.36,day,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2015,0.36,night,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2015,0.36,day,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2020,0.36,night,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2020,0.36,day,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2020,0.36,night,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2020,0.36,day,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2020,0.36,night,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2020,0.36,day,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2020,0.36,night,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2020,0.36,day,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2025,0.36,night,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2025,0.36,day,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2025,0.36,night,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2025,0.36,day,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2025,0.36,night,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2025,0.36,day,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2025,0.36,night,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2025,0.36,day,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2030,0.36,night,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2030,0.36,day,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2030,0.36,night,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2030,0.36,day,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2030,0.36,night,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2030,0.36,day,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2030,0.36,night,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2030,0.36,day,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2040,0.36,night,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2040,0.36,day,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2040,0.36,night,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2040,0.36,day,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2040,0.36,night,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2040,0.36,day,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2040,0.36,night,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2040,0.36,day,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2050,0.36,night,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2050,0.36,day,winter,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2050,0.36,night,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2050,0.36,day,spring,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2050,0.36,night,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2050,0.36,day,summer,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2050,0.36,night,autumn,0,Nigeria,Upper
-Small Hydropower Plant (<10MW),2050,0.36,day,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2015,0.34,night,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2015,0.34,day,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2015,0.34,night,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2015,0.34,day,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2015,0.34,night,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2015,0.34,day,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2015,0.34,night,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2015,0.34,day,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2020,0.34,night,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2020,0.34,day,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2020,0.34,night,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2020,0.34,day,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2020,0.34,night,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2020,0.34,day,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2020,0.34,night,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2020,0.34,day,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2025,0.34,night,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2025,0.34,day,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2025,0.34,night,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2025,0.34,day,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2025,0.34,night,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2025,0.34,day,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2025,0.34,night,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2025,0.34,day,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2030,0.34,night,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2030,0.34,day,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2030,0.34,night,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2030,0.34,day,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2030,0.34,night,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2030,0.34,day,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2030,0.34,night,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2030,0.34,day,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2040,0.34,night,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2040,0.34,day,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2040,0.34,night,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2040,0.34,day,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2040,0.34,night,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2040,0.34,day,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2040,0.34,night,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2040,0.34,day,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2050,0.34,night,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2050,0.34,day,winter,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2050,0.34,night,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2050,0.34,day,spring,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2050,0.34,night,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2050,0.34,day,summer,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2050,0.34,night,autumn,0,Nigeria,Upper
-Solar PV (Distributed with Storage),2050,0.34,day,autumn,0,Nigeria,Upper
-Solar PV (Utility),2015,0.0,night,winter,0,Nigeria,Upper
-Solar PV (Utility),2015,0.33512037,day,winter,0,Nigeria,Upper
-Solar PV (Utility),2015,0.0,night,spring,0,Nigeria,Upper
-Solar PV (Utility),2015,0.302018116,day,spring,0,Nigeria,Upper
-Solar PV (Utility),2015,0.0,night,summer,0,Nigeria,Upper
-Solar PV (Utility),2015,0.309208333,day,summer,0,Nigeria,Upper
-Solar PV (Utility),2015,0.0,night,autumn,0,Nigeria,Upper
-Solar PV (Utility),2015,0.318684066,day,autumn,0,Nigeria,Upper
-Solar PV (Utility),2020,0.0,night,winter,0,Nigeria,Upper
-Solar PV (Utility),2020,0.33512037,day,winter,0,Nigeria,Upper
-Solar PV (Utility),2020,0.0,night,spring,0,Nigeria,Upper
-Solar PV (Utility),2020,0.302018116,day,spring,0,Nigeria,Upper
-Solar PV (Utility),2020,0.0,night,summer,0,Nigeria,Upper
-Solar PV (Utility),2020,0.309208333,day,summer,0,Nigeria,Upper
-Solar PV (Utility),2020,0.0,night,autumn,0,Nigeria,Upper
-Solar PV (Utility),2020,0.318684066,day,autumn,0,Nigeria,Upper
-Solar PV (Utility),2025,0.0,night,winter,0,Nigeria,Upper
-Solar PV (Utility),2025,0.33512037,day,winter,0,Nigeria,Upper
-Solar PV (Utility),2025,0.0,night,spring,0,Nigeria,Upper
-Solar PV (Utility),2025,0.302018116,day,spring,0,Nigeria,Upper
-Solar PV (Utility),2025,0.0,night,summer,0,Nigeria,Upper
-Solar PV (Utility),2025,0.309208333,day,summer,0,Nigeria,Upper
-Solar PV (Utility),2025,0.0,night,autumn,0,Nigeria,Upper
-Solar PV (Utility),2025,0.318684066,day,autumn,0,Nigeria,Upper
-Solar PV (Utility),2030,0.0,night,winter,0,Nigeria,Upper
-Solar PV (Utility),2030,0.33512037,day,winter,0,Nigeria,Upper
-Solar PV (Utility),2030,0.0,night,spring,0,Nigeria,Upper
-Solar PV (Utility),2030,0.302018116,day,spring,0,Nigeria,Upper
-Solar PV (Utility),2030,0.0,night,summer,0,Nigeria,Upper
-Solar PV (Utility),2030,0.309208333,day,summer,0,Nigeria,Upper
-Solar PV (Utility),2030,0.0,night,autumn,0,Nigeria,Upper
-Solar PV (Utility),2030,0.318684066,day,autumn,0,Nigeria,Upper
-Solar PV (Utility),2040,0.0,night,winter,0,Nigeria,Upper
-Solar PV (Utility),2040,0.33512037,day,winter,0,Nigeria,Upper
-Solar PV (Utility),2040,0.0,night,spring,0,Nigeria,Upper
-Solar PV (Utility),2040,0.302018116,day,spring,0,Nigeria,Upper
-Solar PV (Utility),2040,0.0,night,summer,0,Nigeria,Upper
-Solar PV (Utility),2040,0.309208333,day,summer,0,Nigeria,Upper
-Solar PV (Utility),2040,0.0,night,autumn,0,Nigeria,Upper
-Solar PV (Utility),2040,0.318684066,day,autumn,0,Nigeria,Upper
-Solar PV (Utility),2050,0.0,night,winter,0,Nigeria,Upper
-Solar PV (Utility),2050,0.33512037,day,winter,0,Nigeria,Upper
-Solar PV (Utility),2050,0.0,night,spring,0,Nigeria,Upper
-Solar PV (Utility),2050,0.302018116,day,spring,0,Nigeria,Upper
-Solar PV (Utility),2050,0.0,night,summer,0,Nigeria,Upper
-Solar PV (Utility),2050,0.309208333,day,summer,0,Nigeria,Upper
-Solar PV (Utility),2050,0.0,night,autumn,0,Nigeria,Upper
-Solar PV (Utility),2050,0.318684066,day,autumn,0,Nigeria,Upper
+ProcessName,RegionName,Time,ObjSort,season,day,UtilizationFactor,MinimumServiceFactor
+Biomass Power Plant,Nigeria,2015,upper,winter,night,0.5,0
+Biomass Power Plant,Nigeria,2015,upper,winter,day,0.5,0
+Biomass Power Plant,Nigeria,2015,upper,spring,night,0.5,0
+Biomass Power Plant,Nigeria,2015,upper,spring,day,0.5,0
+Biomass Power Plant,Nigeria,2015,upper,summer,night,0.5,0
+Biomass Power Plant,Nigeria,2015,upper,summer,day,0.5,0
+Biomass Power Plant,Nigeria,2015,upper,autumn,night,0.5,0
+Biomass Power Plant,Nigeria,2015,upper,autumn,day,0.5,0
+Biomass Power Plant,Nigeria,2020,upper,winter,night,0.5,0
+Biomass Power Plant,Nigeria,2020,upper,winter,day,0.5,0
+Biomass Power Plant,Nigeria,2020,upper,spring,night,0.5,0
+Biomass Power Plant,Nigeria,2020,upper,spring,day,0.5,0
+Biomass Power Plant,Nigeria,2020,upper,summer,night,0.5,0
+Biomass Power Plant,Nigeria,2020,upper,summer,day,0.5,0
+Biomass Power Plant,Nigeria,2020,upper,autumn,night,0.5,0
+Biomass Power Plant,Nigeria,2020,upper,autumn,day,0.5,0
+Biomass Power Plant,Nigeria,2025,upper,winter,night,0.5,0
+Biomass Power Plant,Nigeria,2025,upper,winter,day,0.5,0
+Biomass Power Plant,Nigeria,2025,upper,spring,night,0.5,0
+Biomass Power Plant,Nigeria,2025,upper,spring,day,0.5,0
+Biomass Power Plant,Nigeria,2025,upper,summer,night,0.5,0
+Biomass Power Plant,Nigeria,2025,upper,summer,day,0.5,0
+Biomass Power Plant,Nigeria,2025,upper,autumn,night,0.5,0
+Biomass Power Plant,Nigeria,2025,upper,autumn,day,0.5,0
+Biomass Power Plant,Nigeria,2030,upper,winter,night,0.5,0
+Biomass Power Plant,Nigeria,2030,upper,winter,day,0.5,0
+Biomass Power Plant,Nigeria,2030,upper,spring,night,0.5,0
+Biomass Power Plant,Nigeria,2030,upper,spring,day,0.5,0
+Biomass Power Plant,Nigeria,2030,upper,summer,night,0.5,0
+Biomass Power Plant,Nigeria,2030,upper,summer,day,0.5,0
+Biomass Power Plant,Nigeria,2030,upper,autumn,night,0.5,0
+Biomass Power Plant,Nigeria,2030,upper,autumn,day,0.5,0
+Biomass Power Plant,Nigeria,2040,upper,winter,night,0.5,0
+Biomass Power Plant,Nigeria,2040,upper,winter,day,0.5,0
+Biomass Power Plant,Nigeria,2040,upper,spring,night,0.5,0
+Biomass Power Plant,Nigeria,2040,upper,spring,day,0.5,0
+Biomass Power Plant,Nigeria,2040,upper,summer,night,0.5,0
+Biomass Power Plant,Nigeria,2040,upper,summer,day,0.5,0
+Biomass Power Plant,Nigeria,2040,upper,autumn,night,0.5,0
+Biomass Power Plant,Nigeria,2040,upper,autumn,day,0.5,0
+Biomass Power Plant,Nigeria,2050,upper,winter,night,0.5,0
+Biomass Power Plant,Nigeria,2050,upper,winter,day,0.5,0
+Biomass Power Plant,Nigeria,2050,upper,spring,night,0.5,0
+Biomass Power Plant,Nigeria,2050,upper,spring,day,0.5,0
+Biomass Power Plant,Nigeria,2050,upper,summer,night,0.5,0
+Biomass Power Plant,Nigeria,2050,upper,summer,day,0.5,0
+Biomass Power Plant,Nigeria,2050,upper,autumn,night,0.5,0
+Biomass Power Plant,Nigeria,2050,upper,autumn,day,0.5,0
+CSP with Storage,Nigeria,2015,upper,winter,night,0.45,0
+CSP with Storage,Nigeria,2015,upper,winter,day,0.45,0
+CSP with Storage,Nigeria,2015,upper,spring,night,0.45,0
+CSP with Storage,Nigeria,2015,upper,spring,day,0.45,0
+CSP with Storage,Nigeria,2015,upper,summer,night,0.45,0
+CSP with Storage,Nigeria,2015,upper,summer,day,0.45,0
+CSP with Storage,Nigeria,2015,upper,autumn,night,0.45,0
+CSP with Storage,Nigeria,2015,upper,autumn,day,0.45,0
+CSP with Storage,Nigeria,2020,upper,winter,night,0.45,0
+CSP with Storage,Nigeria,2020,upper,winter,day,0.45,0
+CSP with Storage,Nigeria,2020,upper,spring,night,0.45,0
+CSP with Storage,Nigeria,2020,upper,spring,day,0.45,0
+CSP with Storage,Nigeria,2020,upper,summer,night,0.45,0
+CSP with Storage,Nigeria,2020,upper,summer,day,0.45,0
+CSP with Storage,Nigeria,2020,upper,autumn,night,0.45,0
+CSP with Storage,Nigeria,2020,upper,autumn,day,0.45,0
+CSP with Storage,Nigeria,2025,upper,winter,night,0.45,0
+CSP with Storage,Nigeria,2025,upper,winter,day,0.45,0
+CSP with Storage,Nigeria,2025,upper,spring,night,0.45,0
+CSP with Storage,Nigeria,2025,upper,spring,day,0.45,0
+CSP with Storage,Nigeria,2025,upper,summer,night,0.45,0
+CSP with Storage,Nigeria,2025,upper,summer,day,0.45,0
+CSP with Storage,Nigeria,2025,upper,autumn,night,0.45,0
+CSP with Storage,Nigeria,2025,upper,autumn,day,0.45,0
+CSP with Storage,Nigeria,2030,upper,winter,night,0.45,0
+CSP with Storage,Nigeria,2030,upper,winter,day,0.45,0
+CSP with Storage,Nigeria,2030,upper,spring,night,0.45,0
+CSP with Storage,Nigeria,2030,upper,spring,day,0.45,0
+CSP with Storage,Nigeria,2030,upper,summer,night,0.45,0
+CSP with Storage,Nigeria,2030,upper,summer,day,0.45,0
+CSP with Storage,Nigeria,2030,upper,autumn,night,0.45,0
+CSP with Storage,Nigeria,2030,upper,autumn,day,0.45,0
+CSP with Storage,Nigeria,2040,upper,winter,night,0.45,0
+CSP with Storage,Nigeria,2040,upper,winter,day,0.45,0
+CSP with Storage,Nigeria,2040,upper,spring,night,0.45,0
+CSP with Storage,Nigeria,2040,upper,spring,day,0.45,0
+CSP with Storage,Nigeria,2040,upper,summer,night,0.45,0
+CSP with Storage,Nigeria,2040,upper,summer,day,0.45,0
+CSP with Storage,Nigeria,2040,upper,autumn,night,0.45,0
+CSP with Storage,Nigeria,2040,upper,autumn,day,0.45,0
+CSP with Storage,Nigeria,2050,upper,winter,night,0.45,0
+CSP with Storage,Nigeria,2050,upper,winter,day,0.45,0
+CSP with Storage,Nigeria,2050,upper,spring,night,0.45,0
+CSP with Storage,Nigeria,2050,upper,spring,day,0.45,0
+CSP with Storage,Nigeria,2050,upper,summer,night,0.45,0
+CSP with Storage,Nigeria,2050,upper,summer,day,0.45,0
+CSP with Storage,Nigeria,2050,upper,autumn,night,0.45,0
+CSP with Storage,Nigeria,2050,upper,autumn,day,0.45,0
+CSP without Storage,Nigeria,2015,upper,winter,night,0.45,0
+CSP without Storage,Nigeria,2015,upper,winter,day,0.45,0
+CSP without Storage,Nigeria,2015,upper,spring,night,0.45,0
+CSP without Storage,Nigeria,2015,upper,spring,day,0.45,0
+CSP without Storage,Nigeria,2015,upper,summer,night,0.45,0
+CSP without Storage,Nigeria,2015,upper,summer,day,0.45,0
+CSP without Storage,Nigeria,2015,upper,autumn,night,0.45,0
+CSP without Storage,Nigeria,2015,upper,autumn,day,0.45,0
+CSP without Storage,Nigeria,2020,upper,winter,night,0.45,0
+CSP without Storage,Nigeria,2020,upper,winter,day,0.45,0
+CSP without Storage,Nigeria,2020,upper,spring,night,0.45,0
+CSP without Storage,Nigeria,2020,upper,spring,day,0.45,0
+CSP without Storage,Nigeria,2020,upper,summer,night,0.45,0
+CSP without Storage,Nigeria,2020,upper,summer,day,0.45,0
+CSP without Storage,Nigeria,2020,upper,autumn,night,0.45,0
+CSP without Storage,Nigeria,2020,upper,autumn,day,0.45,0
+CSP without Storage,Nigeria,2025,upper,winter,night,0.45,0
+CSP without Storage,Nigeria,2025,upper,winter,day,0.45,0
+CSP without Storage,Nigeria,2025,upper,spring,night,0.45,0
+CSP without Storage,Nigeria,2025,upper,spring,day,0.45,0
+CSP without Storage,Nigeria,2025,upper,summer,night,0.45,0
+CSP without Storage,Nigeria,2025,upper,summer,day,0.45,0
+CSP without Storage,Nigeria,2025,upper,autumn,night,0.45,0
+CSP without Storage,Nigeria,2025,upper,autumn,day,0.45,0
+CSP without Storage,Nigeria,2030,upper,winter,night,0.45,0
+CSP without Storage,Nigeria,2030,upper,winter,day,0.45,0
+CSP without Storage,Nigeria,2030,upper,spring,night,0.45,0
+CSP without Storage,Nigeria,2030,upper,spring,day,0.45,0
+CSP without Storage,Nigeria,2030,upper,summer,night,0.45,0
+CSP without Storage,Nigeria,2030,upper,summer,day,0.45,0
+CSP without Storage,Nigeria,2030,upper,autumn,night,0.45,0
+CSP without Storage,Nigeria,2030,upper,autumn,day,0.45,0
+CSP without Storage,Nigeria,2040,upper,winter,night,0.45,0
+CSP without Storage,Nigeria,2040,upper,winter,day,0.45,0
+CSP without Storage,Nigeria,2040,upper,spring,night,0.45,0
+CSP without Storage,Nigeria,2040,upper,spring,day,0.45,0
+CSP without Storage,Nigeria,2040,upper,summer,night,0.45,0
+CSP without Storage,Nigeria,2040,upper,summer,day,0.45,0
+CSP without Storage,Nigeria,2040,upper,autumn,night,0.45,0
+CSP without Storage,Nigeria,2040,upper,autumn,day,0.45,0
+CSP without Storage,Nigeria,2050,upper,winter,night,0.45,0
+CSP without Storage,Nigeria,2050,upper,winter,day,0.45,0
+CSP without Storage,Nigeria,2050,upper,spring,night,0.45,0
+CSP without Storage,Nigeria,2050,upper,spring,day,0.45,0
+CSP without Storage,Nigeria,2050,upper,summer,night,0.45,0
+CSP without Storage,Nigeria,2050,upper,summer,day,0.45,0
+CSP without Storage,Nigeria,2050,upper,autumn,night,0.45,0
+CSP without Storage,Nigeria,2050,upper,autumn,day,0.45,0
+Coal Power Plant,Nigeria,2015,upper,winter,night,0.85,0
+Coal Power Plant,Nigeria,2015,upper,winter,day,0.85,0
+Coal Power Plant,Nigeria,2015,upper,spring,night,0.85,0
+Coal Power Plant,Nigeria,2015,upper,spring,day,0.85,0
+Coal Power Plant,Nigeria,2015,upper,summer,night,0.85,0
+Coal Power Plant,Nigeria,2015,upper,summer,day,0.85,0
+Coal Power Plant,Nigeria,2015,upper,autumn,night,0.85,0
+Coal Power Plant,Nigeria,2015,upper,autumn,day,0.85,0
+Coal Power Plant,Nigeria,2020,upper,winter,night,0.85,0
+Coal Power Plant,Nigeria,2020,upper,winter,day,0.85,0
+Coal Power Plant,Nigeria,2020,upper,spring,night,0.85,0
+Coal Power Plant,Nigeria,2020,upper,spring,day,0.85,0
+Coal Power Plant,Nigeria,2020,upper,summer,night,0.85,0
+Coal Power Plant,Nigeria,2020,upper,summer,day,0.85,0
+Coal Power Plant,Nigeria,2020,upper,autumn,night,0.85,0
+Coal Power Plant,Nigeria,2020,upper,autumn,day,0.85,0
+Coal Power Plant,Nigeria,2025,upper,winter,night,0.85,0
+Coal Power Plant,Nigeria,2025,upper,winter,day,0.85,0
+Coal Power Plant,Nigeria,2025,upper,spring,night,0.85,0
+Coal Power Plant,Nigeria,2025,upper,spring,day,0.85,0
+Coal Power Plant,Nigeria,2025,upper,summer,night,0.85,0
+Coal Power Plant,Nigeria,2025,upper,summer,day,0.85,0
+Coal Power Plant,Nigeria,2025,upper,autumn,night,0.85,0
+Coal Power Plant,Nigeria,2025,upper,autumn,day,0.85,0
+Coal Power Plant,Nigeria,2030,upper,winter,night,0.85,0
+Coal Power Plant,Nigeria,2030,upper,winter,day,0.85,0
+Coal Power Plant,Nigeria,2030,upper,spring,night,0.85,0
+Coal Power Plant,Nigeria,2030,upper,spring,day,0.85,0
+Coal Power Plant,Nigeria,2030,upper,summer,night,0.85,0
+Coal Power Plant,Nigeria,2030,upper,summer,day,0.85,0
+Coal Power Plant,Nigeria,2030,upper,autumn,night,0.85,0
+Coal Power Plant,Nigeria,2030,upper,autumn,day,0.85,0
+Coal Power Plant,Nigeria,2040,upper,winter,night,0.85,0
+Coal Power Plant,Nigeria,2040,upper,winter,day,0.85,0
+Coal Power Plant,Nigeria,2040,upper,spring,night,0.85,0
+Coal Power Plant,Nigeria,2040,upper,spring,day,0.85,0
+Coal Power Plant,Nigeria,2040,upper,summer,night,0.85,0
+Coal Power Plant,Nigeria,2040,upper,summer,day,0.85,0
+Coal Power Plant,Nigeria,2040,upper,autumn,night,0.85,0
+Coal Power Plant,Nigeria,2040,upper,autumn,day,0.85,0
+Coal Power Plant,Nigeria,2050,upper,winter,night,0.85,0
+Coal Power Plant,Nigeria,2050,upper,winter,day,0.85,0
+Coal Power Plant,Nigeria,2050,upper,spring,night,0.85,0
+Coal Power Plant,Nigeria,2050,upper,spring,day,0.85,0
+Coal Power Plant,Nigeria,2050,upper,summer,night,0.85,0
+Coal Power Plant,Nigeria,2050,upper,summer,day,0.85,0
+Coal Power Plant,Nigeria,2050,upper,autumn,night,0.85,0
+Coal Power Plant,Nigeria,2050,upper,autumn,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2015,upper,winter,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2015,upper,winter,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2015,upper,spring,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2015,upper,spring,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2015,upper,summer,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2015,upper,summer,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2015,upper,autumn,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2015,upper,autumn,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2020,upper,winter,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2020,upper,winter,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2020,upper,spring,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2020,upper,spring,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2020,upper,summer,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2020,upper,summer,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2020,upper,autumn,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2020,upper,autumn,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2025,upper,winter,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2025,upper,winter,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2025,upper,spring,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2025,upper,spring,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2025,upper,summer,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2025,upper,summer,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2025,upper,autumn,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2025,upper,autumn,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2030,upper,winter,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2030,upper,winter,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2030,upper,spring,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2030,upper,spring,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2030,upper,summer,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2030,upper,summer,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2030,upper,autumn,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2030,upper,autumn,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2040,upper,winter,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2040,upper,winter,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2040,upper,spring,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2040,upper,spring,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2040,upper,summer,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2040,upper,summer,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2040,upper,autumn,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2040,upper,autumn,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2050,upper,winter,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2050,upper,winter,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2050,upper,spring,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2050,upper,spring,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2050,upper,summer,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2050,upper,summer,day,0.85,0
+Gas Power Plant (CCGT),Nigeria,2050,upper,autumn,night,0.85,0
+Gas Power Plant (CCGT),Nigeria,2050,upper,autumn,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2015,upper,winter,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2015,upper,winter,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2015,upper,spring,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2015,upper,spring,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2015,upper,summer,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2015,upper,summer,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2015,upper,autumn,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2015,upper,autumn,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2020,upper,winter,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2020,upper,winter,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2020,upper,spring,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2020,upper,spring,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2020,upper,summer,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2020,upper,summer,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2020,upper,autumn,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2020,upper,autumn,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2025,upper,winter,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2025,upper,winter,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2025,upper,spring,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2025,upper,spring,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2025,upper,summer,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2025,upper,summer,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2025,upper,autumn,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2025,upper,autumn,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2030,upper,winter,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2030,upper,winter,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2030,upper,spring,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2030,upper,spring,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2030,upper,summer,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2030,upper,summer,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2030,upper,autumn,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2030,upper,autumn,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2040,upper,winter,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2040,upper,winter,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2040,upper,spring,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2040,upper,spring,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2040,upper,summer,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2040,upper,summer,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2040,upper,autumn,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2040,upper,autumn,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2050,upper,winter,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2050,upper,winter,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2050,upper,spring,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2050,upper,spring,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2050,upper,summer,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2050,upper,summer,day,0.85,0
+Gas Power Plant (SCGT),Nigeria,2050,upper,autumn,night,0.85,0
+Gas Power Plant (SCGT),Nigeria,2050,upper,autumn,day,0.85,0
+Geothermal Power Plant,Nigeria,2015,upper,winter,night,0.79,0
+Geothermal Power Plant,Nigeria,2015,upper,winter,day,0.79,0
+Geothermal Power Plant,Nigeria,2015,upper,spring,night,0.79,0
+Geothermal Power Plant,Nigeria,2015,upper,spring,day,0.79,0
+Geothermal Power Plant,Nigeria,2015,upper,summer,night,0.79,0
+Geothermal Power Plant,Nigeria,2015,upper,summer,day,0.79,0
+Geothermal Power Plant,Nigeria,2015,upper,autumn,night,0.79,0
+Geothermal Power Plant,Nigeria,2015,upper,autumn,day,0.79,0
+Geothermal Power Plant,Nigeria,2020,upper,winter,night,0.79,0
+Geothermal Power Plant,Nigeria,2020,upper,winter,day,0.79,0
+Geothermal Power Plant,Nigeria,2020,upper,spring,night,0.79,0
+Geothermal Power Plant,Nigeria,2020,upper,spring,day,0.79,0
+Geothermal Power Plant,Nigeria,2020,upper,summer,night,0.79,0
+Geothermal Power Plant,Nigeria,2020,upper,summer,day,0.79,0
+Geothermal Power Plant,Nigeria,2020,upper,autumn,night,0.79,0
+Geothermal Power Plant,Nigeria,2020,upper,autumn,day,0.79,0
+Geothermal Power Plant,Nigeria,2025,upper,winter,night,0.79,0
+Geothermal Power Plant,Nigeria,2025,upper,winter,day,0.79,0
+Geothermal Power Plant,Nigeria,2025,upper,spring,night,0.79,0
+Geothermal Power Plant,Nigeria,2025,upper,spring,day,0.79,0
+Geothermal Power Plant,Nigeria,2025,upper,summer,night,0.79,0
+Geothermal Power Plant,Nigeria,2025,upper,summer,day,0.79,0
+Geothermal Power Plant,Nigeria,2025,upper,autumn,night,0.79,0
+Geothermal Power Plant,Nigeria,2025,upper,autumn,day,0.79,0
+Geothermal Power Plant,Nigeria,2030,upper,winter,night,0.79,0
+Geothermal Power Plant,Nigeria,2030,upper,winter,day,0.79,0
+Geothermal Power Plant,Nigeria,2030,upper,spring,night,0.79,0
+Geothermal Power Plant,Nigeria,2030,upper,spring,day,0.79,0
+Geothermal Power Plant,Nigeria,2030,upper,summer,night,0.79,0
+Geothermal Power Plant,Nigeria,2030,upper,summer,day,0.79,0
+Geothermal Power Plant,Nigeria,2030,upper,autumn,night,0.79,0
+Geothermal Power Plant,Nigeria,2030,upper,autumn,day,0.79,0
+Geothermal Power Plant,Nigeria,2040,upper,winter,night,0.79,0
+Geothermal Power Plant,Nigeria,2040,upper,winter,day,0.79,0
+Geothermal Power Plant,Nigeria,2040,upper,spring,night,0.79,0
+Geothermal Power Plant,Nigeria,2040,upper,spring,day,0.79,0
+Geothermal Power Plant,Nigeria,2040,upper,summer,night,0.79,0
+Geothermal Power Plant,Nigeria,2040,upper,summer,day,0.79,0
+Geothermal Power Plant,Nigeria,2040,upper,autumn,night,0.79,0
+Geothermal Power Plant,Nigeria,2040,upper,autumn,day,0.79,0
+Geothermal Power Plant,Nigeria,2050,upper,winter,night,0.79,0
+Geothermal Power Plant,Nigeria,2050,upper,winter,day,0.79,0
+Geothermal Power Plant,Nigeria,2050,upper,spring,night,0.79,0
+Geothermal Power Plant,Nigeria,2050,upper,spring,day,0.79,0
+Geothermal Power Plant,Nigeria,2050,upper,summer,night,0.79,0
+Geothermal Power Plant,Nigeria,2050,upper,summer,day,0.79,0
+Geothermal Power Plant,Nigeria,2050,upper,autumn,night,0.79,0
+Geothermal Power Plant,Nigeria,2050,upper,autumn,day,0.79,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,upper,winter,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,upper,winter,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,upper,spring,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,upper,spring,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,upper,summer,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,upper,summer,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,upper,autumn,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,upper,autumn,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,upper,winter,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,upper,winter,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,upper,spring,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,upper,spring,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,upper,summer,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,upper,summer,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,upper,autumn,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,upper,autumn,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,upper,winter,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,upper,winter,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,upper,spring,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,upper,spring,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,upper,summer,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,upper,summer,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,upper,autumn,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,upper,autumn,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,upper,winter,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,upper,winter,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,upper,spring,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,upper,spring,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,upper,summer,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,upper,summer,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,upper,autumn,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,upper,autumn,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2040,upper,winter,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2040,upper,winter,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2040,upper,spring,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2040,upper,spring,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2040,upper,summer,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2040,upper,summer,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2040,upper,autumn,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2040,upper,autumn,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2050,upper,winter,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2050,upper,winter,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2050,upper,spring,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2050,upper,spring,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2050,upper,summer,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2050,upper,summer,day,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2050,upper,autumn,night,0.36,0
+Large Hydropower Plant (Dam) (>100MW),Nigeria,2050,upper,autumn,day,0.36,0
+Light Fuel Oil Power Plant,Nigeria,2015,upper,winter,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2015,upper,winter,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2015,upper,spring,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2015,upper,spring,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2015,upper,summer,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2015,upper,summer,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2015,upper,autumn,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2015,upper,autumn,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2020,upper,winter,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2020,upper,winter,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2020,upper,spring,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2020,upper,spring,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2020,upper,summer,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2020,upper,summer,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2020,upper,autumn,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2020,upper,autumn,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2025,upper,winter,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2025,upper,winter,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2025,upper,spring,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2025,upper,spring,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2025,upper,summer,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2025,upper,summer,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2025,upper,autumn,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2025,upper,autumn,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2030,upper,winter,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2030,upper,winter,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2030,upper,spring,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2030,upper,spring,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2030,upper,summer,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2030,upper,summer,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2030,upper,autumn,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2030,upper,autumn,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2040,upper,winter,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2040,upper,winter,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2040,upper,spring,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2040,upper,spring,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2040,upper,summer,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2040,upper,summer,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2040,upper,autumn,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2040,upper,autumn,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2050,upper,winter,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2050,upper,winter,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2050,upper,spring,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2050,upper,spring,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2050,upper,summer,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2050,upper,summer,day,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2050,upper,autumn,night,0.8,0
+Light Fuel Oil Power Plant,Nigeria,2050,upper,autumn,day,0.8,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2015,upper,winter,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2015,upper,winter,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2015,upper,spring,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2015,upper,spring,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2015,upper,summer,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2015,upper,summer,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2015,upper,autumn,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2015,upper,autumn,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,upper,winter,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,upper,winter,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,upper,spring,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,upper,spring,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,upper,summer,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,upper,summer,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,upper,autumn,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,upper,autumn,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2025,upper,winter,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2025,upper,winter,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2025,upper,spring,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2025,upper,spring,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2025,upper,summer,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2025,upper,summer,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2025,upper,autumn,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2025,upper,autumn,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2030,upper,winter,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2030,upper,winter,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2030,upper,spring,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2030,upper,spring,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2030,upper,summer,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2030,upper,summer,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2030,upper,autumn,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2030,upper,autumn,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2040,upper,winter,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2040,upper,winter,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2040,upper,spring,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2040,upper,spring,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2040,upper,summer,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2040,upper,summer,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2040,upper,autumn,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2040,upper,autumn,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2050,upper,winter,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2050,upper,winter,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2050,upper,spring,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2050,upper,spring,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2050,upper,summer,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2050,upper,summer,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2050,upper,autumn,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Nigeria,2050,upper,autumn,day,0.3,0
+Medium Hydropower Plant (10-100MW),Nigeria,2015,upper,winter,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2015,upper,winter,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2015,upper,spring,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2015,upper,spring,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2015,upper,summer,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2015,upper,summer,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2015,upper,autumn,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2015,upper,autumn,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2020,upper,winter,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2020,upper,winter,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2020,upper,spring,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2020,upper,spring,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2020,upper,summer,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2020,upper,summer,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2020,upper,autumn,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2020,upper,autumn,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2025,upper,winter,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2025,upper,winter,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2025,upper,spring,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2025,upper,spring,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2025,upper,summer,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2025,upper,summer,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2025,upper,autumn,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2025,upper,autumn,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2030,upper,winter,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2030,upper,winter,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2030,upper,spring,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2030,upper,spring,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2030,upper,summer,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2030,upper,summer,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2030,upper,autumn,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2030,upper,autumn,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2040,upper,winter,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2040,upper,winter,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2040,upper,spring,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2040,upper,spring,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2040,upper,summer,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2040,upper,summer,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2040,upper,autumn,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2040,upper,autumn,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2050,upper,winter,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2050,upper,winter,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2050,upper,spring,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2050,upper,spring,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2050,upper,summer,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2050,upper,summer,day,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2050,upper,autumn,night,0.36,0
+Medium Hydropower Plant (10-100MW),Nigeria,2050,upper,autumn,day,0.36,0
+Nuclear Power Plant,Nigeria,2015,upper,winter,night,0.85,0
+Nuclear Power Plant,Nigeria,2015,upper,winter,day,0.85,0
+Nuclear Power Plant,Nigeria,2015,upper,spring,night,0.85,0
+Nuclear Power Plant,Nigeria,2015,upper,spring,day,0.85,0
+Nuclear Power Plant,Nigeria,2015,upper,summer,night,0.85,0
+Nuclear Power Plant,Nigeria,2015,upper,summer,day,0.85,0
+Nuclear Power Plant,Nigeria,2015,upper,autumn,night,0.85,0
+Nuclear Power Plant,Nigeria,2015,upper,autumn,day,0.85,0
+Nuclear Power Plant,Nigeria,2020,upper,winter,night,0.85,0
+Nuclear Power Plant,Nigeria,2020,upper,winter,day,0.85,0
+Nuclear Power Plant,Nigeria,2020,upper,spring,night,0.85,0
+Nuclear Power Plant,Nigeria,2020,upper,spring,day,0.85,0
+Nuclear Power Plant,Nigeria,2020,upper,summer,night,0.85,0
+Nuclear Power Plant,Nigeria,2020,upper,summer,day,0.85,0
+Nuclear Power Plant,Nigeria,2020,upper,autumn,night,0.85,0
+Nuclear Power Plant,Nigeria,2020,upper,autumn,day,0.85,0
+Nuclear Power Plant,Nigeria,2025,upper,winter,night,0.85,0
+Nuclear Power Plant,Nigeria,2025,upper,winter,day,0.85,0
+Nuclear Power Plant,Nigeria,2025,upper,spring,night,0.85,0
+Nuclear Power Plant,Nigeria,2025,upper,spring,day,0.85,0
+Nuclear Power Plant,Nigeria,2025,upper,summer,night,0.85,0
+Nuclear Power Plant,Nigeria,2025,upper,summer,day,0.85,0
+Nuclear Power Plant,Nigeria,2025,upper,autumn,night,0.85,0
+Nuclear Power Plant,Nigeria,2025,upper,autumn,day,0.85,0
+Nuclear Power Plant,Nigeria,2030,upper,winter,night,0.85,0
+Nuclear Power Plant,Nigeria,2030,upper,winter,day,0.85,0
+Nuclear Power Plant,Nigeria,2030,upper,spring,night,0.85,0
+Nuclear Power Plant,Nigeria,2030,upper,spring,day,0.85,0
+Nuclear Power Plant,Nigeria,2030,upper,summer,night,0.85,0
+Nuclear Power Plant,Nigeria,2030,upper,summer,day,0.85,0
+Nuclear Power Plant,Nigeria,2030,upper,autumn,night,0.85,0
+Nuclear Power Plant,Nigeria,2030,upper,autumn,day,0.85,0
+Nuclear Power Plant,Nigeria,2040,upper,winter,night,0.85,0
+Nuclear Power Plant,Nigeria,2040,upper,winter,day,0.85,0
+Nuclear Power Plant,Nigeria,2040,upper,spring,night,0.85,0
+Nuclear Power Plant,Nigeria,2040,upper,spring,day,0.85,0
+Nuclear Power Plant,Nigeria,2040,upper,summer,night,0.85,0
+Nuclear Power Plant,Nigeria,2040,upper,summer,day,0.85,0
+Nuclear Power Plant,Nigeria,2040,upper,autumn,night,0.85,0
+Nuclear Power Plant,Nigeria,2040,upper,autumn,day,0.85,0
+Nuclear Power Plant,Nigeria,2050,upper,winter,night,0.85,0
+Nuclear Power Plant,Nigeria,2050,upper,winter,day,0.85,0
+Nuclear Power Plant,Nigeria,2050,upper,spring,night,0.85,0
+Nuclear Power Plant,Nigeria,2050,upper,spring,day,0.85,0
+Nuclear Power Plant,Nigeria,2050,upper,summer,night,0.85,0
+Nuclear Power Plant,Nigeria,2050,upper,summer,day,0.85,0
+Nuclear Power Plant,Nigeria,2050,upper,autumn,night,0.85,0
+Nuclear Power Plant,Nigeria,2050,upper,autumn,day,0.85,0
+Offshore Wind,Nigeria,2015,upper,winter,night,0.286,0
+Offshore Wind,Nigeria,2015,upper,winter,day,0.441,0
+Offshore Wind,Nigeria,2015,upper,spring,night,0.326,0
+Offshore Wind,Nigeria,2015,upper,spring,day,0.414,0
+Offshore Wind,Nigeria,2015,upper,summer,night,0.667,0
+Offshore Wind,Nigeria,2015,upper,summer,day,0.719,0
+Offshore Wind,Nigeria,2015,upper,autumn,night,0.335,0
+Offshore Wind,Nigeria,2015,upper,autumn,day,0.44,0
+Offshore Wind,Nigeria,2020,upper,winter,night,0.286,0
+Offshore Wind,Nigeria,2020,upper,winter,day,0.441,0
+Offshore Wind,Nigeria,2020,upper,spring,night,0.326,0
+Offshore Wind,Nigeria,2020,upper,spring,day,0.414,0
+Offshore Wind,Nigeria,2020,upper,summer,night,0.667,0
+Offshore Wind,Nigeria,2020,upper,summer,day,0.719,0
+Offshore Wind,Nigeria,2020,upper,autumn,night,0.335,0
+Offshore Wind,Nigeria,2020,upper,autumn,day,0.44,0
+Offshore Wind,Nigeria,2025,upper,winter,night,0.286,0
+Offshore Wind,Nigeria,2025,upper,winter,day,0.441,0
+Offshore Wind,Nigeria,2025,upper,spring,night,0.326,0
+Offshore Wind,Nigeria,2025,upper,spring,day,0.414,0
+Offshore Wind,Nigeria,2025,upper,summer,night,0.667,0
+Offshore Wind,Nigeria,2025,upper,summer,day,0.719,0
+Offshore Wind,Nigeria,2025,upper,autumn,night,0.335,0
+Offshore Wind,Nigeria,2025,upper,autumn,day,0.44,0
+Offshore Wind,Nigeria,2030,upper,winter,night,0.286,0
+Offshore Wind,Nigeria,2030,upper,winter,day,0.441,0
+Offshore Wind,Nigeria,2030,upper,spring,night,0.326,0
+Offshore Wind,Nigeria,2030,upper,spring,day,0.414,0
+Offshore Wind,Nigeria,2030,upper,summer,night,0.667,0
+Offshore Wind,Nigeria,2030,upper,summer,day,0.719,0
+Offshore Wind,Nigeria,2030,upper,autumn,night,0.335,0
+Offshore Wind,Nigeria,2030,upper,autumn,day,0.44,0
+Offshore Wind,Nigeria,2040,upper,winter,night,0.286,0
+Offshore Wind,Nigeria,2040,upper,winter,day,0.441,0
+Offshore Wind,Nigeria,2040,upper,spring,night,0.326,0
+Offshore Wind,Nigeria,2040,upper,spring,day,0.414,0
+Offshore Wind,Nigeria,2040,upper,summer,night,0.667,0
+Offshore Wind,Nigeria,2040,upper,summer,day,0.719,0
+Offshore Wind,Nigeria,2040,upper,autumn,night,0.335,0
+Offshore Wind,Nigeria,2040,upper,autumn,day,0.44,0
+Offshore Wind,Nigeria,2050,upper,winter,night,0.286,0
+Offshore Wind,Nigeria,2050,upper,winter,day,0.441,0
+Offshore Wind,Nigeria,2050,upper,spring,night,0.326,0
+Offshore Wind,Nigeria,2050,upper,spring,day,0.414,0
+Offshore Wind,Nigeria,2050,upper,summer,night,0.667,0
+Offshore Wind,Nigeria,2050,upper,summer,day,0.719,0
+Offshore Wind,Nigeria,2050,upper,autumn,night,0.335,0
+Offshore Wind,Nigeria,2050,upper,autumn,day,0.44,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2015,upper,winter,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2015,upper,winter,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2015,upper,spring,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2015,upper,spring,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2015,upper,summer,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2015,upper,summer,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2015,upper,autumn,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2015,upper,autumn,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2020,upper,winter,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2020,upper,winter,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2020,upper,spring,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2020,upper,spring,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2020,upper,summer,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2020,upper,summer,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2020,upper,autumn,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2020,upper,autumn,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2025,upper,winter,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2025,upper,winter,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2025,upper,spring,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2025,upper,spring,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2025,upper,summer,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2025,upper,summer,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2025,upper,autumn,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2025,upper,autumn,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2030,upper,winter,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2030,upper,winter,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2030,upper,spring,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2030,upper,spring,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2030,upper,summer,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2030,upper,summer,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2030,upper,autumn,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2030,upper,autumn,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2040,upper,winter,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2040,upper,winter,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2040,upper,spring,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2040,upper,spring,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2040,upper,summer,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2040,upper,summer,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2040,upper,autumn,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2040,upper,autumn,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2050,upper,winter,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2050,upper,winter,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2050,upper,spring,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2050,upper,spring,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2050,upper,summer,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2050,upper,summer,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2050,upper,autumn,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Nigeria,2050,upper,autumn,day,0.8,0
+Onshore Wind,Nigeria,2015,upper,winter,night,0.15,0
+Onshore Wind,Nigeria,2015,upper,winter,day,0.15,0
+Onshore Wind,Nigeria,2015,upper,spring,night,0.15,0
+Onshore Wind,Nigeria,2015,upper,spring,day,0.15,0
+Onshore Wind,Nigeria,2015,upper,summer,night,0.15,0
+Onshore Wind,Nigeria,2015,upper,summer,day,0.15,0
+Onshore Wind,Nigeria,2015,upper,autumn,night,0.15,0
+Onshore Wind,Nigeria,2015,upper,autumn,day,0.15,0
+Onshore Wind,Nigeria,2020,upper,winter,night,0.15,0
+Onshore Wind,Nigeria,2020,upper,winter,day,0.15,0
+Onshore Wind,Nigeria,2020,upper,spring,night,0.15,0
+Onshore Wind,Nigeria,2020,upper,spring,day,0.15,0
+Onshore Wind,Nigeria,2020,upper,summer,night,0.15,0
+Onshore Wind,Nigeria,2020,upper,summer,day,0.15,0
+Onshore Wind,Nigeria,2020,upper,autumn,night,0.15,0
+Onshore Wind,Nigeria,2020,upper,autumn,day,0.15,0
+Onshore Wind,Nigeria,2025,upper,winter,night,0.15,0
+Onshore Wind,Nigeria,2025,upper,winter,day,0.15,0
+Onshore Wind,Nigeria,2025,upper,spring,night,0.15,0
+Onshore Wind,Nigeria,2025,upper,spring,day,0.15,0
+Onshore Wind,Nigeria,2025,upper,summer,night,0.15,0
+Onshore Wind,Nigeria,2025,upper,summer,day,0.15,0
+Onshore Wind,Nigeria,2025,upper,autumn,night,0.15,0
+Onshore Wind,Nigeria,2025,upper,autumn,day,0.15,0
+Onshore Wind,Nigeria,2030,upper,winter,night,0.15,0
+Onshore Wind,Nigeria,2030,upper,winter,day,0.15,0
+Onshore Wind,Nigeria,2030,upper,spring,night,0.15,0
+Onshore Wind,Nigeria,2030,upper,spring,day,0.15,0
+Onshore Wind,Nigeria,2030,upper,summer,night,0.15,0
+Onshore Wind,Nigeria,2030,upper,summer,day,0.15,0
+Onshore Wind,Nigeria,2030,upper,autumn,night,0.15,0
+Onshore Wind,Nigeria,2030,upper,autumn,day,0.15,0
+Onshore Wind,Nigeria,2040,upper,winter,night,0.15,0
+Onshore Wind,Nigeria,2040,upper,winter,day,0.15,0
+Onshore Wind,Nigeria,2040,upper,spring,night,0.15,0
+Onshore Wind,Nigeria,2040,upper,spring,day,0.15,0
+Onshore Wind,Nigeria,2040,upper,summer,night,0.15,0
+Onshore Wind,Nigeria,2040,upper,summer,day,0.15,0
+Onshore Wind,Nigeria,2040,upper,autumn,night,0.15,0
+Onshore Wind,Nigeria,2040,upper,autumn,day,0.15,0
+Onshore Wind,Nigeria,2050,upper,winter,night,0.15,0
+Onshore Wind,Nigeria,2050,upper,winter,day,0.15,0
+Onshore Wind,Nigeria,2050,upper,spring,night,0.15,0
+Onshore Wind,Nigeria,2050,upper,spring,day,0.15,0
+Onshore Wind,Nigeria,2050,upper,summer,night,0.15,0
+Onshore Wind,Nigeria,2050,upper,summer,day,0.15,0
+Onshore Wind,Nigeria,2050,upper,autumn,night,0.15,0
+Onshore Wind,Nigeria,2050,upper,autumn,day,0.15,0
+Small Hydropower Plant (<10MW),Nigeria,2015,upper,winter,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2015,upper,winter,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2015,upper,spring,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2015,upper,spring,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2015,upper,summer,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2015,upper,summer,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2015,upper,autumn,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2015,upper,autumn,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2020,upper,winter,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2020,upper,winter,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2020,upper,spring,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2020,upper,spring,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2020,upper,summer,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2020,upper,summer,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2020,upper,autumn,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2020,upper,autumn,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2025,upper,winter,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2025,upper,winter,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2025,upper,spring,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2025,upper,spring,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2025,upper,summer,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2025,upper,summer,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2025,upper,autumn,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2025,upper,autumn,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2030,upper,winter,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2030,upper,winter,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2030,upper,spring,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2030,upper,spring,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2030,upper,summer,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2030,upper,summer,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2030,upper,autumn,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2030,upper,autumn,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2040,upper,winter,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2040,upper,winter,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2040,upper,spring,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2040,upper,spring,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2040,upper,summer,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2040,upper,summer,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2040,upper,autumn,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2040,upper,autumn,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2050,upper,winter,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2050,upper,winter,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2050,upper,spring,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2050,upper,spring,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2050,upper,summer,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2050,upper,summer,day,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2050,upper,autumn,night,0.36,0
+Small Hydropower Plant (<10MW),Nigeria,2050,upper,autumn,day,0.36,0
+Solar PV (Distributed with Storage),Nigeria,2015,upper,winter,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2015,upper,winter,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2015,upper,spring,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2015,upper,spring,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2015,upper,summer,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2015,upper,summer,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2015,upper,autumn,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2015,upper,autumn,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2020,upper,winter,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2020,upper,winter,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2020,upper,spring,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2020,upper,spring,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2020,upper,summer,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2020,upper,summer,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2020,upper,autumn,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2020,upper,autumn,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2025,upper,winter,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2025,upper,winter,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2025,upper,spring,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2025,upper,spring,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2025,upper,summer,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2025,upper,summer,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2025,upper,autumn,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2025,upper,autumn,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2030,upper,winter,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2030,upper,winter,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2030,upper,spring,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2030,upper,spring,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2030,upper,summer,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2030,upper,summer,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2030,upper,autumn,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2030,upper,autumn,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2040,upper,winter,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2040,upper,winter,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2040,upper,spring,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2040,upper,spring,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2040,upper,summer,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2040,upper,summer,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2040,upper,autumn,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2040,upper,autumn,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2050,upper,winter,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2050,upper,winter,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2050,upper,spring,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2050,upper,spring,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2050,upper,summer,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2050,upper,summer,day,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2050,upper,autumn,night,0.34,0
+Solar PV (Distributed with Storage),Nigeria,2050,upper,autumn,day,0.34,0
+Solar PV (Utility),Nigeria,2015,upper,winter,night,0.0,0
+Solar PV (Utility),Nigeria,2015,upper,winter,day,0.33512037,0
+Solar PV (Utility),Nigeria,2015,upper,spring,night,0.0,0
+Solar PV (Utility),Nigeria,2015,upper,spring,day,0.302018116,0
+Solar PV (Utility),Nigeria,2015,upper,summer,night,0.0,0
+Solar PV (Utility),Nigeria,2015,upper,summer,day,0.309208333,0
+Solar PV (Utility),Nigeria,2015,upper,autumn,night,0.0,0
+Solar PV (Utility),Nigeria,2015,upper,autumn,day,0.318684066,0
+Solar PV (Utility),Nigeria,2020,upper,winter,night,0.0,0
+Solar PV (Utility),Nigeria,2020,upper,winter,day,0.33512037,0
+Solar PV (Utility),Nigeria,2020,upper,spring,night,0.0,0
+Solar PV (Utility),Nigeria,2020,upper,spring,day,0.302018116,0
+Solar PV (Utility),Nigeria,2020,upper,summer,night,0.0,0
+Solar PV (Utility),Nigeria,2020,upper,summer,day,0.309208333,0
+Solar PV (Utility),Nigeria,2020,upper,autumn,night,0.0,0
+Solar PV (Utility),Nigeria,2020,upper,autumn,day,0.318684066,0
+Solar PV (Utility),Nigeria,2025,upper,winter,night,0.0,0
+Solar PV (Utility),Nigeria,2025,upper,winter,day,0.33512037,0
+Solar PV (Utility),Nigeria,2025,upper,spring,night,0.0,0
+Solar PV (Utility),Nigeria,2025,upper,spring,day,0.302018116,0
+Solar PV (Utility),Nigeria,2025,upper,summer,night,0.0,0
+Solar PV (Utility),Nigeria,2025,upper,summer,day,0.309208333,0
+Solar PV (Utility),Nigeria,2025,upper,autumn,night,0.0,0
+Solar PV (Utility),Nigeria,2025,upper,autumn,day,0.318684066,0
+Solar PV (Utility),Nigeria,2030,upper,winter,night,0.0,0
+Solar PV (Utility),Nigeria,2030,upper,winter,day,0.33512037,0
+Solar PV (Utility),Nigeria,2030,upper,spring,night,0.0,0
+Solar PV (Utility),Nigeria,2030,upper,spring,day,0.302018116,0
+Solar PV (Utility),Nigeria,2030,upper,summer,night,0.0,0
+Solar PV (Utility),Nigeria,2030,upper,summer,day,0.309208333,0
+Solar PV (Utility),Nigeria,2030,upper,autumn,night,0.0,0
+Solar PV (Utility),Nigeria,2030,upper,autumn,day,0.318684066,0
+Solar PV (Utility),Nigeria,2040,upper,winter,night,0.0,0
+Solar PV (Utility),Nigeria,2040,upper,winter,day,0.33512037,0
+Solar PV (Utility),Nigeria,2040,upper,spring,night,0.0,0
+Solar PV (Utility),Nigeria,2040,upper,spring,day,0.302018116,0
+Solar PV (Utility),Nigeria,2040,upper,summer,night,0.0,0
+Solar PV (Utility),Nigeria,2040,upper,summer,day,0.309208333,0
+Solar PV (Utility),Nigeria,2040,upper,autumn,night,0.0,0
+Solar PV (Utility),Nigeria,2040,upper,autumn,day,0.318684066,0
+Solar PV (Utility),Nigeria,2050,upper,winter,night,0.0,0
+Solar PV (Utility),Nigeria,2050,upper,winter,day,0.33512037,0
+Solar PV (Utility),Nigeria,2050,upper,spring,night,0.0,0
+Solar PV (Utility),Nigeria,2050,upper,spring,day,0.302018116,0
+Solar PV (Utility),Nigeria,2050,upper,summer,night,0.0,0
+Solar PV (Utility),Nigeria,2050,upper,summer,day,0.309208333,0
+Solar PV (Utility),Nigeria,2050,upper,autumn,night,0.0,0
+Solar PV (Utility),Nigeria,2050,upper,autumn,day,0.318684066,0

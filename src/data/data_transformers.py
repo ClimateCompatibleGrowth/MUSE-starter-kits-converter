@@ -561,7 +561,20 @@ class Transformer:
         technodata_timeslices = technodata_timeslices[
             technodata_timeslices["ProcessName"] != "Wind"
         ]
-        technodata_timeslices["ObjSort"] = "Upper"
+        technodata_timeslices["ObjSort"] = "upper"
+
+        technodata_timeslices = technodata_timeslices[
+            [
+                "ProcessName",
+                "RegionName",
+                "Time",
+                "ObjSort",
+                "season",
+                "day",
+                "UtilizationFactor",
+                "MinimumServiceFactor",
+            ]
+        ]
 
         return technodata_timeslices
 

@@ -1,25 +1,14 @@
 ,commodity,region,technology,year,supply
-0,CO2f,Kenya,Biomass Power Plant,2020,139.32000000000
-1,CO2f,Kenya,Light Fuel Oil Power Plant,2020,493.47140000000
-2,CO2f,Kenya,Oil Fired Gas Turbine (SCGT),2020,856.91830000000
-3,CO2f,Kenya,Biomass Power Plant,2025,125.38800000000
-4,CO2f,Kenya,Light Fuel Oil Power Plant,2025,444.12430000000
-5,CO2f,Kenya,Oil Fired Gas Turbine (SCGT),2025,771.22650000000
-6,electricity,Kenya,Biomass Power Plant,2020,1.39320000000
-7,electricity,Kenya,Geothermal Power Plant,2020,10.24810000000
-8,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,7.41550000000
-9,electricity,Kenya,Light Fuel Oil Power Plant,2020,7.12080000000
-10,electricity,Kenya,Medium Hydropower Plant (10-100MW),2020,3.69740000000
-11,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2020,11.07130000000
-12,electricity,Kenya,Onshore Wind,2020,2.01550000000
-13,electricity,Kenya,Solar PV (Distributed with Storage),2020,0.37490000000
-14,electricity,Kenya,Solar PV (Utility),2020,0.23780000000
-15,electricity,Kenya,Biomass Power Plant,2025,1.25390000000
-16,electricity,Kenya,Geothermal Power Plant,2025,411.84630000000
-17,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2025,6.67400000000
-18,electricity,Kenya,Light Fuel Oil Power Plant,2025,6.40870000000
-19,electricity,Kenya,Medium Hydropower Plant (10-100MW),2025,3.32760000000
-20,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2025,9.96420000000
-21,electricity,Kenya,Onshore Wind,2025,1.81390000000
-22,electricity,Kenya,Solar PV (Distributed with Storage),2025,0.33740000000
-23,electricity,Kenya,Solar PV (Utility),2025,0.21400000000
+0,CO2f,Kenya,Biomass Power Plant,2020,1114.56000000000
+1,electricity,Kenya,Biomass Power Plant,2020,11.14560000000
+2,electricity,Kenya,Geothermal Power Plant,2020,81.98460000000
+3,electricity,Kenya,Geothermal Power Plant,2025,561.65300000000
+4,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,59.32430000000
+5,electricity,Kenya,Medium Hydropower Plant (10-100MW),2020,29.57890000000
+6,electricity,Kenya,Medium Hydropower Plant (10-100MW),2025,26.62100000000
+7,CO2f,Kenya,Oil Fired Gas Turbine (SCGT),2020,5744.90270000000
+8,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2020,74.22350000000
+9,electricity,Kenya,Onshore Wind,2020,16.12400000000
+10,electricity,Kenya,Solar PV (Distributed with Storage),2020,2.99910000000
+11,electricity,Kenya,Solar PV (Utility),2020,0.94000000000
+12,electricity,Kenya,Solar PV (Utility),2025,0.84600000000

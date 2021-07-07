@@ -4,7 +4,7 @@ foresight = 5   # Has to be a multiple of the minimum separation between the yea
 regions = ["Kenya"]
 interest_rate = 0.1
 interpolation_mode = 'Active'
-log_level = 'info'
+log_level = 'debug'
 excluded_commodities = ["crude_oil", "biomass", "coal", "gas", "geothermal", "hydro", "solar", "uranium", "wind", "heat", "HFO", "LFO"]
 
 
@@ -51,7 +51,7 @@ global_commodities = '{path}/input/GlobalCommodities.csv'
 [sectors.power]
 type = 'default'
 priority = 2
-dispatch_production = 'share'
+dispatch_production = 'costed'
 
 technodata = '{path}/technodata/power/Technodata.csv'
 commodities_in = '{path}/technodata/power/CommIn.csv'

@@ -1,85 +1,25 @@
 timeslice,commodity,region,supply,units_prices,year
-"('all-year', 'all-week', 'night')",CO2f,Kenya,248.28500000000,MUS$2020/kt,2020
-"('all-year', 'all-week', 'night')",electricity,Kenya,7.26240000000,MUS$2020/PJ,2020
-"('all-year', 'all-week', 'morning')",CO2f,Kenya,248.28500000000,MUS$2020/kt,2020
-"('all-year', 'all-week', 'morning')",electricity,Kenya,7.26240000000,MUS$2020/PJ,2020
-"('all-year', 'all-week', 'afternoon')",CO2f,Kenya,248.28500000000,MUS$2020/kt,2020
-"('all-year', 'all-week', 'afternoon')",electricity,Kenya,7.26240000000,MUS$2020/PJ,2020
-"('all-year', 'all-week', 'early-peak')",CO2f,Kenya,248.28500000000,MUS$2020/kt,2020
-"('all-year', 'all-week', 'early-peak')",electricity,Kenya,7.26240000000,MUS$2020/PJ,2020
-"('all-year', 'all-week', 'late-peak')",CO2f,Kenya,248.28500000000,MUS$2020/kt,2020
-"('all-year', 'all-week', 'late-peak')",electricity,Kenya,7.26240000000,MUS$2020/PJ,2020
-"('all-year', 'all-week', 'evening')",CO2f,Kenya,248.28500000000,MUS$2020/kt,2020
-"('all-year', 'all-week', 'evening')",electricity,Kenya,7.26240000000,MUS$2020/PJ,2020
-"('all-year', 'all-week', 'night')",CO2f,Kenya,223.45650000000,MUS$2020/kt,2025
-"('all-year', 'all-week', 'night')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
-"('all-year', 'all-week', 'morning')",CO2f,Kenya,223.45650000000,MUS$2020/kt,2025
-"('all-year', 'all-week', 'morning')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
-"('all-year', 'all-week', 'afternoon')",CO2f,Kenya,223.45650000000,MUS$2020/kt,2025
-"('all-year', 'all-week', 'afternoon')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
-"('all-year', 'all-week', 'early-peak')",CO2f,Kenya,223.45650000000,MUS$2020/kt,2025
-"('all-year', 'all-week', 'early-peak')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
-"('all-year', 'all-week', 'late-peak')",CO2f,Kenya,223.45650000000,MUS$2020/kt,2025
-"('all-year', 'all-week', 'late-peak')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
-"('all-year', 'all-week', 'evening')",CO2f,Kenya,223.45650000000,MUS$2020/kt,2025
-"('all-year', 'all-week', 'evening')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
-"('all-year', 'all-week', 'night')",CO2f,Kenya,201.11420000000,MUS$2020/kt,2030
-"('all-year', 'all-week', 'night')",electricity,Kenya,112.74000000000,MUS$2020/PJ,2030
-"('all-year', 'all-week', 'morning')",CO2f,Kenya,201.11420000000,MUS$2020/kt,2030
-"('all-year', 'all-week', 'morning')",electricity,Kenya,112.74000000000,MUS$2020/PJ,2030
-"('all-year', 'all-week', 'afternoon')",CO2f,Kenya,201.11420000000,MUS$2020/kt,2030
-"('all-year', 'all-week', 'afternoon')",electricity,Kenya,112.74000000000,MUS$2020/PJ,2030
-"('all-year', 'all-week', 'early-peak')",CO2f,Kenya,201.11420000000,MUS$2020/kt,2030
-"('all-year', 'all-week', 'early-peak')",electricity,Kenya,112.74000000000,MUS$2020/PJ,2030
-"('all-year', 'all-week', 'late-peak')",CO2f,Kenya,201.11420000000,MUS$2020/kt,2030
-"('all-year', 'all-week', 'late-peak')",electricity,Kenya,112.74000000000,MUS$2020/PJ,2030
-"('all-year', 'all-week', 'evening')",CO2f,Kenya,201.11420000000,MUS$2020/kt,2030
-"('all-year', 'all-week', 'evening')",electricity,Kenya,112.74000000000,MUS$2020/PJ,2030
-"('all-year', 'all-week', 'night')",CO2f,Kenya,186.08810000000,MUS$2020/kt,2035
-"('all-year', 'all-week', 'night')",electricity,Kenya,151.84000000000,MUS$2020/PJ,2035
-"('all-year', 'all-week', 'morning')",CO2f,Kenya,186.08810000000,MUS$2020/kt,2035
-"('all-year', 'all-week', 'morning')",electricity,Kenya,151.84000000000,MUS$2020/PJ,2035
-"('all-year', 'all-week', 'afternoon')",CO2f,Kenya,186.08810000000,MUS$2020/kt,2035
-"('all-year', 'all-week', 'afternoon')",electricity,Kenya,151.84000000000,MUS$2020/PJ,2035
-"('all-year', 'all-week', 'early-peak')",CO2f,Kenya,186.08810000000,MUS$2020/kt,2035
-"('all-year', 'all-week', 'early-peak')",electricity,Kenya,151.84000000000,MUS$2020/PJ,2035
-"('all-year', 'all-week', 'late-peak')",CO2f,Kenya,186.08810000000,MUS$2020/kt,2035
-"('all-year', 'all-week', 'late-peak')",electricity,Kenya,151.84000000000,MUS$2020/PJ,2035
-"('all-year', 'all-week', 'evening')",CO2f,Kenya,186.08810000000,MUS$2020/kt,2035
-"('all-year', 'all-week', 'evening')",electricity,Kenya,151.84000000000,MUS$2020/PJ,2035
-"('all-year', 'all-week', 'night')",CO2f,Kenya,167.98820000000,MUS$2020/kt,2040
-"('all-year', 'all-week', 'night')",electricity,Kenya,190.94000000000,MUS$2020/PJ,2040
-"('all-year', 'all-week', 'morning')",CO2f,Kenya,167.98820000000,MUS$2020/kt,2040
-"('all-year', 'all-week', 'morning')",electricity,Kenya,190.94000000000,MUS$2020/PJ,2040
-"('all-year', 'all-week', 'afternoon')",CO2f,Kenya,167.98820000000,MUS$2020/kt,2040
-"('all-year', 'all-week', 'afternoon')",electricity,Kenya,190.94000000000,MUS$2020/PJ,2040
-"('all-year', 'all-week', 'early-peak')",CO2f,Kenya,167.98820000000,MUS$2020/kt,2040
-"('all-year', 'all-week', 'early-peak')",electricity,Kenya,190.94000000000,MUS$2020/PJ,2040
-"('all-year', 'all-week', 'late-peak')",CO2f,Kenya,167.98820000000,MUS$2020/kt,2040
-"('all-year', 'all-week', 'late-peak')",electricity,Kenya,190.94000000000,MUS$2020/PJ,2040
-"('all-year', 'all-week', 'evening')",CO2f,Kenya,167.98820000000,MUS$2020/kt,2040
-"('all-year', 'all-week', 'evening')",electricity,Kenya,190.94000000000,MUS$2020/PJ,2040
-"('all-year', 'all-week', 'night')",CO2f,Kenya,151.69820000000,MUS$2020/kt,2045
-"('all-year', 'all-week', 'night')",electricity,Kenya,230.04000000000,MUS$2020/PJ,2045
-"('all-year', 'all-week', 'morning')",CO2f,Kenya,151.69820000000,MUS$2020/kt,2045
-"('all-year', 'all-week', 'morning')",electricity,Kenya,230.04000000000,MUS$2020/PJ,2045
-"('all-year', 'all-week', 'afternoon')",CO2f,Kenya,151.69820000000,MUS$2020/kt,2045
-"('all-year', 'all-week', 'afternoon')",electricity,Kenya,230.04000000000,MUS$2020/PJ,2045
-"('all-year', 'all-week', 'early-peak')",CO2f,Kenya,151.69820000000,MUS$2020/kt,2045
-"('all-year', 'all-week', 'early-peak')",electricity,Kenya,230.04000000000,MUS$2020/PJ,2045
-"('all-year', 'all-week', 'late-peak')",CO2f,Kenya,151.69820000000,MUS$2020/kt,2045
-"('all-year', 'all-week', 'late-peak')",electricity,Kenya,230.04000000000,MUS$2020/PJ,2045
-"('all-year', 'all-week', 'evening')",CO2f,Kenya,151.69820000000,MUS$2020/kt,2045
-"('all-year', 'all-week', 'evening')",electricity,Kenya,230.04000000000,MUS$2020/PJ,2045
-"('all-year', 'all-week', 'night')",CO2f,Kenya,218.96140000000,MUS$2020/kt,2050
-"('all-year', 'all-week', 'night')",electricity,Kenya,269.14000000000,MUS$2020/PJ,2050
-"('all-year', 'all-week', 'morning')",CO2f,Kenya,218.96140000000,MUS$2020/kt,2050
-"('all-year', 'all-week', 'morning')",electricity,Kenya,269.14000000000,MUS$2020/PJ,2050
-"('all-year', 'all-week', 'afternoon')",CO2f,Kenya,218.96140000000,MUS$2020/kt,2050
-"('all-year', 'all-week', 'afternoon')",electricity,Kenya,269.14000000000,MUS$2020/PJ,2050
-"('all-year', 'all-week', 'early-peak')",CO2f,Kenya,218.96140000000,MUS$2020/kt,2050
-"('all-year', 'all-week', 'early-peak')",electricity,Kenya,269.14000000000,MUS$2020/PJ,2050
-"('all-year', 'all-week', 'late-peak')",CO2f,Kenya,218.96140000000,MUS$2020/kt,2050
-"('all-year', 'all-week', 'late-peak')",electricity,Kenya,269.14000000000,MUS$2020/PJ,2050
-"('all-year', 'all-week', 'evening')",CO2f,Kenya,218.96140000000,MUS$2020/kt,2050
-"('all-year', 'all-week', 'evening')",electricity,Kenya,269.14000000000,MUS$2020/PJ,2050
+"('winter', 'night')",CO2f,Kenya,866.52700000000,MUS$2020/kt,2020
+"('winter', 'night')",electricity,Kenya,34.54000000000,MUS$2020/PJ,2020
+"('winter', 'day')",CO2f,Kenya,847.25380000000,MUS$2020/kt,2020
+"('winter', 'day')",electricity,Kenya,34.54000000000,MUS$2020/PJ,2020
+"('spring', 'night')",CO2f,Kenya,866.52700000000,MUS$2020/kt,2020
+"('spring', 'night')",electricity,Kenya,34.54000000000,MUS$2020/PJ,2020
+"('spring', 'day')",CO2f,Kenya,849.15760000000,MUS$2020/kt,2020
+"('spring', 'day')",electricity,Kenya,34.54000000000,MUS$2020/PJ,2020
+"('summer', 'night')",CO2f,Kenya,866.52700000000,MUS$2020/kt,2020
+"('summer', 'night')",electricity,Kenya,34.54000000000,MUS$2020/PJ,2020
+"('summer', 'day')",CO2f,Kenya,848.74410000000,MUS$2020/kt,2020
+"('summer', 'day')",electricity,Kenya,34.54000000000,MUS$2020/PJ,2020
+"('autumn', 'night')",CO2f,Kenya,866.52700000000,MUS$2020/kt,2020
+"('autumn', 'night')",electricity,Kenya,34.54000000000,MUS$2020/PJ,2020
+"('autumn', 'day')",CO2f,Kenya,848.19910000000,MUS$2020/kt,2020
+"('autumn', 'day')",electricity,Kenya,34.54000000000,MUS$2020/PJ,2020
+"('winter', 'night')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
+"('winter', 'day')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
+"('spring', 'night')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
+"('spring', 'day')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
+"('summer', 'night')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
+"('summer', 'day')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
+"('autumn', 'night')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
+"('autumn', 'day')",electricity,Kenya,73.64000000000,MUS$2020/PJ,2025
