@@ -56,6 +56,7 @@ dispatch_production = 'share'
 technodata = '{path}/technodata/power/Technodata.csv'
 commodities_in = '{path}/technodata/power/CommIn.csv'
 commodities_out = '{path}/technodata/power/CommOut.csv'
+technodata_timeslices = '{path}/technodata/power/TechnodataTimeslices.csv'
 
 [sectors.power.subsectors.retro_and_new]
 agents = '{path}/technodata/Agents.csv'
@@ -127,10 +128,12 @@ consumption_path= "{path}/technodata/preset/*Consumption.csv"
 
 
 [timeslices]
-all-year.all-week.night = 1460
-all-year.all-week.morning = 1460
-all-year.all-week.afternoon = 1460
-all-year.all-week.early-peak = 1460
-all-year.all-week.late-peak = 1460
-all-year.all-week.evening = 1460
-level_names = ["month", "day", "hour"]
+winter.night = 1095
+winter.day = 1095
+spring.night = 1095
+spring.day = 1095
+summer.night = 1095
+summer.day = 1095
+autumn.night = 1095
+autumn.day = 1095
+level_names = ["season", "day"]

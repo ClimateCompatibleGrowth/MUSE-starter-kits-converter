@@ -1,0 +1,97 @@
+ProcessName,RegionName,Time,Level,UtilizationFactor,season,day,MinimumServiceFactor
+Onshore Wind,Tunisia,2020,fixed,0.191144444,winter,night,0
+Onshore Wind,Tunisia,2020,fixed,0.214233025,winter,day,0
+Onshore Wind,Tunisia,2020,fixed,0.19665006,spring,night,0
+Onshore Wind,Tunisia,2020,fixed,0.219770833,spring,day,0
+Onshore Wind,Tunisia,2020,fixed,0.218094807,summer,night,0
+Onshore Wind,Tunisia,2020,fixed,0.149673309,summer,day,0
+Onshore Wind,Tunisia,2020,fixed,0.226881258,autumn,night,0
+Onshore Wind,Tunisia,2020,fixed,0.235435592,autumn,day,0
+Onshore Wind,Tunisia,2015,fixed,0.191144444,winter,night,0
+Onshore Wind,Tunisia,2015,fixed,0.214233025,winter,day,0
+Onshore Wind,Tunisia,2015,fixed,0.19665006,spring,night,0
+Onshore Wind,Tunisia,2015,fixed,0.219770833,spring,day,0
+Onshore Wind,Tunisia,2015,fixed,0.218094807,summer,night,0
+Onshore Wind,Tunisia,2015,fixed,0.149673309,summer,day,0
+Onshore Wind,Tunisia,2015,fixed,0.226881258,autumn,night,0
+Onshore Wind,Tunisia,2015,fixed,0.235435592,autumn,day,0
+Onshore Wind,Tunisia,2025,fixed,0.191144444,winter,night,0
+Onshore Wind,Tunisia,2025,fixed,0.214233025,winter,day,0
+Onshore Wind,Tunisia,2025,fixed,0.19665006,spring,night,0
+Onshore Wind,Tunisia,2025,fixed,0.219770833,spring,day,0
+Onshore Wind,Tunisia,2025,fixed,0.218094807,summer,night,0
+Onshore Wind,Tunisia,2025,fixed,0.149673309,summer,day,0
+Onshore Wind,Tunisia,2025,fixed,0.226881258,autumn,night,0
+Onshore Wind,Tunisia,2025,fixed,0.235435592,autumn,day,0
+Onshore Wind,Tunisia,2030,fixed,0.191144444,winter,night,0
+Onshore Wind,Tunisia,2030,fixed,0.214233025,winter,day,0
+Onshore Wind,Tunisia,2030,fixed,0.19665006,spring,night,0
+Onshore Wind,Tunisia,2030,fixed,0.219770833,spring,day,0
+Onshore Wind,Tunisia,2030,fixed,0.218094807,summer,night,0
+Onshore Wind,Tunisia,2030,fixed,0.149673309,summer,day,0
+Onshore Wind,Tunisia,2030,fixed,0.226881258,autumn,night,0
+Onshore Wind,Tunisia,2030,fixed,0.235435592,autumn,day,0
+Onshore Wind,Tunisia,2040,fixed,0.191144444,winter,night,0
+Onshore Wind,Tunisia,2040,fixed,0.214233025,winter,day,0
+Onshore Wind,Tunisia,2040,fixed,0.19665006,spring,night,0
+Onshore Wind,Tunisia,2040,fixed,0.219770833,spring,day,0
+Onshore Wind,Tunisia,2040,fixed,0.218094807,summer,night,0
+Onshore Wind,Tunisia,2040,fixed,0.149673309,summer,day,0
+Onshore Wind,Tunisia,2040,fixed,0.226881258,autumn,night,0
+Onshore Wind,Tunisia,2040,fixed,0.235435592,autumn,day,0
+Onshore Wind,Tunisia,2050,fixed,0.191144444,winter,night,0
+Onshore Wind,Tunisia,2050,fixed,0.214233025,winter,day,0
+Onshore Wind,Tunisia,2050,fixed,0.19665006,spring,night,0
+Onshore Wind,Tunisia,2050,fixed,0.219770833,spring,day,0
+Onshore Wind,Tunisia,2050,fixed,0.218094807,summer,night,0
+Onshore Wind,Tunisia,2050,fixed,0.149673309,summer,day,0
+Onshore Wind,Tunisia,2050,fixed,0.226881258,autumn,night,0
+Onshore Wind,Tunisia,2050,fixed,0.235435592,autumn,day,0
+Solar PV (Utility),Tunisia,2020,fixed,0.0,winter,night,0
+Solar PV (Utility),Tunisia,2020,fixed,0.33512037,winter,day,0
+Solar PV (Utility),Tunisia,2020,fixed,0.0,spring,night,0
+Solar PV (Utility),Tunisia,2020,fixed,0.302018116,spring,day,0
+Solar PV (Utility),Tunisia,2020,fixed,0.0,summer,night,0
+Solar PV (Utility),Tunisia,2020,fixed,0.309208333,summer,day,0
+Solar PV (Utility),Tunisia,2020,fixed,0.0,autumn,night,0
+Solar PV (Utility),Tunisia,2020,fixed,0.318684066,autumn,day,0
+Solar PV (Utility),Tunisia,2015,fixed,0.0,winter,night,0
+Solar PV (Utility),Tunisia,2015,fixed,0.33512037,winter,day,0
+Solar PV (Utility),Tunisia,2015,fixed,0.0,spring,night,0
+Solar PV (Utility),Tunisia,2015,fixed,0.302018116,spring,day,0
+Solar PV (Utility),Tunisia,2015,fixed,0.0,summer,night,0
+Solar PV (Utility),Tunisia,2015,fixed,0.309208333,summer,day,0
+Solar PV (Utility),Tunisia,2015,fixed,0.0,autumn,night,0
+Solar PV (Utility),Tunisia,2015,fixed,0.318684066,autumn,day,0
+Solar PV (Utility),Tunisia,2025,fixed,0.0,winter,night,0
+Solar PV (Utility),Tunisia,2025,fixed,0.33512037,winter,day,0
+Solar PV (Utility),Tunisia,2025,fixed,0.0,spring,night,0
+Solar PV (Utility),Tunisia,2025,fixed,0.302018116,spring,day,0
+Solar PV (Utility),Tunisia,2025,fixed,0.0,summer,night,0
+Solar PV (Utility),Tunisia,2025,fixed,0.309208333,summer,day,0
+Solar PV (Utility),Tunisia,2025,fixed,0.0,autumn,night,0
+Solar PV (Utility),Tunisia,2025,fixed,0.318684066,autumn,day,0
+Solar PV (Utility),Tunisia,2030,fixed,0.0,winter,night,0
+Solar PV (Utility),Tunisia,2030,fixed,0.33512037,winter,day,0
+Solar PV (Utility),Tunisia,2030,fixed,0.0,spring,night,0
+Solar PV (Utility),Tunisia,2030,fixed,0.302018116,spring,day,0
+Solar PV (Utility),Tunisia,2030,fixed,0.0,summer,night,0
+Solar PV (Utility),Tunisia,2030,fixed,0.309208333,summer,day,0
+Solar PV (Utility),Tunisia,2030,fixed,0.0,autumn,night,0
+Solar PV (Utility),Tunisia,2030,fixed,0.318684066,autumn,day,0
+Solar PV (Utility),Tunisia,2040,fixed,0.0,winter,night,0
+Solar PV (Utility),Tunisia,2040,fixed,0.33512037,winter,day,0
+Solar PV (Utility),Tunisia,2040,fixed,0.0,spring,night,0
+Solar PV (Utility),Tunisia,2040,fixed,0.302018116,spring,day,0
+Solar PV (Utility),Tunisia,2040,fixed,0.0,summer,night,0
+Solar PV (Utility),Tunisia,2040,fixed,0.309208333,summer,day,0
+Solar PV (Utility),Tunisia,2040,fixed,0.0,autumn,night,0
+Solar PV (Utility),Tunisia,2040,fixed,0.318684066,autumn,day,0
+Solar PV (Utility),Tunisia,2050,fixed,0.0,winter,night,0
+Solar PV (Utility),Tunisia,2050,fixed,0.33512037,winter,day,0
+Solar PV (Utility),Tunisia,2050,fixed,0.0,spring,night,0
+Solar PV (Utility),Tunisia,2050,fixed,0.302018116,spring,day,0
+Solar PV (Utility),Tunisia,2050,fixed,0.0,summer,night,0
+Solar PV (Utility),Tunisia,2050,fixed,0.309208333,summer,day,0
+Solar PV (Utility),Tunisia,2050,fixed,0.0,autumn,night,0
+Solar PV (Utility),Tunisia,2050,fixed,0.318684066,autumn,day,0

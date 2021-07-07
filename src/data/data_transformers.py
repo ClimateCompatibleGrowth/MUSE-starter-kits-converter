@@ -45,6 +45,12 @@ class Transformer:
         muse_data["technodata"]["power"]["CommOut"] = self.get_comm_out(
             technodata=muse_data["technodata"]["power"]["Technodata"]
         )
+        muse_data["technodata"]["power"][
+            "TechnodataTimeslices"
+        ] = self.get_technodata_timeslices(
+            technodata=muse_data["technodata"]["power"]["Technodata"]
+        )
+
         muse_data["technodata"]["oil"] = {"Technodata": self.convert_oil_technodata()}
         muse_data["technodata"]["oil"]["CommIn"] = self.get_oil_comm_in(
             technodata=muse_data["technodata"]["oil"]["Technodata"]
@@ -350,7 +356,21 @@ class Transformer:
         technoeconomic_data = self.raw_tables["Table2"]
         growth_limits = self.raw_tables["Table8"]
 
-        growth_limits["Value"] = growth_limits.Value * 24 * 365 * 3.6e-6
+        growth_limits.loc[growth_limits["Technology"].str.contains("(MW)"), "Value"] = (
+            growth_limits.loc[growth_limits["Technology"].str.contains("(MW)"), "Value"]
+            * 24
+            * 365
+            * 3.6e-6
+        )
+
+        growth_limits.loc[
+            growth_limits["Technology"].str.contains("(Twh/yr)"), "Value"
+        ] = (
+            growth_limits.loc[
+                growth_limits["Technology"].str.contains("(Twh/yr)"), "Value"
+            ]
+            * 3.6
+        )
 
         growth_limits["Technology"] = growth_limits.Technology.str.replace(
             "Geothermal (MW)", "Geothermal Power Plant", regex=False
@@ -487,6 +507,63 @@ class Transformer:
 
         return forwardfilled_projected_technoeconomic
 
+    def get_technodata_timeslices(self, technodata):
+        example_ttslices = pd.read_csv(
+            str(PROJECT_DIR)
+            + "/data/external/muse_data/default_timeslice/technodata/power/TechnodataTimeslices.csv"
+        )
+
+        capacity_factors = pd.read_csv(
+            str(PROJECT_DIR) + "/data/interim/timeslices/Kenya-CFs.csv"
+        )
+        capacity_factors = capacity_factors.melt(id_vars="ProcessName")
+        capacity_factors.variable = capacity_factors.variable.str.lower()
+        capacity_factors[["season", "day"]] = capacity_factors["variable"].str.split(
+            " ", expand=True
+        )
+        capacity_factors = capacity_factors.drop(columns="variable")
+        capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
+            "\bWind\b", "Onshore Wind"
+        )
+        capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
+            "PV", "Solar PV (Utility)"
+        )
+        capacity_factors = capacity_factors.rename(
+            columns={"value": "UtilizationFactor"}
+        )
+
+        process_timeslice = pd.merge(
+            technodata[["ProcessName", "Time"]],
+            capacity_factors[["season", "day"]],
+            how="cross",
+        ).drop_duplicates()
+        technodata_timeslices = (
+            pd.merge(
+                process_timeslice,
+                capacity_factors,
+                on=["ProcessName", "season", "day"],
+                how="outer",
+            )
+            .set_index(["ProcessName", "Time"])
+            .combine_first(
+                technodata[["ProcessName", "Time", "UtilizationFactor"]].set_index(
+                    ["ProcessName", "Time"]
+                )
+            )
+            .reset_index()
+        )
+        technodata_timeslices["MinimumServiceFactor"] = 0
+        technodata_timeslices["RegionName"] = self.folder
+        technodata_timeslices = technodata_timeslices[
+            technodata_timeslices["ProcessName"] != "Unit"
+        ]
+        technodata_timeslices = technodata_timeslices[
+            technodata_timeslices["ProcessName"] != "Wind"
+        ]
+        technodata_timeslices["ObjSort"] = "Upper"
+
+        return technodata_timeslices
+
     def convert_oil_technodata(self):
         """
         Creates the oil technodata from Table5 in the starter kits.
@@ -524,7 +601,6 @@ class Transformer:
         oil_renamed["fix_par"] = 1
 
         oil_renamed = oil_renamed.apply(pd.to_numeric, errors="ignore")
-        # oil_renamed["cap_par"] *= 1 / (8600 * 0.0036)
         oil_renamed["cap_par"] *= 0.001 / (0.00000611 * 365)
         oil_renamed["var_par"] = (oil_renamed["var_par"] + 9) / 6.11
 
@@ -767,7 +843,7 @@ class Transformer:
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
         technoeconomic_data_wide["InterestRate"] = 0.1
-        technoeconomic_data_wide["MaxCapacityAddition"] = 5000
+        technoeconomic_data_wide["MaxCapacityAddition"] = 250
         technoeconomic_data_wide["MaxCapacityGrowth"] = 500
         technoeconomic_data_wide["TotalCapacityLimit"] = 50000
 
