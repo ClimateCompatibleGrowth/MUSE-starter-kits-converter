@@ -1,0 +1,865 @@
+ProcessName,Time,UtilizationFactor,day,season,MinimumServiceFactor,RegionName,ObjSort
+Biomass Power Plant,2015,0.5,night,winter,0,Zambia,Upper
+Biomass Power Plant,2015,0.5,day,winter,0,Zambia,Upper
+Biomass Power Plant,2015,0.5,night,spring,0,Zambia,Upper
+Biomass Power Plant,2015,0.5,day,spring,0,Zambia,Upper
+Biomass Power Plant,2015,0.5,night,summer,0,Zambia,Upper
+Biomass Power Plant,2015,0.5,day,summer,0,Zambia,Upper
+Biomass Power Plant,2015,0.5,night,autumn,0,Zambia,Upper
+Biomass Power Plant,2015,0.5,day,autumn,0,Zambia,Upper
+Biomass Power Plant,2020,0.5,night,winter,0,Zambia,Upper
+Biomass Power Plant,2020,0.5,day,winter,0,Zambia,Upper
+Biomass Power Plant,2020,0.5,night,spring,0,Zambia,Upper
+Biomass Power Plant,2020,0.5,day,spring,0,Zambia,Upper
+Biomass Power Plant,2020,0.5,night,summer,0,Zambia,Upper
+Biomass Power Plant,2020,0.5,day,summer,0,Zambia,Upper
+Biomass Power Plant,2020,0.5,night,autumn,0,Zambia,Upper
+Biomass Power Plant,2020,0.5,day,autumn,0,Zambia,Upper
+Biomass Power Plant,2025,0.5,night,winter,0,Zambia,Upper
+Biomass Power Plant,2025,0.5,day,winter,0,Zambia,Upper
+Biomass Power Plant,2025,0.5,night,spring,0,Zambia,Upper
+Biomass Power Plant,2025,0.5,day,spring,0,Zambia,Upper
+Biomass Power Plant,2025,0.5,night,summer,0,Zambia,Upper
+Biomass Power Plant,2025,0.5,day,summer,0,Zambia,Upper
+Biomass Power Plant,2025,0.5,night,autumn,0,Zambia,Upper
+Biomass Power Plant,2025,0.5,day,autumn,0,Zambia,Upper
+Biomass Power Plant,2030,0.5,night,winter,0,Zambia,Upper
+Biomass Power Plant,2030,0.5,day,winter,0,Zambia,Upper
+Biomass Power Plant,2030,0.5,night,spring,0,Zambia,Upper
+Biomass Power Plant,2030,0.5,day,spring,0,Zambia,Upper
+Biomass Power Plant,2030,0.5,night,summer,0,Zambia,Upper
+Biomass Power Plant,2030,0.5,day,summer,0,Zambia,Upper
+Biomass Power Plant,2030,0.5,night,autumn,0,Zambia,Upper
+Biomass Power Plant,2030,0.5,day,autumn,0,Zambia,Upper
+Biomass Power Plant,2040,0.5,night,winter,0,Zambia,Upper
+Biomass Power Plant,2040,0.5,day,winter,0,Zambia,Upper
+Biomass Power Plant,2040,0.5,night,spring,0,Zambia,Upper
+Biomass Power Plant,2040,0.5,day,spring,0,Zambia,Upper
+Biomass Power Plant,2040,0.5,night,summer,0,Zambia,Upper
+Biomass Power Plant,2040,0.5,day,summer,0,Zambia,Upper
+Biomass Power Plant,2040,0.5,night,autumn,0,Zambia,Upper
+Biomass Power Plant,2040,0.5,day,autumn,0,Zambia,Upper
+Biomass Power Plant,2050,0.5,night,winter,0,Zambia,Upper
+Biomass Power Plant,2050,0.5,day,winter,0,Zambia,Upper
+Biomass Power Plant,2050,0.5,night,spring,0,Zambia,Upper
+Biomass Power Plant,2050,0.5,day,spring,0,Zambia,Upper
+Biomass Power Plant,2050,0.5,night,summer,0,Zambia,Upper
+Biomass Power Plant,2050,0.5,day,summer,0,Zambia,Upper
+Biomass Power Plant,2050,0.5,night,autumn,0,Zambia,Upper
+Biomass Power Plant,2050,0.5,day,autumn,0,Zambia,Upper
+CSP with Storage,2015,0.45,night,winter,0,Zambia,Upper
+CSP with Storage,2015,0.45,day,winter,0,Zambia,Upper
+CSP with Storage,2015,0.45,night,spring,0,Zambia,Upper
+CSP with Storage,2015,0.45,day,spring,0,Zambia,Upper
+CSP with Storage,2015,0.45,night,summer,0,Zambia,Upper
+CSP with Storage,2015,0.45,day,summer,0,Zambia,Upper
+CSP with Storage,2015,0.45,night,autumn,0,Zambia,Upper
+CSP with Storage,2015,0.45,day,autumn,0,Zambia,Upper
+CSP with Storage,2020,0.45,night,winter,0,Zambia,Upper
+CSP with Storage,2020,0.45,day,winter,0,Zambia,Upper
+CSP with Storage,2020,0.45,night,spring,0,Zambia,Upper
+CSP with Storage,2020,0.45,day,spring,0,Zambia,Upper
+CSP with Storage,2020,0.45,night,summer,0,Zambia,Upper
+CSP with Storage,2020,0.45,day,summer,0,Zambia,Upper
+CSP with Storage,2020,0.45,night,autumn,0,Zambia,Upper
+CSP with Storage,2020,0.45,day,autumn,0,Zambia,Upper
+CSP with Storage,2025,0.45,night,winter,0,Zambia,Upper
+CSP with Storage,2025,0.45,day,winter,0,Zambia,Upper
+CSP with Storage,2025,0.45,night,spring,0,Zambia,Upper
+CSP with Storage,2025,0.45,day,spring,0,Zambia,Upper
+CSP with Storage,2025,0.45,night,summer,0,Zambia,Upper
+CSP with Storage,2025,0.45,day,summer,0,Zambia,Upper
+CSP with Storage,2025,0.45,night,autumn,0,Zambia,Upper
+CSP with Storage,2025,0.45,day,autumn,0,Zambia,Upper
+CSP with Storage,2030,0.45,night,winter,0,Zambia,Upper
+CSP with Storage,2030,0.45,day,winter,0,Zambia,Upper
+CSP with Storage,2030,0.45,night,spring,0,Zambia,Upper
+CSP with Storage,2030,0.45,day,spring,0,Zambia,Upper
+CSP with Storage,2030,0.45,night,summer,0,Zambia,Upper
+CSP with Storage,2030,0.45,day,summer,0,Zambia,Upper
+CSP with Storage,2030,0.45,night,autumn,0,Zambia,Upper
+CSP with Storage,2030,0.45,day,autumn,0,Zambia,Upper
+CSP with Storage,2040,0.45,night,winter,0,Zambia,Upper
+CSP with Storage,2040,0.45,day,winter,0,Zambia,Upper
+CSP with Storage,2040,0.45,night,spring,0,Zambia,Upper
+CSP with Storage,2040,0.45,day,spring,0,Zambia,Upper
+CSP with Storage,2040,0.45,night,summer,0,Zambia,Upper
+CSP with Storage,2040,0.45,day,summer,0,Zambia,Upper
+CSP with Storage,2040,0.45,night,autumn,0,Zambia,Upper
+CSP with Storage,2040,0.45,day,autumn,0,Zambia,Upper
+CSP with Storage,2050,0.45,night,winter,0,Zambia,Upper
+CSP with Storage,2050,0.45,day,winter,0,Zambia,Upper
+CSP with Storage,2050,0.45,night,spring,0,Zambia,Upper
+CSP with Storage,2050,0.45,day,spring,0,Zambia,Upper
+CSP with Storage,2050,0.45,night,summer,0,Zambia,Upper
+CSP with Storage,2050,0.45,day,summer,0,Zambia,Upper
+CSP with Storage,2050,0.45,night,autumn,0,Zambia,Upper
+CSP with Storage,2050,0.45,day,autumn,0,Zambia,Upper
+CSP without Storage,2015,0.45,night,winter,0,Zambia,Upper
+CSP without Storage,2015,0.45,day,winter,0,Zambia,Upper
+CSP without Storage,2015,0.45,night,spring,0,Zambia,Upper
+CSP without Storage,2015,0.45,day,spring,0,Zambia,Upper
+CSP without Storage,2015,0.45,night,summer,0,Zambia,Upper
+CSP without Storage,2015,0.45,day,summer,0,Zambia,Upper
+CSP without Storage,2015,0.45,night,autumn,0,Zambia,Upper
+CSP without Storage,2015,0.45,day,autumn,0,Zambia,Upper
+CSP without Storage,2020,0.45,night,winter,0,Zambia,Upper
+CSP without Storage,2020,0.45,day,winter,0,Zambia,Upper
+CSP without Storage,2020,0.45,night,spring,0,Zambia,Upper
+CSP without Storage,2020,0.45,day,spring,0,Zambia,Upper
+CSP without Storage,2020,0.45,night,summer,0,Zambia,Upper
+CSP without Storage,2020,0.45,day,summer,0,Zambia,Upper
+CSP without Storage,2020,0.45,night,autumn,0,Zambia,Upper
+CSP without Storage,2020,0.45,day,autumn,0,Zambia,Upper
+CSP without Storage,2025,0.45,night,winter,0,Zambia,Upper
+CSP without Storage,2025,0.45,day,winter,0,Zambia,Upper
+CSP without Storage,2025,0.45,night,spring,0,Zambia,Upper
+CSP without Storage,2025,0.45,day,spring,0,Zambia,Upper
+CSP without Storage,2025,0.45,night,summer,0,Zambia,Upper
+CSP without Storage,2025,0.45,day,summer,0,Zambia,Upper
+CSP without Storage,2025,0.45,night,autumn,0,Zambia,Upper
+CSP without Storage,2025,0.45,day,autumn,0,Zambia,Upper
+CSP without Storage,2030,0.45,night,winter,0,Zambia,Upper
+CSP without Storage,2030,0.45,day,winter,0,Zambia,Upper
+CSP without Storage,2030,0.45,night,spring,0,Zambia,Upper
+CSP without Storage,2030,0.45,day,spring,0,Zambia,Upper
+CSP without Storage,2030,0.45,night,summer,0,Zambia,Upper
+CSP without Storage,2030,0.45,day,summer,0,Zambia,Upper
+CSP without Storage,2030,0.45,night,autumn,0,Zambia,Upper
+CSP without Storage,2030,0.45,day,autumn,0,Zambia,Upper
+CSP without Storage,2040,0.45,night,winter,0,Zambia,Upper
+CSP without Storage,2040,0.45,day,winter,0,Zambia,Upper
+CSP without Storage,2040,0.45,night,spring,0,Zambia,Upper
+CSP without Storage,2040,0.45,day,spring,0,Zambia,Upper
+CSP without Storage,2040,0.45,night,summer,0,Zambia,Upper
+CSP without Storage,2040,0.45,day,summer,0,Zambia,Upper
+CSP without Storage,2040,0.45,night,autumn,0,Zambia,Upper
+CSP without Storage,2040,0.45,day,autumn,0,Zambia,Upper
+CSP without Storage,2050,0.45,night,winter,0,Zambia,Upper
+CSP without Storage,2050,0.45,day,winter,0,Zambia,Upper
+CSP without Storage,2050,0.45,night,spring,0,Zambia,Upper
+CSP without Storage,2050,0.45,day,spring,0,Zambia,Upper
+CSP without Storage,2050,0.45,night,summer,0,Zambia,Upper
+CSP without Storage,2050,0.45,day,summer,0,Zambia,Upper
+CSP without Storage,2050,0.45,night,autumn,0,Zambia,Upper
+CSP without Storage,2050,0.45,day,autumn,0,Zambia,Upper
+Coal Power Plant,2015,0.85,night,winter,0,Zambia,Upper
+Coal Power Plant,2015,0.85,day,winter,0,Zambia,Upper
+Coal Power Plant,2015,0.85,night,spring,0,Zambia,Upper
+Coal Power Plant,2015,0.85,day,spring,0,Zambia,Upper
+Coal Power Plant,2015,0.85,night,summer,0,Zambia,Upper
+Coal Power Plant,2015,0.85,day,summer,0,Zambia,Upper
+Coal Power Plant,2015,0.85,night,autumn,0,Zambia,Upper
+Coal Power Plant,2015,0.85,day,autumn,0,Zambia,Upper
+Coal Power Plant,2020,0.85,night,winter,0,Zambia,Upper
+Coal Power Plant,2020,0.85,day,winter,0,Zambia,Upper
+Coal Power Plant,2020,0.85,night,spring,0,Zambia,Upper
+Coal Power Plant,2020,0.85,day,spring,0,Zambia,Upper
+Coal Power Plant,2020,0.85,night,summer,0,Zambia,Upper
+Coal Power Plant,2020,0.85,day,summer,0,Zambia,Upper
+Coal Power Plant,2020,0.85,night,autumn,0,Zambia,Upper
+Coal Power Plant,2020,0.85,day,autumn,0,Zambia,Upper
+Coal Power Plant,2025,0.85,night,winter,0,Zambia,Upper
+Coal Power Plant,2025,0.85,day,winter,0,Zambia,Upper
+Coal Power Plant,2025,0.85,night,spring,0,Zambia,Upper
+Coal Power Plant,2025,0.85,day,spring,0,Zambia,Upper
+Coal Power Plant,2025,0.85,night,summer,0,Zambia,Upper
+Coal Power Plant,2025,0.85,day,summer,0,Zambia,Upper
+Coal Power Plant,2025,0.85,night,autumn,0,Zambia,Upper
+Coal Power Plant,2025,0.85,day,autumn,0,Zambia,Upper
+Coal Power Plant,2030,0.85,night,winter,0,Zambia,Upper
+Coal Power Plant,2030,0.85,day,winter,0,Zambia,Upper
+Coal Power Plant,2030,0.85,night,spring,0,Zambia,Upper
+Coal Power Plant,2030,0.85,day,spring,0,Zambia,Upper
+Coal Power Plant,2030,0.85,night,summer,0,Zambia,Upper
+Coal Power Plant,2030,0.85,day,summer,0,Zambia,Upper
+Coal Power Plant,2030,0.85,night,autumn,0,Zambia,Upper
+Coal Power Plant,2030,0.85,day,autumn,0,Zambia,Upper
+Coal Power Plant,2040,0.85,night,winter,0,Zambia,Upper
+Coal Power Plant,2040,0.85,day,winter,0,Zambia,Upper
+Coal Power Plant,2040,0.85,night,spring,0,Zambia,Upper
+Coal Power Plant,2040,0.85,day,spring,0,Zambia,Upper
+Coal Power Plant,2040,0.85,night,summer,0,Zambia,Upper
+Coal Power Plant,2040,0.85,day,summer,0,Zambia,Upper
+Coal Power Plant,2040,0.85,night,autumn,0,Zambia,Upper
+Coal Power Plant,2040,0.85,day,autumn,0,Zambia,Upper
+Coal Power Plant,2050,0.85,night,winter,0,Zambia,Upper
+Coal Power Plant,2050,0.85,day,winter,0,Zambia,Upper
+Coal Power Plant,2050,0.85,night,spring,0,Zambia,Upper
+Coal Power Plant,2050,0.85,day,spring,0,Zambia,Upper
+Coal Power Plant,2050,0.85,night,summer,0,Zambia,Upper
+Coal Power Plant,2050,0.85,day,summer,0,Zambia,Upper
+Coal Power Plant,2050,0.85,night,autumn,0,Zambia,Upper
+Coal Power Plant,2050,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2015,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2015,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2015,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2015,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2015,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2015,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2015,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2015,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2020,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2020,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2020,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2020,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2020,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2020,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2020,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2020,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2025,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2025,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2025,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2025,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2025,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2025,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2025,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2025,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2030,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2030,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2030,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2030,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2030,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2030,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2030,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2030,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2040,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2040,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2040,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2040,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2040,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2040,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2040,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2040,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2050,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2050,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (CCGT),2050,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2050,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (CCGT),2050,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2050,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (CCGT),2050,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (CCGT),2050,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2015,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2015,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2015,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2015,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2015,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2015,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2015,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2015,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2020,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2020,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2020,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2020,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2020,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2020,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2020,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2020,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2025,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2025,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2025,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2025,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2025,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2025,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2025,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2025,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2030,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2030,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2030,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2030,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2030,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2030,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2030,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2030,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2040,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2040,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2040,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2040,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2040,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2040,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2040,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2040,0.85,day,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2050,0.85,night,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2050,0.85,day,winter,0,Zambia,Upper
+Gas Power Plant (SCGT),2050,0.85,night,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2050,0.85,day,spring,0,Zambia,Upper
+Gas Power Plant (SCGT),2050,0.85,night,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2050,0.85,day,summer,0,Zambia,Upper
+Gas Power Plant (SCGT),2050,0.85,night,autumn,0,Zambia,Upper
+Gas Power Plant (SCGT),2050,0.85,day,autumn,0,Zambia,Upper
+Geothermal Power Plant,2015,0.79,night,winter,0,Zambia,Upper
+Geothermal Power Plant,2015,0.79,day,winter,0,Zambia,Upper
+Geothermal Power Plant,2015,0.79,night,spring,0,Zambia,Upper
+Geothermal Power Plant,2015,0.79,day,spring,0,Zambia,Upper
+Geothermal Power Plant,2015,0.79,night,summer,0,Zambia,Upper
+Geothermal Power Plant,2015,0.79,day,summer,0,Zambia,Upper
+Geothermal Power Plant,2015,0.79,night,autumn,0,Zambia,Upper
+Geothermal Power Plant,2015,0.79,day,autumn,0,Zambia,Upper
+Geothermal Power Plant,2020,0.79,night,winter,0,Zambia,Upper
+Geothermal Power Plant,2020,0.79,day,winter,0,Zambia,Upper
+Geothermal Power Plant,2020,0.79,night,spring,0,Zambia,Upper
+Geothermal Power Plant,2020,0.79,day,spring,0,Zambia,Upper
+Geothermal Power Plant,2020,0.79,night,summer,0,Zambia,Upper
+Geothermal Power Plant,2020,0.79,day,summer,0,Zambia,Upper
+Geothermal Power Plant,2020,0.79,night,autumn,0,Zambia,Upper
+Geothermal Power Plant,2020,0.79,day,autumn,0,Zambia,Upper
+Geothermal Power Plant,2025,0.79,night,winter,0,Zambia,Upper
+Geothermal Power Plant,2025,0.79,day,winter,0,Zambia,Upper
+Geothermal Power Plant,2025,0.79,night,spring,0,Zambia,Upper
+Geothermal Power Plant,2025,0.79,day,spring,0,Zambia,Upper
+Geothermal Power Plant,2025,0.79,night,summer,0,Zambia,Upper
+Geothermal Power Plant,2025,0.79,day,summer,0,Zambia,Upper
+Geothermal Power Plant,2025,0.79,night,autumn,0,Zambia,Upper
+Geothermal Power Plant,2025,0.79,day,autumn,0,Zambia,Upper
+Geothermal Power Plant,2030,0.79,night,winter,0,Zambia,Upper
+Geothermal Power Plant,2030,0.79,day,winter,0,Zambia,Upper
+Geothermal Power Plant,2030,0.79,night,spring,0,Zambia,Upper
+Geothermal Power Plant,2030,0.79,day,spring,0,Zambia,Upper
+Geothermal Power Plant,2030,0.79,night,summer,0,Zambia,Upper
+Geothermal Power Plant,2030,0.79,day,summer,0,Zambia,Upper
+Geothermal Power Plant,2030,0.79,night,autumn,0,Zambia,Upper
+Geothermal Power Plant,2030,0.79,day,autumn,0,Zambia,Upper
+Geothermal Power Plant,2040,0.79,night,winter,0,Zambia,Upper
+Geothermal Power Plant,2040,0.79,day,winter,0,Zambia,Upper
+Geothermal Power Plant,2040,0.79,night,spring,0,Zambia,Upper
+Geothermal Power Plant,2040,0.79,day,spring,0,Zambia,Upper
+Geothermal Power Plant,2040,0.79,night,summer,0,Zambia,Upper
+Geothermal Power Plant,2040,0.79,day,summer,0,Zambia,Upper
+Geothermal Power Plant,2040,0.79,night,autumn,0,Zambia,Upper
+Geothermal Power Plant,2040,0.79,day,autumn,0,Zambia,Upper
+Geothermal Power Plant,2050,0.79,night,winter,0,Zambia,Upper
+Geothermal Power Plant,2050,0.79,day,winter,0,Zambia,Upper
+Geothermal Power Plant,2050,0.79,night,spring,0,Zambia,Upper
+Geothermal Power Plant,2050,0.79,day,spring,0,Zambia,Upper
+Geothermal Power Plant,2050,0.79,night,summer,0,Zambia,Upper
+Geothermal Power Plant,2050,0.79,day,summer,0,Zambia,Upper
+Geothermal Power Plant,2050,0.79,night,autumn,0,Zambia,Upper
+Geothermal Power Plant,2050,0.79,day,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2015,0.63,night,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2015,0.63,day,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2015,0.63,night,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2015,0.63,day,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2015,0.63,night,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2015,0.63,day,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2015,0.63,night,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2015,0.63,day,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2020,0.63,night,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2020,0.63,day,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2020,0.63,night,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2020,0.63,day,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2020,0.63,night,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2020,0.63,day,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2020,0.63,night,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2020,0.63,day,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2025,0.63,night,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2025,0.63,day,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2025,0.63,night,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2025,0.63,day,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2025,0.63,night,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2025,0.63,day,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2025,0.63,night,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2025,0.63,day,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2030,0.63,night,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2030,0.63,day,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2030,0.63,night,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2030,0.63,day,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2030,0.63,night,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2030,0.63,day,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2030,0.63,night,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2030,0.63,day,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2040,0.63,night,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2040,0.63,day,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2040,0.63,night,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2040,0.63,day,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2040,0.63,night,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2040,0.63,day,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2040,0.63,night,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2040,0.63,day,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2050,0.63,night,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2050,0.63,day,winter,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2050,0.63,night,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2050,0.63,day,spring,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2050,0.63,night,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2050,0.63,day,summer,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2050,0.63,night,autumn,0,Zambia,Upper
+Large Hydropower Plant (Dam) (>100MW),2050,0.63,day,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2015,0.8,night,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2015,0.8,day,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2015,0.8,night,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2015,0.8,day,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2015,0.8,night,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2015,0.8,day,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2015,0.8,night,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2015,0.8,day,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2020,0.8,night,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2020,0.8,day,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2020,0.8,night,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2020,0.8,day,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2020,0.8,night,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2020,0.8,day,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2020,0.8,night,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2020,0.8,day,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2025,0.8,night,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2025,0.8,day,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2025,0.8,night,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2025,0.8,day,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2025,0.8,night,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2025,0.8,day,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2025,0.8,night,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2025,0.8,day,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2030,0.8,night,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2030,0.8,day,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2030,0.8,night,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2030,0.8,day,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2030,0.8,night,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2030,0.8,day,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2030,0.8,night,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2030,0.8,day,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2040,0.8,night,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2040,0.8,day,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2040,0.8,night,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2040,0.8,day,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2040,0.8,night,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2040,0.8,day,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2040,0.8,night,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2040,0.8,day,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2050,0.8,night,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2050,0.8,day,winter,0,Zambia,Upper
+Light Fuel Oil Power Plant,2050,0.8,night,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2050,0.8,day,spring,0,Zambia,Upper
+Light Fuel Oil Power Plant,2050,0.8,night,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2050,0.8,day,summer,0,Zambia,Upper
+Light Fuel Oil Power Plant,2050,0.8,night,autumn,0,Zambia,Upper
+Light Fuel Oil Power Plant,2050,0.8,day,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2015,0.3,night,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2015,0.3,day,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2015,0.3,night,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2015,0.3,day,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2015,0.3,night,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2015,0.3,day,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2015,0.3,night,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2015,0.3,day,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2020,0.3,night,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2020,0.3,day,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2020,0.3,night,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2020,0.3,day,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2020,0.3,night,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2020,0.3,day,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2020,0.3,night,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2020,0.3,day,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2025,0.3,night,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2025,0.3,day,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2025,0.3,night,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2025,0.3,day,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2025,0.3,night,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2025,0.3,day,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2025,0.3,night,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2025,0.3,day,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2030,0.3,night,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2030,0.3,day,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2030,0.3,night,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2030,0.3,day,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2030,0.3,night,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2030,0.3,day,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2030,0.3,night,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2030,0.3,day,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2040,0.3,night,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2040,0.3,day,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2040,0.3,night,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2040,0.3,day,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2040,0.3,night,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2040,0.3,day,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2040,0.3,night,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2040,0.3,day,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2050,0.3,night,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2050,0.3,day,winter,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2050,0.3,night,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2050,0.3,day,spring,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2050,0.3,night,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2050,0.3,day,summer,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2050,0.3,night,autumn,0,Zambia,Upper
+Light Fuel Oil Standalone Generator (1kW),2050,0.3,day,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2015,0.63,night,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2015,0.63,day,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2015,0.63,night,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2015,0.63,day,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2015,0.63,night,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2015,0.63,day,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2015,0.63,night,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2015,0.63,day,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2020,0.63,night,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2020,0.63,day,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2020,0.63,night,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2020,0.63,day,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2020,0.63,night,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2020,0.63,day,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2020,0.63,night,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2020,0.63,day,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2025,0.63,night,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2025,0.63,day,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2025,0.63,night,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2025,0.63,day,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2025,0.63,night,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2025,0.63,day,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2025,0.63,night,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2025,0.63,day,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2030,0.63,night,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2030,0.63,day,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2030,0.63,night,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2030,0.63,day,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2030,0.63,night,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2030,0.63,day,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2030,0.63,night,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2030,0.63,day,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2040,0.63,night,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2040,0.63,day,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2040,0.63,night,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2040,0.63,day,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2040,0.63,night,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2040,0.63,day,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2040,0.63,night,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2040,0.63,day,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2050,0.63,night,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2050,0.63,day,winter,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2050,0.63,night,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2050,0.63,day,spring,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2050,0.63,night,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2050,0.63,day,summer,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2050,0.63,night,autumn,0,Zambia,Upper
+Medium Hydropower Plant (10-100MW),2050,0.63,day,autumn,0,Zambia,Upper
+Nuclear Power Plant,2015,0.85,night,winter,0,Zambia,Upper
+Nuclear Power Plant,2015,0.85,day,winter,0,Zambia,Upper
+Nuclear Power Plant,2015,0.85,night,spring,0,Zambia,Upper
+Nuclear Power Plant,2015,0.85,day,spring,0,Zambia,Upper
+Nuclear Power Plant,2015,0.85,night,summer,0,Zambia,Upper
+Nuclear Power Plant,2015,0.85,day,summer,0,Zambia,Upper
+Nuclear Power Plant,2015,0.85,night,autumn,0,Zambia,Upper
+Nuclear Power Plant,2015,0.85,day,autumn,0,Zambia,Upper
+Nuclear Power Plant,2020,0.85,night,winter,0,Zambia,Upper
+Nuclear Power Plant,2020,0.85,day,winter,0,Zambia,Upper
+Nuclear Power Plant,2020,0.85,night,spring,0,Zambia,Upper
+Nuclear Power Plant,2020,0.85,day,spring,0,Zambia,Upper
+Nuclear Power Plant,2020,0.85,night,summer,0,Zambia,Upper
+Nuclear Power Plant,2020,0.85,day,summer,0,Zambia,Upper
+Nuclear Power Plant,2020,0.85,night,autumn,0,Zambia,Upper
+Nuclear Power Plant,2020,0.85,day,autumn,0,Zambia,Upper
+Nuclear Power Plant,2025,0.85,night,winter,0,Zambia,Upper
+Nuclear Power Plant,2025,0.85,day,winter,0,Zambia,Upper
+Nuclear Power Plant,2025,0.85,night,spring,0,Zambia,Upper
+Nuclear Power Plant,2025,0.85,day,spring,0,Zambia,Upper
+Nuclear Power Plant,2025,0.85,night,summer,0,Zambia,Upper
+Nuclear Power Plant,2025,0.85,day,summer,0,Zambia,Upper
+Nuclear Power Plant,2025,0.85,night,autumn,0,Zambia,Upper
+Nuclear Power Plant,2025,0.85,day,autumn,0,Zambia,Upper
+Nuclear Power Plant,2030,0.85,night,winter,0,Zambia,Upper
+Nuclear Power Plant,2030,0.85,day,winter,0,Zambia,Upper
+Nuclear Power Plant,2030,0.85,night,spring,0,Zambia,Upper
+Nuclear Power Plant,2030,0.85,day,spring,0,Zambia,Upper
+Nuclear Power Plant,2030,0.85,night,summer,0,Zambia,Upper
+Nuclear Power Plant,2030,0.85,day,summer,0,Zambia,Upper
+Nuclear Power Plant,2030,0.85,night,autumn,0,Zambia,Upper
+Nuclear Power Plant,2030,0.85,day,autumn,0,Zambia,Upper
+Nuclear Power Plant,2040,0.85,night,winter,0,Zambia,Upper
+Nuclear Power Plant,2040,0.85,day,winter,0,Zambia,Upper
+Nuclear Power Plant,2040,0.85,night,spring,0,Zambia,Upper
+Nuclear Power Plant,2040,0.85,day,spring,0,Zambia,Upper
+Nuclear Power Plant,2040,0.85,night,summer,0,Zambia,Upper
+Nuclear Power Plant,2040,0.85,day,summer,0,Zambia,Upper
+Nuclear Power Plant,2040,0.85,night,autumn,0,Zambia,Upper
+Nuclear Power Plant,2040,0.85,day,autumn,0,Zambia,Upper
+Nuclear Power Plant,2050,0.85,night,winter,0,Zambia,Upper
+Nuclear Power Plant,2050,0.85,day,winter,0,Zambia,Upper
+Nuclear Power Plant,2050,0.85,night,spring,0,Zambia,Upper
+Nuclear Power Plant,2050,0.85,day,spring,0,Zambia,Upper
+Nuclear Power Plant,2050,0.85,night,summer,0,Zambia,Upper
+Nuclear Power Plant,2050,0.85,day,summer,0,Zambia,Upper
+Nuclear Power Plant,2050,0.85,night,autumn,0,Zambia,Upper
+Nuclear Power Plant,2050,0.85,day,autumn,0,Zambia,Upper
+Offshore Wind,2015,0.286,night,winter,0,Zambia,Upper
+Offshore Wind,2015,0.441,day,winter,0,Zambia,Upper
+Offshore Wind,2015,0.326,night,spring,0,Zambia,Upper
+Offshore Wind,2015,0.414,day,spring,0,Zambia,Upper
+Offshore Wind,2015,0.667,night,summer,0,Zambia,Upper
+Offshore Wind,2015,0.719,day,summer,0,Zambia,Upper
+Offshore Wind,2015,0.335,night,autumn,0,Zambia,Upper
+Offshore Wind,2015,0.44,day,autumn,0,Zambia,Upper
+Offshore Wind,2020,0.286,night,winter,0,Zambia,Upper
+Offshore Wind,2020,0.441,day,winter,0,Zambia,Upper
+Offshore Wind,2020,0.326,night,spring,0,Zambia,Upper
+Offshore Wind,2020,0.414,day,spring,0,Zambia,Upper
+Offshore Wind,2020,0.667,night,summer,0,Zambia,Upper
+Offshore Wind,2020,0.719,day,summer,0,Zambia,Upper
+Offshore Wind,2020,0.335,night,autumn,0,Zambia,Upper
+Offshore Wind,2020,0.44,day,autumn,0,Zambia,Upper
+Offshore Wind,2025,0.286,night,winter,0,Zambia,Upper
+Offshore Wind,2025,0.441,day,winter,0,Zambia,Upper
+Offshore Wind,2025,0.326,night,spring,0,Zambia,Upper
+Offshore Wind,2025,0.414,day,spring,0,Zambia,Upper
+Offshore Wind,2025,0.667,night,summer,0,Zambia,Upper
+Offshore Wind,2025,0.719,day,summer,0,Zambia,Upper
+Offshore Wind,2025,0.335,night,autumn,0,Zambia,Upper
+Offshore Wind,2025,0.44,day,autumn,0,Zambia,Upper
+Offshore Wind,2030,0.286,night,winter,0,Zambia,Upper
+Offshore Wind,2030,0.441,day,winter,0,Zambia,Upper
+Offshore Wind,2030,0.326,night,spring,0,Zambia,Upper
+Offshore Wind,2030,0.414,day,spring,0,Zambia,Upper
+Offshore Wind,2030,0.667,night,summer,0,Zambia,Upper
+Offshore Wind,2030,0.719,day,summer,0,Zambia,Upper
+Offshore Wind,2030,0.335,night,autumn,0,Zambia,Upper
+Offshore Wind,2030,0.44,day,autumn,0,Zambia,Upper
+Offshore Wind,2040,0.286,night,winter,0,Zambia,Upper
+Offshore Wind,2040,0.441,day,winter,0,Zambia,Upper
+Offshore Wind,2040,0.326,night,spring,0,Zambia,Upper
+Offshore Wind,2040,0.414,day,spring,0,Zambia,Upper
+Offshore Wind,2040,0.667,night,summer,0,Zambia,Upper
+Offshore Wind,2040,0.719,day,summer,0,Zambia,Upper
+Offshore Wind,2040,0.335,night,autumn,0,Zambia,Upper
+Offshore Wind,2040,0.44,day,autumn,0,Zambia,Upper
+Offshore Wind,2050,0.286,night,winter,0,Zambia,Upper
+Offshore Wind,2050,0.441,day,winter,0,Zambia,Upper
+Offshore Wind,2050,0.326,night,spring,0,Zambia,Upper
+Offshore Wind,2050,0.414,day,spring,0,Zambia,Upper
+Offshore Wind,2050,0.667,night,summer,0,Zambia,Upper
+Offshore Wind,2050,0.719,day,summer,0,Zambia,Upper
+Offshore Wind,2050,0.335,night,autumn,0,Zambia,Upper
+Offshore Wind,2050,0.44,day,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2015,0.8,night,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2015,0.8,day,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2015,0.8,night,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2015,0.8,day,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2015,0.8,night,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2015,0.8,day,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2015,0.8,night,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2015,0.8,day,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2020,0.8,night,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2020,0.8,day,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2020,0.8,night,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2020,0.8,day,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2020,0.8,night,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2020,0.8,day,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2020,0.8,night,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2020,0.8,day,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2025,0.8,night,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2025,0.8,day,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2025,0.8,night,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2025,0.8,day,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2025,0.8,night,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2025,0.8,day,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2025,0.8,night,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2025,0.8,day,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2030,0.8,night,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2030,0.8,day,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2030,0.8,night,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2030,0.8,day,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2030,0.8,night,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2030,0.8,day,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2030,0.8,night,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2030,0.8,day,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2040,0.8,night,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2040,0.8,day,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2040,0.8,night,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2040,0.8,day,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2040,0.8,night,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2040,0.8,day,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2040,0.8,night,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2040,0.8,day,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2050,0.8,night,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2050,0.8,day,winter,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2050,0.8,night,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2050,0.8,day,spring,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2050,0.8,night,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2050,0.8,day,summer,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2050,0.8,night,autumn,0,Zambia,Upper
+Oil Fired Gas Turbine (SCGT),2050,0.8,day,autumn,0,Zambia,Upper
+Onshore Wind,2015,0.21,night,winter,0,Zambia,Upper
+Onshore Wind,2015,0.21,day,winter,0,Zambia,Upper
+Onshore Wind,2015,0.21,night,spring,0,Zambia,Upper
+Onshore Wind,2015,0.21,day,spring,0,Zambia,Upper
+Onshore Wind,2015,0.21,night,summer,0,Zambia,Upper
+Onshore Wind,2015,0.21,day,summer,0,Zambia,Upper
+Onshore Wind,2015,0.21,night,autumn,0,Zambia,Upper
+Onshore Wind,2015,0.21,day,autumn,0,Zambia,Upper
+Onshore Wind,2020,0.21,night,winter,0,Zambia,Upper
+Onshore Wind,2020,0.21,day,winter,0,Zambia,Upper
+Onshore Wind,2020,0.21,night,spring,0,Zambia,Upper
+Onshore Wind,2020,0.21,day,spring,0,Zambia,Upper
+Onshore Wind,2020,0.21,night,summer,0,Zambia,Upper
+Onshore Wind,2020,0.21,day,summer,0,Zambia,Upper
+Onshore Wind,2020,0.21,night,autumn,0,Zambia,Upper
+Onshore Wind,2020,0.21,day,autumn,0,Zambia,Upper
+Onshore Wind,2025,0.21,night,winter,0,Zambia,Upper
+Onshore Wind,2025,0.21,day,winter,0,Zambia,Upper
+Onshore Wind,2025,0.21,night,spring,0,Zambia,Upper
+Onshore Wind,2025,0.21,day,spring,0,Zambia,Upper
+Onshore Wind,2025,0.21,night,summer,0,Zambia,Upper
+Onshore Wind,2025,0.21,day,summer,0,Zambia,Upper
+Onshore Wind,2025,0.21,night,autumn,0,Zambia,Upper
+Onshore Wind,2025,0.21,day,autumn,0,Zambia,Upper
+Onshore Wind,2030,0.21,night,winter,0,Zambia,Upper
+Onshore Wind,2030,0.21,day,winter,0,Zambia,Upper
+Onshore Wind,2030,0.21,night,spring,0,Zambia,Upper
+Onshore Wind,2030,0.21,day,spring,0,Zambia,Upper
+Onshore Wind,2030,0.21,night,summer,0,Zambia,Upper
+Onshore Wind,2030,0.21,day,summer,0,Zambia,Upper
+Onshore Wind,2030,0.21,night,autumn,0,Zambia,Upper
+Onshore Wind,2030,0.21,day,autumn,0,Zambia,Upper
+Onshore Wind,2040,0.21,night,winter,0,Zambia,Upper
+Onshore Wind,2040,0.21,day,winter,0,Zambia,Upper
+Onshore Wind,2040,0.21,night,spring,0,Zambia,Upper
+Onshore Wind,2040,0.21,day,spring,0,Zambia,Upper
+Onshore Wind,2040,0.21,night,summer,0,Zambia,Upper
+Onshore Wind,2040,0.21,day,summer,0,Zambia,Upper
+Onshore Wind,2040,0.21,night,autumn,0,Zambia,Upper
+Onshore Wind,2040,0.21,day,autumn,0,Zambia,Upper
+Onshore Wind,2050,0.21,night,winter,0,Zambia,Upper
+Onshore Wind,2050,0.21,day,winter,0,Zambia,Upper
+Onshore Wind,2050,0.21,night,spring,0,Zambia,Upper
+Onshore Wind,2050,0.21,day,spring,0,Zambia,Upper
+Onshore Wind,2050,0.21,night,summer,0,Zambia,Upper
+Onshore Wind,2050,0.21,day,summer,0,Zambia,Upper
+Onshore Wind,2050,0.21,night,autumn,0,Zambia,Upper
+Onshore Wind,2050,0.21,day,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2015,0.63,night,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2015,0.63,day,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2015,0.63,night,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2015,0.63,day,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2015,0.63,night,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2015,0.63,day,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2015,0.63,night,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2015,0.63,day,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2020,0.63,night,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2020,0.63,day,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2020,0.63,night,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2020,0.63,day,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2020,0.63,night,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2020,0.63,day,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2020,0.63,night,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2020,0.63,day,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2025,0.63,night,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2025,0.63,day,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2025,0.63,night,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2025,0.63,day,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2025,0.63,night,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2025,0.63,day,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2025,0.63,night,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2025,0.63,day,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2030,0.63,night,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2030,0.63,day,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2030,0.63,night,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2030,0.63,day,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2030,0.63,night,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2030,0.63,day,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2030,0.63,night,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2030,0.63,day,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2040,0.63,night,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2040,0.63,day,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2040,0.63,night,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2040,0.63,day,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2040,0.63,night,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2040,0.63,day,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2040,0.63,night,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2040,0.63,day,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2050,0.63,night,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2050,0.63,day,winter,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2050,0.63,night,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2050,0.63,day,spring,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2050,0.63,night,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2050,0.63,day,summer,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2050,0.63,night,autumn,0,Zambia,Upper
+Small Hydropower Plant (<10MW),2050,0.63,day,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2015,0.32,night,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2015,0.32,day,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2015,0.32,night,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2015,0.32,day,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2015,0.32,night,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2015,0.32,day,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2015,0.32,night,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2015,0.32,day,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2020,0.32,night,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2020,0.32,day,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2020,0.32,night,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2020,0.32,day,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2020,0.32,night,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2020,0.32,day,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2020,0.32,night,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2020,0.32,day,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2025,0.32,night,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2025,0.32,day,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2025,0.32,night,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2025,0.32,day,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2025,0.32,night,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2025,0.32,day,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2025,0.32,night,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2025,0.32,day,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2030,0.32,night,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2030,0.32,day,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2030,0.32,night,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2030,0.32,day,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2030,0.32,night,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2030,0.32,day,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2030,0.32,night,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2030,0.32,day,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2040,0.32,night,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2040,0.32,day,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2040,0.32,night,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2040,0.32,day,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2040,0.32,night,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2040,0.32,day,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2040,0.32,night,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2040,0.32,day,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2050,0.32,night,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2050,0.32,day,winter,0,Zambia,Upper
+Solar PV (Distributed with Storage),2050,0.32,night,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2050,0.32,day,spring,0,Zambia,Upper
+Solar PV (Distributed with Storage),2050,0.32,night,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2050,0.32,day,summer,0,Zambia,Upper
+Solar PV (Distributed with Storage),2050,0.32,night,autumn,0,Zambia,Upper
+Solar PV (Distributed with Storage),2050,0.32,day,autumn,0,Zambia,Upper
+Solar PV (Utility),2015,0.0,night,winter,0,Zambia,Upper
+Solar PV (Utility),2015,0.33512037,day,winter,0,Zambia,Upper
+Solar PV (Utility),2015,0.0,night,spring,0,Zambia,Upper
+Solar PV (Utility),2015,0.302018116,day,spring,0,Zambia,Upper
+Solar PV (Utility),2015,0.0,night,summer,0,Zambia,Upper
+Solar PV (Utility),2015,0.309208333,day,summer,0,Zambia,Upper
+Solar PV (Utility),2015,0.0,night,autumn,0,Zambia,Upper
+Solar PV (Utility),2015,0.318684066,day,autumn,0,Zambia,Upper
+Solar PV (Utility),2020,0.0,night,winter,0,Zambia,Upper
+Solar PV (Utility),2020,0.33512037,day,winter,0,Zambia,Upper
+Solar PV (Utility),2020,0.0,night,spring,0,Zambia,Upper
+Solar PV (Utility),2020,0.302018116,day,spring,0,Zambia,Upper
+Solar PV (Utility),2020,0.0,night,summer,0,Zambia,Upper
+Solar PV (Utility),2020,0.309208333,day,summer,0,Zambia,Upper
+Solar PV (Utility),2020,0.0,night,autumn,0,Zambia,Upper
+Solar PV (Utility),2020,0.318684066,day,autumn,0,Zambia,Upper
+Solar PV (Utility),2025,0.0,night,winter,0,Zambia,Upper
+Solar PV (Utility),2025,0.33512037,day,winter,0,Zambia,Upper
+Solar PV (Utility),2025,0.0,night,spring,0,Zambia,Upper
+Solar PV (Utility),2025,0.302018116,day,spring,0,Zambia,Upper
+Solar PV (Utility),2025,0.0,night,summer,0,Zambia,Upper
+Solar PV (Utility),2025,0.309208333,day,summer,0,Zambia,Upper
+Solar PV (Utility),2025,0.0,night,autumn,0,Zambia,Upper
+Solar PV (Utility),2025,0.318684066,day,autumn,0,Zambia,Upper
+Solar PV (Utility),2030,0.0,night,winter,0,Zambia,Upper
+Solar PV (Utility),2030,0.33512037,day,winter,0,Zambia,Upper
+Solar PV (Utility),2030,0.0,night,spring,0,Zambia,Upper
+Solar PV (Utility),2030,0.302018116,day,spring,0,Zambia,Upper
+Solar PV (Utility),2030,0.0,night,summer,0,Zambia,Upper
+Solar PV (Utility),2030,0.309208333,day,summer,0,Zambia,Upper
+Solar PV (Utility),2030,0.0,night,autumn,0,Zambia,Upper
+Solar PV (Utility),2030,0.318684066,day,autumn,0,Zambia,Upper
+Solar PV (Utility),2040,0.0,night,winter,0,Zambia,Upper
+Solar PV (Utility),2040,0.33512037,day,winter,0,Zambia,Upper
+Solar PV (Utility),2040,0.0,night,spring,0,Zambia,Upper
+Solar PV (Utility),2040,0.302018116,day,spring,0,Zambia,Upper
+Solar PV (Utility),2040,0.0,night,summer,0,Zambia,Upper
+Solar PV (Utility),2040,0.309208333,day,summer,0,Zambia,Upper
+Solar PV (Utility),2040,0.0,night,autumn,0,Zambia,Upper
+Solar PV (Utility),2040,0.318684066,day,autumn,0,Zambia,Upper
+Solar PV (Utility),2050,0.0,night,winter,0,Zambia,Upper
+Solar PV (Utility),2050,0.33512037,day,winter,0,Zambia,Upper
+Solar PV (Utility),2050,0.0,night,spring,0,Zambia,Upper
+Solar PV (Utility),2050,0.302018116,day,spring,0,Zambia,Upper
+Solar PV (Utility),2050,0.0,night,summer,0,Zambia,Upper
+Solar PV (Utility),2050,0.309208333,day,summer,0,Zambia,Upper
+Solar PV (Utility),2050,0.0,night,autumn,0,Zambia,Upper
+Solar PV (Utility),2050,0.318684066,day,autumn,0,Zambia,Upper

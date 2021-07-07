@@ -14,6 +14,7 @@ class Transformer:
         self.output_path = Path(output_path)
         self.start_year = int(start_year)
         self.end_year = int(end_year)
+
         self.benchmark_years = int(benchmark_years)
 
         self.folder = str(self.input_path).split("/")[-1]

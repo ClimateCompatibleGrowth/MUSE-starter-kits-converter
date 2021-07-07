@@ -27,7 +27,7 @@ def main(input_filepath, output_filepath, start_year, end_year, benchmark_years)
             input_path=path,
             output_path=output_filepath + "/" + path.split("/")[-2],
             start_year=start_year,
-            end_year=end_year + benchmark_years,
+            end_year=end_year,
             benchmark_years=benchmark_years,
         )
         for path in directories
