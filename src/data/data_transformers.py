@@ -319,7 +319,7 @@ class Transformer:
 
         for col in unknown_cols:
             muse_installed_capacity[col] = (
-                muse_installed_capacity[col - self.benchmark_years] * 0.9
+                muse_installed_capacity[col - self.benchmark_years] * 0.98
             )
 
         return muse_installed_capacity

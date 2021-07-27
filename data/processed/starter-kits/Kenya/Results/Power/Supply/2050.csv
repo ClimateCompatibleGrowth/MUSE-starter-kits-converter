@@ -1,35 +1,31 @@
 ,commodity,region,technology,year,supply
-0,electricity,Kenya,Geothermal Power Plant,2050,13.70700000000
-1,electricity,Kenya,Medium Hydropower Plant (10-100MW),2050,15.71950000000
-2,electricity,Kenya,Solar PV (Utility),2050,0.49950000000
-3,electricity,Kenya,Geothermal Power Plant,2050,290.52570000000
-4,electricity,Kenya,Geothermal Power Plant,2050,229.98430000000
-5,electricity,Kenya,Geothermal Power Plant,2055,259.95270000000
-6,electricity,Kenya,Medium Hydropower Plant (10-100MW),2050,0.00010000000
-7,electricity,Kenya,Medium Hydropower Plant (10-100MW),2055,0.00010000000
-8,electricity,Kenya,Offshore Wind,2050,0.00010000000
-9,electricity,Kenya,Offshore Wind,2055,0.00010000000
-10,electricity,Kenya,Solar PV (Utility),2050,104.39280000000
-11,electricity,Kenya,Solar PV (Utility),2055,104.39280000000
-12,electricity,Kenya,Geothermal Power Plant,2050,113.36010000000
-13,electricity,Kenya,Geothermal Power Plant,2055,128.13160000000
-14,electricity,Kenya,Medium Hydropower Plant (10-100MW),2050,711.96370000000
-15,electricity,Kenya,Medium Hydropower Plant (10-100MW),2055,711.96370000000
-16,electricity,Kenya,Offshore Wind,2050,0.14620000000
-17,electricity,Kenya,Offshore Wind,2055,0.14620000000
-18,electricity,Kenya,Solar PV (Utility),2050,127.70900000000
-19,electricity,Kenya,Solar PV (Utility),2055,127.70900000000
-20,electricity,Kenya,Geothermal Power Plant,2050,113.35120000000
-21,electricity,Kenya,Geothermal Power Plant,2055,128.12150000000
-22,electricity,Kenya,Offshore Wind,2050,0.01120000000
-23,electricity,Kenya,Offshore Wind,2055,0.01120000000
-24,electricity,Kenya,Solar PV (Utility),2050,148.19230000000
-25,electricity,Kenya,Solar PV (Utility),2055,148.19230000000
-26,electricity,Kenya,Geothermal Power Plant,2050,113.35300000000
-27,electricity,Kenya,Geothermal Power Plant,2055,128.12360000000
-28,electricity,Kenya,Offshore Wind,2050,0.00890000000
-29,electricity,Kenya,Offshore Wind,2055,0.00890000000
-30,electricity,Kenya,Solar PV (Utility),2050,166.07550000000
-31,electricity,Kenya,Solar PV (Utility),2055,166.07550000000
-32,electricity,Kenya,Geothermal Power Plant,2055,64.39210000000
-33,electricity,Kenya,Solar PV (Utility),2055,181.77890000000
+0,electricity,Kenya,Geothermal Power Plant,2050,22.31710000000
+1,electricity,Kenya,Medium Hydropower Plant (10-100MW),2050,26.20230000000
+2,electricity,Kenya,Solar PV (Utility),2050,0.83270000000
+3,electricity,Kenya,Geothermal Power Plant,2050,281.89760000000
+4,electricity,Kenya,Geothermal Power Plant,2050,222.24770000000
+5,electricity,Kenya,Geothermal Power Plant,2055,255.42430000000
+6,electricity,Kenya,Solar PV (Utility),2050,104.36780000000
+7,electricity,Kenya,Solar PV (Utility),2055,104.36780000000
+8,electricity,Kenya,Geothermal Power Plant,2050,110.72700000000
+9,electricity,Kenya,Geothermal Power Plant,2055,127.25610000000
+10,electricity,Kenya,Medium Hydropower Plant (10-100MW),2050,716.98230000000
+11,electricity,Kenya,Medium Hydropower Plant (10-100MW),2055,716.98230000000
+12,electricity,Kenya,Offshore Wind,2050,0.05470000000
+13,electricity,Kenya,Offshore Wind,2055,0.05470000000
+14,electricity,Kenya,Solar PV (Utility),2050,127.70840000000
+15,electricity,Kenya,Solar PV (Utility),2055,127.70840000000
+16,electricity,Kenya,Geothermal Power Plant,2050,110.72380000000
+17,electricity,Kenya,Geothermal Power Plant,2055,127.25240000000
+18,electricity,Kenya,Offshore Wind,2050,0.00410000000
+19,electricity,Kenya,Offshore Wind,2055,0.00410000000
+20,electricity,Kenya,Solar PV (Utility),2050,148.16210000000
+21,electricity,Kenya,Solar PV (Utility),2055,148.16210000000
+22,electricity,Kenya,Geothermal Power Plant,2050,110.72450000000
+23,electricity,Kenya,Geothermal Power Plant,2055,127.25320000000
+24,electricity,Kenya,Offshore Wind,2050,0.00330000000
+25,electricity,Kenya,Offshore Wind,2055,0.00330000000
+26,electricity,Kenya,Solar PV (Utility),2050,166.04450000000
+27,electricity,Kenya,Solar PV (Utility),2055,166.04450000000
+28,electricity,Kenya,Geothermal Power Plant,2055,66.69290000000
+29,electricity,Kenya,Solar PV (Utility),2055,181.79370000000
