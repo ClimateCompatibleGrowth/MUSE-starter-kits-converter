@@ -390,10 +390,11 @@ class Transformer:
             large_hydropower_limit = 0
 
         medium_hydropower_row = {
-            "Technology": "Medium Hydropower Plant",
+            "Technology": "Medium Hydropower Plant (10-100MW)",
             "Parameter": "Estimated Renewable Energy Potential",
             "Value": large_hydropower_limit,
         }
+
         growth_limits = growth_limits.append(medium_hydropower_row, ignore_index=True)
 
         muse_technodata = pd.read_csv(
@@ -415,7 +416,8 @@ class Transformer:
         growth_limits = growth_limits.set_index("Technology")
 
         technoeconomic_data_wide.update(growth_limits)
-
+        # print("technoeconomic_data_wide: {}".format(technoeconomic_data_wide))
+        technoeconomic_data_wide.to_csv("~/Desktop/technoeconomic_data_wide.csv")
         technoeconomic_data_wide = technoeconomic_data_wide.reset_index()
         technoeconomic_data_wide_named = technoeconomic_data_wide.rename(
             columns={
@@ -857,7 +859,7 @@ class Transformer:
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
         technoeconomic_data_wide["InterestRate"] = 0.1
-        technoeconomic_data_wide["MaxCapacityAddition"] = 250
+        technoeconomic_data_wide["MaxCapacityAddition"] = 2500
         technoeconomic_data_wide["MaxCapacityGrowth"] = 500
         technoeconomic_data_wide["TotalCapacityLimit"] = 50000
 
