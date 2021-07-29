@@ -526,15 +526,20 @@ class Transformer:
         )
         capacity_factors = capacity_factors.drop(columns="variable")
         capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
-            "\bWind\b", "Onshore Wind"
+            r"\bWind\b", "Onshore Wind"
         )
         capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
             "PV", "Solar PV (Utility)"
+        )
+
+        capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
+            "Offshore Onshore Wind", "Offshore Wind"
         )
         capacity_factors = capacity_factors.rename(
             columns={"value": "UtilizationFactor"}
         )
 
+        print(capacity_factors)
         process_timeslice = pd.merge(
             technodata[["ProcessName", "Time"]],
             capacity_factors[["season", "day"]],
