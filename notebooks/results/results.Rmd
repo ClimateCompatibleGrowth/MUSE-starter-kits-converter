@@ -1,0 +1,73 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+
+prices = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/MCAPrices.csv")
+prices
+```
+
+```{r}
+prices_grouped = prices %>% group_by(commodity, year) %>% summarise(price = mean(prices))
+prices_grouped
+```
+
+```{r}
+prices_grouped %>% ggplot() + geom_line(aes(x=year, y=price, color=commodity)) + theme_bw()
+
+```
+
+```{r}
+
+capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/MCACapacity.csv")
+head(capacity)
+```
+
+
+```{r}
+capacity_summed = capacity %>% group_by(technology, sector, year, agent) %>% summarise(capacity=sum(capacity))
+head(capacity_summed)
+```
+
+```{r}
+ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, color=technology, linetype=agent)) + geom_line() + theme_classic()
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/capacity_line_graph.pdf")
+
+```
+
+
+```{r}
+
+ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, fill=technology)) + geom_bar(stat='identity', colour="black") + facet_grid(cols=vars(agent)) + theme_classic()
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/capacity.pdf")
+```
+
+```{r}
+supply <-
+    list.files(path = "/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/Power/Supply/", pattern = "*.csv", full.names = T) %>% 
+    map_df(~read_csv(.))
+
+supply_elec = filter(supply, commodity=="electricity")
+supply_summed = supply_elec %>% group_by(commodity, region, technology, year) %>% summarise(supply = sum(supply))
+```
+
+```{r}
+supply_summed
+```
+
+```{r}
+filter(supply_summed, year<=2050) %>% ggplot(aes(x=year, y=supply, fill=technology)) + geom_bar(stat='identity', colour="black") + theme_classic()
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/supply.pdf")
+```
+
