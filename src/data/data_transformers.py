@@ -528,9 +528,9 @@ class Transformer:
         capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
             r"\bWind\b", "Onshore Wind"
         )
-        capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
-            "PV", "Solar PV (Utility)"
-        )
+        # capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
+        #     "PV", "Solar PV (Utility)"
+        # )
 
         capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
             "Offshore Onshore Wind", "Offshore Wind"
