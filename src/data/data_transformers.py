@@ -416,8 +416,6 @@ class Transformer:
         growth_limits = growth_limits.set_index("Technology")
 
         technoeconomic_data_wide.update(growth_limits)
-        # print("technoeconomic_data_wide: {}".format(technoeconomic_data_wide))
-        technoeconomic_data_wide.to_csv("~/Desktop/technoeconomic_data_wide.csv")
         technoeconomic_data_wide = technoeconomic_data_wide.reset_index()
         technoeconomic_data_wide_named = technoeconomic_data_wide.rename(
             columns={
@@ -508,7 +506,37 @@ class Transformer:
             muse_technodata.ProcessName == "Unit"
         ].append(forwardfilled_projected_technoeconomic)
 
-        return forwardfilled_projected_technoeconomic
+        fixed_costs = pd.read_csv(
+            str(PROJECT_DIR) + "/data/interim/fixed_costs/Kenya-fixed-costs.csv"
+        )
+        fixed_costs_long = fixed_costs.melt(
+            id_vars="ProcessName", var_name="Time", value_name="fix_par"
+        )
+        fixed_costs_long
+
+        fixed_costs_long["Time"] = pd.to_numeric(fixed_costs_long.Time)
+
+        fixed_costs_long["fix_par"] = fixed_costs_long["fix_par"] * 1 / (8600 * 0.0036)
+
+        units = pd.DataFrame(
+            {"ProcessName": ["Unit"], "Time": ["Year"], "fix_par": ["MUS$2010/PJ"]}
+        )
+        fixed_costs_long = pd.concat([units, fixed_costs_long])
+        technodata_edited = pd.merge(
+            forwardfilled_projected_technoeconomic,
+            fixed_costs_long,
+            on=["ProcessName", "Time"],
+            how="left",
+        )
+
+        technodata_edited["fix_par_y"] = technodata_edited.fix_par_y.fillna(
+            technodata_edited.fix_par_x
+        )
+        technodata_edited = technodata_edited.drop(columns="fix_par_x")
+        technodata_edited = technodata_edited.rename(columns={"fix_par_y": "fix_par"})
+        technodata_edited = technodata_edited.reindex(muse_technodata.columns, axis=1)
+
+        return technodata_edited
 
     def get_technodata_timeslices(self, technodata):
         example_ttslices = pd.read_csv(
@@ -539,7 +567,6 @@ class Transformer:
             columns={"value": "UtilizationFactor"}
         )
 
-        print(capacity_factors)
         process_timeslice = pd.merge(
             technodata[["ProcessName", "Time"]],
             capacity_factors[["season", "day"]],
