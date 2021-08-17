@@ -1,0 +1,23 @@
+,commodity,region,technology,year,supply
+0,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,0.00010000000
+1,electricity,Kenya,Medium Hydropower Plant (10-100MW),2075,0.00010000000
+2,electricity,Kenya,Nuclear Power Plant,2070,0.00270000000
+3,electricity,Kenya,Nuclear Power Plant,2075,0.00270000000
+4,electricity,Kenya,Coal Power Plant,2070,23.50050000000
+5,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,699.30670000000
+6,electricity,Kenya,Medium Hydropower Plant (10-100MW),2075,699.30670000000
+7,electricity,Kenya,Nuclear Power Plant,2070,6.75630000000
+8,electricity,Kenya,Nuclear Power Plant,2075,6.75630000000
+9,electricity,Kenya,Coal Power Plant,2070,909.44470000000
+10,electricity,Kenya,Coal Power Plant,2075,909.44470000000
+11,electricity,Kenya,Coal Power Plant,2070,1156.15710000000
+12,electricity,Kenya,Coal Power Plant,2075,1156.15710000000
+13,electricity,Kenya,Geothermal Power Plant,2070,360.32300000000
+14,electricity,Kenya,Offshore Wind,2070,0.01070000000
+15,electricity,Kenya,Solar PV (Utility),2070,166.20790000000
+16,electricity,Kenya,Coal Power Plant,2070,1179.80620000000
+17,electricity,Kenya,Coal Power Plant,2075,1179.80620000000
+18,electricity,Kenya,Geothermal Power Plant,2070,188.40850000000
+19,electricity,Kenya,Geothermal Power Plant,2075,188.40850000000
+20,electricity,Kenya,Solar PV (Utility),2070,181.83250000000
+21,electricity,Kenya,Solar PV (Utility),2075,181.83250000000
