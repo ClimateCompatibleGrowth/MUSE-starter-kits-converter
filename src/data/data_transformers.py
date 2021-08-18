@@ -288,7 +288,7 @@ class Transformer:
         )
 
         installed_capacity_cf["estimated_installed_capacity_PJ_y"] = (
-            installed_capacity_cf.estimated_installed_capacity_MW * 8600 * 0.0000036
+            installed_capacity_cf.estimated_installed_capacity_MW * 24 * 365 * 0.0000036
         )
 
         installed_capacity_pj_y = installed_capacity_cf.drop(
@@ -497,7 +497,7 @@ class Transformer:
 
         kw_columns = ["cap_par", "fix_par"]
 
-        forwardfilled_projected_technoeconomic[kw_columns] *= 1 / (8600 * 0.0036)
+        forwardfilled_projected_technoeconomic[kw_columns] *= 1 / (24 * 365 * 0.0036)
         forwardfilled_projected_technoeconomic.reindex(muse_technodata.columns, axis=1)
 
         forwardfilled_projected_technoeconomic["efficiency"] *= 100
@@ -516,7 +516,9 @@ class Transformer:
 
         fixed_costs_long["Time"] = pd.to_numeric(fixed_costs_long.Time)
 
-        fixed_costs_long["fix_par"] = fixed_costs_long["fix_par"] * 1 / (8600 * 0.0036)
+        fixed_costs_long["fix_par"] = (
+            fixed_costs_long["fix_par"] * 1 / (24 * 365 * 0.0036)
+        )
 
         units = pd.DataFrame(
             {"ProcessName": ["Unit"], "Time": ["Year"], "fix_par": ["MUS$2010/PJ"]}
