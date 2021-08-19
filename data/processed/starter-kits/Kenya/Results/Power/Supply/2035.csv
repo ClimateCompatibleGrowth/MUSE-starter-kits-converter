@@ -1,31 +1,34 @@
 ,commodity,region,technology,year,supply
 0,electricity,Kenya,Biomass Power Plant,2035,10.68530000000
 1,electricity,Kenya,Biomass Power Plant,2040,10.47160000000
-2,electricity,Kenya,Geothermal Power Plant,2035,78.59880000000
-3,electricity,Kenya,Geothermal Power Plant,2040,77.02680000000
-4,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2035,56.87440000000
-5,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2040,55.73690000000
-6,electricity,Kenya,Light Fuel Oil Power Plant,2035,54.61380000000
-7,electricity,Kenya,Light Fuel Oil Power Plant,2040,53.52160000000
-8,electricity,Kenya,Medium Hydropower Plant (10-100MW),2035,2324.20070000000
-9,electricity,Kenya,Medium Hydropower Plant (10-100MW),2040,2323.63360000000
-10,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2035,84.91260000000
-11,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2040,83.21440000000
-12,electricity,Kenya,Onshore Wind,2035,15.19940000000
-13,electricity,Kenya,Onshore Wind,2040,14.89540000000
-14,electricity,Kenya,Solar PV (Distributed with Storage),2035,5866.07440000000
-15,electricity,Kenya,Solar PV (Distributed with Storage),2040,5866.04120000000
-16,electricity,Kenya,Solar PV (Utility),2035,1453.24600000000
-17,electricity,Kenya,Solar PV (Utility),2040,1453.22800000000
-18,electricity,Kenya,Medium Hydropower Plant (10-100MW),2035,101.63870000000
-19,electricity,Kenya,Medium Hydropower Plant (10-100MW),2040,101.63870000000
-20,electricity,Kenya,Solar PV (Distributed with Storage),2035,23.95760000000
-21,electricity,Kenya,Solar PV (Distributed with Storage),2040,23.95760000000
-22,electricity,Kenya,Medium Hydropower Plant (10-100MW),2035,1910.85370000000
-23,electricity,Kenya,Medium Hydropower Plant (10-100MW),2040,1910.85370000000
-24,electricity,Kenya,Offshore Wind,2035,1375.91290000000
-25,electricity,Kenya,Offshore Wind,2040,1375.91290000000
-26,electricity,Kenya,Onshore Wind,2035,2089.40340000000
-27,electricity,Kenya,Onshore Wind,2040,2089.40340000000
-28,electricity,Kenya,Solar PV (Distributed with Storage),2035,8066.09240000000
-29,electricity,Kenya,Solar PV (Distributed with Storage),2040,8066.09240000000
+2,electricity,Kenya,CSP without Storage,2035,6.89810000000
+3,electricity,Kenya,CSP without Storage,2040,6.89810000000
+4,electricity,Kenya,CSP without Storage,2035,6.71470000000
+5,electricity,Kenya,CSP without Storage,2040,6.71470000000
+6,electricity,Kenya,CSP without Storage,2040,6.58040000000
+7,electricity,Kenya,Geothermal Power Plant,2035,78.59880000000
+8,electricity,Kenya,Geothermal Power Plant,2040,77.02680000000
+9,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2035,56.87440000000
+10,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2040,55.73690000000
+11,electricity,Kenya,Light Fuel Oil Power Plant,2035,54.61380000000
+12,electricity,Kenya,Light Fuel Oil Power Plant,2040,53.52160000000
+13,electricity,Kenya,Medium Hydropower Plant (10-100MW),2035,4012.62510000000
+14,electricity,Kenya,Medium Hydropower Plant (10-100MW),2040,4012.05790000000
+15,electricity,Kenya,Medium Hydropower Plant (10-100MW),2035,2295.70820000000
+16,electricity,Kenya,Medium Hydropower Plant (10-100MW),2040,2295.70820000000
+17,electricity,Kenya,Medium Hydropower Plant (10-100MW),2035,1051.36310000000
+18,electricity,Kenya,Medium Hydropower Plant (10-100MW),2040,1051.36310000000
+19,electricity,Kenya,Medium Hydropower Plant (10-100MW),2040,1136.72450000000
+20,electricity,Kenya,Offshore Wind,2035,1403.57020000000
+21,electricity,Kenya,Offshore Wind,2040,1403.57020000000
+22,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2035,84.91260000000
+23,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2040,83.21440000000
+24,electricity,Kenya,Onshore Wind,2035,15.19940000000
+25,electricity,Kenya,Onshore Wind,2040,14.89540000000
+26,electricity,Kenya,Onshore Wind,2035,1151.94510000000
+27,electricity,Kenya,Onshore Wind,2040,1151.94510000000
+28,electricity,Kenya,Onshore Wind,2040,1132.47200000000
+29,electricity,Kenya,Solar PV (Distributed with Storage),2035,1.65760000000
+30,electricity,Kenya,Solar PV (Distributed with Storage),2040,1.62450000000
+31,electricity,Kenya,Solar PV (Utility),2035,2560.74270000000
+32,electricity,Kenya,Solar PV (Utility),2040,2560.72470000000

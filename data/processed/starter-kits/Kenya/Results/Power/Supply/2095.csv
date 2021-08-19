@@ -1,10 +1,12 @@
 ,commodity,region,technology,year,supply
-0,electricity,Kenya,Medium Hydropower Plant (10-100MW),2095,735.58900000000
-1,electricity,Kenya,Solar PV (Distributed with Storage),2095,17662.42100000000
-2,electricity,Kenya,Solar PV (Distributed with Storage),2095,353.02710000000
-3,electricity,Kenya,Solar PV (Distributed with Storage),2100,353.02710000000
-4,electricity,Kenya,Solar PV (Distributed with Storage),2095,25487.91570000000
-5,electricity,Kenya,Solar PV (Distributed with Storage),2100,25487.91570000000
-6,electricity,Kenya,Solar PV (Distributed with Storage),2095,8848.42900000000
-7,electricity,Kenya,Solar PV (Distributed with Storage),2100,8848.42900000000
-8,electricity,Kenya,Solar PV (Distributed with Storage),2100,20306.06320000000
+0,electricity,Kenya,Medium Hydropower Plant (10-100MW),2095,1226.66540000000
+1,electricity,Kenya,Gas Power Plant (SCGT),2095,9667.93460000000
+2,electricity,Kenya,Gas Power Plant (SCGT),2095,1758.37390000000
+3,electricity,Kenya,Gas Power Plant (SCGT),2100,1758.37390000000
+4,electricity,Kenya,Gas Power Plant (SCGT),2095,2721.92790000000
+5,electricity,Kenya,Gas Power Plant (SCGT),2100,2721.92790000000
+6,electricity,Kenya,Gas Power Plant (SCGT),2095,2144.79310000000
+7,electricity,Kenya,Gas Power Plant (SCGT),2100,2144.79310000000
+8,electricity,Kenya,Gas Power Plant (SCGT),2095,2320.30510000000
+9,electricity,Kenya,Gas Power Plant (SCGT),2100,2320.30510000000
+10,electricity,Kenya,Gas Power Plant (SCGT),2100,10894.60000000000
