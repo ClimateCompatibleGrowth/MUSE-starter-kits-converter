@@ -887,12 +887,12 @@ class Transformer:
         technoeconomic_data_wide["Level"] = "fixed"
         technoeconomic_data_wide["cap_exp"] = 1
         technoeconomic_data_wide["fix_exp"] = 1
-        technoeconomic_data_wide["var_par"] = 1
+        technoeconomic_data_wide["var_par"] = 0.00000317
         technoeconomic_data_wide["var_exp"] = 1
         technoeconomic_data_wide["Type"] = fuel_type
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
-        technoeconomic_data_wide["InterestRate"] = 0.1
+        technoeconomic_data_wide["InterestRate"] = 0.089
         technoeconomic_data_wide["MaxCapacityAddition"] = 2500
         technoeconomic_data_wide["MaxCapacityGrowth"] = 500
         technoeconomic_data_wide["TotalCapacityLimit"] = 50000

@@ -1,7 +1,7 @@
 # plugins = "{path}/hooks.py"
 
 # Global settings - most REQUIRED
-time_framework = [2020, 2025, 2030, 2035, 2040, 2045, 2050, 2060, 2070, 2080, 2090, 2100]
+time_framework = [2020, 2025, 2030, 2035, 2040, 2045, 2050, 2055, 2060, 2065, 2070, 2075, 2080, 2085, 2090, 2095, 2100]
 foresight = 5   # Has to be a multiple of the minimum separation between the years in time framework
 regions = ["Kenya"]
 interest_rate = 0.1
