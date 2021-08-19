@@ -1,42 +1,21 @@
 ,commodity,region,technology,year,supply
-0,electricity,Kenya,Coal Power Plant,2065,0.00400000000
-1,electricity,Kenya,Medium Hydropower Plant (10-100MW),2065,229.40320000000
-2,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,229.40320000000
-3,electricity,Kenya,Nuclear Power Plant,2065,0.00310000000
-4,electricity,Kenya,Nuclear Power Plant,2070,0.00310000000
-5,electricity,Kenya,CSP without Storage,2065,0.00340000000
-6,electricity,Kenya,Coal Power Plant,2065,10.09170000000
-7,electricity,Kenya,Coal Power Plant,2070,10.09170000000
-8,electricity,Kenya,Gas Power Plant (CCGT),2065,8.47750000000
-9,electricity,Kenya,Medium Hydropower Plant (10-100MW),2065,469.39600000000
-10,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,469.39600000000
-11,electricity,Kenya,Nuclear Power Plant,2065,7.68360000000
-12,electricity,Kenya,Nuclear Power Plant,2070,7.68360000000
-13,electricity,Kenya,Coal Power Plant,2065,909.03560000000
-14,electricity,Kenya,Coal Power Plant,2070,909.03560000000
-15,electricity,Kenya,Geothermal Power Plant,2065,360.33290000000
-16,electricity,Kenya,Offshore Wind,2065,0.00040000000
-17,electricity,Kenya,Solar PV (Utility),2065,148.02430000000
-18,electricity,Kenya,Coal Power Plant,2065,1156.42520000000
-19,electricity,Kenya,Coal Power Plant,2070,1156.42520000000
-20,electricity,Kenya,Geothermal Power Plant,2065,360.33300000000
-21,electricity,Kenya,Geothermal Power Plant,2070,360.33300000000
-22,electricity,Kenya,Offshore Wind,2065,0.00030000000
-23,electricity,Kenya,Offshore Wind,2070,0.00030000000
-24,electricity,Kenya,Solar PV (Utility),2065,166.20990000000
-25,electricity,Kenya,Solar PV (Utility),2070,166.20990000000
-26,electricity,Kenya,Coal Power Plant,2065,1180.02410000000
-27,electricity,Kenya,Coal Power Plant,2070,1180.02410000000
-28,electricity,Kenya,Geothermal Power Plant,2065,188.33950000000
-29,electricity,Kenya,Geothermal Power Plant,2070,188.33950000000
-30,electricity,Kenya,Solar PV (Utility),2065,181.83440000000
-31,electricity,Kenya,Solar PV (Utility),2070,181.83440000000
-32,electricity,Kenya,Coal Power Plant,2065,564.04910000000
-33,electricity,Kenya,Coal Power Plant,2070,564.04910000000
-34,electricity,Kenya,Geothermal Power Plant,2065,723.73650000000
-35,electricity,Kenya,Geothermal Power Plant,2070,723.73650000000
-36,electricity,Kenya,Solar PV (Utility),2065,182.39220000000
-37,electricity,Kenya,Solar PV (Utility),2070,182.39220000000
-38,electricity,Kenya,Gas Power Plant (SCGT),2065,1652.79690000000
-39,electricity,Kenya,Gas Power Plant (SCGT),2070,1652.79690000000
-40,electricity,Kenya,Gas Power Plant (SCGT),2070,1677.30420000000
+0,electricity,Kenya,Medium Hydropower Plant (10-100MW),2065,2295.84330000000
+1,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,2295.84330000000
+2,electricity,Kenya,Medium Hydropower Plant (10-100MW),2065,101.63870000000
+3,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,101.63870000000
+4,electricity,Kenya,Medium Hydropower Plant (10-100MW),2065,1910.85370000000
+5,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,1910.85370000000
+6,electricity,Kenya,Medium Hydropower Plant (10-100MW),2065,1360.20280000000
+7,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,1360.20280000000
+8,electricity,Kenya,Offshore Wind,2065,176.45640000000
+9,electricity,Kenya,Onshore Wind,2065,1410.23320000000
+10,electricity,Kenya,Solar PV (Distributed with Storage),2065,23.72850000000
+11,electricity,Kenya,Medium Hydropower Plant (10-100MW),2065,735.58900000000
+12,electricity,Kenya,Medium Hydropower Plant (10-100MW),2070,735.58900000000
+13,electricity,Kenya,Onshore Wind,2065,732.53860000000
+14,electricity,Kenya,Onshore Wind,2070,732.53860000000
+15,electricity,Kenya,Solar PV (Distributed with Storage),2065,7027.11180000000
+16,electricity,Kenya,Solar PV (Distributed with Storage),2070,7027.11180000000
+17,electricity,Kenya,Solar PV (Distributed with Storage),2065,18762.37090000000
+18,electricity,Kenya,Solar PV (Distributed with Storage),2070,18762.37090000000
+19,electricity,Kenya,Solar PV (Distributed with Storage),2070,4212.44210000000

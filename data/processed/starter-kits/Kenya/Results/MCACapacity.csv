@@ -9,272 +9,166 @@ Onshore Wind,Kenya,Kenya,A1,power,retrofit,2020,9.77620000000
 Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2020,1.19330000000
 Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2020,0.75690000000
 Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2025,2.78150000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2025,113.35990000000
+Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2025,12.94930000000
 Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2025,15.42170000000
 Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2025,8.88530000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2025,7.68920000000
+Light Fuel Oil Standalone Generator (1kW),Kenya,Kenya,A1,power,retrofit,2025,914.20470000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2025,605.56510000000
 Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2025,13.81470000000
 Onshore Wind,Kenya,Kenya,A1,power,retrofit,2025,9.58060000000
-Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2025,1.16950000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2025,0.74170000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2025,3974.70320000000
+Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2025,1148.81240000000
 Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2030,2.72580000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2030,113.10090000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2030,145.01240000000
+Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2030,12.69030000000
 Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2030,15.11330000000
 Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2030,8.70760000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2030,7.53540000000
+Light Fuel Oil Standalone Generator (1kW),Kenya,Kenya,A1,power,retrofit,2030,914.20470000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2030,605.41130000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2030,26.46840000000
 Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2030,13.53840000000
 Onshore Wind,Kenya,Kenya,A1,power,retrofit,2030,9.38900000000
-Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2030,1.14610000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2030,0.72690000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2030,3974.67980000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2030,16.23290000000
+Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2030,1148.79760000000
 Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2035,2.67130000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2035,0.00060000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2035,0.00050000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2035,0.00050000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2035,112.84710000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2035,145.01240000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2035,114.51530000000
+Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2035,12.43650000000
 Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2035,14.81100000000
 Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2035,8.53340000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2035,7.38470000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2035,59.74040000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2035,0.00050000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2035,605.26060000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2035,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2035,497.61810000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2035,379.24830000000
 Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2035,13.26760000000
 Onshore Wind,Kenya,Kenya,A1,power,retrofit,2035,9.20120000000
-Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2035,1.12310000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2035,0.71240000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2035,82.35260000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2035,1264.86130000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2035,3974.65690000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2035,16.23290000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2035,5465.31590000000
+Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2035,1148.78300000000
 Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2040,2.61790000000
-CSP without Storage,Kenya,Kenya,A1,power,retrofit,2040,0.00090000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2040,0.00060000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2040,1.48410000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2040,0.00050000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2040,1.24670000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2040,0.00050000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2040,1.25300000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2040,112.59840000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2040,145.01240000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2040,114.51530000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2040,57.01480000000
+Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2040,12.18780000000
 Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2040,14.51480000000
 Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2040,8.36270000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2040,7.23700000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2040,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2040,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2040,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2040,1.12990000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2040,0.00160000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2040,605.11290000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2040,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2040,497.61810000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2040,379.24830000000
 Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2040,13.00220000000
-Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2040,40.20320000000
 Onshore Wind,Kenya,Kenya,A1,power,retrofit,2040,9.01720000000
-Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2040,1.10070000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2040,0.69810000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2040,82.35260000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2040,100.83740000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2040,1264.86130000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2040,3974.63450000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2040,16.23290000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2040,5465.31590000000
+Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2040,1148.76880000000
 Biomass Power Plant,Kenya,Kenya,A1,power,retrofit,2045,2.56550000000
-CSP without Storage,Kenya,Kenya,A1,power,retrofit,2045,0.00090000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,0.00060000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,1.48410000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,133.68170000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2045,0.00050000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2045,1.24670000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2045,0.00050000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2045,1.25300000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,112.35460000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,145.01240000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,114.51530000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,57.01480000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,57.01470000000
+Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2045,11.94400000000
 Large Hydropower Plant (Dam) (>100MW),Kenya,Kenya,A1,power,retrofit,2045,14.22450000000
 Light Fuel Oil Power Plant,Kenya,Kenya,A1,power,retrofit,2045,8.19550000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2045,7.09230000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2045,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2045,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2045,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2045,1.12990000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2045,0.00160000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2045,0.00010000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2045,604.96820000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2045,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2045,497.61810000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2045,354.21950000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2045,379.24830000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2045,48.63740000000
 Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2045,12.74220000000
-Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2045,40.20320000000
 Onshore Wind,Kenya,Kenya,A1,power,retrofit,2045,8.83690000000
-Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2045,1.07870000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2045,0.68410000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2045,82.35260000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2045,100.83740000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2045,117.01240000000
-CSP without Storage,Kenya,Kenya,A1,power,retrofit,2050,0.00090000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,0.00060000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,1.48410000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,133.68170000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,170.06250000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2050,0.00050000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2050,1.24670000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2050,0.00050000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2050,1.25300000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,145.01240000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,114.51530000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,57.01480000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,57.01470000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2050,57.01470000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2050,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2050,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2050,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2050,1.12990000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2050,0.00160000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2050,0.00010000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2050,0.00010000000
-Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2050,40.20320000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2050,82.35260000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2050,100.83740000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2050,117.01240000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2050,131.38800000000
-CSP without Storage,Kenya,Kenya,A1,power,retrofit,2055,0.00090000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,0.00060000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,1.48410000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,133.68170000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,170.06250000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,173.53290000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2055,0.00050000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2055,1.24670000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2055,0.00050000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2055,1.25300000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,114.51530000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,57.01480000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,57.01470000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,57.01470000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2055,29.80060000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2055,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2055,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2055,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2055,1.12990000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2055,0.00160000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2055,0.00010000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2055,0.00010000000
-Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2055,40.20320000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2055,82.35260000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2055,100.83740000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2055,117.01240000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2055,131.38800000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2055,143.73910000000
-CSP without Storage,Kenya,Kenya,A1,power,retrofit,2060,0.00090000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,0.00060000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,1.48410000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,133.68170000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,170.06250000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,173.53290000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,82.94840000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2060,0.00050000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2060,1.24670000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2060,1.25300000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,57.01480000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,57.01470000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,57.01470000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,29.80060000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2060,114.51530000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2060,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2060,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2060,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2060,1.12990000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2060,0.00160000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2060,0.00010000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2060,0.00010000000
-Oil Fired Gas Turbine (SCGT),Kenya,Kenya,A1,power,retrofit,2060,40.20320000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2060,100.83740000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2060,117.01240000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2060,131.38800000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2060,143.73910000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2060,144.18010000000
-CSP without Storage,Kenya,Kenya,A1,power,retrofit,2065,0.00090000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,0.00060000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,1.48410000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,133.68170000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,170.06250000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,173.53290000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,82.94840000000
-Gas Power Plant (CCGT),Kenya,Kenya,A1,power,retrofit,2065,1.24670000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2065,243.05840000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,57.01470000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,57.01470000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,29.80060000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2065,114.51530000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2065,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2065,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2065,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2065,1.12990000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2065,0.00010000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2065,0.00010000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2065,117.01240000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2065,131.38800000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2065,143.73910000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2065,144.18010000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2070,1.48410000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2070,133.68170000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2070,170.06250000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2070,173.53290000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2070,82.94840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2070,243.05840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2070,246.66240000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2070,57.01470000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2070,29.80060000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2070,114.51530000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2070,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2070,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2070,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2070,1.12990000000
-Offshore Wind,Kenya,Kenya,A1,power,retrofit,2070,0.00010000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2070,131.38800000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2070,143.73910000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2070,144.18010000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2075,133.68170000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2075,170.06250000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2075,173.53290000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2075,82.94840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2075,243.05840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2075,246.66240000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2075,219.91980000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2075,29.80060000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2075,114.51530000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2075,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2075,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2075,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2075,1.12990000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2075,143.73910000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2075,144.18010000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2080,170.06250000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2080,173.53290000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2080,82.94840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2080,243.05840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2080,246.66240000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2080,219.91980000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2080,189.63490000000
-Geothermal Power Plant,Kenya,Kenya,A1,power,retrofit,2080,114.51530000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2080,59.74040000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2080,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2080,0.00050000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2080,1.12990000000
-Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2080,144.18010000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2085,173.53290000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2085,82.94840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2085,243.05840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2085,246.66240000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2085,219.91980000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2085,189.63490000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2085,211.46640000000
-Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2085,122.23850000000
-Nuclear Power Plant,Kenya,Kenya,A1,power,retrofit,2085,1.12990000000
-Coal Power Plant,Kenya,Kenya,A1,power,retrofit,2090,82.94840000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2090,246.66240000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2090,219.91980000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2090,189.63490000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2090,211.46640000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2090,245.87690000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2095,219.91980000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2095,189.63490000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2095,211.46640000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2095,245.87690000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2095,256.34360000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2100,189.63490000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2100,211.46640000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2100,245.87690000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2100,256.34360000000
-Gas Power Plant (SCGT),Kenya,Kenya,A1,power,retrofit,2100,251.79060000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2045,1264.86130000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2045,853.71230000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2045,3974.61240000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2045,16.23290000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2045,5465.31590000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2045,16.07760000000
+Solar PV (Utility),Kenya,Kenya,A1,power,retrofit,2045,1148.75480000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2050,597.87590000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2050,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2050,497.61810000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2050,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2050,191.55960000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2050,379.24830000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2050,48.63740000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2050,1264.86130000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2050,853.71230000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2050,443.45660000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2050,16.23290000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2050,5465.31590000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2050,16.07760000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2050,4761.33720000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2055,597.87590000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2055,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2055,497.61810000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2055,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2055,191.55960000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2055,379.24830000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2055,48.63740000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2055,1264.86130000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2055,853.71230000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2055,443.45660000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2055,5465.31590000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2055,16.07760000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2055,4761.33720000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2060,597.87590000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2060,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2060,497.61810000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2060,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2060,191.55960000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2060,48.63740000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2060,853.71230000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2060,443.45660000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2060,16.07760000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2060,4761.33720000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2060,12712.75860000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2065,597.87590000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2065,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2065,497.61810000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2065,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2065,191.55960000000
+Offshore Wind,Kenya,Kenya,A1,power,retrofit,2065,48.63740000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2065,853.71230000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2065,443.45660000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2065,16.07760000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2065,4761.33720000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2065,12712.75860000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2070,597.87590000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2070,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2070,497.61810000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2070,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2070,191.55960000000
+Onshore Wind,Kenya,Kenya,A1,power,retrofit,2070,443.45660000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2070,4761.33720000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2070,12712.75860000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2070,2854.21070000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2075,26.46840000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2075,497.61810000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2075,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2075,191.55960000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2075,12712.75860000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2075,2854.21070000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2075,11967.46910000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2080,497.61810000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2080,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2080,191.55960000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2080,12712.75860000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2080,2854.21070000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2080,11967.46910000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2080,239.19950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2085,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2085,191.55960000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2085,2854.21070000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2085,11967.46910000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2085,239.19950000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2085,17269.76400000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2090,354.21950000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2090,191.55960000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2090,2854.21070000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2090,11967.46910000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2090,239.19950000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2090,17269.76400000000
+Medium Hydropower Plant (10-100MW),Kenya,Kenya,A1,power,retrofit,2095,191.55960000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2095,11967.46910000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2095,239.19950000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2095,17269.76400000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2095,5995.40120000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2100,239.19950000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2100,17269.76400000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2100,5995.40120000000
+Solar PV (Distributed with Storage),Kenya,Kenya,A1,power,retrofit,2100,13758.71310000000

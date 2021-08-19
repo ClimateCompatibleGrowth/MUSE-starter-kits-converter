@@ -1,11 +1,9 @@
 ,commodity,region,technology,year,supply
-0,electricity,Kenya,Gas Power Plant (SCGT),2100,1289.51760000000
-1,electricity,Kenya,Gas Power Plant (SCGT),2100,1437.97180000000
-2,electricity,Kenya,Gas Power Plant (SCGT),2105,1437.97180000000
-3,electricity,Kenya,Gas Power Plant (SCGT),2100,1671.96290000000
-4,electricity,Kenya,Gas Power Plant (SCGT),2105,1671.96290000000
-5,electricity,Kenya,Gas Power Plant (SCGT),2100,1743.13670000000
-6,electricity,Kenya,Gas Power Plant (SCGT),2105,1743.13670000000
-7,electricity,Kenya,Gas Power Plant (SCGT),2100,1712.17640000000
-8,electricity,Kenya,Gas Power Plant (SCGT),2105,1712.17640000000
-9,electricity,Kenya,Gas Power Plant (SCGT),2105,1659.34400000000
+0,electricity,Kenya,Solar PV (Distributed with Storage),2100,353.02710000000
+1,electricity,Kenya,Solar PV (Distributed with Storage),2100,25487.91570000000
+2,electricity,Kenya,Solar PV (Distributed with Storage),2105,25487.91570000000
+3,electricity,Kenya,Solar PV (Distributed with Storage),2100,8848.42900000000
+4,electricity,Kenya,Solar PV (Distributed with Storage),2105,8848.42900000000
+5,electricity,Kenya,Solar PV (Distributed with Storage),2100,20306.06320000000
+6,electricity,Kenya,Solar PV (Distributed with Storage),2105,20306.06320000000
+7,electricity,Kenya,Solar PV (Distributed with Storage),2105,264.34480000000
