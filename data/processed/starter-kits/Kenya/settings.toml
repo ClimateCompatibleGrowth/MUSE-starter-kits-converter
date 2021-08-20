@@ -1,7 +1,7 @@
 # plugins = "{path}/hooks.py"
 
 # Global settings - most REQUIRED
-time_framework = [2020, 2025, 2030, 2035, 2040, 2045, 2050, 2055, 2060, 2065, 2070, 2075, 2080, 2085, 2090, 2095, 2100]
+time_framework = [2020, 2025, 2030, 2035, 2040, 2045, 2050]
 foresight = 5   # Has to be a multiple of the minimum separation between the years in time framework
 regions = ["Kenya"]
 interest_rate = 0.1
@@ -32,6 +32,13 @@ keep_columns = ['technology', 'dst_region', 'region', 'agent', 'sector', 'type',
 quantity = "supply"
 sink = "aggregate"
 filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
+
+[[outputs]]
+quantity = "LCOE"
+sink = "aggregate"
+filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
+columns = ["timeslice",	"region",	"installed",	"technology", "year",	"agent",	"category",	"sector",	"LCOE"]
+
 
 # # Carbon BUDGET control
 # [carbon_budget_control]
@@ -64,7 +71,7 @@ technodata_timeslices = '{path}/technodata/power/TechnodataTimeslices.csv'
 [sectors.power.subsectors.retro_and_new]
 agents = '{path}/technodata/Agents.csv'
 existing_capacity = '{path}/technodata/power/ExistingCapacity.csv'
-lpsolver = "adhoc"
+lpsolver = "scipy"
 
 constraints = [  # Optional, defaults to the constraints below
     "max_production",
@@ -131,12 +138,13 @@ consumption_path= "{path}/technodata/preset/*Consumption.csv"
 
 
 [timeslices]
-winter.night = 1095
-winter.day = 1095
-spring.night = 1095
-spring.day = 1095
-summer.night = 1095
-summer.day = 1095
-autumn.night = 1095
-autumn.day = 1095
-level_names = ["season", "day"]
+winter.all-week.night = 1095
+winter.all-week.day = 1095
+spring.all-week.night = 1095
+spring.all-week.day = 1095
+summer.all-week.night = 1095
+summer.all-week.day = 1095
+autumn.all-week.night = 1095
+autumn.all-week.day = 1095
+level_names = ["month","day", "hour"]
+ 
