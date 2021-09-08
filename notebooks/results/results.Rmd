@@ -58,7 +58,7 @@ supply <-
     map_df(~read_csv(.))
 
 supply_elec = filter(supply, commodity=="electricity")
-supply_summed = supply_elec %>% group_by(commodity, region, technology, year) %>% summarise(supply = sum(supply))
+supply_summed = supply_elec %>% group_by(commodity, region, technology, year) %>% summarise(supply = mean(supply))
 ```
 
 ```{r}
@@ -70,6 +70,12 @@ filter(supply_summed, year<=2050) %>% ggplot(aes(x=year, y=supply, fill=technolo
 
 ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/supply.pdf")
 ```
+```{r}
+filter(supply_summed, year==2050)
+
+```
+
+
 ```{r}
 lcoe = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/MCAMetric_Lcoe.csv")
 head(lcoe)
@@ -90,5 +96,5 @@ ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figu
 
 ```{r}
 
-ggplot(data=filter(lcoe_summed, sector=="power", year==2050), aes(x=technology, y=lcoe, fill=technology)) + geom_col() + theme_classic() + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggplot(data=filter(lcoe_summed, sector=="power", year==2050), aes(x=reorder(technology, lcoe), y=lcoe, fill=technology)) + geom_col() + theme_classic() + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
