@@ -347,6 +347,20 @@ class Transformer:
 
         existing_capacity = existing_capacity.reset_index(drop=True)
         existing_capacity[2020] = 100
+
+        unknown_cols = list(
+            range(
+                self.start_year + self.benchmark_years,
+                self.end_year,
+                self.benchmark_years,
+            )
+        )
+
+        for col in unknown_cols:
+            existing_capacity[col] = (
+                existing_capacity[col - self.benchmark_years] * 0.96
+            )
+
         return existing_capacity
 
     def convert_power_technodata(self):
