@@ -641,14 +641,10 @@ class Transformer:
         )
 
         oil_renamed["Fuel"] = "crude_oil"
-        oil_renamed[
-            "efficiency"
-        ] = 90.6  # https://iea-etsap.org/E-TechDS/PDF/P04_Oil%20Ref_KV_Apr2014_GSOK.pdf
+        oil_renamed["efficiency"] = 1
         oil_renamed["ScalingSize"] = 1
-        oil_renamed[
-            "UtilizationFactor"
-        ] = 0.824  # https://iea-etsap.org/E-TechDS/PDF/P04_Oil%20Ref_KV_Apr2014_GSOK.pdf
-        oil_renamed["fix_par"] = 1
+        oil_renamed["UtilizationFactor"] = 1
+        oil_renamed["fix_par"] = 0
 
         oil_renamed = oil_renamed.apply(pd.to_numeric, errors="ignore")
         oil_renamed["cap_par"] *= 0.001 / (0.00000611 * 365)
