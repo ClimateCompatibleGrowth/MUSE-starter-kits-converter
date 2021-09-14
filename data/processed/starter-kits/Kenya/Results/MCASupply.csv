@@ -1,17 +1,9 @@
-timeslice,commodity,region,supply,units_prices,year
-"('winter', 'all-week', 'night')",electricity,Kenya,43.64340000000,MUS$2020/PJ,2020
-"('winter', 'all-week', 'day')",electricity,Kenya,44.45600000000,MUS$2020/PJ,2020
-"('spring', 'all-week', 'night')",electricity,Kenya,43.69060000000,MUS$2020/PJ,2020
-"('spring', 'all-week', 'day')",electricity,Kenya,44.44560000000,MUS$2020/PJ,2020
-"('summer', 'all-week', 'night')",electricity,Kenya,43.90170000000,MUS$2020/PJ,2020
-"('summer', 'all-week', 'day')",electricity,Kenya,43.77430000000,MUS$2020/PJ,2020
-"('autumn', 'all-week', 'night')",electricity,Kenya,43.98950000000,MUS$2020/PJ,2020
-"('autumn', 'all-week', 'day')",electricity,Kenya,44.63120000000,MUS$2020/PJ,2020
-"('winter', 'all-week', 'night')",electricity,Kenya,113.94380000000,MUS$2020/PJ,2025
-"('winter', 'all-week', 'day')",electricity,Kenya,114.74020000000,MUS$2020/PJ,2025
-"('spring', 'all-week', 'night')",electricity,Kenya,113.99010000000,MUS$2020/PJ,2025
-"('spring', 'all-week', 'day')",electricity,Kenya,114.73000000000,MUS$2020/PJ,2025
-"('summer', 'all-week', 'night')",electricity,Kenya,114.19700000000,MUS$2020/PJ,2025
-"('summer', 'all-week', 'day')",electricity,Kenya,114.07220000000,MUS$2020/PJ,2025
-"('autumn', 'all-week', 'night')",electricity,Kenya,114.28300000000,MUS$2020/PJ,2025
-"('autumn', 'all-week', 'day')",electricity,Kenya,114.91190000000,MUS$2020/PJ,2025
+timeslice,commodity,region,units_prices,supply,year
+"('winter', 'all-week', 'night')",electricity,Kenya,MUS$2020/PJ,43.64340000000,2020
+"('winter', 'all-week', 'day')",electricity,Kenya,MUS$2020/PJ,44.45600000000,2020
+"('spring', 'all-week', 'night')",electricity,Kenya,MUS$2020/PJ,43.69060000000,2020
+"('spring', 'all-week', 'day')",electricity,Kenya,MUS$2020/PJ,44.44560000000,2020
+"('summer', 'all-week', 'night')",electricity,Kenya,MUS$2020/PJ,43.90170000000,2020
+"('summer', 'all-week', 'day')",electricity,Kenya,MUS$2020/PJ,43.77430000000,2020
+"('autumn', 'all-week', 'night')",electricity,Kenya,MUS$2020/PJ,43.98950000000,2020
+"('autumn', 'all-week', 'day')",electricity,Kenya,MUS$2020/PJ,44.63120000000,2020
