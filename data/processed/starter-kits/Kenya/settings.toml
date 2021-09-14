@@ -71,7 +71,7 @@ technodata_timeslices = '{path}/technodata/power/TechnodataTimeslices.csv'
 [sectors.power.subsectors.retro_and_new]
 agents = '{path}/technodata/Agents.csv'
 existing_capacity = '{path}/technodata/power/ExistingCapacity.csv'
-lpsolver = "scipy"
+lpsolver = "adhoc"
 
 constraints = [  # Optional, defaults to the constraints below
     "max_production",

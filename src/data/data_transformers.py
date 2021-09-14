@@ -109,6 +109,7 @@ class Transformer:
     def generate_agents_file(self):
         agents = pd.read_csv("data/external/muse_data/default/technodata/Agents.csv")
         agents["RegionName"] = self.folder
+        agents['Objsort1']="True"
         return agents
 
     def generate_global_commodities(self):
