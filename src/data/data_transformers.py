@@ -565,9 +565,10 @@ class Transformer:
         )
         capacity_factors = capacity_factors.melt(id_vars="ProcessName")
         capacity_factors.variable = capacity_factors.variable.str.lower()
-        capacity_factors[["season", "day"]] = capacity_factors["variable"].str.split(
+        capacity_factors[["month", "hour"]] = capacity_factors["variable"].str.split(
             " ", expand=True
         )
+
         capacity_factors = capacity_factors.drop(columns="variable")
         capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
             r"\bWind\b", "Onshore Wind"
@@ -585,14 +586,14 @@ class Transformer:
 
         process_timeslice = pd.merge(
             technodata[["ProcessName", "Time"]],
-            capacity_factors[["season", "day"]],
+            capacity_factors[["month", "hour"]],
             how="cross",
         ).drop_duplicates()
         technodata_timeslices = (
             pd.merge(
                 process_timeslice,
                 capacity_factors,
-                on=["ProcessName", "season", "day"],
+                on=["ProcessName", "month", "hour"],
                 how="outer",
             )
             .set_index(["ProcessName", "Time"])
@@ -613,14 +614,17 @@ class Transformer:
         ]
         technodata_timeslices["ObjSort"] = "upper"
 
+        technodata_timeslices["day"] = "all-week"
+
         technodata_timeslices = technodata_timeslices[
             [
                 "ProcessName",
                 "RegionName",
                 "Time",
                 "ObjSort",
-                "season",
+                "month",
                 "day",
+                "hour",
                 "UtilizationFactor",
                 "MinimumServiceFactor",
             ]

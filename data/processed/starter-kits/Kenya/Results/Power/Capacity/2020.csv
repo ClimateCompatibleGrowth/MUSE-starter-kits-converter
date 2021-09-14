@@ -11,13 +11,13 @@ asset,year,region,technology,installed,capacity
 0,2050,Kenya,Biomass Power Plant,2020,2.51420000000
 6,2020,Kenya,Geothermal Power Plant,2020,13.21360000000
 6,2025,Kenya,Geothermal Power Plant,2020,103.04210000000
-6,2030,Kenya,Geothermal Power Plant,2020,102.78320000000
+6,2030,Kenya,Geothermal Power Plant,2020,102.78310000000
 6,2034,Kenya,Geothermal Power Plant,2020,102.58010000000
 6,2035,Kenya,Geothermal Power Plant,2020,102.52930000000
 6,2040,Kenya,Geothermal Power Plant,2020,102.28060000000
-6,2045,Kenya,Geothermal Power Plant,2020,102.03690000000
+6,2045,Kenya,Geothermal Power Plant,2020,102.03680000000
 6,2048,Kenya,Geothermal Power Plant,2020,101.89350000000
-6,2049,Kenya,Geothermal Power Plant,2020,101.84580000000
+6,2049,Kenya,Geothermal Power Plant,2020,101.84570000000
 6,2050,Kenya,Geothermal Power Plant,2020,11.70520000000
 7,2020,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,15.73650000000
 7,2025,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,15.42170000000
@@ -41,7 +41,7 @@ asset,year,region,technology,installed,capacity
 8,2050,Kenya,Light Fuel Oil Power Plant,2020,8.03160000000
 10,2020,Kenya,Medium Hydropower Plant (10-100MW),2020,7.84620000000
 10,2025,Kenya,Medium Hydropower Plant (10-100MW),2020,7.68920000000
-10,2030,Kenya,Medium Hydropower Plant (10-100MW),2020,7.53540000000
+10,2030,Kenya,Medium Hydropower Plant (10-100MW),2020,7.53550000000
 10,2034,Kenya,Medium Hydropower Plant (10-100MW),2020,7.41490000000
 10,2035,Kenya,Medium Hydropower Plant (10-100MW),2020,7.38470000000
 10,2040,Kenya,Medium Hydropower Plant (10-100MW),2020,7.23700000000
