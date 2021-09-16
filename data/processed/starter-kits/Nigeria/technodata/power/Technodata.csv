@@ -6,7 +6,7 @@ CSP without Storage,Nigeria,2020,fixed,128.6783358701167,1.0,1.286783358701167,1
 Coal Power Plant,Nigeria,2020,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,35.0,0.85,1.0,37.0,0.089,energy,coal,electricity,1.0
 Gas Power Plant (CCGT),Nigeria,2020,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,30.0,0.85,1.0,48.0,0.089,energy,gas,electricity,1.0
 Gas Power Plant (SCGT),Nigeria,2020,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.85,1.0,30.0,0.089,energy,gas,electricity,1.0
-Geothermal Power Plant,Nigeria,2020,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,0.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Nigeria,2020,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Nigeria,2020,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,50.0,0.36,100.0,100.0,0.089,energy,hydro,electricity,1.0
 Light Fuel Oil Power Plant,Nigeria,2020,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.8,1.0,35.0,0.089,energy,LFO,electricity,1.0
 Light Fuel Oil Standalone Generator (1kW),Nigeria,2020,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,10.0,0.3,0.001,16.0,0.089,energy,LFO,electricity,1.0
@@ -48,11 +48,11 @@ Gas Power Plant (SCGT),Nigeria,2025,fixed,22.196854388635213,1.0,0.6341958396752
 Gas Power Plant (SCGT),Nigeria,2030,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.85,1.0,30.0,0.089,energy,gas,electricity,1.0
 Gas Power Plant (SCGT),Nigeria,2040,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.85,1.0,30.0,0.089,energy,gas,electricity,1.0
 Gas Power Plant (SCGT),Nigeria,2050,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.85,1.0,30.0,0.089,energy,gas,electricity,1.0
-Geothermal Power Plant,Nigeria,2015,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,0.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
-Geothermal Power Plant,Nigeria,2025,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,0.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
-Geothermal Power Plant,Nigeria,2030,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,0.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
-Geothermal Power Plant,Nigeria,2040,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,0.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
-Geothermal Power Plant,Nigeria,2050,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,0.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Nigeria,2015,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Nigeria,2025,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Nigeria,2030,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Nigeria,2040,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Nigeria,2050,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,25.0,0.79,1.0,80.0,0.089,energy,geothermal,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Nigeria,2015,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,50.0,0.36,100.0,100.0,0.089,energy,hydro,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Nigeria,2025,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,50.0,0.36,100.0,100.0,0.089,energy,hydro,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Nigeria,2030,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,3000.0,3000.0,10000.0,50.0,0.36,100.0,100.0,0.089,energy,hydro,electricity,1.0

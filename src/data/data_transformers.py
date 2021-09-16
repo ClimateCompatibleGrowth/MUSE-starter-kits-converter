@@ -388,9 +388,9 @@ class Transformer:
             * 3.6
         )
 
-        growth_limits["Technology"] = growth_limits.Technology.str.replace(
-            "Geothermal (MW)", "Geothermal Power Plant", regex=False
-        )
+        # growth_limits["Technology"] = growth_limits.Technology.str.replace(
+        #     "Geothermal (MW)", "Geothermal Power Plant", regex=False
+        # )
         growth_limits["Technology"] = growth_limits.Technology.str.replace(
             "Small Hydropower (MW)", "Small Hydropower Plant (<10MW)", regex=False
         )
@@ -741,15 +741,6 @@ class Transformer:
         comm_in.insert(2, "Level", "fixed")
         comm_in.insert(3, "electricity", 0)
         comm_in["CO2f"] = 0
-
-        # Replicate rows for each year
-        # comm_in_merged = pd.merge(
-        #     comm_in,
-        #     pd.Series(list(pd.unique(technodata.Time))[1:], name="Time"),
-        #     how="cross",
-        # )
-        # comm_in_merged = comm_in_merged.drop(columns="Time_x")
-        # comm_in = comm_in_merged.rename(columns={"Time_y": "Time"})
 
         units_row = pd.DataFrame.from_dict(units, orient="columns")
         comm_in = units_row.append(comm_in)
