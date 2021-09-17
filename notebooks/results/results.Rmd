@@ -73,10 +73,12 @@ ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figu
 
 ```{r}
 lcoe = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/Results/MCAMetric_Lcoe.csv")
+lcoe = lcoe %>% filter_if(~is.numeric(.), all_vars(!is.infinite(.)))
 head(lcoe)
 ```
 ```{r}
 lcoe_summed = lcoe %>% group_by(technology, sector, year, agent) %>% summarise(lcoe=mean(LCOE))
+
 head(lcoe_summed)
 ```
 ```{r}

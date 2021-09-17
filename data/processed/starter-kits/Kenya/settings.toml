@@ -33,11 +33,14 @@ quantity = "supply"
 sink = "aggregate"
 filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
 
+
 [[outputs]]
 quantity = "LCOE"
 sink = "aggregate"
 filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
 columns = ["timeslice",	"region",	"installed",	"technology", "year",	"agent",	"category",	"sector",	"LCOE"]
+
+
 
 
 # # Carbon BUDGET control
@@ -102,6 +105,12 @@ overwrite = true
 net = 'new_to_retro'
 interaction = 'transfer'
 
+
+[[outputs]]
+quantity = "timeslice_supply"
+sink = "aggregate"
+filename = "{path}/{default_output_dir}/MCA{Quantity}.csv"
+columns = ["timeslice",	"commodity",	"region",	"installed",	"technology", "year",	"agent",	"category",	"sector",	"supply"]
 
 # [sectors.oil]
 # type = 'default'
