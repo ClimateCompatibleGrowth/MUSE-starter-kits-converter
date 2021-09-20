@@ -3,7 +3,7 @@ CCG Starter Kits to MUSE input files
 
 The MUSE data can be generated with the following command in the root directory:
 ```
-make data start_year=2020 end_year=2050 milestone_year=5
+make data start_year=2020 end_year=2055 milestone_year=5
 ```
 
 The variables `start_year`, `end_year` and `milestone_year` are customisable to your requirements. However, only the parameters used above have been fully tested.
