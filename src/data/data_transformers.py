@@ -7,9 +7,7 @@ from src.defaults import PROJECT_DIR, plant_fuels, units
 
 class Transformer:
     def __init__(self, input_path, output_path, start_year, end_year, benchmark_years):
-        """
-
-        """
+        """"""
         self.input_path = Path(input_path)
         self.output_path = Path(output_path)
         self.start_year = int(start_year)
@@ -22,7 +20,7 @@ class Transformer:
 
     def create_muse_dataset(self):
         """
-        Imports the starter kits datasets and converts them into a form used 
+        Imports the starter kits datasets and converts them into a form used
         for MUSE.
         """
         logger = logging.getLogger(__name__)
@@ -109,7 +107,7 @@ class Transformer:
     def generate_agents_file(self):
         agents = pd.read_csv("data/external/muse_data/default/technodata/Agents.csv")
         agents["RegionName"] = self.folder
-        agents['Objsort1']="True"
+        agents["Objsort1"] = "True"
         return agents
 
     def generate_global_commodities(self):
@@ -255,7 +253,7 @@ class Transformer:
 
     def create_existing_capacity_power(self):
         """
-        Calculates the existing power capacity from Table1 from the starter kits, 
+        Calculates the existing power capacity from Table1 from the starter kits,
         and transforms them into an ExistingCapacity dataframe for MUSE.
         """
 
@@ -388,9 +386,9 @@ class Transformer:
             * 3.6
         )
 
-        # growth_limits["Technology"] = growth_limits.Technology.str.replace(
-        #     "Geothermal (MW)", "Geothermal Power Plant", regex=False
-        # )
+        growth_limits["Technology"] = growth_limits.Technology.str.replace(
+            "Geothermal (MW)", "Geothermal Power Plant", regex=False
+        )
         growth_limits["Technology"] = growth_limits.Technology.str.replace(
             "Small Hydropower (MW)", "Small Hydropower Plant (<10MW)", regex=False
         )
@@ -503,11 +501,13 @@ class Transformer:
             projected_technoeconomic
         )
 
-        forwardfilled_projected_technoeconomic = forwardfilled_projected_technoeconomic.drop(
-            columns="cap_par_x"
+        forwardfilled_projected_technoeconomic = (
+            forwardfilled_projected_technoeconomic.drop(columns="cap_par_x")
         )
-        forwardfilled_projected_technoeconomic = forwardfilled_projected_technoeconomic.rename(
-            columns={"cap_par_y": "cap_par"}
+        forwardfilled_projected_technoeconomic = (
+            forwardfilled_projected_technoeconomic.rename(
+                columns={"cap_par_y": "cap_par"}
+            )
         )
 
         kw_columns = ["cap_par", "fix_par"]
@@ -687,7 +687,7 @@ class Transformer:
 
     def get_power_comm_in(self, technodata):
         """
-        Generates the power sector CommIn dataframe for MUSE from Table7 and 
+        Generates the power sector CommIn dataframe for MUSE from Table7 and
         Legacy data
         """
         from src.defaults import technology_converter
@@ -877,10 +877,10 @@ class Transformer:
         backfilled_projected_technoeconomic = projected_technoeconomic.groupby(
             ["ProcessName"]
         ).apply(lambda group: group.fillna(method="bfill"))
-        forwardfilled_projected_technoeconomic = backfilled_projected_technoeconomic.groupby(
-            ["ProcessName"]
-        ).apply(
-            lambda group: group.fillna(method="ffill")
+        forwardfilled_projected_technoeconomic = (
+            backfilled_projected_technoeconomic.groupby(["ProcessName"]).apply(
+                lambda group: group.fillna(method="ffill")
+            )
         )
         return forwardfilled_projected_technoeconomic
 
@@ -923,4 +923,3 @@ class Transformer:
                     size /= 1000
             plant_sizes[plant] = size
         return plant_sizes
-
