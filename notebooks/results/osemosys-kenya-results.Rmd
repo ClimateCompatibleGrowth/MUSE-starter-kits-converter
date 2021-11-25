@@ -19,8 +19,10 @@ osemosys_generation = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-s
 head(osemosys_generation)
 ```
 
+
+
 ```{r}
 ggplot(data=osemosys_generation, aes(x=year, y=generated, fill=technology)) + geom_bar(stat='identity', colour="black")  + theme_classic()
-
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/osemosys-supply.pdf")
 
 ```
