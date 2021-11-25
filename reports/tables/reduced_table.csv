@@ -1,0 +1,7 @@
+Power Type,year,MUSE (%),OSeMOSYS (%)
+Fossil fuel,2030.0,23.0,1.0
+Fossil fuel,2050.0,8.0,0.0
+Intermittent renewables,2030.0,3.0,2.0
+Intermittent renewables,2050.0,5.0,25.0
+Non-intermittent renewables,2030.0,74.0,96.0
+Non-intermittent renewables,2050.0,87.0,75.0

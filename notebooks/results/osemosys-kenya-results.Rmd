@@ -1,0 +1,26 @@
+---
+title: "results-osemosys"
+author: "Alex Kell"
+date: "19/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+osemosys_generation = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/kenya-capacity-output.csv")
+head(osemosys_generation)
+```
+
+```{r}
+ggplot(data=osemosys_generation, aes(x=year, y=generated, fill=technology)) + geom_bar(stat='identity', colour="black")  + theme_classic()
+
+
+```

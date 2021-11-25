@@ -3,6 +3,7 @@ from pathlib import Path
 import glob
 import pandas as pd
 from src.defaults import PROJECT_DIR, plant_fuels, units
+import numpy as np
 
 
 class Transformer:
@@ -459,36 +460,63 @@ class Transformer:
 
         projected_capex = self.raw_tables["Table3"]
 
+        if "Table10" in self.raw_tables:
+            projected_fixed_costs = self.raw_tables["Table10"]
+
+            projected_fixed_costs = projected_fixed_costs.melt(id_vars="Technology")
+
+            projected_fixed_costs = projected_fixed_costs.rename(
+                columns={
+                    "Technology": "ProcessName",
+                    "variable": "Time",
+                    "value": "fix_par",
+                }
+            )
+            projected_fixed_costs["Time"] = projected_fixed_costs["Time"].astype(int)
+
         projected_capex = projected_capex.rename(
             columns={"Technology": "ProcessName", "Year": "Time", "Value": "cap_par"}
         )
         projected_capex = projected_capex.drop(columns="Parameter")
 
+        if "Table10" in self.raw_tables:
+            projected_costs = pd.merge(
+                projected_capex, projected_fixed_costs, on=["ProcessName", "Time"]
+            )
+        else:
+            projected_costs = projected_capex
+            projected_costs["fix_par"] = np.nan
+
         projected_capex_with_unknowns = pd.merge(
-            projected_capex[["ProcessName", "Time"]],
+            projected_costs[["ProcessName", "Time"]],
             technoeconomic_data_wide_named[["ProcessName"]],
             how="cross",
         )
+
         with_years = (
             projected_capex_with_unknowns.drop(columns="ProcessName_x")
             .drop_duplicates()
             .rename(columns={"ProcessName_y": "ProcessName"})
         )
 
-        filled_years = pd.merge(with_years, projected_capex, how="outer")
+        filled_years = pd.merge(with_years, projected_costs, how="outer")
         combined_years = pd.merge(
             filled_years,
-            technoeconomic_data_wide_named[["ProcessName", "cap_par"]],
+            technoeconomic_data_wide_named[["ProcessName", "cap_par", "fix_par"]],
             on="ProcessName",
         )
+
         combined_years["cap_par_x"] = combined_years["cap_par_x"].fillna(
             combined_years["cap_par_y"]
         )
 
+        combined_years["fix_par_x"] = combined_years["fix_par_x"].fillna(
+            combined_years["fix_par_y"]
+        )
+
         projected_capex_all_technologies = combined_years.drop(
-            columns="cap_par_y"
-        ).rename(columns={"cap_par_x": "cap_par"})
-        projected_capex_all_technologies
+            columns=["cap_par_y", "fix_par_y"]
+        ).rename(columns={"cap_par_x": "cap_par", "fix_par_x": "fix_par"})
 
         projected_technoeconomic = pd.merge(
             technoeconomic_data_wide_named,
@@ -502,11 +530,13 @@ class Transformer:
         )
 
         forwardfilled_projected_technoeconomic = (
-            forwardfilled_projected_technoeconomic.drop(columns="cap_par_x")
+            forwardfilled_projected_technoeconomic.drop(
+                columns=["cap_par_x", "fix_par_x"]
+            )
         )
         forwardfilled_projected_technoeconomic = (
             forwardfilled_projected_technoeconomic.rename(
-                columns={"cap_par_y": "cap_par"}
+                columns={"cap_par_y": "cap_par", "fix_par_y": "fix_par"}
             )
         )
 
@@ -899,8 +929,8 @@ class Transformer:
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
         technoeconomic_data_wide["InterestRate"] = 0.089
-        technoeconomic_data_wide["MaxCapacityAddition"] = 3000
-        technoeconomic_data_wide["MaxCapacityGrowth"] = 3000
+        technoeconomic_data_wide["MaxCapacityAddition"] = 10
+        technoeconomic_data_wide["MaxCapacityGrowth"] = 5
         technoeconomic_data_wide["TotalCapacityLimit"] = 10000
 
         return technoeconomic_data_wide
