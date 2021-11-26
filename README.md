@@ -18,6 +18,13 @@ And produce the data in a MUSE friendly format at:
 data/processed/starter-kits/*
 ```
 
+There are a few editable files which you can adjust for your case study.
+
+For instance, if you know the exogenous electricity demand for your country of interest, you have to edit the `demand.csv` file in `data/interim/electricity_demand/demand.csv`.
+
+This will then generate the preset sector files.
+
+Finally, if you have technologies that can only meet a certain percentage of demand, you must edit the `proportion_technology_demand.csv` file in `data/interim/maximum_capacity/proportion_technology_demand.csv`. However, this will only work if you have created the `demand.csv` file for your country.
 
 
 Project Organization
