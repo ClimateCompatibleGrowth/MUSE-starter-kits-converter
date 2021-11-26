@@ -23,16 +23,16 @@ Biomass Power Plant,Kenya,2025,fixed,79.27447996,1,2.378234399,1,3.17E-06,1,0,0,
 Biomass Power Plant,Kenya,2030,fixed,79.27447996,1,2.378234399,1,3.17E-06,1,0,0,0,30,0.5,1,35,0.089,energy,biomass,electricity,1
 Biomass Power Plant,Kenya,2040,fixed,79.27447996,1,2.378234399,1,3.17E-06,1,0,0,0,30,0.5,1,35,0.089,energy,biomass,electricity,1
 Biomass Power Plant,Kenya,2050,fixed,79.27447996,1,2.378234399,1,3.17E-06,1,0,0,0,30,0.5,1,35,0.089,energy,biomass,electricity,1
-CSP with Storage,Kenya,2015,fixed,183.8216641,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP with Storage,Kenya,2025,fixed,183.8216641,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP with Storage,Kenya,2030,fixed,183.8216641,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP with Storage,Kenya,2040,fixed,183.8216641,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP with Storage,Kenya,2050,fixed,183.8216641,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP without Storage,Kenya,2015,fixed,128.6783359,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP without Storage,Kenya,2025,fixed,128.6783359,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP without Storage,Kenya,2030,fixed,128.6783359,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP without Storage,Kenya,2040,fixed,128.6783359,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
-CSP without Storage,Kenya,2050,fixed,128.6783359,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP with Storage,Kenya,2015,fixed,274.1311517,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP with Storage,Kenya,2025,fixed,148.0847286,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP with Storage,Kenya,2030,fixed,119.3239472,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP with Storage,Kenya,2040,fixed,116.0578387,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP with Storage,Kenya,2050,fixed,116.0578387,1,1.838216641,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP without Storage,Kenya,2015,fixed,191.8759513,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP without Storage,Kenya,2025,fixed,103.65931,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP without Storage,Kenya,2030,fixed,83.52359209,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP without Storage,Kenya,2040,fixed,81.24048706,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
+CSP without Storage,Kenya,2050,fixed,81.24048706,1,1.286783359,1,3.17E-06,1,0,0,0,30,0.45,1,100,0.089,energy,solar,electricity,1
 Coal Power Plant,Kenya,2015,fixed,79.27447996,1,2.473363775,1,3.17E-06,1,10,5,10000,35,0.85,1,37,0.089,energy,coal,electricity,1
 Coal Power Plant,Kenya,2025,fixed,79.27447996,1,2.473363775,1,3.17E-06,1,10,5,10000,35,0.85,1,37,0.089,energy,coal,electricity,1
 Coal Power Plant,Kenya,2030,fixed,79.27447996,1,2.473363775,1,3.17E-06,1,10,5,10000,35,0.85,1,37,0.089,energy,coal,electricity,1
@@ -98,11 +98,11 @@ Small Hydropower Plant (<10MW),Kenya,2025,fixed,95.12937595,1,2.853881279,1,3.17
 Small Hydropower Plant (<10MW),Kenya,2030,fixed,95.12937595,1,2.853881279,1,3.17E-06,1,0,0,0,50,0.48,10,100,0.089,energy,hydro,electricity,1
 Small Hydropower Plant (<10MW),Kenya,2040,fixed,95.12937595,1,2.853881279,1,3.17E-06,1,0,0,0,50,0.48,10,100,0.089,energy,hydro,electricity,1
 Small Hydropower Plant (<10MW),Kenya,2050,fixed,95.12937595,1,2.853881279,1,3.17E-06,1,0,0,0,50,0.48,10,100,0.089,energy,hydro,electricity,1
-Solar PV (Distributed with Storage),Kenya,2015,fixed,136.9863014,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
-Solar PV (Distributed with Storage),Kenya,2025,fixed,136.9863014,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
-Solar PV (Distributed with Storage),Kenya,2030,fixed,136.9863014,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
-Solar PV (Distributed with Storage),Kenya,2040,fixed,136.9863014,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
-Solar PV (Distributed with Storage),Kenya,2050,fixed,136.9863014,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
+Solar PV (Distributed with Storage),Kenya,2015,fixed,216.8949772,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
+Solar PV (Distributed with Storage),Kenya,2025,fixed,108.2889396,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
+Solar PV (Distributed with Storage),Kenya,2030,fixed,85.61643836,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
+Solar PV (Distributed with Storage),Kenya,2040,fixed,66.30517504,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
+Solar PV (Distributed with Storage),Kenya,2050,fixed,66.30517504,1,2.739726027,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
 Solar PV (Utility),Kenya,2015,fixed,68.65169964,1,0.892472095,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
 Solar PV (Utility),Kenya,2025,fixed,31.20243531,1,0.405631659,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
 Solar PV (Utility),Kenya,2030,fixed,28.0948757,1,0.365233384,1,3.17E-06,1,0,0,0,24,0.32,1,100,0.089,energy,solar,electricity,1
