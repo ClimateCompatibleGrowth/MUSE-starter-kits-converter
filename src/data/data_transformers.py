@@ -72,6 +72,9 @@ class Transformer:
 
         if self.electricity_demand["RegionName"].str.contains(self.folder).any():
             muse_data["technodata"]["preset"] = self.generate_preset()
+            muse_data["technodata"]["power"]["Technodata"] = self.modify_max_capacities(
+                technodata=muse_data["technodata"]["power"]["Technodata"]
+            )
 
         logger.info("Writing processed data for {}".format(self.folder))
         self.write_results(muse_data)
@@ -906,6 +909,40 @@ class Transformer:
                 data
             )
         return preset_files
+
+    def modify_max_capacities(self, technodata):
+        print(technodata)
+        print(self.electricity_demand)
+        print(self.maximum_capacity)
+
+        data = []
+        for _, row_demand in self.electricity_demand.iterrows():
+            for _, row_capacity in self.maximum_capacity.iterrows():
+                row_dict = {}
+                # print("row_capacity: {}".format(row_capacity))
+                row_dict["ProcessName"] = row_capacity.technology
+                row_dict["Time"] = row_demand.year
+                row_dict["TotalCapacityLimit"] = (
+                    row_demand.demand * row_capacity.maximum_capacity_proportion
+                )
+                data.append(row_dict)
+
+        capacity_limits = pd.DataFrame(data)
+
+        updated_techno = pd.merge(
+            capacity_limits, technodata, on=["ProcessName", "Time"], how="right"
+        )
+        updated_techno.TotalCapacityLimit_x.fillna(
+            updated_techno.TotalCapacityLimit_y, inplace=True
+        )
+        del updated_techno["TotalCapacityLimit_y"]
+        updated_techno = updated_techno.rename(
+            columns={"TotalCapacityLimit_x": "TotalCapacityLimit"}
+        )
+
+        updated_techno = updated_techno.reindex(technodata.columns, axis=1)
+
+        return updated_techno
 
     def _calculate_oil_outputs(self, comm_out):
         raw_oil_technodata = self.raw_tables["Table5"]
