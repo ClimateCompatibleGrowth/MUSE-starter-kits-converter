@@ -898,7 +898,7 @@ class Transformer:
             data = {
                 "RegionName": [row.RegionName] * 8,
                 "ProcessName": ["electricity_demand"] * 8,
-                "Timeslice": list(range(8)),
+                "Timeslice": list(range(1, 9)),
                 "electricity": [row.demand / 8] * 8,
                 "gas": [0] * 8,
                 "heat": [0] * 8,
@@ -917,7 +917,7 @@ class Transformer:
             for _, row_capacity in self.maximum_capacity.iterrows():
                 row_dict = {}
                 row_dict["ProcessName"] = row_capacity.technology
-                row_dict["Time"] = row_demand.year
+                row_dict["Time"] = int(row_demand.year)
                 row_dict["TotalCapacityLimit"] = (
                     row_demand.demand * row_capacity.maximum_capacity_proportion
                 )
@@ -937,7 +937,10 @@ class Transformer:
         )
 
         updated_techno = updated_techno.reindex(technodata.columns, axis=1)
-
+        updated_techno["Time"].iloc[1:] = (
+            pd.to_numeric(updated_techno["Time"].iloc[1:], errors="ignore")
+        ).astype(int)
+        print(updated_techno)
         return updated_techno
 
     def _calculate_oil_outputs(self, comm_out):
