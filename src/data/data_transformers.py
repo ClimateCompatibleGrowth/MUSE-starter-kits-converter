@@ -905,21 +905,17 @@ class Transformer:
                 "CO2f": [0] * 8,
                 "wind": [0] * 8,
             }
-            preset_files["Electricity" + str(row.year) + "Consumption"] = pd.DataFrame(
-                data
+            preset_files["Electricity" + str(row.year) + "Consumption"] = (
+                pd.DataFrame(data).reset_index().rename(columns={"index": ""})
             )
         return preset_files
 
     def modify_max_capacities(self, technodata):
-        print(technodata)
-        print(self.electricity_demand)
-        print(self.maximum_capacity)
 
         data = []
         for _, row_demand in self.electricity_demand.iterrows():
             for _, row_capacity in self.maximum_capacity.iterrows():
                 row_dict = {}
-                # print("row_capacity: {}".format(row_capacity))
                 row_dict["ProcessName"] = row_capacity.technology
                 row_dict["Time"] = row_demand.year
                 row_dict["TotalCapacityLimit"] = (
