@@ -40,7 +40,7 @@ head(capacity_summed)
 ```{r}
 ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, color=technology, linetype=agent)) + geom_line() + theme_classic()
 
-ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuelcapacity_line_graph.pdf")
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuel-capacity_line_graph.pdf")
 
 ```
 
@@ -49,7 +49,7 @@ ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figu
 
 ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, fill=technology)) + geom_bar(stat='identity', colour="black") + facet_grid(cols=vars(agent)) + theme_classic()
 
-ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuelcapacity.pdf")
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuel-capacity.pdf")
 ```
 
 
@@ -68,7 +68,7 @@ metric_supply_summed
 ```{r}
 filter(metric_supply_summed, year<=2050) %>% ggplot(aes(x=year, y=supply, fill=technology)) + geom_bar(stat='identity', colour="black") + theme_classic()
 
-ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuelsupply.pdf")
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuel-supply.pdf")
 ```
 
 
@@ -84,7 +84,7 @@ head(lcoe_summed)
 ```
 ```{r}
 ggplot(data=filter(lcoe_summed, sector=="power"), aes(x=year, y=lcoe, color=technology)) + geom_line() + theme_classic()
-ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuellcoe_line_graph.pdf")
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuel-lcoe_line_graph.pdf")
 ```
 
 

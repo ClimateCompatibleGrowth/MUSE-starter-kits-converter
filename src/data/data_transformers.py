@@ -19,6 +19,14 @@ class Transformer:
         self.folder = str(self.input_path).split("/")[-1]
         self.raw_tables = self.get_raw_data()
 
+        self.maximum_capacity = pd.read_csv(
+            str(input_path)
+            + "../../../interim/maximum_capacity/proportion_technology_demand.csv"
+        )
+        self.electricity_demand = pd.read_csv(
+            str(input_path) + "../../../interim/electricity_demand/demand.csv"
+        )
+
     def create_muse_dataset(self):
         """
         Imports the starter kits datasets and converts them into a form used
@@ -61,6 +69,9 @@ class Transformer:
         muse_data["technodata"]["oil"][
             "ExistingCapacity"
         ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
+
+        if self.electricity_demand["RegionName"].str.contains(self.folder).any():
+            muse_data["technodata"]["preset"] = self.generate_preset()
 
         logger.info("Writing processed data for {}".format(self.folder))
         self.write_results(muse_data)
@@ -481,7 +492,10 @@ class Transformer:
 
         if "Table10" in self.raw_tables:
             projected_costs = pd.merge(
-                projected_capex, projected_fixed_costs, on=["ProcessName", "Time"]
+                projected_capex,
+                projected_fixed_costs,
+                on=["ProcessName", "Time"],
+                how="left",
             )
         else:
             projected_costs = projected_capex
@@ -874,6 +888,24 @@ class Transformer:
         comm_out = comm_out.fillna(0)
 
         return comm_out
+
+    def generate_preset(self):
+        preset_files = {}
+        for _, row in self.electricity_demand.iterrows():
+            data = {
+                "RegionName": [row.RegionName] * 8,
+                "ProcessName": ["electricity_demand"] * 8,
+                "Timeslice": list(range(8)),
+                "electricity": [row.demand / 8] * 8,
+                "gas": [0] * 8,
+                "heat": [0] * 8,
+                "CO2f": [0] * 8,
+                "wind": [0] * 8,
+            }
+            preset_files["Electricity" + str(row.year) + "Consumption"] = pd.DataFrame(
+                data
+            )
+        return preset_files
 
     def _calculate_oil_outputs(self, comm_out):
         raw_oil_technodata = self.raw_tables["Table5"]
