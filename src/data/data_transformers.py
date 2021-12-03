@@ -55,10 +55,6 @@ class Transformer:
                 "Technodata"
             ] = self.convert_power_technodata()
 
-            muse_data["technodata"]["power"]["Technodata"] = self.create_scenarios(
-                scenario, muse_data["technodata"]["power"]["Technodata"]
-            )
-
             muse_data["technodata"]["power"]["CommIn"] = self.get_power_comm_in(
                 technodata=muse_data["technodata"]["power"]["Technodata"]
             )
@@ -94,6 +90,10 @@ class Transformer:
                 ] = self.modify_max_capacities(
                     technodata=muse_data["technodata"]["power"]["Technodata"]
                 )
+
+            muse_data["technodata"]["power"]["Technodata"] = self.create_scenarios(
+                scenario, muse_data["technodata"]["power"]["Technodata"]
+            )
             scenarios_data[scenario] = muse_data
 
         logger.info("Writing processed data for {}".format(self.folder))
@@ -638,8 +638,9 @@ class Transformer:
                 "LFO",
                 "HFO",
             ]
-            technodata[technodata["Fuel"].isin(fossil_fuels)][
-                ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"]
+            technodata.loc[
+                technodata["Fuel"].isin(fossil_fuels),
+                ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"],
             ] = 0
             return technodata
         elif scenario == "fossil-fuel":
@@ -651,8 +652,9 @@ class Transformer:
                 "uranium",
                 "wind",
             ]
-            technodata[technodata["Fuel"].isin(net_zero_fuels)][
-                ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"]
+            technodata.loc[
+                technodata["Fuel"].isin(net_zero_fuels),
+                ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"],
             ] = 0
             return technodata
         else:

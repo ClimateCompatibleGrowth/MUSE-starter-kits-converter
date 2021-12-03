@@ -3,17 +3,17 @@ Unit,-,Year,-,MUS$2010/PJ_a,-,MUS$2010/PJ,-,MUS$2010/PJ,-,PJ,%,PJ,Years,-,PJ,%,-
 Biomass Power Plant,Mali,2020,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.5,1.0,35.0,0.1,energy,biomass,electricity,1.0
 CSP with Storage,Mali,2020,fixed,183.82166412988335,1.0,1.8382166412988334,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.45,1.0,100.0,0.1,energy,solar,electricity,1.0
 CSP without Storage,Mali,2020,fixed,128.6783358701167,1.0,1.286783358701167,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.45,1.0,100.0,0.1,energy,solar,electricity,1.0
-Coal Power Plant,Mali,2020,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,10.0,5.0,10000.0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
-Gas Power Plant (CCGT),Mali,2020,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (SCGT),Mali,2020,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
+Coal Power Plant,Mali,2020,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,0,0,0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
+Gas Power Plant (CCGT),Mali,2020,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Mali,2020,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,0,0,0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
 Geothermal Power Plant,Mali,2020,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,10.0,5.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Mali,2020,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.54,100.0,100.0,0.1,energy,hydro,electricity,1.0
-Light Fuel Oil Power Plant,Mali,2020,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Standalone Generator (1kW),Mali,2020,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Mali,2020,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Mali,2020,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,0,0,0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
 Medium Hydropower Plant (10-100MW),Mali,2020,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,15.421104,50.0,0.54,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Nuclear Power Plant,Mali,2020,fixed,194.6029934043633,1.0,5.8380898021309,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.85,1.0,33.0,0.1,energy,uranium,electricity,1.0
 Offshore Wind,Mali,2020,fixed,125.96397767630647,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.37,1.0,100.0,0.1,energy,wind,electricity,1.0
-Oil Fired Gas Turbine (SCGT),Mali,2020,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Mali,2020,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Onshore Wind,Mali,2020,fixed,47.215880263825476,1.0,1.888635210553019,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.22,1.0,100.0,0.1,energy,wind,electricity,1.0
 Small Hydropower Plant (<10MW),Mali,2020,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,10.0,5.0,0.028244348006399994,50.0,0.54,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Solar PV (Distributed with Storage),Mali,2020,fixed,136.98630136986304,1.0,2.739726027397261,1.0,3.17e-06,1.0,10.0,5.0,10000.0,24.0,0.37,1.0,100.0,0.1,energy,solar,electricity,1.0
@@ -33,21 +33,21 @@ CSP without Storage,Mali,2025,fixed,103.65930999492645,1.0,1.286783358701167,1.0
 CSP without Storage,Mali,2030,fixed,83.52359208523593,1.0,1.286783358701167,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.45,1.0,100.0,0.1,energy,solar,electricity,1.0
 CSP without Storage,Mali,2040,fixed,81.24048706240488,1.0,1.286783358701167,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.45,1.0,100.0,0.1,energy,solar,electricity,1.0
 CSP without Storage,Mali,2050,fixed,81.24048706240488,1.0,1.286783358701167,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.45,1.0,100.0,0.1,energy,solar,electricity,1.0
-Coal Power Plant,Mali,2015,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,10.0,5.0,10000.0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
-Coal Power Plant,Mali,2025,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,10.0,5.0,10000.0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
-Coal Power Plant,Mali,2030,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,10.0,5.0,10000.0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
-Coal Power Plant,Mali,2040,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,10.0,5.0,10000.0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
-Coal Power Plant,Mali,2050,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,10.0,5.0,10000.0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
-Gas Power Plant (CCGT),Mali,2015,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (CCGT),Mali,2025,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (CCGT),Mali,2030,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (CCGT),Mali,2040,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (CCGT),Mali,2050,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (SCGT),Mali,2015,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (SCGT),Mali,2025,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (SCGT),Mali,2030,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (SCGT),Mali,2040,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
-Gas Power Plant (SCGT),Mali,2050,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
+Coal Power Plant,Mali,2015,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,0,0,0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Mali,2025,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,0,0,0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Mali,2030,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,0,0,0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Mali,2040,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,0,0,0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Mali,2050,fixed,79.27447995941148,1.0,2.473363774733638,1.0,3.17e-06,1.0,0,0,0,35.0,0.85,1.0,37.0,0.1,energy,coal,electricity,1.0
+Gas Power Plant (CCGT),Mali,2015,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Mali,2025,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Mali,2030,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Mali,2040,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Mali,2050,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,30.0,0.85,1.0,48.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Mali,2015,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,0,0,0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Mali,2025,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,0,0,0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Mali,2030,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,0,0,0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Mali,2040,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,0,0,0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Mali,2050,fixed,22.196854388635213,1.0,0.6341958396752918,1.0,3.17e-06,1.0,0,0,0,25.0,0.85,1.0,30.0,0.1,energy,gas,electricity,1.0
 Geothermal Power Plant,Mali,2015,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,10.0,5.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
 Geothermal Power Plant,Mali,2025,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,10.0,5.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
 Geothermal Power Plant,Mali,2030,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,10.0,5.0,0.0,25.0,0.79,1.0,80.0,0.1,energy,geothermal,electricity,1.0
@@ -58,16 +58,16 @@ Large Hydropower Plant (Dam) (>100MW),Mali,2025,fixed,95.12937595129378,1.0,2.85
 Large Hydropower Plant (Dam) (>100MW),Mali,2030,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.54,100.0,100.0,0.1,energy,hydro,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Mali,2040,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.54,100.0,100.0,0.1,energy,hydro,electricity,1.0
 Large Hydropower Plant (Dam) (>100MW),Mali,2050,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.54,100.0,100.0,0.1,energy,hydro,electricity,1.0
-Light Fuel Oil Power Plant,Mali,2015,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Power Plant,Mali,2025,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Power Plant,Mali,2030,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Power Plant,Mali,2040,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Power Plant,Mali,2050,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Standalone Generator (1kW),Mali,2015,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Standalone Generator (1kW),Mali,2025,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Standalone Generator (1kW),Mali,2030,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Standalone Generator (1kW),Mali,2040,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
-Light Fuel Oil Standalone Generator (1kW),Mali,2050,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Mali,2015,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Mali,2025,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Mali,2030,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Mali,2040,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Mali,2050,fixed,38.05175038051751,1.0,1.1098427194317606,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Mali,2015,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,0,0,0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Mali,2025,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,0,0,0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Mali,2030,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,0,0,0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Mali,2040,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,0,0,0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Mali,2050,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,0,0,0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
 Medium Hydropower Plant (10-100MW),Mali,2015,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,15.421104,50.0,0.54,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Medium Hydropower Plant (10-100MW),Mali,2025,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,15.421104,50.0,0.54,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Medium Hydropower Plant (10-100MW),Mali,2030,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,15.421104,50.0,0.54,10.0,100.0,0.1,energy,hydro,electricity,1.0
@@ -83,11 +83,11 @@ Offshore Wind,Mali,2025,fixed,95.79211060375445,1.0,5.038685946220194,1.0,3.17e-
 Offshore Wind,Mali,2030,fixed,77.68899036022324,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.37,1.0,100.0,0.1,energy,wind,electricity,1.0
 Offshore Wind,Mali,2040,fixed,72.13977676306445,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.37,1.0,100.0,0.1,energy,wind,electricity,1.0
 Offshore Wind,Mali,2050,fixed,66.59056316590565,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.37,1.0,100.0,0.1,energy,wind,electricity,1.0
-Oil Fired Gas Turbine (SCGT),Mali,2015,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
-Oil Fired Gas Turbine (SCGT),Mali,2025,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
-Oil Fired Gas Turbine (SCGT),Mali,2030,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
-Oil Fired Gas Turbine (SCGT),Mali,2040,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
-Oil Fired Gas Turbine (SCGT),Mali,2050,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Mali,2015,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Mali,2025,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Mali,2030,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Mali,2040,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Mali,2050,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,0,0,0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Onshore Wind,Mali,2015,fixed,62.94393708777272,1.0,2.5177574835109087,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.22,1.0,100.0,0.1,energy,wind,electricity,1.0
 Onshore Wind,Mali,2025,fixed,37.766362252663626,1.0,1.510654490106545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.22,1.0,100.0,0.1,energy,wind,electricity,1.0
 Onshore Wind,Mali,2030,fixed,34.46854388635211,1.0,1.3787417554540842,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.22,1.0,100.0,0.1,energy,wind,electricity,1.0
