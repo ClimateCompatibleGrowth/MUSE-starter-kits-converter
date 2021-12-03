@@ -54,6 +54,11 @@ class Transformer:
             muse_data["technodata"]["power"][
                 "Technodata"
             ] = self.convert_power_technodata()
+
+            muse_data["technodata"]["power"]["Technodata"] = self.create_scenarios(
+                scenario, muse_data["technodata"]["power"]["Technodata"]
+            )
+
             muse_data["technodata"]["power"]["CommIn"] = self.get_power_comm_in(
                 technodata=muse_data["technodata"]["power"]["Technodata"]
             )
@@ -123,7 +128,7 @@ class Transformer:
             for folder in results_data[scenario]:
                 output_path_folder = output_path_scenario / Path(folder)
                 for sector in results_data[scenario][folder]:
-                    output_path = self.output_path / Path(folder) / Path(sector)
+                    output_path = output_path_scenario / Path(folder) / Path(sector)
                     if (
                         not os.path.exists(output_path)
                         and type(results_data[scenario][folder][sector]) is dict
@@ -622,6 +627,36 @@ class Transformer:
         technodata_edited = technodata_edited.reindex(muse_technodata.columns, axis=1)
 
         return technodata_edited
+
+    def create_scenarios(self, scenario, technodata):
+        if scenario == "base":
+            return technodata
+        elif scenario == "net-zero":
+            fossil_fuels = [
+                "coal",
+                "gas",
+                "LFO",
+                "HFO",
+            ]
+            technodata[technodata["Fuel"].isin(fossil_fuels)][
+                ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"]
+            ] = 0
+            return technodata
+        elif scenario == "fossil-fuel":
+            net_zero_fuels = [
+                "solar",
+                "biomass",
+                "geothermal",
+                "hydro",
+                "uranium",
+                "wind",
+            ]
+            technodata[technodata["Fuel"].isin(net_zero_fuels)][
+                ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"]
+            ] = 0
+            return technodata
+        else:
+            raise ValueError
 
     def get_technodata_timeslices(self, technodata):
         example_ttslices = pd.read_csv(
