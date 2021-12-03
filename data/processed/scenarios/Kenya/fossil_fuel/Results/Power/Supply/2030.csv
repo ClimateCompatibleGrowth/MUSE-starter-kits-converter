@@ -1,12 +1,12 @@
 ,commodity,region,technology,year,supply
 0,electricity,Kenya,Biomass Power Plant,2030,4.08710000000
 1,electricity,Kenya,Biomass Power Plant,2035,2.45220000000
-2,electricity,Kenya,Coal Power Plant,2030,265.81080000000
-3,electricity,Kenya,Coal Power Plant,2035,265.81080000000
-4,electricity,Kenya,Coal Power Plant,2030,223.45620000000
-5,electricity,Kenya,Coal Power Plant,2035,223.45620000000
-6,electricity,Kenya,Coal Power Plant,2035,378.37420000000
-7,electricity,Kenya,Gas Power Plant (SCGT),2035,101.80340000000
+2,electricity,Kenya,Coal Power Plant,2030,223.45620000000
+3,electricity,Kenya,Coal Power Plant,2035,223.45620000000
+4,electricity,Kenya,Coal Power Plant,2035,372.72340000000
+5,electricity,Kenya,Gas Power Plant (CCGT),2030,265.81080000000
+6,electricity,Kenya,Gas Power Plant (CCGT),2035,265.81080000000
+7,electricity,Kenya,Gas Power Plant (CCGT),2035,107.38100000000
 8,electricity,Kenya,Geothermal Power Plant,2030,30.06350000000
 9,electricity,Kenya,Geothermal Power Plant,2035,18.03810000000
 10,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2030,21.72340000000

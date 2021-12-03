@@ -733,6 +733,40 @@ class Transformer:
         return oil_renamed
 
     def get_power_comm_in(self, technodata):
+        from src.defaults import technology_converter
+
+        power_types = technodata[technodata.ProcessName != "Unit"][
+            ["ProcessName", "efficiency"]
+        ].drop_duplicates()
+
+        power_types["CommIn"] = 100 / power_types["efficiency"]
+
+        power_types = power_types.drop(columns="efficiency")
+
+        power_types["fuels"] = power_types["ProcessName"].map(plant_fuels)
+        power_types = power_types.merge(
+            technodata[["ProcessName", "Time"]],
+            left_on="ProcessName",
+            right_on="ProcessName",
+        )
+
+        comm_in = power_types.pivot(
+            index=["ProcessName", "Time"], columns="fuels", values="CommIn"
+        ).reset_index()
+
+        comm_in.insert(0, "RegionName", self.folder)
+        # comm_in.insert(1, "Time", 2020)
+        comm_in.insert(2, "Level", "fixed")
+        comm_in.insert(3, "electricity", 0)
+        comm_in["CO2f"] = 0
+
+        units_row = pd.DataFrame.from_dict(units, orient="columns")
+        comm_in = units_row.append(comm_in)
+
+        comm_in = comm_in.fillna(0)
+        return comm_in
+
+    def get_power_comm_in_muse(self, technodata):
         """
         Generates the power sector CommIn dataframe for MUSE from Table7 and
         Legacy data
@@ -996,7 +1030,7 @@ class Transformer:
         technoeconomic_data_wide["Type"] = fuel_type
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
-        technoeconomic_data_wide["InterestRate"] = 0.089
+        technoeconomic_data_wide["InterestRate"] = 0.1
         technoeconomic_data_wide["MaxCapacityAddition"] = 10
         technoeconomic_data_wide["MaxCapacityGrowth"] = 5
         technoeconomic_data_wide["TotalCapacityLimit"] = 10000

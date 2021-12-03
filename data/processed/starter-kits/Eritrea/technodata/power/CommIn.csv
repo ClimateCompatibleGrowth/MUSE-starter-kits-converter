@@ -1,164 +1,110 @@
 ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
 Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-Biomass Power Plant,Eritrea,2010,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Eritrea,2015,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Eritrea,2020,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Eritrea,2025,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Eritrea,2030,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Eritrea,2035,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Eritrea,2040,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Eritrea,2045,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-Biomass Power Plant,Eritrea,2050,fixed,0,3.4482758620689657,0,0,0,0,0,0,0,0,0,0,0,0
-CSP with Storage,Eritrea,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Biomass Power Plant,Eritrea,2015,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Eritrea,2020,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Eritrea,2025,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Eritrea,2030,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Eritrea,2040,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Eritrea,2050,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
 CSP with Storage,Eritrea,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Eritrea,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Eritrea,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Eritrea,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-CSP with Storage,Eritrea,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Eritrea,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-CSP with Storage,Eritrea,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP with Storage,Eritrea,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-CSP without Storage,Eritrea,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Eritrea,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Eritrea,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Eritrea,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Eritrea,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-CSP without Storage,Eritrea,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Eritrea,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-CSP without Storage,Eritrea,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 CSP without Storage,Eritrea,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Coal Power Plant,Eritrea,2010,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Eritrea,2015,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Eritrea,2020,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Eritrea,2025,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Eritrea,2030,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Eritrea,2035,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Eritrea,2040,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Eritrea,2045,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Coal Power Plant,Eritrea,2050,fixed,0,0,2.941176470588235,0,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2010,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2015,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2020,fixed,0,0,0,2.7272727270247934,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2025,fixed,0,0,0,2.678571428810587,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2035,fixed,0,0,0,2.5974025974025974,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2040,fixed,0,0,0,2.564102564102564,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2045,fixed,0,0,0,2.531645569620253,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (CCGT),Eritrea,2050,fixed,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2010,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2015,fixed,0,0,0,2.7777777777777777,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2020,fixed,0,0,0,2.7272727270247934,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2025,fixed,0,0,0,2.678571428810587,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2035,fixed,0,0,0,2.5974025974025974,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2040,fixed,0,0,0,2.564102564102564,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2045,fixed,0,0,0,2.531645569620253,0,0,0,0,0,0,0,0,0,0
-Gas Power Plant (SCGT),Eritrea,2050,fixed,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2010,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2015,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2020,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2025,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2030,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2035,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2040,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2045,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Geothermal Power Plant,Eritrea,2050,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Eritrea,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Coal Power Plant,Eritrea,2015,fixed,0,0,2.7027027027027026,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Eritrea,2020,fixed,0,0,2.7027027027027026,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Eritrea,2025,fixed,0,0,2.7027027027027026,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Eritrea,2030,fixed,0,0,2.7027027027027026,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Eritrea,2040,fixed,0,0,2.7027027027027026,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Eritrea,2050,fixed,0,0,2.7027027027027026,0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Eritrea,2015,fixed,0,0,0,2.0833333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Eritrea,2020,fixed,0,0,0,2.0833333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Eritrea,2025,fixed,0,0,0,2.0833333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Eritrea,2030,fixed,0,0,0,2.0833333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Eritrea,2040,fixed,0,0,0,2.0833333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Eritrea,2050,fixed,0,0,0,2.0833333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Eritrea,2015,fixed,0,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Eritrea,2020,fixed,0,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Eritrea,2025,fixed,0,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Eritrea,2030,fixed,0,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Eritrea,2040,fixed,0,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Eritrea,2050,fixed,0,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Eritrea,2015,fixed,0,0,0,0,1.25,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Eritrea,2020,fixed,0,0,0,0,1.25,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Eritrea,2025,fixed,0,0,0,0,1.25,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Eritrea,2030,fixed,0,0,0,0,1.25,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Eritrea,2040,fixed,0,0,0,0,1.25,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Eritrea,2050,fixed,0,0,0,0,1.25,0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Eritrea,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Eritrea,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Eritrea,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Eritrea,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Eritrea,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Eritrea,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Large Hydropower Plant (Dam) (>100MW),Eritrea,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Large Hydropower Plant (Dam) (>100MW),Eritrea,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2010,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2015,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2020,fixed,0,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2025,fixed,0,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2030,fixed,0,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2035,fixed,0,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2040,fixed,0,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2045,fixed,0,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0
-Light Fuel Oil Power Plant,Eritrea,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2010,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2015,fixed,0,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2020,fixed,0,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2025,fixed,0,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2030,fixed,0,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2035,fixed,0,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2040,fixed,0,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2045,fixed,0,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0
-Light Fuel Oil Standalone Generator (1kW),Eritrea,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Eritrea,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Eritrea,2015,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Eritrea,2020,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Eritrea,2025,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Eritrea,2030,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Eritrea,2040,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Eritrea,2050,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Eritrea,2015,fixed,0,0,0,0,0,0,0,6.25,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Eritrea,2020,fixed,0,0,0,0,0,0,0,6.25,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Eritrea,2025,fixed,0,0,0,0,0,0,0,6.25,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Eritrea,2030,fixed,0,0,0,0,0,0,0,6.25,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Eritrea,2040,fixed,0,0,0,0,0,0,0,6.25,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Eritrea,2050,fixed,0,0,0,0,0,0,0,6.25,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Eritrea,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Eritrea,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Eritrea,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Eritrea,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Eritrea,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Eritrea,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Medium Hydropower Plant (10-100MW),Eritrea,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Medium Hydropower Plant (10-100MW),Eritrea,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Nuclear Power Plant,Eritrea,2010,fixed,0,0,0,0,0,0,0,0,0,0,2.7777777777777777,0,0,0
-Nuclear Power Plant,Eritrea,2015,fixed,0,0,0,0,0,0,0,0,0,0,2.7777777777777777,0,0,0
-Nuclear Power Plant,Eritrea,2020,fixed,0,0,0,0,0,0,0,0,0,0,2.7522935782341555,0,0,0
-Nuclear Power Plant,Eritrea,2025,fixed,0,0,0,0,0,0,0,0,0,0,2.7272727270247934,0,0,0
-Nuclear Power Plant,Eritrea,2030,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
-Nuclear Power Plant,Eritrea,2035,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
-Nuclear Power Plant,Eritrea,2040,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
-Nuclear Power Plant,Eritrea,2045,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
-Nuclear Power Plant,Eritrea,2050,fixed,0,0,0,0,0,0,0,0,0,0,2.7027027027027026,0,0,0
-Offshore Wind,Eritrea,2010,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Nuclear Power Plant,Eritrea,2015,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Eritrea,2020,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Eritrea,2025,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Eritrea,2030,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Eritrea,2040,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Eritrea,2050,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
 Offshore Wind,Eritrea,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Eritrea,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Eritrea,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Eritrea,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Offshore Wind,Eritrea,2035,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Eritrea,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Offshore Wind,Eritrea,2045,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Offshore Wind,Eritrea,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2010,fixed,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2015,fixed,0,0,0,0,0,0,2.7777777777777777,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2020,fixed,0,0,0,0,0,0,2.7272727270247934,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2025,fixed,0,0,0,0,0,0,2.678571428810587,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2030,fixed,0,0,0,0,0,0,2.6315789473684212,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2035,fixed,0,0,0,0,0,0,2.5974025974025974,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2040,fixed,0,0,0,0,0,0,2.564102564102564,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2045,fixed,0,0,0,0,0,0,2.531645569620253,0,0,0,0,0,0,0
-Oil Fired Gas Turbine (SCGT),Eritrea,2050,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
-Onshore Wind,Eritrea,2010,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Oil Fired Gas Turbine (SCGT),Eritrea,2015,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Eritrea,2020,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Eritrea,2025,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Eritrea,2030,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Eritrea,2040,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Eritrea,2050,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
 Onshore Wind,Eritrea,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Eritrea,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Eritrea,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Eritrea,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Onshore Wind,Eritrea,2035,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Eritrea,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Onshore Wind,Eritrea,2045,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
 Onshore Wind,Eritrea,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
-Small Hydropower Plant (<10MW),Eritrea,2010,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Eritrea,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Eritrea,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Eritrea,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Eritrea,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Small Hydropower Plant (<10MW),Eritrea,2035,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Eritrea,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Small Hydropower Plant (<10MW),Eritrea,2045,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
 Small Hydropower Plant (<10MW),Eritrea,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
-Solar PV (Distributed with Storage),Eritrea,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Eritrea,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Eritrea,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Eritrea,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Eritrea,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Solar PV (Distributed with Storage),Eritrea,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Eritrea,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Solar PV (Distributed with Storage),Eritrea,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Distributed with Storage),Eritrea,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Solar PV (Utility),Eritrea,2010,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Eritrea,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Eritrea,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Eritrea,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Eritrea,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Solar PV (Utility),Eritrea,2035,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Eritrea,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
-Solar PV (Utility),Eritrea,2045,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
 Solar PV (Utility),Eritrea,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
