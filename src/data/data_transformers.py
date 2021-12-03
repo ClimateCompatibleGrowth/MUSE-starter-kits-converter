@@ -410,7 +410,8 @@ class Transformer:
         """
 
         technoeconomic_data = self.raw_tables["Table2"]
-        growth_limits = self.raw_tables["Table8"]
+        growth_limits_fetched = self.raw_tables["Table8"]
+        growth_limits = growth_limits_fetched.copy()
 
         growth_limits.loc[growth_limits["Technology"].str.contains("(MW)"), "Value"] = (
             growth_limits.loc[growth_limits["Technology"].str.contains("(MW)"), "Value"]
