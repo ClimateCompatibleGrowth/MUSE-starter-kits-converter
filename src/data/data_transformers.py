@@ -71,6 +71,9 @@ class Transformer:
         ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
 
         if self.electricity_demand["RegionName"].str.contains(self.folder).any():
+            self.electricity_demand = self.electricity_demand[
+                self.electricity_demand.RegionName == self.folder
+            ]
             muse_data["technodata"]["preset"] = self.generate_preset()
             muse_data["technodata"]["power"]["Technodata"] = self.modify_max_capacities(
                 technodata=muse_data["technodata"]["power"]["Technodata"]
@@ -333,7 +336,7 @@ class Transformer:
 
         for col in unknown_cols:
             muse_installed_capacity[col] = (
-                muse_installed_capacity[col - self.benchmark_years] * 0.6
+                muse_installed_capacity[col - self.benchmark_years] * 0.7
             )
 
         return muse_installed_capacity
@@ -974,7 +977,7 @@ class Transformer:
         updated_techno["Time"].iloc[1:] = (
             pd.to_numeric(updated_techno["Time"].iloc[1:], errors="ignore")
         ).astype(int)
-        print(updated_techno)
+
         return updated_techno
 
     def _calculate_oil_outputs(self, comm_out):

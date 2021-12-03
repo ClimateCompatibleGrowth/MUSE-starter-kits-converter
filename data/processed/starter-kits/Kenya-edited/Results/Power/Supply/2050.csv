@@ -1,0 +1,29 @@
+,commodity,region,technology,year,supply
+0,electricity,Kenya-edited,Biomass Power Plant,2050,1.33570000000
+1,electricity,Kenya-edited,Biomass Power Plant,2050,135.90590000000
+2,electricity,Kenya-edited,Biomass Power Plant,2055,135.90590000000
+3,electricity,Kenya-edited,Biomass Power Plant,2050,73.13750000000
+4,electricity,Kenya-edited,Biomass Power Plant,2055,73.13750000000
+5,electricity,Kenya-edited,Biomass Power Plant,2050,91.27930000000
+6,electricity,Kenya-edited,Biomass Power Plant,2055,91.27930000000
+7,electricity,Kenya-edited,Biomass Power Plant,2050,116.15950000000
+8,electricity,Kenya-edited,Biomass Power Plant,2055,116.15950000000
+9,electricity,Kenya-edited,Biomass Power Plant,2055,64.43990000000
+10,electricity,Kenya-edited,Geothermal Power Plant,2050,9.82490000000
+11,electricity,Kenya-edited,Geothermal Power Plant,2050,216.02810000000
+12,electricity,Kenya-edited,Geothermal Power Plant,2050,351.27250000000
+13,electricity,Kenya-edited,Geothermal Power Plant,2055,351.27250000000
+14,electricity,Kenya-edited,Geothermal Power Plant,2050,335.19250000000
+15,electricity,Kenya-edited,Geothermal Power Plant,2055,335.19250000000
+16,electricity,Kenya-edited,Geothermal Power Plant,2050,329.13080000000
+17,electricity,Kenya-edited,Geothermal Power Plant,2055,329.13080000000
+18,electricity,Kenya-edited,Geothermal Power Plant,2050,474.96790000000
+19,electricity,Kenya-edited,Geothermal Power Plant,2055,474.96790000000
+20,electricity,Kenya-edited,Geothermal Power Plant,2055,539.40160000000
+21,electricity,Kenya-edited,Large Hydropower Plant (Dam) (>100MW),2050,7.09930000000
+22,electricity,Kenya-edited,Light Fuel Oil Power Plant,2050,6.82670000000
+23,electricity,Kenya-edited,Medium Hydropower Plant (10-100MW),2050,3.53970000000
+24,electricity,Kenya-edited,Oil Fired Gas Turbine (SCGT),2050,10.61410000000
+25,electricity,Kenya-edited,Onshore Wind,2050,1.81420000000
+26,electricity,Kenya-edited,Solar PV (Distributed with Storage),2050,0.20720000000
+27,electricity,Kenya-edited,Solar PV (Utility),2050,0.11260000000
