@@ -35,52 +35,64 @@ class Transformer:
         logger = logging.getLogger(__name__)
         logger.info("Converting raw data for {}.".format(self.folder))
 
-        muse_data = {}
+        scenarios = ["base", "net-zero", "fossil-fuel"]
+        scenarios_data = {}
+        for scenario in scenarios:
+            muse_data = {}
 
-        muse_data["input"] = {"GlobalCommodities": self.generate_global_commodities()}
+            muse_data["input"] = {
+                "GlobalCommodities": self.generate_global_commodities()
+            }
 
-        muse_data["input"]["Projections"] = self.generate_projections()
+            muse_data["input"]["Projections"] = self.generate_projections()
 
-        muse_data["technodata"] = {"Agents": self.generate_agents_file()}
+            muse_data["technodata"] = {"Agents": self.generate_agents_file()}
 
-        muse_data["technodata"]["power"] = {
-            "ExistingCapacity": self.create_existing_capacity_power()
-        }
-        muse_data["technodata"]["power"]["Technodata"] = self.convert_power_technodata()
-        muse_data["technodata"]["power"]["CommIn"] = self.get_power_comm_in(
-            technodata=muse_data["technodata"]["power"]["Technodata"]
-        )
-        muse_data["technodata"]["power"]["CommOut"] = self.get_comm_out(
-            technodata=muse_data["technodata"]["power"]["Technodata"]
-        )
-        muse_data["technodata"]["power"][
-            "TechnodataTimeslices"
-        ] = self.get_technodata_timeslices(
-            technodata=muse_data["technodata"]["power"]["Technodata"]
-        )
-
-        muse_data["technodata"]["oil"] = {"Technodata": self.convert_oil_technodata()}
-        muse_data["technodata"]["oil"]["CommIn"] = self.get_oil_comm_in(
-            technodata=muse_data["technodata"]["oil"]["Technodata"]
-        )
-        muse_data["technodata"]["oil"]["CommOut"] = self.get_comm_out(
-            technodata=muse_data["technodata"]["oil"]["Technodata"]
-        )
-        muse_data["technodata"]["oil"][
-            "ExistingCapacity"
-        ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
-
-        if self.electricity_demand["RegionName"].str.contains(self.folder).any():
-            self.electricity_demand = self.electricity_demand[
-                self.electricity_demand.RegionName == self.folder
-            ]
-            muse_data["technodata"]["preset"] = self.generate_preset()
-            muse_data["technodata"]["power"]["Technodata"] = self.modify_max_capacities(
+            muse_data["technodata"]["power"] = {
+                "ExistingCapacity": self.create_existing_capacity_power()
+            }
+            muse_data["technodata"]["power"][
+                "Technodata"
+            ] = self.convert_power_technodata()
+            muse_data["technodata"]["power"]["CommIn"] = self.get_power_comm_in(
+                technodata=muse_data["technodata"]["power"]["Technodata"]
+            )
+            muse_data["technodata"]["power"]["CommOut"] = self.get_comm_out(
+                technodata=muse_data["technodata"]["power"]["Technodata"]
+            )
+            muse_data["technodata"]["power"][
+                "TechnodataTimeslices"
+            ] = self.get_technodata_timeslices(
                 technodata=muse_data["technodata"]["power"]["Technodata"]
             )
 
+            muse_data["technodata"]["oil"] = {
+                "Technodata": self.convert_oil_technodata()
+            }
+            muse_data["technodata"]["oil"]["CommIn"] = self.get_oil_comm_in(
+                technodata=muse_data["technodata"]["oil"]["Technodata"]
+            )
+            muse_data["technodata"]["oil"]["CommOut"] = self.get_comm_out(
+                technodata=muse_data["technodata"]["oil"]["Technodata"]
+            )
+            muse_data["technodata"]["oil"][
+                "ExistingCapacity"
+            ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
+
+            if self.electricity_demand["RegionName"].str.contains(self.folder).any():
+                self.electricity_demand = self.electricity_demand[
+                    self.electricity_demand.RegionName == self.folder
+                ]
+                muse_data["technodata"]["preset"] = self.generate_preset()
+                muse_data["technodata"]["power"][
+                    "Technodata"
+                ] = self.modify_max_capacities(
+                    technodata=muse_data["technodata"]["power"]["Technodata"]
+                )
+            scenarios_data[scenario] = muse_data
+
         logger.info("Writing processed data for {}".format(self.folder))
-        self.write_results(muse_data)
+        self.write_results(scenarios_data)
 
     def get_raw_data(self):
         """
@@ -101,26 +113,33 @@ class Transformer:
         """
         import os
 
-        for folder in results_data:
-            output_path_folder = self.output_path / Path(folder)
-            for sector in results_data[folder]:
-                output_path = self.output_path / Path(folder) / Path(sector)
-                if (
-                    not os.path.exists(output_path)
-                    and type(results_data[folder][sector]) is dict
-                ):
-                    os.makedirs(output_path)
-                elif not os.path.exists(output_path_folder):
-                    os.makedirs(output_path_folder)
-                if type(results_data[folder][sector]) is pd.DataFrame:
-                    results_data[folder][sector].to_csv(
-                        str(output_path) + ".csv", index=False
-                    )
-                else:
-                    for csv in results_data[folder][sector]:
-                        results_data[folder][sector][csv].to_csv(
-                            str(output_path) + "/" + csv + ".csv", index=False
+        for scenario in results_data:
+            output_path_scenario = self.output_path / Path(scenario)
+            if (
+                not os.path.exists(output_path_scenario)
+                and type(results_data[scenario]) is dict
+            ):
+                os.makedirs(output_path_scenario)
+            for folder in results_data[scenario]:
+                output_path_folder = output_path_scenario / Path(folder)
+                for sector in results_data[scenario][folder]:
+                    output_path = self.output_path / Path(folder) / Path(sector)
+                    if (
+                        not os.path.exists(output_path)
+                        and type(results_data[scenario][folder][sector]) is dict
+                    ):
+                        os.makedirs(output_path)
+                    elif not os.path.exists(output_path_folder):
+                        os.makedirs(output_path_folder)
+                    if type(results_data[scenario][folder][sector]) is pd.DataFrame:
+                        results_data[scenario][folder][sector].to_csv(
+                            str(output_path) + ".csv", index=False
                         )
+                    else:
+                        for csv in results_data[scenario][folder][sector]:
+                            results_data[scenario][folder][sector][csv].to_csv(
+                                str(output_path) + "/" + csv + ".csv", index=False
+                            )
 
     def generate_agents_file(self):
         agents = pd.read_csv("data/external/muse_data/default/technodata/Agents.csv")
@@ -577,7 +596,6 @@ class Transformer:
         fixed_costs_long = fixed_costs.melt(
             id_vars="ProcessName", var_name="Time", value_name="fix_par"
         )
-        fixed_costs_long
 
         fixed_costs_long["Time"] = pd.to_numeric(fixed_costs_long.Time)
 
