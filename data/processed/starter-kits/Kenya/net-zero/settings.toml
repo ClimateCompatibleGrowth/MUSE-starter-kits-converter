@@ -38,7 +38,7 @@ filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
 quantity = "LCOE"
 sink = "aggregate"
 filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
-columns = ["timeslice",	"region",	"installed",	"technology", "year",	"agent",	"category",	"sector",	"LCOE"]
+columns = ["timeslice",	"region",	"technology", "year",	"agent",	"category",	"sector",	"LCOE"]
 
 
 
@@ -110,7 +110,7 @@ interaction = 'transfer'
 quantity = "timeslice_supply"
 sink = "aggregate"
 filename = "{path}/{default_output_dir}/MCA{Quantity}.csv"
-columns = ["timeslice",	"commodity",	"region",	"installed",	"technology", "year",	"agent",	"category",	"sector",	"supply"]
+columns = ["timeslice",	"commodity",	"region",	"technology", "year",	"agent",	"category",	"sector",	"supply"]
 
 # [sectors.oil]
 # type = 'default'

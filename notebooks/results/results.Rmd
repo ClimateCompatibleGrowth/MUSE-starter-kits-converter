@@ -11,7 +11,7 @@ library(tidyverse)
 
 ```{r}
 
-prices = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya-edited/Results/MCAPrices.csv")
+prices = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/base/Results/MCAPrices.csv")
 prices
 ```
 
@@ -27,7 +27,7 @@ prices_grouped %>% ggplot() + geom_line(aes(x=year, y=price, color=commodity)) +
 
 ```{r}
 
-capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya-edited/Results/MCACapacity.csv")
+capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/base/Results/MCACapacity.csv")
 head(capacity)
 ```
 
@@ -54,7 +54,7 @@ ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figu
 
 ```{r}
 supply <-
-    list.files(path = "/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya-edited/Results/Power/Supply/", pattern = "*.csv", full.names = T) %>% 
+    list.files(path = "/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/base/Results/Power/Supply/", pattern = "*.csv", full.names = T) %>% 
     map_df(~read_csv(.))
 
 supply_elec = filter(supply, commodity=="electricity")
@@ -72,7 +72,7 @@ ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figu
 ```
 
 ```{r}
-metric_supply = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya-edited/Results/MCAMetric_Supply.csv")
+metric_supply = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/base/Results/MCAMetric_Supply.csv")
 metric_supply = filter(metric_supply, commodity=="electricity")
 metric_supply
 ```
@@ -88,7 +88,7 @@ ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figu
 
 
 ```{r}
-lcoe = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya-edited/Results/MCAMetric_Lcoe.csv")
+lcoe = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/base/Results/MCAMetric_Lcoe.csv")
 lcoe = lcoe %>% filter_if(~is.numeric(.), all_vars(!is.infinite(.)))
 head(lcoe)
 ```

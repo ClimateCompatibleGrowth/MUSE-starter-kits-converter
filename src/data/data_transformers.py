@@ -632,12 +632,7 @@ class Transformer:
         if scenario == "base":
             return technodata
         elif scenario == "net-zero":
-            fossil_fuels = [
-                "coal",
-                "gas",
-                "LFO",
-                "HFO",
-            ]
+            fossil_fuels = ["coal", "gas", "LFO", "HFO", "uranium"]
             technodata.loc[
                 technodata["Fuel"].isin(fossil_fuels),
                 ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"],
