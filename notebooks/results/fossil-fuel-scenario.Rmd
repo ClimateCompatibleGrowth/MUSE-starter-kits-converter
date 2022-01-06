@@ -70,7 +70,11 @@ filter(metric_supply_summed, year<=2050) %>% ggplot(aes(x=year, y=supply, fill=t
 
 ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuel-supply.pdf")
 ```
+```{r}
+filter(metric_supply_summed, year<=2050) %>% ggplot(aes(x=year, y=supply, fill=technology)) + geom_area(colour="black") + theme_classic()
 
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil-fuel-geom_area-supply.pdf")
+```
 
 ```{r}
 lcoe = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/fossil-fuel/Results/MCAMetric_Lcoe.csv")
