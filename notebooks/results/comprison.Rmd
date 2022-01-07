@@ -19,7 +19,7 @@ metric_supply_summed
 ```
 
 ```{r}
-osemosys_generation = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/kenya-capacity-output.csv")
+osemosys_generation = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/kenya-supply-output.csv")
 head(osemosys_generation)
 ```
 
@@ -53,6 +53,7 @@ get_capacities = function(osemosys_capacity, muse_capacity){
   osemosys_capacity = osemosys_capacity %>% select(technology, year, capacity, Model)
   osemosys_capacity[is.na(osemosys_capacity)] <- 0
   osemosys_capacity = osemosys_capacity %>% ungroup() %>% complete(technology, year, fill = list(capacity = 0))
+  osemosys_capacity$capacity = osemosys_capacity$capacity * 31.54
   
   muse_capacity = muse_capacity %>% filter(sector=="power") %>% group_by(technology, year) %>% summarise(capacity=sum(capacity)) %>% select(technology, year, capacity) %>% ungroup() %>% complete(technology, year, fill = list(capacity = 0))
   
@@ -65,7 +66,6 @@ get_capacities = function(osemosys_capacity, muse_capacity){
 
 ```{r}
 osemosys_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/osemosys_capacity_base.csv")
-osemosys_capacity$generated = osemosys_capacity$generated * 31.54
 muse_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/base/Results/MCACapacity.csv")
 
 base_capacity = get_capacities(osemosys_capacity, muse_capacity)
@@ -73,7 +73,7 @@ base_capacity = get_capacities(osemosys_capacity, muse_capacity)
 ```
 
 ```{r}
-base_capacity %>% ggplot(aes(x=year, y=capacity, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic() + ggtitle("Net-zero scenario - Capacity")
+base_capacity %>% ggplot(aes(x=year, y=capacity, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic() + ggtitle("Base scenario - Capacity")
 
 ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/base_capacity.pdf", dpi=1000)
 ```
@@ -88,7 +88,7 @@ fossil_supply_summed
 ```
 
 ```{r}
-fossil_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/fossil-fuel-kenya-capacity-output.csv")
+fossil_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/fossil-fuel-kenya-supply-output.csv")
 fossil_osemosys[is.na(fossil_osemosys)] <- 0
 fossil_osemosys
 ```
@@ -103,7 +103,7 @@ fossil = rbind(fossil_muse, fossil_osemosys)
 fossil
 ```
 ```{r}
-fossil %>% ggplot(aes(x=year, y=generated, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic()+ ggtitle("Fossil-fuel only scenario - Supply")
+fossil %>% ggplot(aes(x=year, y=generated, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic()+ ggtitle("Fossil-fuel scenario - Supply")
 
 ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/fossil.pdf", dpi=1000)
 
@@ -112,7 +112,7 @@ ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figu
 
 ```{r}
 
-osemosys_ff_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/fossil-fuel-kenya-capacity-output.csv")
+osemosys_ff_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/osemosys_capacity_fossil_fuel.csv")
 muse_ff_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/fossil-fuel/Results/MCACapacity.csv")
 
 fossil_capacity = get_capacities(osemosys_ff_capacity, muse_ff_capacity)
@@ -160,6 +160,7 @@ Net Zero - Capacity
 
 ```{r}
 osemosys_nz_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/osemosys_capacity_net_zero.csv")
+
 muse_nz_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/net-zero/Results/MCACapacity.csv")
 
 net_zero_capacity = get_capacities(osemosys_nz_capacity, muse_nz_capacity)
