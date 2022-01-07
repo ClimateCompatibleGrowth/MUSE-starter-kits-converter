@@ -15,7 +15,7 @@ Base Scenario
 metric_supply = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/base/Results/MCAMetric_Supply.csv")
 metric_supply = filter(metric_supply, commodity=="electricity")
 metric_supply_summed = metric_supply %>% group_by(technology, year,  sector) %>% summarise(generated=sum(supply))
-head(metric_supply_summed)
+metric_supply_summed
 ```
 
 ```{r}
@@ -39,6 +39,14 @@ base %>% ggplot(aes(x=year, y=generated, fill=technology)) + geom_area(colour="b
 ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/base.pdf", dpi=1000)
 ```
 
+```{r}
+base_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/base/Results/MCACapacity.csv")
+capacity_summed = base_capacity %>% group_by(technology, year) %>% summarise(capacity=sum(capacity))
+capacity_summed$Model = "MUSE"
+capacity_summed
+```
+
+
 Fossil-fuel scenario
 
 ```{r}
@@ -50,7 +58,8 @@ fossil_supply_summed
 
 ```{r}
 fossil_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/fossil-fuel-kenya-capacity-output.csv")
-head(fossil_osemosys)
+fossil_osemosys[is.na(fossil_osemosys)] <- 0
+fossil_osemosys
 ```
 
 ```{r}
