@@ -326,7 +326,7 @@ timeslice,commodity,region,prices,year
 "('winter', 'all-week', 'night')",hfo,Kenya,13.24500000000,2045
 "('winter', 'all-week', 'night')",gas,Kenya,11.00000000000,2045
 "('winter', 'all-week', 'night')",uranium,Kenya,1.76400000000,2045
-"('winter', 'all-week', 'night')",electricity,Kenya,0.46420000000,2045
+"('winter', 'all-week', 'night')",electricity,Kenya,0.48740000000,2045
 "('winter', 'all-week', 'day')",crude_oil,Kenya,18.21500000000,2045
 "('winter', 'all-week', 'day')",biomass,Kenya,1.76000000000,2045
 "('winter', 'all-week', 'day')",coal,Kenya,5.90000000000,2045
@@ -334,7 +334,7 @@ timeslice,commodity,region,prices,year
 "('winter', 'all-week', 'day')",hfo,Kenya,13.24500000000,2045
 "('winter', 'all-week', 'day')",gas,Kenya,11.00000000000,2045
 "('winter', 'all-week', 'day')",uranium,Kenya,1.76400000000,2045
-"('winter', 'all-week', 'day')",electricity,Kenya,0.49010000000,2045
+"('winter', 'all-week', 'day')",electricity,Kenya,0.49360000000,2045
 "('spring', 'all-week', 'night')",crude_oil,Kenya,18.21500000000,2045
 "('spring', 'all-week', 'night')",biomass,Kenya,1.76000000000,2045
 "('spring', 'all-week', 'night')",coal,Kenya,5.90000000000,2045
@@ -342,7 +342,7 @@ timeslice,commodity,region,prices,year
 "('spring', 'all-week', 'night')",hfo,Kenya,13.24500000000,2045
 "('spring', 'all-week', 'night')",gas,Kenya,11.00000000000,2045
 "('spring', 'all-week', 'night')",uranium,Kenya,1.76400000000,2045
-"('spring', 'all-week', 'night')",electricity,Kenya,0.46420000000,2045
+"('spring', 'all-week', 'night')",electricity,Kenya,0.48740000000,2045
 "('spring', 'all-week', 'day')",crude_oil,Kenya,18.21500000000,2045
 "('spring', 'all-week', 'day')",biomass,Kenya,1.76000000000,2045
 "('spring', 'all-week', 'day')",coal,Kenya,5.90000000000,2045
@@ -350,7 +350,7 @@ timeslice,commodity,region,prices,year
 "('spring', 'all-week', 'day')",hfo,Kenya,13.24500000000,2045
 "('spring', 'all-week', 'day')",gas,Kenya,11.00000000000,2045
 "('spring', 'all-week', 'day')",uranium,Kenya,1.76400000000,2045
-"('spring', 'all-week', 'day')",electricity,Kenya,0.49010000000,2045
+"('spring', 'all-week', 'day')",electricity,Kenya,0.49360000000,2045
 "('summer', 'all-week', 'night')",crude_oil,Kenya,18.21500000000,2045
 "('summer', 'all-week', 'night')",biomass,Kenya,1.76000000000,2045
 "('summer', 'all-week', 'night')",coal,Kenya,5.90000000000,2045
@@ -358,7 +358,7 @@ timeslice,commodity,region,prices,year
 "('summer', 'all-week', 'night')",hfo,Kenya,13.24500000000,2045
 "('summer', 'all-week', 'night')",gas,Kenya,11.00000000000,2045
 "('summer', 'all-week', 'night')",uranium,Kenya,1.76400000000,2045
-"('summer', 'all-week', 'night')",electricity,Kenya,0.46420000000,2045
+"('summer', 'all-week', 'night')",electricity,Kenya,0.48740000000,2045
 "('summer', 'all-week', 'day')",crude_oil,Kenya,18.21500000000,2045
 "('summer', 'all-week', 'day')",biomass,Kenya,1.76000000000,2045
 "('summer', 'all-week', 'day')",coal,Kenya,5.90000000000,2045
@@ -366,7 +366,7 @@ timeslice,commodity,region,prices,year
 "('summer', 'all-week', 'day')",hfo,Kenya,13.24500000000,2045
 "('summer', 'all-week', 'day')",gas,Kenya,11.00000000000,2045
 "('summer', 'all-week', 'day')",uranium,Kenya,1.76400000000,2045
-"('summer', 'all-week', 'day')",electricity,Kenya,0.49010000000,2045
+"('summer', 'all-week', 'day')",electricity,Kenya,0.49360000000,2045
 "('autumn', 'all-week', 'night')",crude_oil,Kenya,18.21500000000,2045
 "('autumn', 'all-week', 'night')",biomass,Kenya,1.76000000000,2045
 "('autumn', 'all-week', 'night')",coal,Kenya,5.90000000000,2045
@@ -374,7 +374,7 @@ timeslice,commodity,region,prices,year
 "('autumn', 'all-week', 'night')",hfo,Kenya,13.24500000000,2045
 "('autumn', 'all-week', 'night')",gas,Kenya,11.00000000000,2045
 "('autumn', 'all-week', 'night')",uranium,Kenya,1.76400000000,2045
-"('autumn', 'all-week', 'night')",electricity,Kenya,0.46420000000,2045
+"('autumn', 'all-week', 'night')",electricity,Kenya,0.48740000000,2045
 "('autumn', 'all-week', 'day')",crude_oil,Kenya,18.21500000000,2045
 "('autumn', 'all-week', 'day')",biomass,Kenya,1.76000000000,2045
 "('autumn', 'all-week', 'day')",coal,Kenya,5.90000000000,2045
@@ -382,7 +382,7 @@ timeslice,commodity,region,prices,year
 "('autumn', 'all-week', 'day')",hfo,Kenya,13.24500000000,2045
 "('autumn', 'all-week', 'day')",gas,Kenya,11.00000000000,2045
 "('autumn', 'all-week', 'day')",uranium,Kenya,1.76400000000,2045
-"('autumn', 'all-week', 'day')",electricity,Kenya,0.49010000000,2045
+"('autumn', 'all-week', 'day')",electricity,Kenya,0.49360000000,2045
 "('winter', 'all-week', 'night')",crude_oil,Kenya,19.53000000000,2050
 "('winter', 'all-week', 'night')",biomass,Kenya,1.76000000000,2050
 "('winter', 'all-week', 'night')",coal,Kenya,5.90000000000,2050
@@ -390,7 +390,7 @@ timeslice,commodity,region,prices,year
 "('winter', 'all-week', 'night')",hfo,Kenya,14.20000000000,2050
 "('winter', 'all-week', 'night')",gas,Kenya,11.00000000000,2050
 "('winter', 'all-week', 'night')",uranium,Kenya,1.76400000000,2050
-"('winter', 'all-week', 'night')",electricity,Kenya,0.45710000000,2050
+"('winter', 'all-week', 'night')",electricity,Kenya,0.48040000000,2050
 "('winter', 'all-week', 'day')",crude_oil,Kenya,19.53000000000,2050
 "('winter', 'all-week', 'day')",biomass,Kenya,1.76000000000,2050
 "('winter', 'all-week', 'day')",coal,Kenya,5.90000000000,2050
@@ -398,7 +398,7 @@ timeslice,commodity,region,prices,year
 "('winter', 'all-week', 'day')",hfo,Kenya,14.20000000000,2050
 "('winter', 'all-week', 'day')",gas,Kenya,11.00000000000,2050
 "('winter', 'all-week', 'day')",uranium,Kenya,1.76400000000,2050
-"('winter', 'all-week', 'day')",electricity,Kenya,0.49350000000,2050
+"('winter', 'all-week', 'day')",electricity,Kenya,0.50110000000,2050
 "('spring', 'all-week', 'night')",crude_oil,Kenya,19.53000000000,2050
 "('spring', 'all-week', 'night')",biomass,Kenya,1.76000000000,2050
 "('spring', 'all-week', 'night')",coal,Kenya,5.90000000000,2050
@@ -406,7 +406,7 @@ timeslice,commodity,region,prices,year
 "('spring', 'all-week', 'night')",hfo,Kenya,14.20000000000,2050
 "('spring', 'all-week', 'night')",gas,Kenya,11.00000000000,2050
 "('spring', 'all-week', 'night')",uranium,Kenya,1.76400000000,2050
-"('spring', 'all-week', 'night')",electricity,Kenya,0.45710000000,2050
+"('spring', 'all-week', 'night')",electricity,Kenya,0.48040000000,2050
 "('spring', 'all-week', 'day')",crude_oil,Kenya,19.53000000000,2050
 "('spring', 'all-week', 'day')",biomass,Kenya,1.76000000000,2050
 "('spring', 'all-week', 'day')",coal,Kenya,5.90000000000,2050
@@ -414,7 +414,7 @@ timeslice,commodity,region,prices,year
 "('spring', 'all-week', 'day')",hfo,Kenya,14.20000000000,2050
 "('spring', 'all-week', 'day')",gas,Kenya,11.00000000000,2050
 "('spring', 'all-week', 'day')",uranium,Kenya,1.76400000000,2050
-"('spring', 'all-week', 'day')",electricity,Kenya,0.49350000000,2050
+"('spring', 'all-week', 'day')",electricity,Kenya,0.50110000000,2050
 "('summer', 'all-week', 'night')",crude_oil,Kenya,19.53000000000,2050
 "('summer', 'all-week', 'night')",biomass,Kenya,1.76000000000,2050
 "('summer', 'all-week', 'night')",coal,Kenya,5.90000000000,2050
@@ -422,7 +422,7 @@ timeslice,commodity,region,prices,year
 "('summer', 'all-week', 'night')",hfo,Kenya,14.20000000000,2050
 "('summer', 'all-week', 'night')",gas,Kenya,11.00000000000,2050
 "('summer', 'all-week', 'night')",uranium,Kenya,1.76400000000,2050
-"('summer', 'all-week', 'night')",electricity,Kenya,0.45710000000,2050
+"('summer', 'all-week', 'night')",electricity,Kenya,0.48040000000,2050
 "('summer', 'all-week', 'day')",crude_oil,Kenya,19.53000000000,2050
 "('summer', 'all-week', 'day')",biomass,Kenya,1.76000000000,2050
 "('summer', 'all-week', 'day')",coal,Kenya,5.90000000000,2050
@@ -430,7 +430,7 @@ timeslice,commodity,region,prices,year
 "('summer', 'all-week', 'day')",hfo,Kenya,14.20000000000,2050
 "('summer', 'all-week', 'day')",gas,Kenya,11.00000000000,2050
 "('summer', 'all-week', 'day')",uranium,Kenya,1.76400000000,2050
-"('summer', 'all-week', 'day')",electricity,Kenya,0.49350000000,2050
+"('summer', 'all-week', 'day')",electricity,Kenya,0.50110000000,2050
 "('autumn', 'all-week', 'night')",crude_oil,Kenya,19.53000000000,2050
 "('autumn', 'all-week', 'night')",biomass,Kenya,1.76000000000,2050
 "('autumn', 'all-week', 'night')",coal,Kenya,5.90000000000,2050
@@ -438,7 +438,7 @@ timeslice,commodity,region,prices,year
 "('autumn', 'all-week', 'night')",hfo,Kenya,14.20000000000,2050
 "('autumn', 'all-week', 'night')",gas,Kenya,11.00000000000,2050
 "('autumn', 'all-week', 'night')",uranium,Kenya,1.76400000000,2050
-"('autumn', 'all-week', 'night')",electricity,Kenya,0.45710000000,2050
+"('autumn', 'all-week', 'night')",electricity,Kenya,0.48040000000,2050
 "('autumn', 'all-week', 'day')",crude_oil,Kenya,19.53000000000,2050
 "('autumn', 'all-week', 'day')",biomass,Kenya,1.76000000000,2050
 "('autumn', 'all-week', 'day')",coal,Kenya,5.90000000000,2050
@@ -446,4 +446,4 @@ timeslice,commodity,region,prices,year
 "('autumn', 'all-week', 'day')",hfo,Kenya,14.20000000000,2050
 "('autumn', 'all-week', 'day')",gas,Kenya,11.00000000000,2050
 "('autumn', 'all-week', 'day')",uranium,Kenya,1.76400000000,2050
-"('autumn', 'all-week', 'day')",electricity,Kenya,0.49350000000,2050
+"('autumn', 'all-week', 'day')",electricity,Kenya,0.50110000000,2050

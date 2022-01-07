@@ -35,7 +35,7 @@ ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figu
 ```
 
 ```{r}
-net_zero_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/net-zero-kenya-capacity-output.csv")
+net_zero_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/net-zero-kenya-supply-output.csv")
 head(net_zero_osemosys)
 
 ```
