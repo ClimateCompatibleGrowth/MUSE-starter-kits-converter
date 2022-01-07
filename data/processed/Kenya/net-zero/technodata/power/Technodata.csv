@@ -108,3 +108,9 @@ Solar PV (Utility),Kenya,2025,fixed,31.20243531202436,1.0,0.40563165905631665,1.
 Solar PV (Utility),Kenya,2030,fixed,28.09487569761543,1.0,0.3652333840690006,1.0,3.17e-06,1.0,10.0,5.0,10.813199999999998,24.0,0.32,1.0,100.0,0.1,energy,solar,electricity,1.0
 Solar PV (Utility),Kenya,2040,fixed,22.9261796042618,1.0,0.2980403348554034,1.0,3.17e-06,1.0,10.0,5.0,25.590600000000002,24.0,0.32,1.0,100.0,0.1,energy,solar,electricity,1.0
 Solar PV (Utility),Kenya,2050,fixed,22.9261796042618,1.0,0.2980403348554034,1.0,3.17e-06,1.0,10.0,5.0,40.368,24.0,0.32,1.0,100.0,0.1,energy,solar,electricity,1.0
+Utility scale PV with 2 hour storage,Kenya,2015,fixed,99.18822933,1,0.892472095,1,3.17E-06,1,10,5,6.213259049,24,0.5,1,35,0.1,energy,biomass,electricity,1
+Utility scale PV with 2 hour storage,Kenya,2020,fixed,66.17833587,1,0.568049214,1,3.17E-06,1,10,5,6.213259049,24,0.5,1,35,0.1,energy,biomass,electricity,1
+Utility scale PV with 2 hour storage,Kenya,2025,fixed,45.75722983,1,0.405631659,1,3.17E-06,1,10,5,9.764384384,24,0.5,1,35,0.1,energy,biomass,electricity,1
+Utility scale PV with 2 hour storage,Kenya,2030,fixed,38.68594622,1,0.365233384,1,3.17E-06,1,10,5,13.15016537,24,0.5,1,35,0.1,energy,biomass,electricity,1
+Utility scale PV with 2 hour storage,Kenya,2040,fixed,31.45611365,1,0.298040335,1,3.17E-06,1,10,5,26.14004952,24,0.5,1,35,0.1,energy,biomass,electricity,1
+Utility scale PV with 2 hour storage,Kenya,2050,fixed,29.39497717,1,0.298040335,1,3.17E-06,1,10,5,104.0195347,24,0.5,1,35,0.1,energy,biomass,electricity,1

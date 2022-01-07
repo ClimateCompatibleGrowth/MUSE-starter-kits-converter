@@ -1,0 +1,8 @@
+﻿ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Utility scale PV with 2 hour storage,Kenya,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Utility scale PV with 2 hour storage,Kenya,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Utility scale PV with 2 hour storage,Kenya,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Utility scale PV with 2 hour storage,Kenya,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Utility scale PV with 2 hour storage,Kenya,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Utility scale PV with 2 hour storage,Kenya,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,0,1,0
