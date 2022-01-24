@@ -1,71 +1,71 @@
-asset,year,region,technology,installed,capacity
-0,2025,Kenya,Biomass Power Plant,2020,1.98680000000
-0,2030,Kenya,Biomass Power Plant,2020,1.39070000000
-0,2035,Kenya,Biomass Power Plant,2020,0.97350000000
-0,2040,Kenya,Biomass Power Plant,2020,0.68150000000
-0,2045,Kenya,Biomass Power Plant,2020,0.47700000000
-0,2049,Kenya,Biomass Power Plant,2020,0.36250000000
-0,2050,Kenya,Biomass Power Plant,2020,0.33390000000
-1,2025,Kenya,Geothermal Power Plant,2020,61.64510000000
-1,2030,Kenya,Geothermal Power Plant,2020,58.87020000000
-1,2035,Kenya,Geothermal Power Plant,2020,56.92780000000
-1,2040,Kenya,Geothermal Power Plant,2020,55.56820000000
-1,2045,Kenya,Geothermal Power Plant,2020,54.61640000000
-1,2049,Kenya,Geothermal Power Plant,2020,54.08340000000
-1,2050,Kenya,Geothermal Power Plant,2020,1.55460000000
-2,2030,Kenya,Geothermal Power Plant,2025,38.91900000000
-2,2035,Kenya,Geothermal Power Plant,2025,38.91900000000
-2,2040,Kenya,Geothermal Power Plant,2025,38.91900000000
-2,2045,Kenya,Geothermal Power Plant,2025,38.91900000000
-2,2049,Kenya,Geothermal Power Plant,2025,38.91900000000
-2,2050,Kenya,Geothermal Power Plant,2025,38.91900000000
-2,2054,Kenya,Geothermal Power Plant,2025,38.91900000000
-3,2025,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,11.01550000000
-3,2030,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,7.71090000000
-3,2035,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,5.39760000000
-3,2040,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,3.77830000000
-3,2045,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,2.64480000000
-3,2049,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,2.01010000000
-3,2050,Kenya,Large Hydropower Plant (Dam) (>100MW),2020,1.85140000000
-4,2025,Kenya,Light Fuel Oil Power Plant,2020,6.34660000000
-4,2030,Kenya,Light Fuel Oil Power Plant,2020,4.44260000000
-4,2035,Kenya,Light Fuel Oil Power Plant,2020,3.10980000000
-4,2040,Kenya,Light Fuel Oil Power Plant,2020,2.17690000000
-4,2045,Kenya,Light Fuel Oil Power Plant,2020,1.52380000000
-4,2049,Kenya,Light Fuel Oil Power Plant,2020,1.15810000000
-4,2050,Kenya,Light Fuel Oil Power Plant,2020,1.06670000000
-5,2025,Kenya,Medium Hydropower Plant (10-100MW),2020,5.49230000000
-5,2030,Kenya,Medium Hydropower Plant (10-100MW),2020,3.84460000000
-5,2035,Kenya,Medium Hydropower Plant (10-100MW),2020,2.69120000000
-5,2040,Kenya,Medium Hydropower Plant (10-100MW),2020,1.88390000000
-5,2045,Kenya,Medium Hydropower Plant (10-100MW),2020,1.31870000000
-5,2049,Kenya,Medium Hydropower Plant (10-100MW),2020,1.00220000000
-5,2050,Kenya,Medium Hydropower Plant (10-100MW),2020,0.92310000000
-6,2025,Kenya,Oil Fired Gas Turbine (SCGT),2020,9.86760000000
-6,2030,Kenya,Oil Fired Gas Turbine (SCGT),2020,6.90730000000
-6,2035,Kenya,Oil Fired Gas Turbine (SCGT),2020,4.83510000000
-6,2040,Kenya,Oil Fired Gas Turbine (SCGT),2020,3.38460000000
-6,2045,Kenya,Oil Fired Gas Turbine (SCGT),2020,2.36920000000
-6,2049,Kenya,Oil Fired Gas Turbine (SCGT),2020,1.80060000000
-6,2050,Kenya,Oil Fired Gas Turbine (SCGT),2020,1.65840000000
-7,2025,Kenya,Onshore Wind,2020,6.84330000000
-7,2030,Kenya,Onshore Wind,2020,4.79030000000
-7,2035,Kenya,Onshore Wind,2020,3.35320000000
-7,2040,Kenya,Onshore Wind,2020,2.34730000000
-7,2045,Kenya,Onshore Wind,2020,1.64310000000
-7,2049,Kenya,Onshore Wind,2020,1.24870000000
-7,2050,Kenya,Onshore Wind,2020,1.15020000000
-8,2025,Kenya,Solar PV (Distributed with Storage),2020,0.83530000000
-8,2030,Kenya,Solar PV (Distributed with Storage),2020,0.58470000000
-8,2035,Kenya,Solar PV (Distributed with Storage),2020,0.40930000000
-8,2040,Kenya,Solar PV (Distributed with Storage),2020,0.28650000000
-8,2045,Kenya,Solar PV (Distributed with Storage),2020,0.20060000000
-8,2049,Kenya,Solar PV (Distributed with Storage),2020,0.15240000000
-8,2050,Kenya,Solar PV (Distributed with Storage),2020,0.14040000000
-9,2025,Kenya,Solar PV (Utility),2020,0.52980000000
-9,2030,Kenya,Solar PV (Utility),2020,0.37090000000
-9,2035,Kenya,Solar PV (Utility),2020,0.25960000000
-9,2040,Kenya,Solar PV (Utility),2020,0.18170000000
-9,2045,Kenya,Solar PV (Utility),2020,0.12720000000
-9,2049,Kenya,Solar PV (Utility),2020,0.09670000000
-9,2050,Kenya,Solar PV (Utility),2020,0.08900000000
+asset,year,region,installed,technology,capacity
+0,2025,Kenya,2020,Biomass Power Plant,1.98680000000
+0,2030,Kenya,2020,Biomass Power Plant,1.39070000000
+0,2035,Kenya,2020,Biomass Power Plant,0.97350000000
+0,2040,Kenya,2020,Biomass Power Plant,0.68150000000
+0,2045,Kenya,2020,Biomass Power Plant,0.47700000000
+0,2049,Kenya,2020,Biomass Power Plant,0.36250000000
+0,2050,Kenya,2020,Biomass Power Plant,0.33390000000
+1,2025,Kenya,2020,Geothermal Power Plant,214.58470000000
+1,2030,Kenya,2020,Geothermal Power Plant,211.80980000000
+1,2035,Kenya,2020,Geothermal Power Plant,209.86740000000
+1,2040,Kenya,2020,Geothermal Power Plant,208.50770000000
+1,2045,Kenya,2020,Geothermal Power Plant,207.55600000000
+1,2049,Kenya,2020,Geothermal Power Plant,207.02300000000
+1,2050,Kenya,2020,Geothermal Power Plant,1.55460000000
+2,2025,Kenya,2020,Large Hydropower Plant (Dam) (>100MW),11.01550000000
+2,2030,Kenya,2020,Large Hydropower Plant (Dam) (>100MW),7.71090000000
+2,2035,Kenya,2020,Large Hydropower Plant (Dam) (>100MW),5.39760000000
+2,2040,Kenya,2020,Large Hydropower Plant (Dam) (>100MW),3.77830000000
+2,2045,Kenya,2020,Large Hydropower Plant (Dam) (>100MW),2.64480000000
+2,2049,Kenya,2020,Large Hydropower Plant (Dam) (>100MW),2.01010000000
+2,2050,Kenya,2020,Large Hydropower Plant (Dam) (>100MW),1.85140000000
+3,2025,Kenya,2020,Light Fuel Oil Power Plant,6.34660000000
+3,2030,Kenya,2020,Light Fuel Oil Power Plant,4.44260000000
+3,2035,Kenya,2020,Light Fuel Oil Power Plant,3.10980000000
+3,2040,Kenya,2020,Light Fuel Oil Power Plant,2.17690000000
+3,2045,Kenya,2020,Light Fuel Oil Power Plant,1.52380000000
+3,2049,Kenya,2020,Light Fuel Oil Power Plant,1.15810000000
+3,2050,Kenya,2020,Light Fuel Oil Power Plant,1.06670000000
+4,2025,Kenya,2020,Medium Hydropower Plant (10-100MW),5.49230000000
+4,2030,Kenya,2020,Medium Hydropower Plant (10-100MW),3.84460000000
+4,2035,Kenya,2020,Medium Hydropower Plant (10-100MW),2.69120000000
+4,2040,Kenya,2020,Medium Hydropower Plant (10-100MW),1.88390000000
+4,2045,Kenya,2020,Medium Hydropower Plant (10-100MW),1.31870000000
+4,2049,Kenya,2020,Medium Hydropower Plant (10-100MW),1.00220000000
+4,2050,Kenya,2020,Medium Hydropower Plant (10-100MW),0.92310000000
+5,2025,Kenya,2020,Oil Fired Gas Turbine (SCGT),9.86760000000
+5,2030,Kenya,2020,Oil Fired Gas Turbine (SCGT),6.90730000000
+5,2035,Kenya,2020,Oil Fired Gas Turbine (SCGT),4.83510000000
+5,2040,Kenya,2020,Oil Fired Gas Turbine (SCGT),3.38460000000
+5,2045,Kenya,2020,Oil Fired Gas Turbine (SCGT),2.36920000000
+5,2049,Kenya,2020,Oil Fired Gas Turbine (SCGT),1.80060000000
+5,2050,Kenya,2020,Oil Fired Gas Turbine (SCGT),1.65840000000
+6,2025,Kenya,2020,Onshore Wind,6.84330000000
+6,2030,Kenya,2020,Onshore Wind,4.79030000000
+6,2035,Kenya,2020,Onshore Wind,3.35320000000
+6,2040,Kenya,2020,Onshore Wind,2.34730000000
+6,2045,Kenya,2020,Onshore Wind,1.64310000000
+6,2049,Kenya,2020,Onshore Wind,1.24870000000
+6,2050,Kenya,2020,Onshore Wind,1.15020000000
+7,2025,Kenya,2020,Solar PV (Distributed with Storage),0.83530000000
+7,2030,Kenya,2020,Solar PV (Distributed with Storage),0.58470000000
+7,2035,Kenya,2020,Solar PV (Distributed with Storage),0.40930000000
+7,2040,Kenya,2020,Solar PV (Distributed with Storage),0.28650000000
+7,2045,Kenya,2020,Solar PV (Distributed with Storage),0.20060000000
+7,2049,Kenya,2020,Solar PV (Distributed with Storage),0.15240000000
+7,2050,Kenya,2020,Solar PV (Distributed with Storage),0.14040000000
+8,2025,Kenya,2020,Solar PV (Utility),0.52980000000
+8,2030,Kenya,2020,Solar PV (Utility),0.37090000000
+8,2035,Kenya,2020,Solar PV (Utility),0.25960000000
+8,2040,Kenya,2020,Solar PV (Utility),0.18170000000
+8,2045,Kenya,2020,Solar PV (Utility),0.12720000000
+8,2049,Kenya,2020,Solar PV (Utility),0.09670000000
+8,2050,Kenya,2020,Solar PV (Utility),0.08900000000
+9,2030,Kenya,2025,Geothermal Power Plant,173.50440000000
+9,2035,Kenya,2025,Geothermal Power Plant,173.50440000000
+9,2040,Kenya,2025,Geothermal Power Plant,173.50440000000
+9,2045,Kenya,2025,Geothermal Power Plant,173.50440000000
+9,2049,Kenya,2025,Geothermal Power Plant,173.50440000000
+9,2050,Kenya,2025,Geothermal Power Plant,173.50440000000
+9,2054,Kenya,2025,Geothermal Power Plant,173.50440000000

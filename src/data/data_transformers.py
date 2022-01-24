@@ -399,7 +399,7 @@ class Transformer:
 
         for col in unknown_cols:
             existing_capacity[col] = (
-                existing_capacity[col - self.benchmark_years] * 0.96
+                existing_capacity[col - self.benchmark_years] * 0.99
             )
 
         return existing_capacity

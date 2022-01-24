@@ -1,6 +1,6 @@
 ,RegionName,ProcessName,Timeslice,electricity,gas,heat,CO2f,wind
 0,Kenya,electricity_demand,1,23.97875,0,0,0,0
-1,Kenya,electricity_demand,2,23.97875,0,0,0,0
+1,Kenya,electricity_demand,2,24.97875,0,0,0,0
 2,Kenya,electricity_demand,3,23.97875,0,0,0,0
 3,Kenya,electricity_demand,4,23.97875,0,0,0,0
 4,Kenya,electricity_demand,5,23.97875,0,0,0,0
