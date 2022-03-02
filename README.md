@@ -3,7 +3,7 @@ CCG Starter Kits to MUSE input files
 
 The MUSE data can be generated with the following command in the root directory:
 ```
-make data start_year=2020 end_year=2050 milestone_year=5
+make data start_year=2020 end_year=2055 milestone_year=5
 ```
 
 The variables `start_year`, `end_year` and `milestone_year` are customisable to your requirements. However, only the parameters used above have been fully tested.
@@ -18,6 +18,13 @@ And produce the data in a MUSE friendly format at:
 data/processed/starter-kits/*
 ```
 
+There are a few editable files which you can adjust for your case study.
+
+For instance, if you know the exogenous electricity demand for your country of interest, you have to edit the `demand.csv` file in `data/interim/electricity_demand/demand.csv`.
+
+This will then generate the preset sector files.
+
+Finally, if you have technologies that can only meet a certain percentage of demand, you must edit the `proportion_technology_demand.csv` file in `data/interim/maximum_capacity/proportion_technology_demand.csv`. However, this will only work if you have created the `demand.csv` file for your country.
 
 
 Project Organization

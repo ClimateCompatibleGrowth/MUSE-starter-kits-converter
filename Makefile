@@ -23,17 +23,17 @@ endif
 #################################################################################
 
 ## Install Python Dependencies
-requirements: test_environment
+requirements:
 	$(PYTHON_INTERPRETER) -m pip install -U pip setuptools wheel
 	$(PYTHON_INTERPRETER) -m pip install -r requirements.txt
 
 ## Make Dataset
 data: requirements
-	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits $(start_year) $($(end_year)+5) $(milestone_year)
+	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits $(start_year) $(end_year) $(milestone_year)
 
 ## Make dataset without installing requirements
 data-no-reqs:
-	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits $(start_year) $($(end_year)+5) $(milestone_year)
+	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw/starter-kits data/processed/starter-kits $(start_year) $(end_year) $(milestone_year)
 
 ## Delete all compiled Python files
 clean:

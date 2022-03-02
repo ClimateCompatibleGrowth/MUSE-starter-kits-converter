@@ -1,0 +1,48 @@
+---
+title: "iea-scenarios"
+author: "Alex Kell"
+date: "02/07/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
+
+```{r}
+africa_case = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/interim/IEA_Kenya/kenya-electricity-generation-by-technology-in-the-africa-case-2010-2040.csv")
+
+sps_case = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/interim/IEA_Kenya/kenya-electricity-generation-by-technology-in-the-stated-policies-scenario-2010-2040.csv")
+```
+```{r}
+africa_long = africa_case %>% pivot_longer(cols=colnames(africa_case)[-1], names_to="Type")
+
+africa_long$Scenario = "Africa Case"
+
+ggplot(africa_long) + geom_area(aes(fill=Type, x=Year, y=value), color="black") + theme_classic() + ylab("Value (TWh)")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/notebooks/scenarios/figures/africa.pdf", dpi=1000, height = 7.5, width=10)
+```
+
+
+```{r}
+sps_long = sps_case %>% pivot_longer(cols=colnames(sps_case)[-1], names_to="Type")
+
+sps_long$Scenario = "SPS Case"
+
+ggplot(sps_long) + geom_area(aes(fill=Type, x=Year, y=value), color="black") + theme_classic() + ylab("Value (TWh)")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/notebooks/scenarios/figures/sps.pdf", dpi=1000, height = 7.5, width=10)
+```
+
+
+```{r}
+long = rbind(sps_long, africa_long)
+
+ggplot(data=long) + geom_area(aes(fill=Type, x=Year, y=value), color="black")+ facet_wrap(~Scenario) + theme_classic() +ylab("Value (TWh)")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/notebooks/scenarios/figures/both_scenarios.pdf", dpi=1000, height = 7.5, width=10)
+```

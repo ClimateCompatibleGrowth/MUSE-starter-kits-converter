@@ -3,61 +3,101 @@ from pathlib import Path
 import glob
 import pandas as pd
 from src.defaults import PROJECT_DIR, plant_fuels, units
+import numpy as np
 
 
 class Transformer:
     def __init__(self, input_path, output_path, start_year, end_year, benchmark_years):
-        """
-
-        """
+        """"""
         self.input_path = Path(input_path)
         self.output_path = Path(output_path)
         self.start_year = int(start_year)
         self.end_year = int(end_year)
+
         self.benchmark_years = int(benchmark_years)
 
         self.folder = str(self.input_path).split("/")[-1]
         self.raw_tables = self.get_raw_data()
 
+        self.maximum_capacity = pd.read_csv(
+            str(input_path)
+            + "../../../interim/maximum_capacity/proportion_technology_demand.csv"
+        )
+        self.electricity_demand = pd.read_csv(
+            str(input_path) + "../../../interim/electricity_demand/demand.csv"
+        )
+
     def create_muse_dataset(self):
         """
-        Imports the starter kits datasets and converts them into a form used 
+        Imports the starter kits datasets and converts them into a form used
         for MUSE.
         """
         logger = logging.getLogger(__name__)
         logger.info("Converting raw data for {}.".format(self.folder))
 
-        muse_data = {}
+        scenarios = ["base", "net-zero", "fossil-fuel"]
+        scenarios_data = {}
+        for scenario in scenarios:
+            muse_data = {}
 
-        muse_data["input"] = {"GlobalCommodities": self.generate_global_commodities()}
+            muse_data["input"] = {
+                "GlobalCommodities": self.generate_global_commodities()
+            }
 
-        muse_data["input"]["Projections"] = self.generate_projections()
+            muse_data["input"]["Projections"] = self.generate_projections()
 
-        muse_data["technodata"] = {"Agents": self.generate_agents_file()}
+            muse_data["technodata"] = {"Agents": self.generate_agents_file()}
 
-        muse_data["technodata"]["power"] = {
-            "ExistingCapacity": self.create_existing_capacity_power()
-        }
-        muse_data["technodata"]["power"]["Technodata"] = self.convert_power_technodata()
-        muse_data["technodata"]["power"]["CommIn"] = self.get_comm_in(
-            technodata=muse_data["technodata"]["power"]["Technodata"]
-        )
-        muse_data["technodata"]["power"]["CommOut"] = self.get_comm_out(
-            technodata=muse_data["technodata"]["power"]["Technodata"]
-        )
-        muse_data["technodata"]["oil"] = {"Technodata": self.convert_oil_technodata()}
-        muse_data["technodata"]["oil"]["CommIn"] = self.get_comm_in(
-            technodata=muse_data["technodata"]["oil"]["Technodata"]
-        )
-        muse_data["technodata"]["oil"]["CommOut"] = self.get_comm_out(
-            technodata=muse_data["technodata"]["oil"]["Technodata"]
-        )
-        muse_data["technodata"]["oil"][
-            "ExistingCapacity"
-        ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
+            muse_data["technodata"]["power"] = {
+                "ExistingCapacity": self.create_existing_capacity_power()
+            }
+            muse_data["technodata"]["power"][
+                "Technodata"
+            ] = self.convert_power_technodata()
+
+            muse_data["technodata"]["power"]["CommIn"] = self.get_power_comm_in(
+                technodata=muse_data["technodata"]["power"]["Technodata"]
+            )
+            muse_data["technodata"]["power"]["CommOut"] = self.get_comm_out(
+                technodata=muse_data["technodata"]["power"]["Technodata"]
+            )
+            muse_data["technodata"]["power"][
+                "TechnodataTimeslices"
+            ] = self.get_technodata_timeslices(
+                technodata=muse_data["technodata"]["power"]["Technodata"]
+            )
+
+            muse_data["technodata"]["oil"] = {
+                "Technodata": self.convert_oil_technodata()
+            }
+            muse_data["technodata"]["oil"]["CommIn"] = self.get_oil_comm_in(
+                technodata=muse_data["technodata"]["oil"]["Technodata"]
+            )
+            muse_data["technodata"]["oil"]["CommOut"] = self.get_comm_out(
+                technodata=muse_data["technodata"]["oil"]["Technodata"]
+            )
+            muse_data["technodata"]["oil"][
+                "ExistingCapacity"
+            ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
+
+            if self.electricity_demand["RegionName"].str.contains(self.folder).any():
+                self.electricity_demand = self.electricity_demand[
+                    self.electricity_demand.RegionName == self.folder
+                ]
+                muse_data["technodata"]["preset"] = self.generate_preset()
+                muse_data["technodata"]["power"][
+                    "Technodata"
+                ] = self.modify_max_capacities(
+                    technodata=muse_data["technodata"]["power"]["Technodata"]
+                )
+
+            muse_data["technodata"]["power"]["Technodata"] = self.create_scenarios(
+                scenario, muse_data["technodata"]["power"]["Technodata"]
+            )
+            scenarios_data[scenario] = muse_data
 
         logger.info("Writing processed data for {}".format(self.folder))
-        self.write_results(muse_data)
+        self.write_results(scenarios_data)
 
     def get_raw_data(self):
         """
@@ -78,30 +118,38 @@ class Transformer:
         """
         import os
 
-        for folder in results_data:
-            output_path_folder = self.output_path / Path(folder)
-            for sector in results_data[folder]:
-                output_path = self.output_path / Path(folder) / Path(sector)
-                if (
-                    not os.path.exists(output_path)
-                    and type(results_data[folder][sector]) is dict
-                ):
-                    os.makedirs(output_path)
-                elif not os.path.exists(output_path_folder):
-                    os.makedirs(output_path_folder)
-                if type(results_data[folder][sector]) is pd.DataFrame:
-                    results_data[folder][sector].to_csv(
-                        str(output_path) + ".csv", index=False
-                    )
-                else:
-                    for csv in results_data[folder][sector]:
-                        results_data[folder][sector][csv].to_csv(
-                            str(output_path) + "/" + csv + ".csv", index=False
+        for scenario in results_data:
+            output_path_scenario = self.output_path / Path(scenario)
+            if (
+                not os.path.exists(output_path_scenario)
+                and type(results_data[scenario]) is dict
+            ):
+                os.makedirs(output_path_scenario)
+            for folder in results_data[scenario]:
+                output_path_folder = output_path_scenario / Path(folder)
+                for sector in results_data[scenario][folder]:
+                    output_path = output_path_scenario / Path(folder) / Path(sector)
+                    if (
+                        not os.path.exists(output_path)
+                        and type(results_data[scenario][folder][sector]) is dict
+                    ):
+                        os.makedirs(output_path)
+                    elif not os.path.exists(output_path_folder):
+                        os.makedirs(output_path_folder)
+                    if type(results_data[scenario][folder][sector]) is pd.DataFrame:
+                        results_data[scenario][folder][sector].to_csv(
+                            str(output_path) + ".csv", index=False
                         )
+                    else:
+                        for csv in results_data[scenario][folder][sector]:
+                            results_data[scenario][folder][sector][csv].to_csv(
+                                str(output_path) + "/" + csv + ".csv", index=False
+                            )
 
     def generate_agents_file(self):
         agents = pd.read_csv("data/external/muse_data/default/technodata/Agents.csv")
         agents["RegionName"] = self.folder
+        agents["Objsort1"] = "True"
         return agents
 
     def generate_global_commodities(self):
@@ -228,7 +276,9 @@ class Transformer:
             if key == "electricity":
                 projections[key] = 1
             elif key == "uranium":
-                projections[key] = 1.764 # http://www.world-nuclear.org/uploadedfiles/org/info/pdf/economicsnp.pdf
+                projections[
+                    key
+                ] = 1.764  # http://www.world-nuclear.org/uploadedfiles/org/info/pdf/economicsnp.pdf
             else:
                 projections[key] = 0
 
@@ -245,7 +295,7 @@ class Transformer:
 
     def create_existing_capacity_power(self):
         """
-        Calculates the existing power capacity from Table1 from the starter kits, 
+        Calculates the existing power capacity from Table1 from the starter kits,
         and transforms them into an ExistingCapacity dataframe for MUSE.
         """
 
@@ -279,7 +329,7 @@ class Transformer:
         )
 
         installed_capacity_cf["estimated_installed_capacity_PJ_y"] = (
-            installed_capacity_cf.estimated_installed_capacity_MW * 8600 * 0.0000036
+            installed_capacity_cf.estimated_installed_capacity_MW * 24 * 365 * 0.0000036
         )
 
         installed_capacity_pj_y = installed_capacity_cf.drop(
@@ -310,7 +360,7 @@ class Transformer:
 
         for col in unknown_cols:
             muse_installed_capacity[col] = (
-                muse_installed_capacity[col - self.benchmark_years] * 0.9
+                muse_installed_capacity[col - self.benchmark_years] * 0.7
             )
 
         return muse_installed_capacity
@@ -338,6 +388,20 @@ class Transformer:
 
         existing_capacity = existing_capacity.reset_index(drop=True)
         existing_capacity[2020] = 100
+
+        unknown_cols = list(
+            range(
+                self.start_year + self.benchmark_years,
+                self.end_year,
+                self.benchmark_years,
+            )
+        )
+
+        for col in unknown_cols:
+            existing_capacity[col] = (
+                existing_capacity[col - self.benchmark_years] * 0.99
+            )
+
         return existing_capacity
 
     def convert_power_technodata(self):
@@ -346,9 +410,24 @@ class Transformer:
         """
 
         technoeconomic_data = self.raw_tables["Table2"]
-        growth_limits = self.raw_tables["Table8"]
+        growth_limits_fetched = self.raw_tables["Table8"]
+        growth_limits = growth_limits_fetched.copy()
 
-        growth_limits["Value"] = growth_limits.Value * 24 * 365 * 3.6e-6
+        growth_limits.loc[growth_limits["Technology"].str.contains("(MW)"), "Value"] = (
+            growth_limits.loc[growth_limits["Technology"].str.contains("(MW)"), "Value"]
+            * 24
+            * 365
+            * 3.6e-6
+        )
+
+        growth_limits.loc[
+            growth_limits["Technology"].str.contains("(Twh/yr)"), "Value"
+        ] = (
+            growth_limits.loc[
+                growth_limits["Technology"].str.contains("(Twh/yr)"), "Value"
+            ]
+            * 3.6
+        )
 
         growth_limits["Technology"] = growth_limits.Technology.str.replace(
             "Geothermal (MW)", "Geothermal Power Plant", regex=False
@@ -367,10 +446,11 @@ class Transformer:
             large_hydropower_limit = 0
 
         medium_hydropower_row = {
-            "Technology": "Medium Hydropower Plant",
+            "Technology": "Medium Hydropower Plant (10-100MW)",
             "Parameter": "Estimated Renewable Energy Potential",
             "Value": large_hydropower_limit,
         }
+
         growth_limits = growth_limits.append(medium_hydropower_row, ignore_index=True)
 
         muse_technodata = pd.read_csv(
@@ -392,7 +472,6 @@ class Transformer:
         growth_limits = growth_limits.set_index("Technology")
 
         technoeconomic_data_wide.update(growth_limits)
-
         technoeconomic_data_wide = technoeconomic_data_wide.reset_index()
         technoeconomic_data_wide_named = technoeconomic_data_wide.rename(
             columns={
@@ -423,36 +502,66 @@ class Transformer:
 
         projected_capex = self.raw_tables["Table3"]
 
+        if "Table10" in self.raw_tables:
+            projected_fixed_costs = self.raw_tables["Table10"]
+
+            projected_fixed_costs = projected_fixed_costs.melt(id_vars="Technology")
+
+            projected_fixed_costs = projected_fixed_costs.rename(
+                columns={
+                    "Technology": "ProcessName",
+                    "variable": "Time",
+                    "value": "fix_par",
+                }
+            )
+            projected_fixed_costs["Time"] = projected_fixed_costs["Time"].astype(int)
+
         projected_capex = projected_capex.rename(
             columns={"Technology": "ProcessName", "Year": "Time", "Value": "cap_par"}
         )
         projected_capex = projected_capex.drop(columns="Parameter")
 
+        if "Table10" in self.raw_tables:
+            projected_costs = pd.merge(
+                projected_capex,
+                projected_fixed_costs,
+                on=["ProcessName", "Time"],
+                how="left",
+            )
+        else:
+            projected_costs = projected_capex
+            projected_costs["fix_par"] = np.nan
+
         projected_capex_with_unknowns = pd.merge(
-            projected_capex[["ProcessName", "Time"]],
+            projected_costs[["ProcessName", "Time"]],
             technoeconomic_data_wide_named[["ProcessName"]],
             how="cross",
         )
+
         with_years = (
             projected_capex_with_unknowns.drop(columns="ProcessName_x")
             .drop_duplicates()
             .rename(columns={"ProcessName_y": "ProcessName"})
         )
 
-        filled_years = pd.merge(with_years, projected_capex, how="outer")
+        filled_years = pd.merge(with_years, projected_costs, how="outer")
         combined_years = pd.merge(
             filled_years,
-            technoeconomic_data_wide_named[["ProcessName", "cap_par"]],
+            technoeconomic_data_wide_named[["ProcessName", "cap_par", "fix_par"]],
             on="ProcessName",
         )
+
         combined_years["cap_par_x"] = combined_years["cap_par_x"].fillna(
             combined_years["cap_par_y"]
         )
 
+        combined_years["fix_par_x"] = combined_years["fix_par_x"].fillna(
+            combined_years["fix_par_y"]
+        )
+
         projected_capex_all_technologies = combined_years.drop(
-            columns="cap_par_y"
-        ).rename(columns={"cap_par_x": "cap_par"})
-        projected_capex_all_technologies
+            columns=["cap_par_y", "fix_par_y"]
+        ).rename(columns={"cap_par_x": "cap_par", "fix_par_x": "fix_par"})
 
         projected_technoeconomic = pd.merge(
             technoeconomic_data_wide_named,
@@ -465,16 +574,20 @@ class Transformer:
             projected_technoeconomic
         )
 
-        forwardfilled_projected_technoeconomic = forwardfilled_projected_technoeconomic.drop(
-            columns="cap_par_x"
+        forwardfilled_projected_technoeconomic = (
+            forwardfilled_projected_technoeconomic.drop(
+                columns=["cap_par_x", "fix_par_x"]
+            )
         )
-        forwardfilled_projected_technoeconomic = forwardfilled_projected_technoeconomic.rename(
-            columns={"cap_par_y": "cap_par"}
+        forwardfilled_projected_technoeconomic = (
+            forwardfilled_projected_technoeconomic.rename(
+                columns={"cap_par_y": "cap_par", "fix_par_y": "fix_par"}
+            )
         )
 
         kw_columns = ["cap_par", "fix_par"]
 
-        forwardfilled_projected_technoeconomic[kw_columns] *= 1 / (8600 * 0.0036)
+        forwardfilled_projected_technoeconomic[kw_columns] *= 1 / (24 * 365 * 0.0036)
         forwardfilled_projected_technoeconomic.reindex(muse_technodata.columns, axis=1)
 
         forwardfilled_projected_technoeconomic["efficiency"] *= 100
@@ -483,7 +596,143 @@ class Transformer:
             muse_technodata.ProcessName == "Unit"
         ].append(forwardfilled_projected_technoeconomic)
 
-        return forwardfilled_projected_technoeconomic
+        fixed_costs = pd.read_csv(
+            str(PROJECT_DIR) + "/data/interim/fixed_costs/Kenya-fixed-costs.csv"
+        )
+        fixed_costs_long = fixed_costs.melt(
+            id_vars="ProcessName", var_name="Time", value_name="fix_par"
+        )
+
+        fixed_costs_long["Time"] = pd.to_numeric(fixed_costs_long.Time)
+
+        fixed_costs_long["fix_par"] = (
+            fixed_costs_long["fix_par"] * 1 / (24 * 365 * 0.0036)
+        )
+
+        units = pd.DataFrame(
+            {"ProcessName": ["Unit"], "Time": ["Year"], "fix_par": ["MUS$2010/PJ"]}
+        )
+        fixed_costs_long = pd.concat([units, fixed_costs_long])
+        technodata_edited = pd.merge(
+            forwardfilled_projected_technoeconomic,
+            fixed_costs_long,
+            on=["ProcessName", "Time"],
+            how="left",
+        )
+
+        technodata_edited["fix_par_y"] = technodata_edited.fix_par_y.fillna(
+            technodata_edited.fix_par_x
+        )
+        technodata_edited = technodata_edited.drop(columns="fix_par_x")
+        technodata_edited = technodata_edited.rename(columns={"fix_par_y": "fix_par"})
+        technodata_edited = technodata_edited.reindex(muse_technodata.columns, axis=1)
+
+        return technodata_edited
+
+    def create_scenarios(self, scenario, technodata):
+        if scenario == "base":
+            return technodata
+        elif scenario == "net-zero":
+            fossil_fuels = ["coal", "gas", "LFO", "HFO", "uranium"]
+            technodata.loc[
+                technodata["Fuel"].isin(fossil_fuels),
+                ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"],
+            ] = 0
+            return technodata
+        elif scenario == "fossil-fuel":
+            net_zero_fuels = [
+                "solar",
+                "biomass",
+                "geothermal",
+                "hydro",
+                "uranium",
+                "wind",
+            ]
+            technodata.loc[
+                technodata["Fuel"].isin(net_zero_fuels),
+                ["MaxCapacityAddition", "MaxCapacityGrowth", "TotalCapacityLimit"],
+            ] = 0
+            return technodata
+        else:
+            raise ValueError
+
+    def get_technodata_timeslices(self, technodata):
+        example_ttslices = pd.read_csv(
+            str(PROJECT_DIR)
+            + "/data/external/muse_data/default_timeslice/technodata/power/TechnodataTimeslices.csv"
+        )
+
+        capacity_factors = pd.read_csv(
+            str(PROJECT_DIR) + "/data/interim/timeslices/Kenya-CFs.csv"
+        )
+        capacity_factors = capacity_factors.melt(id_vars="ProcessName")
+        capacity_factors.variable = capacity_factors.variable.str.lower()
+        capacity_factors[["month", "hour"]] = capacity_factors["variable"].str.split(
+            " ", expand=True
+        )
+
+        capacity_factors = capacity_factors.drop(columns="variable")
+        capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
+            r"\bWind\b", "Onshore Wind"
+        )
+        # capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
+        #     "PV", "Solar PV (Utility)"
+        # )
+
+        capacity_factors.ProcessName = capacity_factors.ProcessName.str.replace(
+            "Offshore Onshore Wind", "Offshore Wind"
+        )
+        capacity_factors = capacity_factors.rename(
+            columns={"value": "UtilizationFactor"}
+        )
+
+        process_timeslice = pd.merge(
+            technodata[["ProcessName", "Time"]],
+            capacity_factors[["month", "hour"]],
+            how="cross",
+        ).drop_duplicates()
+        technodata_timeslices = (
+            pd.merge(
+                process_timeslice,
+                capacity_factors,
+                on=["ProcessName", "month", "hour"],
+                how="outer",
+            )
+            .set_index(["ProcessName", "Time"])
+            .combine_first(
+                technodata[["ProcessName", "Time", "UtilizationFactor"]].set_index(
+                    ["ProcessName", "Time"]
+                )
+            )
+            .reset_index()
+        )
+        technodata_timeslices["MinimumServiceFactor"] = 0
+        technodata_timeslices["RegionName"] = self.folder
+        technodata_timeslices = technodata_timeslices[
+            technodata_timeslices["ProcessName"] != "Unit"
+        ]
+        technodata_timeslices = technodata_timeslices[
+            technodata_timeslices["ProcessName"] != "Wind"
+        ]
+        technodata_timeslices["ObjSort"] = "upper"
+
+        technodata_timeslices["day"] = "all-week"
+
+        technodata_timeslices = technodata_timeslices[
+            [
+                "ProcessName",
+                "RegionName",
+                "Time",
+                "ObjSort",
+                "month",
+                "day",
+                "hour",
+                "UtilizationFactor",
+                "MinimumServiceFactor",
+            ]
+        ]
+
+        return technodata_timeslices
 
     def convert_oil_technodata(self):
         """
@@ -512,17 +761,12 @@ class Transformer:
         )
 
         oil_renamed["Fuel"] = "crude_oil"
-        oil_renamed[
-            "efficiency"
-        ] = 90.6  # https://iea-etsap.org/E-TechDS/PDF/P04_Oil%20Ref_KV_Apr2014_GSOK.pdf
+        oil_renamed["efficiency"] = 1
         oil_renamed["ScalingSize"] = 1
-        oil_renamed[
-            "UtilizationFactor"
-        ] = 0.824  # https://iea-etsap.org/E-TechDS/PDF/P04_Oil%20Ref_KV_Apr2014_GSOK.pdf
-        oil_renamed["fix_par"] = 1
+        oil_renamed["UtilizationFactor"] = 1
+        oil_renamed["fix_par"] = 0
 
         oil_renamed = oil_renamed.apply(pd.to_numeric, errors="ignore")
-        # oil_renamed["cap_par"] *= 1 / (8600 * 0.0036)
         oil_renamed["cap_par"] *= 0.001 / (0.00000611 * 365)
         oil_renamed["var_par"] = (oil_renamed["var_par"] + 9) / 6.11
 
@@ -542,9 +786,106 @@ class Transformer:
 
         return oil_renamed
 
-    def get_comm_in(self, technodata):
+    def get_power_comm_in(self, technodata):
+        from src.defaults import technology_converter
+
+        power_types = technodata[technodata.ProcessName != "Unit"][
+            ["ProcessName", "efficiency"]
+        ].drop_duplicates()
+
+        power_types["CommIn"] = 100 / power_types["efficiency"]
+
+        power_types = power_types.drop(columns="efficiency")
+
+        power_types["fuels"] = power_types["ProcessName"].map(plant_fuels)
+        power_types = power_types.merge(
+            technodata[["ProcessName", "Time"]],
+            left_on="ProcessName",
+            right_on="ProcessName",
+        )
+
+        comm_in = power_types.pivot(
+            index=["ProcessName", "Time"], columns="fuels", values="CommIn"
+        ).reset_index()
+
+        comm_in.insert(0, "RegionName", self.folder)
+        # comm_in.insert(1, "Time", 2020)
+        comm_in.insert(2, "Level", "fixed")
+        comm_in.insert(3, "electricity", 0)
+        comm_in["CO2f"] = 0
+
+        units_row = pd.DataFrame.from_dict(units, orient="columns")
+        comm_in = units_row.append(comm_in)
+
+        comm_in = comm_in.fillna(0)
+        return comm_in
+
+    def get_power_comm_in_muse(self, technodata):
         """
-        Generates the CommIn dataframe for MUSE from Table7 in the starter kits.
+        Generates the power sector CommIn dataframe for MUSE from Table7 and
+        Legacy data
+        """
+        from src.defaults import technology_converter
+
+        power_types = technodata[technodata.ProcessName != "Unit"][
+            ["ProcessName", "Fuel"]
+        ].drop_duplicates()
+
+        example_technoeconomic = pd.read_csv(
+            "/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/external/example_model/Techno_Economic.csv"
+        )
+        example_technoeconomic = example_technoeconomic.iloc[1:]
+        example_technoeconomic = example_technoeconomic.apply(
+            pd.to_numeric, errors="ignore"
+        )
+        africa_technoeconomic = example_technoeconomic[
+            (example_technoeconomic.RegionName == "OAFR")
+            & (example_technoeconomic.Time <= 2050)
+        ]
+        africa_technoeconomic["CommIn"] = 1 / (
+            africa_technoeconomic.GrossEfficiency / 100
+        )
+
+        power_types = technodata[technodata.ProcessName != "Unit"][
+            ["ProcessName", "Fuel"]
+        ].drop_duplicates()
+
+        technodata = technodata.reset_index()
+        power_types["ExampleTechs"] = power_types["ProcessName"].map(
+            technology_converter
+        )
+
+        power_types = power_types.merge(
+            africa_technoeconomic[["ProcessName", "CommIn", "Time"]],
+            left_on="ExampleTechs",
+            right_on="ProcessName",
+        )
+
+        power_types = power_types.drop(columns=["ProcessName_y", "ExampleTechs"])
+        power_types = power_types.rename(
+            columns={"ProcessName_x": "ProcessName", "CommIn": "value"}
+        )
+        power_types = power_types.drop_duplicates()
+
+        comm_in = power_types.pivot(
+            index=["ProcessName", "Time"], columns="Fuel", values="value"
+        ).reset_index()
+
+        comm_in.insert(0, "RegionName", self.folder)
+        # comm_in.insert(1, "Time", 2020)
+        comm_in.insert(2, "Level", "fixed")
+        comm_in.insert(3, "electricity", 0)
+        comm_in["CO2f"] = 0
+
+        units_row = pd.DataFrame.from_dict(units, orient="columns")
+        comm_in = units_row.append(comm_in)
+        comm_in = comm_in.fillna(0)
+
+        return comm_in
+
+    def get_oil_comm_in(self, technodata):
+        """
+        Generates the oil CommIn dataframe for MUSE from Table7 in the starter kits.
         """
 
         logger = logging.getLogger(__name__)
@@ -639,6 +980,57 @@ class Transformer:
 
         return comm_out
 
+    def generate_preset(self):
+        preset_files = {}
+        for _, row in self.electricity_demand.iterrows():
+            data = {
+                "RegionName": [row.RegionName] * 8,
+                "ProcessName": ["electricity_demand"] * 8,
+                "Timeslice": list(range(1, 9)),
+                "electricity": [row.demand / 8] * 8,
+                "gas": [0] * 8,
+                "heat": [0] * 8,
+                "CO2f": [0] * 8,
+                "wind": [0] * 8,
+            }
+            preset_files["Electricity" + str(row.year) + "Consumption"] = (
+                pd.DataFrame(data).reset_index().rename(columns={"index": ""})
+            )
+        return preset_files
+
+    def modify_max_capacities(self, technodata):
+
+        data = []
+        for _, row_demand in self.electricity_demand.iterrows():
+            for _, row_capacity in self.maximum_capacity.iterrows():
+                row_dict = {}
+                row_dict["ProcessName"] = row_capacity.technology
+                row_dict["Time"] = int(row_demand.year)
+                row_dict["TotalCapacityLimit"] = (
+                    row_demand.demand * row_capacity.maximum_capacity_proportion
+                )
+                data.append(row_dict)
+
+        capacity_limits = pd.DataFrame(data)
+
+        updated_techno = pd.merge(
+            capacity_limits, technodata, on=["ProcessName", "Time"], how="right"
+        )
+        updated_techno.TotalCapacityLimit_x.fillna(
+            updated_techno.TotalCapacityLimit_y, inplace=True
+        )
+        del updated_techno["TotalCapacityLimit_y"]
+        updated_techno = updated_techno.rename(
+            columns={"TotalCapacityLimit_x": "TotalCapacityLimit"}
+        )
+
+        updated_techno = updated_techno.reindex(technodata.columns, axis=1)
+        updated_techno["Time"].iloc[1:] = (
+            pd.to_numeric(updated_techno["Time"].iloc[1:], errors="ignore")
+        ).astype(int)
+
+        return updated_techno
+
     def _calculate_oil_outputs(self, comm_out):
         raw_oil_technodata = self.raw_tables["Table5"]
         output_ratio = raw_oil_technodata[
@@ -671,10 +1063,10 @@ class Transformer:
         backfilled_projected_technoeconomic = projected_technoeconomic.groupby(
             ["ProcessName"]
         ).apply(lambda group: group.fillna(method="bfill"))
-        forwardfilled_projected_technoeconomic = backfilled_projected_technoeconomic.groupby(
-            ["ProcessName"]
-        ).apply(
-            lambda group: group.fillna(method="ffill")
+        forwardfilled_projected_technoeconomic = (
+            backfilled_projected_technoeconomic.groupby(["ProcessName"]).apply(
+                lambda group: group.fillna(method="ffill")
+            )
         )
         return forwardfilled_projected_technoeconomic
 
@@ -687,15 +1079,15 @@ class Transformer:
         technoeconomic_data_wide["Level"] = "fixed"
         technoeconomic_data_wide["cap_exp"] = 1
         technoeconomic_data_wide["fix_exp"] = 1
-        technoeconomic_data_wide["var_par"] = 1
+        technoeconomic_data_wide["var_par"] = 0.00000317
         technoeconomic_data_wide["var_exp"] = 1
         technoeconomic_data_wide["Type"] = fuel_type
         technoeconomic_data_wide["EndUse"] = end_use
         technoeconomic_data_wide["Agent2"] = 1
         technoeconomic_data_wide["InterestRate"] = 0.1
-        technoeconomic_data_wide["MaxCapacityAddition"] = 500
-        technoeconomic_data_wide["MaxCapacityGrowth"] = 0.05
-        technoeconomic_data_wide["TotalCapacityLimit"] = 200000
+        technoeconomic_data_wide["MaxCapacityAddition"] = 10
+        technoeconomic_data_wide["MaxCapacityGrowth"] = 5
+        technoeconomic_data_wide["TotalCapacityLimit"] = 10000
 
         return technoeconomic_data_wide
 
@@ -717,4 +1109,3 @@ class Transformer:
                     size /= 1000
             plant_sizes[plant] = size
         return plant_sizes
-

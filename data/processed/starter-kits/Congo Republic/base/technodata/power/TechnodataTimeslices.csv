@@ -1,0 +1,865 @@
+ProcessName,RegionName,Time,ObjSort,month,day,hour,UtilizationFactor,MinimumServiceFactor
+Biomass Power Plant,Congo Republic,2015,upper,winter,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2015,upper,winter,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2015,upper,spring,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2015,upper,spring,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2015,upper,summer,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2015,upper,summer,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2015,upper,autumn,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2015,upper,autumn,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2020,upper,winter,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2020,upper,winter,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2020,upper,spring,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2020,upper,spring,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2020,upper,summer,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2020,upper,summer,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2020,upper,autumn,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2020,upper,autumn,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2025,upper,winter,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2025,upper,winter,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2025,upper,spring,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2025,upper,spring,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2025,upper,summer,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2025,upper,summer,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2025,upper,autumn,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2025,upper,autumn,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2030,upper,winter,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2030,upper,winter,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2030,upper,spring,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2030,upper,spring,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2030,upper,summer,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2030,upper,summer,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2030,upper,autumn,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2030,upper,autumn,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2040,upper,winter,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2040,upper,winter,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2040,upper,spring,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2040,upper,spring,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2040,upper,summer,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2040,upper,summer,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2040,upper,autumn,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2040,upper,autumn,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2050,upper,winter,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2050,upper,winter,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2050,upper,spring,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2050,upper,spring,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2050,upper,summer,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2050,upper,summer,all-week,day,0.5,0
+Biomass Power Plant,Congo Republic,2050,upper,autumn,all-week,night,0.5,0
+Biomass Power Plant,Congo Republic,2050,upper,autumn,all-week,day,0.5,0
+CSP with Storage,Congo Republic,2015,upper,winter,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2015,upper,winter,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2015,upper,spring,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2015,upper,spring,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2015,upper,summer,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2015,upper,summer,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2015,upper,autumn,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2015,upper,autumn,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2020,upper,winter,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2020,upper,winter,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2020,upper,spring,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2020,upper,spring,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2020,upper,summer,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2020,upper,summer,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2020,upper,autumn,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2020,upper,autumn,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2025,upper,winter,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2025,upper,winter,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2025,upper,spring,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2025,upper,spring,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2025,upper,summer,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2025,upper,summer,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2025,upper,autumn,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2025,upper,autumn,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2030,upper,winter,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2030,upper,winter,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2030,upper,spring,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2030,upper,spring,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2030,upper,summer,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2030,upper,summer,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2030,upper,autumn,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2030,upper,autumn,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2040,upper,winter,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2040,upper,winter,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2040,upper,spring,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2040,upper,spring,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2040,upper,summer,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2040,upper,summer,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2040,upper,autumn,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2040,upper,autumn,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2050,upper,winter,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2050,upper,winter,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2050,upper,spring,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2050,upper,spring,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2050,upper,summer,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2050,upper,summer,all-week,day,0.452,0
+CSP with Storage,Congo Republic,2050,upper,autumn,all-week,night,0.075,0
+CSP with Storage,Congo Republic,2050,upper,autumn,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2015,upper,winter,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2015,upper,winter,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2015,upper,spring,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2015,upper,spring,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2015,upper,summer,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2015,upper,summer,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2015,upper,autumn,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2015,upper,autumn,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2020,upper,winter,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2020,upper,winter,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2020,upper,spring,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2020,upper,spring,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2020,upper,summer,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2020,upper,summer,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2020,upper,autumn,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2020,upper,autumn,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2025,upper,winter,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2025,upper,winter,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2025,upper,spring,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2025,upper,spring,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2025,upper,summer,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2025,upper,summer,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2025,upper,autumn,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2025,upper,autumn,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2030,upper,winter,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2030,upper,winter,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2030,upper,spring,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2030,upper,spring,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2030,upper,summer,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2030,upper,summer,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2030,upper,autumn,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2030,upper,autumn,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2040,upper,winter,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2040,upper,winter,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2040,upper,spring,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2040,upper,spring,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2040,upper,summer,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2040,upper,summer,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2040,upper,autumn,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2040,upper,autumn,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2050,upper,winter,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2050,upper,winter,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2050,upper,spring,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2050,upper,spring,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2050,upper,summer,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2050,upper,summer,all-week,day,0.452,0
+CSP without Storage,Congo Republic,2050,upper,autumn,all-week,night,0.0,0
+CSP without Storage,Congo Republic,2050,upper,autumn,all-week,day,0.452,0
+Coal Power Plant,Congo Republic,2015,upper,winter,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2015,upper,winter,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2015,upper,spring,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2015,upper,spring,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2015,upper,summer,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2015,upper,summer,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2015,upper,autumn,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2015,upper,autumn,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2020,upper,winter,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2020,upper,winter,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2020,upper,spring,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2020,upper,spring,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2020,upper,summer,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2020,upper,summer,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2020,upper,autumn,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2020,upper,autumn,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2025,upper,winter,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2025,upper,winter,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2025,upper,spring,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2025,upper,spring,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2025,upper,summer,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2025,upper,summer,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2025,upper,autumn,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2025,upper,autumn,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2030,upper,winter,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2030,upper,winter,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2030,upper,spring,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2030,upper,spring,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2030,upper,summer,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2030,upper,summer,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2030,upper,autumn,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2030,upper,autumn,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2040,upper,winter,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2040,upper,winter,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2040,upper,spring,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2040,upper,spring,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2040,upper,summer,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2040,upper,summer,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2040,upper,autumn,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2040,upper,autumn,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2050,upper,winter,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2050,upper,winter,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2050,upper,spring,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2050,upper,spring,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2050,upper,summer,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2050,upper,summer,all-week,day,0.85,0
+Coal Power Plant,Congo Republic,2050,upper,autumn,all-week,night,0.85,0
+Coal Power Plant,Congo Republic,2050,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2015,upper,winter,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2015,upper,winter,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2015,upper,spring,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2015,upper,spring,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2015,upper,summer,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2015,upper,summer,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2015,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2015,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2020,upper,winter,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2020,upper,winter,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2020,upper,spring,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2020,upper,spring,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2020,upper,summer,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2020,upper,summer,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2020,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2020,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2025,upper,winter,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2025,upper,winter,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2025,upper,spring,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2025,upper,spring,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2025,upper,summer,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2025,upper,summer,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2025,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2025,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2030,upper,winter,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2030,upper,winter,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2030,upper,spring,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2030,upper,spring,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2030,upper,summer,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2030,upper,summer,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2030,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2030,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2040,upper,winter,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2040,upper,winter,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2040,upper,spring,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2040,upper,spring,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2040,upper,summer,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2040,upper,summer,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2040,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2040,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2050,upper,winter,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2050,upper,winter,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2050,upper,spring,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2050,upper,spring,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2050,upper,summer,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2050,upper,summer,all-week,day,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2050,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (CCGT),Congo Republic,2050,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2015,upper,winter,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2015,upper,winter,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2015,upper,spring,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2015,upper,spring,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2015,upper,summer,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2015,upper,summer,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2015,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2015,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2020,upper,winter,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2020,upper,winter,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2020,upper,spring,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2020,upper,spring,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2020,upper,summer,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2020,upper,summer,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2020,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2020,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2025,upper,winter,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2025,upper,winter,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2025,upper,spring,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2025,upper,spring,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2025,upper,summer,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2025,upper,summer,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2025,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2025,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2030,upper,winter,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2030,upper,winter,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2030,upper,spring,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2030,upper,spring,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2030,upper,summer,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2030,upper,summer,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2030,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2030,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2040,upper,winter,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2040,upper,winter,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2040,upper,spring,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2040,upper,spring,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2040,upper,summer,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2040,upper,summer,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2040,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2040,upper,autumn,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2050,upper,winter,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2050,upper,winter,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2050,upper,spring,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2050,upper,spring,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2050,upper,summer,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2050,upper,summer,all-week,day,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2050,upper,autumn,all-week,night,0.85,0
+Gas Power Plant (SCGT),Congo Republic,2050,upper,autumn,all-week,day,0.85,0
+Geothermal Power Plant,Congo Republic,2015,upper,winter,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2015,upper,winter,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2015,upper,spring,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2015,upper,spring,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2015,upper,summer,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2015,upper,summer,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2015,upper,autumn,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2015,upper,autumn,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2020,upper,winter,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2020,upper,winter,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2020,upper,spring,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2020,upper,spring,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2020,upper,summer,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2020,upper,summer,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2020,upper,autumn,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2020,upper,autumn,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2025,upper,winter,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2025,upper,winter,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2025,upper,spring,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2025,upper,spring,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2025,upper,summer,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2025,upper,summer,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2025,upper,autumn,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2025,upper,autumn,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2030,upper,winter,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2030,upper,winter,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2030,upper,spring,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2030,upper,spring,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2030,upper,summer,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2030,upper,summer,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2030,upper,autumn,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2030,upper,autumn,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2040,upper,winter,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2040,upper,winter,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2040,upper,spring,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2040,upper,spring,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2040,upper,summer,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2040,upper,summer,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2040,upper,autumn,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2040,upper,autumn,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2050,upper,winter,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2050,upper,winter,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2050,upper,spring,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2050,upper,spring,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2050,upper,summer,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2050,upper,summer,all-week,day,0.79,0
+Geothermal Power Plant,Congo Republic,2050,upper,autumn,all-week,night,0.79,0
+Geothermal Power Plant,Congo Republic,2050,upper,autumn,all-week,day,0.79,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2015,upper,winter,all-week,night,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2015,upper,winter,all-week,day,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2015,upper,spring,all-week,night,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2015,upper,spring,all-week,day,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2015,upper,summer,all-week,night,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2015,upper,summer,all-week,day,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2015,upper,autumn,all-week,night,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2015,upper,autumn,all-week,day,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2020,upper,winter,all-week,night,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2020,upper,winter,all-week,day,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2020,upper,spring,all-week,night,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2020,upper,spring,all-week,day,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2020,upper,summer,all-week,night,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2020,upper,summer,all-week,day,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2020,upper,autumn,all-week,night,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2020,upper,autumn,all-week,day,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2025,upper,winter,all-week,night,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2025,upper,winter,all-week,day,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2025,upper,spring,all-week,night,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2025,upper,spring,all-week,day,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2025,upper,summer,all-week,night,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2025,upper,summer,all-week,day,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2025,upper,autumn,all-week,night,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2025,upper,autumn,all-week,day,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2030,upper,winter,all-week,night,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2030,upper,winter,all-week,day,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2030,upper,spring,all-week,night,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2030,upper,spring,all-week,day,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2030,upper,summer,all-week,night,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2030,upper,summer,all-week,day,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2030,upper,autumn,all-week,night,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2030,upper,autumn,all-week,day,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2040,upper,winter,all-week,night,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2040,upper,winter,all-week,day,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2040,upper,spring,all-week,night,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2040,upper,spring,all-week,day,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2040,upper,summer,all-week,night,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2040,upper,summer,all-week,day,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2040,upper,autumn,all-week,night,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2040,upper,autumn,all-week,day,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2050,upper,winter,all-week,night,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2050,upper,winter,all-week,day,0.396238763,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2050,upper,spring,all-week,night,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2050,upper,spring,all-week,day,0.672067048,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2050,upper,summer,all-week,night,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2050,upper,summer,all-week,day,0.290540363,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2050,upper,autumn,all-week,night,0.558448359,0
+Large Hydropower Plant (Dam) (>100MW),Congo Republic,2050,upper,autumn,all-week,day,0.558448359,0
+Light Fuel Oil Power Plant,Congo Republic,2015,upper,winter,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2015,upper,winter,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2015,upper,spring,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2015,upper,spring,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2015,upper,summer,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2015,upper,summer,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2015,upper,autumn,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2015,upper,autumn,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2020,upper,winter,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2020,upper,winter,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2020,upper,spring,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2020,upper,spring,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2020,upper,summer,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2020,upper,summer,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2020,upper,autumn,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2020,upper,autumn,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2025,upper,winter,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2025,upper,winter,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2025,upper,spring,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2025,upper,spring,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2025,upper,summer,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2025,upper,summer,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2025,upper,autumn,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2025,upper,autumn,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2030,upper,winter,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2030,upper,winter,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2030,upper,spring,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2030,upper,spring,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2030,upper,summer,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2030,upper,summer,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2030,upper,autumn,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2030,upper,autumn,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2040,upper,winter,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2040,upper,winter,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2040,upper,spring,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2040,upper,spring,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2040,upper,summer,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2040,upper,summer,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2040,upper,autumn,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2040,upper,autumn,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2050,upper,winter,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2050,upper,winter,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2050,upper,spring,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2050,upper,spring,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2050,upper,summer,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2050,upper,summer,all-week,day,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2050,upper,autumn,all-week,night,0.8,0
+Light Fuel Oil Power Plant,Congo Republic,2050,upper,autumn,all-week,day,0.8,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2015,upper,winter,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2015,upper,winter,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2015,upper,spring,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2015,upper,spring,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2015,upper,summer,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2015,upper,summer,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2015,upper,autumn,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2015,upper,autumn,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2020,upper,winter,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2020,upper,winter,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2020,upper,spring,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2020,upper,spring,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2020,upper,summer,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2020,upper,summer,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2020,upper,autumn,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2020,upper,autumn,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2025,upper,winter,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2025,upper,winter,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2025,upper,spring,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2025,upper,spring,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2025,upper,summer,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2025,upper,summer,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2025,upper,autumn,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2025,upper,autumn,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2030,upper,winter,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2030,upper,winter,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2030,upper,spring,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2030,upper,spring,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2030,upper,summer,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2030,upper,summer,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2030,upper,autumn,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2030,upper,autumn,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2040,upper,winter,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2040,upper,winter,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2040,upper,spring,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2040,upper,spring,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2040,upper,summer,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2040,upper,summer,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2040,upper,autumn,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2040,upper,autumn,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2050,upper,winter,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2050,upper,winter,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2050,upper,spring,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2050,upper,spring,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2050,upper,summer,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2050,upper,summer,all-week,day,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2050,upper,autumn,all-week,night,0.3,0
+Light Fuel Oil Standalone Generator (1kW),Congo Republic,2050,upper,autumn,all-week,day,0.3,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2015,upper,winter,all-week,night,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2015,upper,winter,all-week,day,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2015,upper,spring,all-week,night,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2015,upper,spring,all-week,day,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2015,upper,summer,all-week,night,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2015,upper,summer,all-week,day,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2015,upper,autumn,all-week,night,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2015,upper,autumn,all-week,day,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2020,upper,winter,all-week,night,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2020,upper,winter,all-week,day,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2020,upper,spring,all-week,night,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2020,upper,spring,all-week,day,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2020,upper,summer,all-week,night,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2020,upper,summer,all-week,day,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2020,upper,autumn,all-week,night,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2020,upper,autumn,all-week,day,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2025,upper,winter,all-week,night,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2025,upper,winter,all-week,day,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2025,upper,spring,all-week,night,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2025,upper,spring,all-week,day,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2025,upper,summer,all-week,night,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2025,upper,summer,all-week,day,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2025,upper,autumn,all-week,night,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2025,upper,autumn,all-week,day,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2030,upper,winter,all-week,night,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2030,upper,winter,all-week,day,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2030,upper,spring,all-week,night,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2030,upper,spring,all-week,day,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2030,upper,summer,all-week,night,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2030,upper,summer,all-week,day,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2030,upper,autumn,all-week,night,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2030,upper,autumn,all-week,day,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2040,upper,winter,all-week,night,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2040,upper,winter,all-week,day,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2040,upper,spring,all-week,night,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2040,upper,spring,all-week,day,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2040,upper,summer,all-week,night,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2040,upper,summer,all-week,day,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2040,upper,autumn,all-week,night,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2040,upper,autumn,all-week,day,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2050,upper,winter,all-week,night,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2050,upper,winter,all-week,day,0.396238763,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2050,upper,spring,all-week,night,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2050,upper,spring,all-week,day,0.672067048,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2050,upper,summer,all-week,night,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2050,upper,summer,all-week,day,0.290540363,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2050,upper,autumn,all-week,night,0.558448359,0
+Medium Hydropower Plant (10-100MW),Congo Republic,2050,upper,autumn,all-week,day,0.558448359,0
+Nuclear Power Plant,Congo Republic,2015,upper,winter,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2015,upper,winter,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2015,upper,spring,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2015,upper,spring,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2015,upper,summer,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2015,upper,summer,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2015,upper,autumn,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2015,upper,autumn,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2020,upper,winter,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2020,upper,winter,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2020,upper,spring,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2020,upper,spring,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2020,upper,summer,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2020,upper,summer,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2020,upper,autumn,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2020,upper,autumn,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2025,upper,winter,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2025,upper,winter,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2025,upper,spring,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2025,upper,spring,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2025,upper,summer,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2025,upper,summer,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2025,upper,autumn,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2025,upper,autumn,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2030,upper,winter,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2030,upper,winter,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2030,upper,spring,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2030,upper,spring,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2030,upper,summer,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2030,upper,summer,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2030,upper,autumn,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2030,upper,autumn,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2040,upper,winter,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2040,upper,winter,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2040,upper,spring,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2040,upper,spring,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2040,upper,summer,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2040,upper,summer,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2040,upper,autumn,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2040,upper,autumn,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2050,upper,winter,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2050,upper,winter,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2050,upper,spring,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2050,upper,spring,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2050,upper,summer,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2050,upper,summer,all-week,day,0.85,0
+Nuclear Power Plant,Congo Republic,2050,upper,autumn,all-week,night,0.85,0
+Nuclear Power Plant,Congo Republic,2050,upper,autumn,all-week,day,0.85,0
+Offshore Wind,Congo Republic,2015,upper,winter,all-week,night,0.286,0
+Offshore Wind,Congo Republic,2015,upper,winter,all-week,day,0.441,0
+Offshore Wind,Congo Republic,2015,upper,spring,all-week,night,0.326,0
+Offshore Wind,Congo Republic,2015,upper,spring,all-week,day,0.414,0
+Offshore Wind,Congo Republic,2015,upper,summer,all-week,night,0.667,0
+Offshore Wind,Congo Republic,2015,upper,summer,all-week,day,0.719,0
+Offshore Wind,Congo Republic,2015,upper,autumn,all-week,night,0.335,0
+Offshore Wind,Congo Republic,2015,upper,autumn,all-week,day,0.44,0
+Offshore Wind,Congo Republic,2020,upper,winter,all-week,night,0.286,0
+Offshore Wind,Congo Republic,2020,upper,winter,all-week,day,0.441,0
+Offshore Wind,Congo Republic,2020,upper,spring,all-week,night,0.326,0
+Offshore Wind,Congo Republic,2020,upper,spring,all-week,day,0.414,0
+Offshore Wind,Congo Republic,2020,upper,summer,all-week,night,0.667,0
+Offshore Wind,Congo Republic,2020,upper,summer,all-week,day,0.719,0
+Offshore Wind,Congo Republic,2020,upper,autumn,all-week,night,0.335,0
+Offshore Wind,Congo Republic,2020,upper,autumn,all-week,day,0.44,0
+Offshore Wind,Congo Republic,2025,upper,winter,all-week,night,0.286,0
+Offshore Wind,Congo Republic,2025,upper,winter,all-week,day,0.441,0
+Offshore Wind,Congo Republic,2025,upper,spring,all-week,night,0.326,0
+Offshore Wind,Congo Republic,2025,upper,spring,all-week,day,0.414,0
+Offshore Wind,Congo Republic,2025,upper,summer,all-week,night,0.667,0
+Offshore Wind,Congo Republic,2025,upper,summer,all-week,day,0.719,0
+Offshore Wind,Congo Republic,2025,upper,autumn,all-week,night,0.335,0
+Offshore Wind,Congo Republic,2025,upper,autumn,all-week,day,0.44,0
+Offshore Wind,Congo Republic,2030,upper,winter,all-week,night,0.286,0
+Offshore Wind,Congo Republic,2030,upper,winter,all-week,day,0.441,0
+Offshore Wind,Congo Republic,2030,upper,spring,all-week,night,0.326,0
+Offshore Wind,Congo Republic,2030,upper,spring,all-week,day,0.414,0
+Offshore Wind,Congo Republic,2030,upper,summer,all-week,night,0.667,0
+Offshore Wind,Congo Republic,2030,upper,summer,all-week,day,0.719,0
+Offshore Wind,Congo Republic,2030,upper,autumn,all-week,night,0.335,0
+Offshore Wind,Congo Republic,2030,upper,autumn,all-week,day,0.44,0
+Offshore Wind,Congo Republic,2040,upper,winter,all-week,night,0.286,0
+Offshore Wind,Congo Republic,2040,upper,winter,all-week,day,0.441,0
+Offshore Wind,Congo Republic,2040,upper,spring,all-week,night,0.326,0
+Offshore Wind,Congo Republic,2040,upper,spring,all-week,day,0.414,0
+Offshore Wind,Congo Republic,2040,upper,summer,all-week,night,0.667,0
+Offshore Wind,Congo Republic,2040,upper,summer,all-week,day,0.719,0
+Offshore Wind,Congo Republic,2040,upper,autumn,all-week,night,0.335,0
+Offshore Wind,Congo Republic,2040,upper,autumn,all-week,day,0.44,0
+Offshore Wind,Congo Republic,2050,upper,winter,all-week,night,0.286,0
+Offshore Wind,Congo Republic,2050,upper,winter,all-week,day,0.441,0
+Offshore Wind,Congo Republic,2050,upper,spring,all-week,night,0.326,0
+Offshore Wind,Congo Republic,2050,upper,spring,all-week,day,0.414,0
+Offshore Wind,Congo Republic,2050,upper,summer,all-week,night,0.667,0
+Offshore Wind,Congo Republic,2050,upper,summer,all-week,day,0.719,0
+Offshore Wind,Congo Republic,2050,upper,autumn,all-week,night,0.335,0
+Offshore Wind,Congo Republic,2050,upper,autumn,all-week,day,0.44,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2015,upper,winter,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2015,upper,winter,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2015,upper,spring,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2015,upper,spring,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2015,upper,summer,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2015,upper,summer,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2015,upper,autumn,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2015,upper,autumn,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2020,upper,winter,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2020,upper,winter,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2020,upper,spring,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2020,upper,spring,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2020,upper,summer,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2020,upper,summer,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2020,upper,autumn,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2020,upper,autumn,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2025,upper,winter,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2025,upper,winter,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2025,upper,spring,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2025,upper,spring,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2025,upper,summer,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2025,upper,summer,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2025,upper,autumn,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2025,upper,autumn,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2030,upper,winter,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2030,upper,winter,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2030,upper,spring,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2030,upper,spring,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2030,upper,summer,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2030,upper,summer,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2030,upper,autumn,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2030,upper,autumn,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2040,upper,winter,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2040,upper,winter,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2040,upper,spring,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2040,upper,spring,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2040,upper,summer,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2040,upper,summer,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2040,upper,autumn,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2040,upper,autumn,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2050,upper,winter,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2050,upper,winter,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2050,upper,spring,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2050,upper,spring,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2050,upper,summer,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2050,upper,summer,all-week,day,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2050,upper,autumn,all-week,night,0.8,0
+Oil Fired Gas Turbine (SCGT),Congo Republic,2050,upper,autumn,all-week,day,0.8,0
+Onshore Wind,Congo Republic,2015,upper,winter,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2015,upper,winter,all-week,day,0.214233025,0
+Onshore Wind,Congo Republic,2015,upper,spring,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2015,upper,spring,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2015,upper,summer,all-week,night,0.219770833,0
+Onshore Wind,Congo Republic,2015,upper,summer,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2015,upper,autumn,all-week,night,0.218094807,0
+Onshore Wind,Congo Republic,2015,upper,autumn,all-week,day,0.149673309,0
+Onshore Wind,Congo Republic,2020,upper,winter,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2020,upper,winter,all-week,day,0.214233025,0
+Onshore Wind,Congo Republic,2020,upper,spring,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2020,upper,spring,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2020,upper,summer,all-week,night,0.219770833,0
+Onshore Wind,Congo Republic,2020,upper,summer,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2020,upper,autumn,all-week,night,0.218094807,0
+Onshore Wind,Congo Republic,2020,upper,autumn,all-week,day,0.149673309,0
+Onshore Wind,Congo Republic,2025,upper,winter,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2025,upper,winter,all-week,day,0.214233025,0
+Onshore Wind,Congo Republic,2025,upper,spring,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2025,upper,spring,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2025,upper,summer,all-week,night,0.219770833,0
+Onshore Wind,Congo Republic,2025,upper,summer,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2025,upper,autumn,all-week,night,0.218094807,0
+Onshore Wind,Congo Republic,2025,upper,autumn,all-week,day,0.149673309,0
+Onshore Wind,Congo Republic,2030,upper,winter,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2030,upper,winter,all-week,day,0.214233025,0
+Onshore Wind,Congo Republic,2030,upper,spring,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2030,upper,spring,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2030,upper,summer,all-week,night,0.219770833,0
+Onshore Wind,Congo Republic,2030,upper,summer,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2030,upper,autumn,all-week,night,0.218094807,0
+Onshore Wind,Congo Republic,2030,upper,autumn,all-week,day,0.149673309,0
+Onshore Wind,Congo Republic,2040,upper,winter,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2040,upper,winter,all-week,day,0.214233025,0
+Onshore Wind,Congo Republic,2040,upper,spring,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2040,upper,spring,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2040,upper,summer,all-week,night,0.219770833,0
+Onshore Wind,Congo Republic,2040,upper,summer,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2040,upper,autumn,all-week,night,0.218094807,0
+Onshore Wind,Congo Republic,2040,upper,autumn,all-week,day,0.149673309,0
+Onshore Wind,Congo Republic,2050,upper,winter,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2050,upper,winter,all-week,day,0.214233025,0
+Onshore Wind,Congo Republic,2050,upper,spring,all-week,night,0.191144444,0
+Onshore Wind,Congo Republic,2050,upper,spring,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2050,upper,summer,all-week,night,0.219770833,0
+Onshore Wind,Congo Republic,2050,upper,summer,all-week,day,0.19665006,0
+Onshore Wind,Congo Republic,2050,upper,autumn,all-week,night,0.218094807,0
+Onshore Wind,Congo Republic,2050,upper,autumn,all-week,day,0.149673309,0
+Small Hydropower Plant (<10MW),Congo Republic,2015,upper,winter,all-week,night,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2015,upper,winter,all-week,day,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2015,upper,spring,all-week,night,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2015,upper,spring,all-week,day,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2015,upper,summer,all-week,night,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2015,upper,summer,all-week,day,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2015,upper,autumn,all-week,night,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2015,upper,autumn,all-week,day,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2020,upper,winter,all-week,night,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2020,upper,winter,all-week,day,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2020,upper,spring,all-week,night,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2020,upper,spring,all-week,day,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2020,upper,summer,all-week,night,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2020,upper,summer,all-week,day,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2020,upper,autumn,all-week,night,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2020,upper,autumn,all-week,day,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2025,upper,winter,all-week,night,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2025,upper,winter,all-week,day,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2025,upper,spring,all-week,night,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2025,upper,spring,all-week,day,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2025,upper,summer,all-week,night,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2025,upper,summer,all-week,day,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2025,upper,autumn,all-week,night,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2025,upper,autumn,all-week,day,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2030,upper,winter,all-week,night,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2030,upper,winter,all-week,day,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2030,upper,spring,all-week,night,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2030,upper,spring,all-week,day,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2030,upper,summer,all-week,night,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2030,upper,summer,all-week,day,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2030,upper,autumn,all-week,night,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2030,upper,autumn,all-week,day,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2040,upper,winter,all-week,night,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2040,upper,winter,all-week,day,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2040,upper,spring,all-week,night,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2040,upper,spring,all-week,day,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2040,upper,summer,all-week,night,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2040,upper,summer,all-week,day,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2040,upper,autumn,all-week,night,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2040,upper,autumn,all-week,day,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2050,upper,winter,all-week,night,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2050,upper,winter,all-week,day,0.396238763,0
+Small Hydropower Plant (<10MW),Congo Republic,2050,upper,spring,all-week,night,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2050,upper,spring,all-week,day,0.672067048,0
+Small Hydropower Plant (<10MW),Congo Republic,2050,upper,summer,all-week,night,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2050,upper,summer,all-week,day,0.290540363,0
+Small Hydropower Plant (<10MW),Congo Republic,2050,upper,autumn,all-week,night,0.558448359,0
+Small Hydropower Plant (<10MW),Congo Republic,2050,upper,autumn,all-week,day,0.558448359,0
+Solar PV (Distributed with Storage),Congo Republic,2015,upper,winter,all-week,night,0.055853395,0
+Solar PV (Distributed with Storage),Congo Republic,2015,upper,winter,all-week,day,0.33512037,0
+Solar PV (Distributed with Storage),Congo Republic,2015,upper,spring,all-week,night,0.05033635267,0
+Solar PV (Distributed with Storage),Congo Republic,2015,upper,spring,all-week,day,0.302018116,0
+Solar PV (Distributed with Storage),Congo Republic,2015,upper,summer,all-week,night,0.05153472217,0
+Solar PV (Distributed with Storage),Congo Republic,2015,upper,summer,all-week,day,0.309208333,0
+Solar PV (Distributed with Storage),Congo Republic,2015,upper,autumn,all-week,night,0.053114011,0
+Solar PV (Distributed with Storage),Congo Republic,2015,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Distributed with Storage),Congo Republic,2020,upper,winter,all-week,night,0.055853395,0
+Solar PV (Distributed with Storage),Congo Republic,2020,upper,winter,all-week,day,0.33512037,0
+Solar PV (Distributed with Storage),Congo Republic,2020,upper,spring,all-week,night,0.05033635267,0
+Solar PV (Distributed with Storage),Congo Republic,2020,upper,spring,all-week,day,0.302018116,0
+Solar PV (Distributed with Storage),Congo Republic,2020,upper,summer,all-week,night,0.05153472217,0
+Solar PV (Distributed with Storage),Congo Republic,2020,upper,summer,all-week,day,0.309208333,0
+Solar PV (Distributed with Storage),Congo Republic,2020,upper,autumn,all-week,night,0.053114011,0
+Solar PV (Distributed with Storage),Congo Republic,2020,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Distributed with Storage),Congo Republic,2025,upper,winter,all-week,night,0.055853395,0
+Solar PV (Distributed with Storage),Congo Republic,2025,upper,winter,all-week,day,0.33512037,0
+Solar PV (Distributed with Storage),Congo Republic,2025,upper,spring,all-week,night,0.05033635267,0
+Solar PV (Distributed with Storage),Congo Republic,2025,upper,spring,all-week,day,0.302018116,0
+Solar PV (Distributed with Storage),Congo Republic,2025,upper,summer,all-week,night,0.05153472217,0
+Solar PV (Distributed with Storage),Congo Republic,2025,upper,summer,all-week,day,0.309208333,0
+Solar PV (Distributed with Storage),Congo Republic,2025,upper,autumn,all-week,night,0.053114011,0
+Solar PV (Distributed with Storage),Congo Republic,2025,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Distributed with Storage),Congo Republic,2030,upper,winter,all-week,night,0.055853395,0
+Solar PV (Distributed with Storage),Congo Republic,2030,upper,winter,all-week,day,0.33512037,0
+Solar PV (Distributed with Storage),Congo Republic,2030,upper,spring,all-week,night,0.05033635267,0
+Solar PV (Distributed with Storage),Congo Republic,2030,upper,spring,all-week,day,0.302018116,0
+Solar PV (Distributed with Storage),Congo Republic,2030,upper,summer,all-week,night,0.05153472217,0
+Solar PV (Distributed with Storage),Congo Republic,2030,upper,summer,all-week,day,0.309208333,0
+Solar PV (Distributed with Storage),Congo Republic,2030,upper,autumn,all-week,night,0.053114011,0
+Solar PV (Distributed with Storage),Congo Republic,2030,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Distributed with Storage),Congo Republic,2040,upper,winter,all-week,night,0.055853395,0
+Solar PV (Distributed with Storage),Congo Republic,2040,upper,winter,all-week,day,0.33512037,0
+Solar PV (Distributed with Storage),Congo Republic,2040,upper,spring,all-week,night,0.05033635267,0
+Solar PV (Distributed with Storage),Congo Republic,2040,upper,spring,all-week,day,0.302018116,0
+Solar PV (Distributed with Storage),Congo Republic,2040,upper,summer,all-week,night,0.05153472217,0
+Solar PV (Distributed with Storage),Congo Republic,2040,upper,summer,all-week,day,0.309208333,0
+Solar PV (Distributed with Storage),Congo Republic,2040,upper,autumn,all-week,night,0.053114011,0
+Solar PV (Distributed with Storage),Congo Republic,2040,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Distributed with Storage),Congo Republic,2050,upper,winter,all-week,night,0.055853395,0
+Solar PV (Distributed with Storage),Congo Republic,2050,upper,winter,all-week,day,0.33512037,0
+Solar PV (Distributed with Storage),Congo Republic,2050,upper,spring,all-week,night,0.05033635267,0
+Solar PV (Distributed with Storage),Congo Republic,2050,upper,spring,all-week,day,0.302018116,0
+Solar PV (Distributed with Storage),Congo Republic,2050,upper,summer,all-week,night,0.05153472217,0
+Solar PV (Distributed with Storage),Congo Republic,2050,upper,summer,all-week,day,0.309208333,0
+Solar PV (Distributed with Storage),Congo Republic,2050,upper,autumn,all-week,night,0.053114011,0
+Solar PV (Distributed with Storage),Congo Republic,2050,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Utility),Congo Republic,2015,upper,winter,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2015,upper,winter,all-week,day,0.33512037,0
+Solar PV (Utility),Congo Republic,2015,upper,spring,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2015,upper,spring,all-week,day,0.302018116,0
+Solar PV (Utility),Congo Republic,2015,upper,summer,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2015,upper,summer,all-week,day,0.309208333,0
+Solar PV (Utility),Congo Republic,2015,upper,autumn,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2015,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Utility),Congo Republic,2020,upper,winter,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2020,upper,winter,all-week,day,0.33512037,0
+Solar PV (Utility),Congo Republic,2020,upper,spring,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2020,upper,spring,all-week,day,0.302018116,0
+Solar PV (Utility),Congo Republic,2020,upper,summer,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2020,upper,summer,all-week,day,0.309208333,0
+Solar PV (Utility),Congo Republic,2020,upper,autumn,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2020,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Utility),Congo Republic,2025,upper,winter,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2025,upper,winter,all-week,day,0.33512037,0
+Solar PV (Utility),Congo Republic,2025,upper,spring,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2025,upper,spring,all-week,day,0.302018116,0
+Solar PV (Utility),Congo Republic,2025,upper,summer,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2025,upper,summer,all-week,day,0.309208333,0
+Solar PV (Utility),Congo Republic,2025,upper,autumn,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2025,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Utility),Congo Republic,2030,upper,winter,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2030,upper,winter,all-week,day,0.33512037,0
+Solar PV (Utility),Congo Republic,2030,upper,spring,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2030,upper,spring,all-week,day,0.302018116,0
+Solar PV (Utility),Congo Republic,2030,upper,summer,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2030,upper,summer,all-week,day,0.309208333,0
+Solar PV (Utility),Congo Republic,2030,upper,autumn,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2030,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Utility),Congo Republic,2040,upper,winter,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2040,upper,winter,all-week,day,0.33512037,0
+Solar PV (Utility),Congo Republic,2040,upper,spring,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2040,upper,spring,all-week,day,0.302018116,0
+Solar PV (Utility),Congo Republic,2040,upper,summer,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2040,upper,summer,all-week,day,0.309208333,0
+Solar PV (Utility),Congo Republic,2040,upper,autumn,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2040,upper,autumn,all-week,day,0.318684066,0
+Solar PV (Utility),Congo Republic,2050,upper,winter,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2050,upper,winter,all-week,day,0.33512037,0
+Solar PV (Utility),Congo Republic,2050,upper,spring,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2050,upper,spring,all-week,day,0.302018116,0
+Solar PV (Utility),Congo Republic,2050,upper,summer,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2050,upper,summer,all-week,day,0.309208333,0
+Solar PV (Utility),Congo Republic,2050,upper,autumn,all-week,night,0.0,0
+Solar PV (Utility),Congo Republic,2050,upper,autumn,all-week,day,0.318684066,0

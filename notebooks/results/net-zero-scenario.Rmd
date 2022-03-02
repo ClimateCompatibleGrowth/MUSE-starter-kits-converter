@@ -1,0 +1,98 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+
+prices = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/net-zero/Results/MCAPrices.csv")
+prices
+```
+
+```{r}
+prices_grouped = prices %>% group_by(commodity, year) %>% summarise(price = mean(prices))
+prices_grouped
+```
+
+```{r}
+prices_grouped %>% ggplot() + geom_line(aes(x=year, y=price, color=commodity)) + theme_bw()
+
+```
+
+```{r}
+
+capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/net-zero/Results/MCACapacity.csv")
+head(capacity)
+```
+
+
+```{r}
+capacity_summed = capacity %>% group_by(technology, sector, year, agent) %>% summarise(capacity=sum(capacity))
+head(capacity_summed)
+```
+
+```{r}
+ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, color=technology, linetype=agent)) + geom_line() + theme_classic()
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/net_zero-capacity_line_graph.pdf")
+
+```
+
+
+```{r}
+
+ggplot(data=filter(capacity_summed, sector=="power"), aes(x=year, y=capacity, fill=technology)) + geom_bar(stat='identity', colour="black") + facet_grid(cols=vars(agent)) + theme_classic()
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/net_zero-capacity.pdf")
+```
+
+
+
+
+
+```{r}
+metric_supply = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/net-zero/Results/MCAMetric_Supply.csv")
+metric_supply = filter(metric_supply, commodity=="electricity")
+metric_supply
+```
+```{r}
+metric_supply_summed = metric_supply %>% group_by(region, technology, year, agent, sector) %>% summarise(supply=sum(supply))
+metric_supply_summed
+```
+```{r}
+filter(metric_supply_summed, year<=2050) %>% ggplot(aes(x=year, y=supply, fill=technology)) + geom_bar(stat='identity', colour="black") + theme_classic()
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/net_zero-supply.pdf")
+```
+```{r}
+filter(metric_supply_summed, year<=2050) %>% ggplot(aes(x=year, y=supply, fill=technology)) + geom_area(colour="black") + theme_classic()
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/net_zero-geom_area-supply.pdf")
+```
+
+```{r}
+lcoe = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/starter-kits/Kenya/net-zero/Results/MCAMetric_Lcoe.csv")
+lcoe = lcoe %>% filter_if(~is.numeric(.), all_vars(!is.infinite(.)))
+head(lcoe)
+```
+```{r}
+lcoe_summed = lcoe %>% group_by(technology, sector, year, agent) %>% summarise(lcoe=mean(LCOE))
+
+head(lcoe_summed)
+```
+```{r}
+ggplot(data=filter(lcoe_summed, sector=="power"), aes(x=year, y=lcoe, color=technology)) + geom_line() + theme_classic()
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/net_zero-lcoe_line_graph.pdf")
+```
+
+
+
+```{r}
+ggplot(data=filter(lcoe_summed, sector=="power", year==2030), aes(x=reorder(technology, lcoe), y=lcoe, fill=technology)) + geom_col() + theme_classic() + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```

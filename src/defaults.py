@@ -44,3 +44,24 @@ units = {
     "electricity": ["PJ/PJ"],
     "heat": ["PJ/PJ"],
 }
+
+technology_converter = {
+    "Biomass Power Plant": "BIO_BIO",
+    "CSP with Storage": "REW_CSP_NST",
+    "CSP without Storage": "REW_CSP_NST",
+    "Coal Power Plant": "COA_SUB_HC",
+    "Gas Power Plant (CCGT)": "GAS_GT",
+    "Gas Power Plant (SCGT)": "GAS_GT",
+    "Geothermal Power Plant": "REW_GEO",
+    "Large Hydropower Plant (Dam) (>100MW)": "REW_HYD_LG",
+    "Light Fuel Oil Power Plant": "OIL_ST",
+    "Light Fuel Oil Standalone Generator (1kW)": "OIL_ST",
+    "Medium Hydropower Plant (10-100MW)": "REW_HYD_SM",
+    "Nuclear Power Plant": "NUK_LWR",
+    "Offshore Wind": "REW_WND_OFF",
+    "Oil Fired Gas Turbine (SCGT)": "OIL_ST",
+    "Onshore Wind": "REW_WND_ON",
+    "Small Hydropower Plant (<10MW)": "REW_HYD_SM",
+    "Solar PV (Distributed with Storage)": "REW_PV_GND",
+    "Solar PV (Utility)": "REW_PV_GND",
+}

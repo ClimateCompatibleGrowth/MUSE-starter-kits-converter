@@ -1,0 +1,173 @@
+---
+title: "scenario-comparisons"
+author: "Alex Kell"
+date: "06/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+Base Scenario
+
+```{r}
+metric_supply = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/base/Results/MCAMetric_Supply.csv")
+metric_supply = filter(metric_supply, commodity=="electricity")
+metric_supply_summed = metric_supply %>% group_by(technology, year,  sector) %>% summarise(generated=sum(supply))
+metric_supply_summed
+```
+
+```{r}
+osemosys_generation = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/kenya-supply-output.csv")
+head(osemosys_generation)
+```
+
+```{r}
+base_muse = metric_supply_summed %>% select(technology, year, generated)
+base_muse$Model = "MUSE"
+base_osemosys = osemosys_generation %>% select(technology, year, generated)
+base_osemosys$Model = "OSeMOSYS"
+
+base = rbind(base_muse, base_osemosys)
+base
+```
+
+```{r}
+base %>% ggplot(aes(x=year, y=generated, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic() + ggtitle("Base scenario - Supply")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/base.pdf", dpi=1000)
+```
+
+```{r}
+base_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/base/Results/MCACapacity.csv")
+capacity_summed = base_capacity %>% group_by(technology, year) %>% summarise(capacity=sum(capacity))
+capacity_summed$Model = "MUSE"
+capacity_summed
+```
+
+```{r}
+get_capacities = function(osemosys_capacity, muse_capacity){  
+  osemosys_capacity$Model = "OSeMOSYS"
+  osemosys_capacity = osemosys_capacity %>% rename(capacity = generated)
+  osemosys_capacity = osemosys_capacity %>% select(technology, year, capacity, Model)
+  osemosys_capacity[is.na(osemosys_capacity)] <- 0
+  osemosys_capacity = osemosys_capacity %>% ungroup() %>% complete(technology, year, fill = list(capacity = 0))
+  osemosys_capacity$capacity = osemosys_capacity$capacity * 31.54
+  
+  muse_capacity = muse_capacity %>% filter(sector=="power") %>% group_by(technology, year) %>% summarise(capacity=sum(capacity)) %>% select(technology, year, capacity) %>% ungroup() %>% complete(technology, year, fill = list(capacity = 0))
+  
+  muse_capacity$Model = "MUSE"
+  
+  capacity = rbind(muse_capacity, osemosys_capacity)
+  return(capacity)
+}
+```
+
+```{r}
+osemosys_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/osemosys_capacity_base.csv")
+muse_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/base/Results/MCACapacity.csv")
+
+base_capacity = get_capacities(osemosys_capacity, muse_capacity)
+
+```
+
+```{r}
+base_capacity %>% ggplot(aes(x=year, y=capacity, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic() + ggtitle("Base scenario - Capacity")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/base_capacity.pdf", dpi=1000)
+```
+
+Fossil-fuel scenario
+
+```{r}
+fossil_supply = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/fossil-fuel/Results/MCAMetric_Supply.csv")
+fossil_supply = filter(fossil_supply, commodity=="electricity")
+fossil_supply_summed = fossil_supply %>% group_by(technology, year,  sector) %>% summarise(generated=sum(supply))
+fossil_supply_summed
+```
+
+```{r}
+fossil_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/fossil-fuel-kenya-supply-output.csv")
+fossil_osemosys[is.na(fossil_osemosys)] <- 0
+fossil_osemosys
+```
+
+```{r}
+fossil_muse = fossil_supply_summed %>% select(technology, year, generated)
+fossil_muse$Model = "MUSE"
+fossil_osemosys = fossil_osemosys %>% select(technology, year, generated)
+fossil_osemosys$Model = "OSeMOSYS"
+
+fossil = rbind(fossil_muse, fossil_osemosys)
+fossil
+```
+```{r}
+fossil %>% ggplot(aes(x=year, y=generated, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic()+ ggtitle("Fossil-fuel scenario - Supply")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/fossil.pdf", dpi=1000)
+
+```
+
+
+```{r}
+
+osemosys_ff_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/osemosys_capacity_fossil_fuel.csv")
+muse_ff_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/fossil-fuel/Results/MCACapacity.csv")
+
+fossil_capacity = get_capacities(osemosys_ff_capacity, muse_ff_capacity)
+
+```
+
+```{r}
+fossil_capacity %>% ggplot(aes(x=year, y=capacity, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic() + ggtitle("Fossil fuel scenario - Capacity")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/fossil_capacity.pdf", dpi=1000)
+
+```
+Net zero
+
+
+```{r}
+net_zero_supply = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/net-zero/Results/MCAMetric_Supply.csv")
+net_zero_supply = filter(net_zero_supply, commodity=="electricity")
+net_zero_supply_summed = net_zero_supply %>% group_by(technology, year, sector) %>% summarise(generated=sum(supply))
+```
+
+
+```{r}
+net_zero_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/net-zero-kenya-supply-output.csv")
+head(net_zero_osemosys)
+```
+
+```{r}
+net_zero_muse = net_zero_supply_summed %>% select(technology, year, generated)
+net_zero_muse$Model = "MUSE"
+net_zero_osemosys = net_zero_osemosys %>% select(technology, year, generated)%>% ungroup() %>% complete(technology, year, fill = list(generated = 0))
+net_zero_osemosys$Model = "OSeMOSYS"
+
+net_zero = rbind(net_zero_muse, net_zero_osemosys)
+```
+
+
+```{r}
+net_zero %>% ggplot(aes(x=year, y=generated, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic() + ggtitle("Net-zero scenario - Supply")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/net_zero.pdf", dpi=1000)
+```
+
+Net Zero - Capacity
+
+```{r}
+osemosys_nz_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/osemosys_capacity_net_zero.csv")
+
+muse_nz_capacity = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/scenarios/Kenya/net-zero/Results/MCACapacity.csv")
+
+net_zero_capacity = get_capacities(osemosys_nz_capacity, muse_nz_capacity)
+```
+
+```{r}
+net_zero_capacity %>% ggplot(aes(x=year, y=capacity, fill=technology)) + geom_area(colour="black") + facet_wrap(~Model) + theme_classic() + ggtitle("Net-zero scenario - Capacity")
+
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/comparison/net_zero_capacity.pdf", dpi=1000)
+```

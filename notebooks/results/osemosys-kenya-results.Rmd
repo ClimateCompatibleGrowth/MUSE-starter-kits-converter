@@ -1,0 +1,77 @@
+---
+title: "results-osemosys"
+author: "Alex Kell"
+date: "19/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+osemosys_generation = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/kenya-capacity-output.csv")
+head(osemosys_generation)
+```
+
+
+
+```{r}
+ggplot(data=osemosys_generation, aes(x=year, y=generated, fill=technology)) + geom_bar(stat='identity', colour="black")  + theme_classic()
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/osemosys-supply.pdf")
+
+```
+
+```{r}
+ggplot(data=osemosys_generation, aes(x=year, y=generated, fill=technology)) + geom_area(colour="black")  + theme_classic()
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/osemosys-geom_area-supply.pdf")
+
+
+```
+
+```{r}
+net_zero_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/net-zero-kenya-supply-output.csv")
+head(net_zero_osemosys)
+
+```
+
+```{r}
+ggplot(data=net_zero_osemosys, aes(x=year, y=generated, fill=technology)) + geom_bar(stat='identity', colour="black")  + theme_classic()
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/net_zero_osemosys-capacity.pdf")
+
+```
+```{r}
+ggplot(data=net_zero_osemosys, aes(x=year, y=generated, fill=technology)) + geom_area(color="black")  + theme_classic()
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/net_zero_osemosys-geom_area-capacity.pdf")
+
+```
+
+
+
+
+```{r}
+fossil_osemosys = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/fossil-fuel-kenya-capacity-output.csv")
+head(fossil_osemosys)
+
+```
+
+```{r}
+ggplot(data=fossil_osemosys, aes(x=year, y=generated, fill=technology)) + geom_bar(stat='identity', colour="black")  + theme_classic()
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil_osemosys-capacity.pdf")
+
+```
+
+
+```{r}
+ggplot(data=fossil_osemosys, aes(x=year, y=generated, fill=technology)) + geom_area(color="black")  + theme_classic()
+ggsave("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/reports/figures/fossil_osemosys-geom_area-capacity.pdf")
+
+```
+
+
+

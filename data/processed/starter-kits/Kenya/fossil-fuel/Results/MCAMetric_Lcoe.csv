@@ -1,0 +1,1585 @@
+,timeslice,region,technology,year,agent,category,sector,LCOE
+0,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,newcapa,power,0.00000000000
+1,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,newcapa,power,0.00000000000
+2,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,newcapa,power,0.00000000000
+3,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,newcapa,power,0.00000000000
+4,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,newcapa,power,0.00000000000
+5,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,newcapa,power,0.00000000000
+6,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,newcapa,power,0.00000000000
+7,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,newcapa,power,0.00000000000
+8,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,newcapa,power,0.00000000000
+9,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,newcapa,power,0.00000000000
+10,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,newcapa,power,0.00000000000
+11,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,newcapa,power,0.00000000000
+12,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,newcapa,power,0.00000000000
+13,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,newcapa,power,0.00000000000
+14,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,newcapa,power,0.00000000000
+15,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,newcapa,power,0.00000000000
+16,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,newcapa,power,0.00000000000
+17,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,newcapa,power,0.00000000000
+18,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,newcapa,power,0.00000000000
+19,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,newcapa,power,0.00000000000
+20,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,newcapa,power,0.00000000000
+21,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,newcapa,power,0.00000000000
+22,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,newcapa,power,0.00000000000
+23,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,newcapa,power,0.00000000000
+24,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,newcapa,power,0.00000000000
+25,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,newcapa,power,0.00000000000
+26,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,newcapa,power,0.00000000000
+27,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,newcapa,power,0.00000000000
+28,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,newcapa,power,0.00000000000
+29,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,newcapa,power,0.00000000000
+30,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,newcapa,power,0.00000000000
+31,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,newcapa,power,0.00000000000
+32,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,newcapa,power,0.00000000000
+33,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,newcapa,power,0.00000000000
+34,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,newcapa,power,0.00000000000
+35,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,newcapa,power,0.00000000000
+36,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,newcapa,power,0.00000000000
+37,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,newcapa,power,0.00000000000
+38,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,newcapa,power,0.00000000000
+39,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,newcapa,power,0.00000000000
+40,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,newcapa,power,0.00000000000
+41,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,newcapa,power,0.00000000000
+42,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,newcapa,power,0.00000000000
+43,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,newcapa,power,0.00000000000
+44,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,newcapa,power,0.00000000000
+45,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,newcapa,power,0.00000000000
+46,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,newcapa,power,0.00000000000
+47,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,newcapa,power,0.00000000000
+48,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,newcapa,power,0.00000000000
+49,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,newcapa,power,0.00000000000
+50,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,newcapa,power,0.00000000000
+51,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,newcapa,power,0.00000000000
+52,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,newcapa,power,0.00000000000
+53,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,newcapa,power,0.00000000000
+54,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,newcapa,power,0.00000000000
+55,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,newcapa,power,0.00000000000
+56,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,newcapa,power,0.00000000000
+57,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,newcapa,power,0.00000000000
+58,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,newcapa,power,0.00000000000
+59,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,newcapa,power,0.00000000000
+60,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,newcapa,power,0.00000000000
+61,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,newcapa,power,0.00000000000
+62,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,newcapa,power,0.00000000000
+63,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,newcapa,power,0.00000000000
+64,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,newcapa,power,0.00000000000
+65,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,newcapa,power,0.00000000000
+66,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,newcapa,power,0.00000000000
+67,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,newcapa,power,0.00000000000
+68,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,newcapa,power,0.00000000000
+69,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,newcapa,power,0.00000000000
+70,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,newcapa,power,0.00000000000
+71,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,newcapa,power,0.00000000000
+72,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,newcapa,power,0.00000000000
+73,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,newcapa,power,0.00000000000
+74,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,newcapa,power,0.00000000000
+75,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,newcapa,power,0.00000000000
+76,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,newcapa,power,0.00000000000
+77,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,newcapa,power,0.00000000000
+78,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,newcapa,power,0.00000000000
+79,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,newcapa,power,0.00000000000
+80,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,newcapa,power,0.00000000000
+81,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,newcapa,power,0.00000000000
+82,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,newcapa,power,0.00000000000
+83,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,newcapa,power,0.00000000000
+84,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,newcapa,power,0.00000000000
+85,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,newcapa,power,0.00000000000
+86,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,newcapa,power,0.00000000000
+87,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,newcapa,power,0.00000000000
+88,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,newcapa,power,0.00000000000
+89,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,newcapa,power,0.00000000000
+90,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,newcapa,power,0.00000000000
+91,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,newcapa,power,0.00000000000
+92,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,newcapa,power,0.00000000000
+93,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,newcapa,power,0.00000000000
+94,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,newcapa,power,0.00000000000
+95,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,newcapa,power,0.00000000000
+96,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,newcapa,power,0.00000000000
+97,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,newcapa,power,0.00000000000
+98,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,newcapa,power,0.00000000000
+99,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,newcapa,power,0.00000000000
+100,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,newcapa,power,0.00000000000
+101,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,newcapa,power,0.00000000000
+102,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,newcapa,power,0.00000000000
+103,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,newcapa,power,0.00000000000
+104,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,newcapa,power,0.00000000000
+105,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,newcapa,power,0.00000000000
+106,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,newcapa,power,0.00000000000
+107,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,newcapa,power,0.00000000000
+108,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,newcapa,power,0.00000000000
+109,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,newcapa,power,0.00000000000
+110,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,newcapa,power,0.00000000000
+111,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,newcapa,power,0.00000000000
+112,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,newcapa,power,0.00000000000
+113,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,newcapa,power,0.00000000000
+114,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,newcapa,power,0.00000000000
+115,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,newcapa,power,0.00000000000
+116,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,newcapa,power,0.00000000000
+117,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,newcapa,power,0.00000000000
+118,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,newcapa,power,0.00000000000
+119,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,newcapa,power,0.00000000000
+120,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,newcapa,power,0.00000000000
+121,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,newcapa,power,0.00000000000
+122,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,newcapa,power,0.00000000000
+123,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,newcapa,power,0.00000000000
+124,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,newcapa,power,0.00000000000
+125,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,newcapa,power,0.00000000000
+126,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,newcapa,power,0.00000000000
+127,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,newcapa,power,0.00000000000
+128,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,newcapa,power,0.00000000000
+129,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,newcapa,power,0.00000000000
+130,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,newcapa,power,0.00000000000
+131,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,newcapa,power,0.00000000000
+132,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,newcapa,power,0.00000000000
+133,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,newcapa,power,0.00000000000
+134,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,newcapa,power,0.00000000000
+135,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,newcapa,power,0.00000000000
+136,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,newcapa,power,0.00000000000
+137,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,newcapa,power,0.00000000000
+138,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,newcapa,power,0.00000000000
+139,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,newcapa,power,0.00000000000
+140,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,newcapa,power,0.00000000000
+141,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,newcapa,power,0.00000000000
+142,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,newcapa,power,0.00000000000
+143,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,newcapa,power,0.00000000000
+144,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,30.92978969271
+145,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,16.39317728021
+146,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,32.68385128475
+147,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,64.22237543858
+148,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,32.68385128475
+149,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,45.08157537243
+150,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,67.75299287797
+151,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,231.86786987833
+152,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,inf
+153,"('winter', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,0.00000000000
+154,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,56.22315854519
+155,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,32.40163857925
+156,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,64.60067923589
+157,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,80.03073097138
+158,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,64.60067923589
+159,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,60.88993090524
+160,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,133.91596451131
+161,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,458.29429259164
+162,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,inf
+163,"('winter', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,0.00000000000
+164,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,40.86566648323
+165,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,22.68170689447
+166,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,45.22159079728
+167,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,70.43229843266
+168,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,45.22159079728
+169,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,51.29149836651
+170,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,93.74348619968
+171,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,320.81391147999
+172,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,inf
+173,"('winter', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,0.00000000000
+174,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,30.74758719997
+175,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,16.27785924683
+176,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,32.45393625655
+177,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,64.55702800099
+178,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,32.45393625655
+179,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,45.23734497191
+180,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,67.27638343820
+181,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,230.23679183250
+182,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,inf
+183,"('winter', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,0.00000000000
+184,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,17.38469455573
+185,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,7.82033225681
+186,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,15.59176388469
+187,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,55.75669097797
+188,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,15.59176388469
+189,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,36.61589091182
+190,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,32.32142381553
+191,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,110.61207927710
+192,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,inf
+193,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,0.00000000000
+194,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.40050166369
+195,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,4.66577979349
+196,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,9.30238314073
+197,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,52.03628436714
+198,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,9.30238314073
+199,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,33.13679855104
+200,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,19.28365827095
+201,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,65.99354810239
+202,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,inf
+203,"('winter', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,0.00000000000
+204,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,47.59080518796
+205,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,26.93812379620
+206,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,53.70781089071
+207,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,74.03022406981
+208,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,53.70781089071
+209,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,55.13073825371
+210,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,111.33525754285
+211,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,381.01740228596
+212,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,inf
+213,"('winter', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,0.00000000000
+214,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,35.02828601983
+215,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,18.98716229738
+216,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,37.85560214538
+217,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,67.81562654329
+218,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,37.85560214538
+219,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,48.26333905540
+220,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,78.47393312964
+221,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,268.55763893468
+222,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,inf
+223,"('winter', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,0.00000000000
+224,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,17.72078048736
+225,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,8.03304487177
+226,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,16.01585910582
+227,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,55.36145863194
+228,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,16.01585910582
+229,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,36.46197281584
+230,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,33.20056506756
+231,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,113.62072299189
+232,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,inf
+233,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,0.00000000000
+234,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,15.61662627859
+235,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,6.70130170166
+236,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,13.36069963475
+237,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,50.94265868485
+238,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,13.36069963475
+239,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,33.27757105099
+240,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,27.69647045529
+241,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,94.78431914597
+242,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,inf
+243,"('winter', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,0.00000000000
+244,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,30.02833411629
+245,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,15.82263577615
+246,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,31.54633564949
+247,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,64.69065660357
+248,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,31.54633564949
+249,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,45.13836911569
+250,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,65.39494480303
+251,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,223.79803297390
+252,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,inf
+253,"('winter', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,0.00000000000
+254,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,66.39798426266
+255,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,38.84140169158
+256,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,77.43994014065
+257,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,87.42168794506
+258,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,77.43994014065
+259,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,67.86940045717
+260,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,160.53150589077
+261,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,549.37940673261
+262,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,inf
+263,"('winter', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,0.00000000000
+264,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,50.33455345042
+265,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,28.67467332940
+266,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,57.17005199211
+267,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,75.74506673384
+268,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,57.17005199211
+269,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,56.84558091774
+270,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,118.51241688118
+271,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,405.57945677210
+272,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,inf
+273,"('winter', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,0.00000000000
+274,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,20.57207811926
+275,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,9.83766362613
+276,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,19.61381303934
+277,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,57.14351965187
+278,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,19.61381303934
+279,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,38.24403383577
+280,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,40.65905450160
+281,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,139.14556021888
+282,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,inf
+283,"('winter', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,0.00000000000
+284,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,22.01090329417
+285,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,10.74831247101
+286,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,21.42941679806
+287,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,58.04278538619
+288,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,21.42941679806
+289,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,39.14329957009
+290,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,44.42276623917
+291,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,152.02593369400
+292,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,inf
+293,"('winter', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,0.00000000000
+294,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,35.02828601983
+295,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,18.98716229738
+296,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,37.85560214538
+297,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,67.81562654329
+298,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,37.85560214538
+299,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,48.26333905540
+300,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,78.47393312964
+301,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,268.55763893468
+302,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,inf
+303,"('winter', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,0.00000000000
+304,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,48.02587499544
+305,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,27.21348443384
+306,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,54.25681044363
+307,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,74.15899973192
+308,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,54.25681044363
+309,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,55.31656551535
+310,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,112.47332307688
+311,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,384.91215038028
+312,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,inf
+313,"('winter', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,0.00000000000
+314,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,18.00635230258
+315,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,8.21378652696
+316,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,16.37621230934
+317,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,55.39679804888
+318,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,16.37621230934
+319,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,36.55436383231
+320,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,33.94757034073
+321,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,116.17716396752
+322,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,inf
+323,"('winter', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,0.00000000000
+324,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,31.43491713448
+325,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,16.71287819273
+326,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,33.32125414502
+327,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,64.53808008969
+328,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,33.32125414502
+329,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,45.39728002354
+330,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,61.62995619874
+331,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,39.39829837943
+332,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,39.39829837943
+333,"('winter', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,0.00000000000
+334,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,57.22155916569
+335,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,33.03353770615
+336,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,65.86052647160
+337,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,80.65473135919
+338,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,65.86052647160
+339,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,61.51393129305
+340,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,121.81358575635
+341,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,77.87199968146
+342,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,77.87199968146
+343,"('winter', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,0.00000000000
+344,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,41.56456414030
+345,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,23.12404718375
+346,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,46.10350559503
+347,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,70.86910946832
+348,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,46.10350559503
+349,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,51.72830940217
+350,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,85.27161230152
+351,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,54.51174404347
+352,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,54.51174404347
+353,"('winter', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,0.00000000000
+354,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,31.24916131505
+355,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,16.59531121840
+356,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,33.08685529667
+357,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,64.87051182292
+358,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,33.08685529667
+359,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,45.55082879384
+360,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,61.19641935391
+361,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,39.12115047071
+362,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,39.12115047071
+363,"('winter', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,0.00000000000
+364,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,17.62566453500
+365,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,7.97284490192
+366,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,15.89583557298
+367,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,55.90729721501
+368,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,15.89583557298
+369,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,36.76649714886
+370,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,29.40044209959
+371,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,18.79487669026
+372,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,18.79487669026
+373,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,0.00000000000
+374,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.54426953890
+375,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,4.75677211957
+376,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,9.48379885347
+377,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,52.12613928914
+378,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,9.48379885347
+379,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,33.22665347304
+380,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,17.54093772088
+381,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,11.21342917022
+382,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,11.21342917022
+383,"('winter', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,0.00000000000
+384,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,48.42085700506
+385,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,27.46347304752
+386,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,54.75522458998
+387,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,74.54900645549
+388,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,54.75522458998
+389,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,55.64952063939
+390,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,101.27356359909
+391,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,64.74134134423
+392,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,64.74134134423
+393,"('winter', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,0.00000000000
+394,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,35.61334264475
+395,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,19.35745130049
+396,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,38.59386487931
+397,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,68.18128693386
+398,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,38.59386487931
+399,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,48.62899944597
+400,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,71.38201359108
+401,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,45.63251432737
+402,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,45.63251432737
+403,"('winter', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,0.00000000000
+404,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,17.96830483971
+405,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,8.18970585426
+406,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,16.32820153097
+407,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,55.51616135215
+408,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,16.32820153097
+409,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,36.61667553605
+410,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,30.20013277452
+411,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,19.30609644200
+412,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,19.30609644200
+413,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,0.00000000000
+414,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,15.82311525755
+415,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,6.83199092885
+416,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,13.62126094050
+417,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,51.07171429670
+418,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,13.62126094050
+419,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,33.40662666283
+420,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,25.19345935860
+421,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,16.10547097397
+422,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,16.10547097397
+423,"('winter', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,0.00000000000
+424,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,30.51588130372
+425,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,16.13120994541
+426,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,32.16155459442
+427,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,64.99537359571
+428,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,32.16155459442
+429,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,45.44308610783
+430,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,59.48501185423
+431,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,38.02709580115
+432,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,38.02709580115
+433,"('winter', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,0.00000000000
+434,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,67.59481509837
+435,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,39.59888956228
+436,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,78.95017960667
+437,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,88.16970721737
+438,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,78.95017960667
+439,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,68.61741972948
+440,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,146.02380248805
+441,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,93.34891016094
+442,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,93.34891016094
+443,"('winter', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,0.00000000000
+444,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,51.21811405216
+445,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,29.23388890012
+446,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,58.28498657733
+447,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,76.29729210993
+448,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,58.28498657733
+449,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,57.39780629383
+450,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,107.80210196777
+451,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,68.91485226376
+452,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,68.91485226376
+453,"('winter', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,0.00000000000
+454,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,20.87520869214
+455,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,10.02951841909
+456,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,19.99632303228
+457,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,57.33297625992
+458,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,19.99632303228
+459,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,38.43349044382
+460,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,36.98457661186
+461,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,23.64320052856
+462,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,23.64320052856
+463,"('winter', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,0.00000000000
+464,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,22.34209394365
+465,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,10.95792680613
+466,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,21.84733483184
+467,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,58.24977954212
+468,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,21.84733483184
+469,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,39.35029372602
+470,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,40.40815066519
+471,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,25.83179510954
+472,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,25.83179510954
+473,"('winter', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,0.00000000000
+474,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,35.61334264475
+475,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,19.35745130049
+476,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,38.59386487931
+477,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,68.18128693386
+478,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,38.59386487931
+479,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,48.62899944597
+480,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,71.38201359108
+481,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,45.63251432737
+482,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,45.63251432737
+483,"('winter', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,0.00000000000
+484,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,48.86441157659
+485,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,27.74420378900
+486,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,55.31493077341
+487,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,74.68308509513
+488,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,55.31493077341
+489,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,55.84065087857
+490,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,102.30877880816
+491,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,65.40312530492
+492,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,65.40312530492
+493,"('winter', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,0.00000000000
+494,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,18.25944589790
+495,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,8.37397234679
+496,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,16.69558236972
+497,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,55.55498154596
+498,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,16.69558236972
+499,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,36.71254732939
+500,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,30.87962898710
+501,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,19.74047925525
+502,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,19.74047925525
+503,"('winter', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,0.00000000000
+504,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,34.96910642938
+505,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,18.94970686039
+506,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,22.27496213422
+507,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,66.74694839900
+508,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,22.27496213422
+509,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,47.60614833285
+510,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,78.31912980601
+511,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,297.40466444033
+512,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,inf
+513,"('spring', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,0.00000000000
+514,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,64.20699787517
+515,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,37.45470144633
+516,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,44.02717534925
+517,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,85.02063055261
+518,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,44.02717534925
+519,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,65.87983048647
+520,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,154.80027368321
+521,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,587.82987301142
+522,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,inf
+523,"('spring', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,0.00000000000
+524,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,46.45449173786
+525,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,26.21893806828
+526,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,30.81978317749
+527,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,73.92531421679
+528,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,30.81978317749
+529,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,54.78451415065
+530,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,108.36286288065
+531,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,411.49105230171
+532,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,inf
+533,"('spring', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,0.00000000000
+534,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,34.75848930143
+535,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,18.81640488067
+536,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,22.11826859555
+537,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,67.06384181441
+538,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,22.11826859555
+539,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,47.74415878533
+540,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,77.76819271482
+541,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,295.31256681329
+542,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,inf
+543,"('spring', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,0.00000000000
+544,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,19.31164207390
+545,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,9.03991929363
+546,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,10.62622529906
+547,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,56.96103317682
+548,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,10.62622529906
+549,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,37.82023311068
+550,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,37.36197712131
+551,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,141.87626870886
+552,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,inf
+553,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,0.00000000000
+554,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,13.55016002016
+555,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,5.39341166468
+556,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,6.33983596417
+557,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,52.75482083993
+558,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,6.33983596417
+559,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,33.85533502383
+560,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,22.29096084384
+561,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,84.64643631002
+562,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,inf
+563,"('spring', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,0.00000000000
+564,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,54.22842159882
+565,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,31.13914684104
+566,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,36.60338012968
+567,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,78.17873432660
+568,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,36.60338012968
+569,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,59.27924851050
+570,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,128.69808607177
+571,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,488.71088894670
+572,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,inf
+573,"('spring', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,0.00000000000
+574,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,39.70676677832
+575,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,21.94822606857
+576,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,25.79965536463
+577,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,70.73967701734
+578,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,25.79965536463
+579,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,51.18738952945
+580,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,90.71200989656
+581,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,344.46469260721
+582,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,inf
+583,"('spring', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,0.00000000000
+584,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,19.70014089519
+585,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,9.28580462356
+586,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,10.91525808413
+587,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,56.59855888683
+588,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,10.91525808413
+589,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,37.69907307073
+590,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,38.37822120656
+591,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,145.73529703211
+592,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,inf
+593,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,0.00000000000
+594,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,17.26784203061
+595,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,7.74637496243
+596,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,9.10569245239
+597,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,51.97466852987
+598,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,9.10569245239
+599,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,34.30958089600
+600,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,32.01575831285
+601,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,121.57483709053
+602,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,inf
+603,"('spring', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,0.00000000000
+604,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,33.92706808169
+605,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,18.29018891881
+606,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,21.49971333219
+607,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,67.12736533195
+608,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,21.49971333219
+609,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,47.57507784406
+610,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,75.59334210880
+611,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,287.05391103434
+612,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,inf
+613,"('spring', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,0.00000000000
+614,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,75.96859640094
+615,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,44.89875114618
+616,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,52.77749167615
+617,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,93.40332053148
+618,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,52.77749167615
+619,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,73.85103304359
+620,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,185.56653159697
+621,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,704.65993619538
+622,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,inf
+623,"('spring', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,0.00000000000
+624,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,57.40005975900
+625,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,33.14651276521
+626,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,38.96299452353
+627,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,80.16100817671
+628,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,38.96299452353
+629,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,61.26152236061
+630,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,136.99452957233
+631,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,520.21533843450
+632,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,inf
+633,"('spring', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,0.00000000000
+634,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,22.99610084135
+635,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,11.37185522239
+636,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,13.36736457854
+637,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,58.65853385317
+638,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,13.36736457854
+639,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,39.75904803707
+640,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,46.99986847284
+641,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,178.47465707040
+642,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,inf
+643,"('spring', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,0.00000000000
+644,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,24.65931203787
+645,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,12.42452053665
+646,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,14.60474945069
+647,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,59.69804085100
+648,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,14.60474945069
+649,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,40.79855503490
+650,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,51.35053428798
+651,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,194.99563155809
+652,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,inf
+653,"('spring', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,0.00000000000
+654,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,39.70676677832
+655,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,21.94822606857
+656,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,25.79965536463
+657,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,70.73967701734
+658,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,25.79965536463
+659,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,51.18738952945
+660,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,90.71200989656
+661,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,344.46469260721
+662,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,inf
+663,"('spring', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,0.00000000000
+664,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,54.73134091639
+665,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,31.45745020659
+666,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,36.97753871926
+667,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,78.34991593251
+668,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,36.97753871926
+669,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,59.50748171594
+670,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,130.01363390315
+671,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,493.70647653790
+672,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,inf
+673,"('spring', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,0.00000000000
+674,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,20.03024788022
+675,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,9.49473309509
+676,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,11.16084889685
+677,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,56.66173278490
+678,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,11.16084889685
+679,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,37.81929856834
+680,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,39.24172259358
+681,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,149.01430879518
+682,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,inf
+683,"('spring', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,0.00000000000
+684,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,35.33134735695
+685,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,19.17897327024
+686,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,22.54445974509
+687,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,66.97334897873
+688,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,22.54445974509
+689,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,47.83254891258
+690,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,77.04745680001
+691,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,50.16714737928
+692,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,50.16714737928
+693,"('spring', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,0.00000000000
+694,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,64.92297870880
+695,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,37.90785387268
+696,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,44.55984603722
+697,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,85.46811857363
+698,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,44.55984603722
+699,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,66.32731850749
+700,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,152.28677112275
+701,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,99.15697577728
+702,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,99.15697577728
+703,"('spring', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,0.00000000000
+704,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,46.95569067228
+705,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,26.53615258374
+706,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,31.19266184779
+707,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,74.23856355081
+708,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,31.19266184779
+709,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,55.09776348467
+710,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,106.60336772964
+711,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,69.41159448281
+712,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,69.41159448281
+713,"('spring', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,0.00000000000
+714,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,35.11818203967
+715,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,19.04405851247
+716,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,22.38587042137
+717,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,67.28864977580
+718,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,22.38587042137
+719,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,47.96896674672
+720,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,76.50546531198
+721,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,49.81424583797
+722,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,49.81424583797
+723,"('spring', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,0.00000000000
+724,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,19.48444834335
+725,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,9.14929035024
+726,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,10.75478856514
+727,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,57.06903709522
+728,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,10.75478856514
+729,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,37.92823702908
+730,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,36.75532819958
+731,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,23.93213336178
+732,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,23.93213336178
+733,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,0.00000000000
+734,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,13.65325995923
+735,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,5.45866479067
+736,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,6.41653957535
+737,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,52.81925830185
+738,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,6.41653957535
+739,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,33.91977248575
+740,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,21.92902104230
+741,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,14.27842705212
+742,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,14.27842705212
+743,"('spring', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,0.00000000000
+744,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,54.82367482659
+745,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,31.51588939027
+746,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,37.04623269145
+747,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,78.55076759395
+748,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,37.04623269145
+749,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,59.65128177785
+750,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,126.60840651353
+751,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,82.43727694602
+752,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,82.43727694602
+753,"('spring', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,0.00000000000
+754,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,40.12632714460
+755,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,22.21377060419
+756,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,26.11179711264
+757,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,71.00190224626
+758,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,26.11179711264
+759,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,51.44961475838
+760,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,89.23911285048
+761,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,58.10537944820
+762,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,58.10537944820
+763,"('spring', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,0.00000000000
+764,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,19.87764748773
+765,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,9.39815056820
+766,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,11.04731826553
+767,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,56.70950050717
+768,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,11.04731826553
+769,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,37.81001469106
+770,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,37.75507146024
+771,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,24.58308627413
+772,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,24.58308627413
+773,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,0.00000000000
+774,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,17.41592101640
+775,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,7.84009583951
+776,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,9.21585927743
+777,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,52.06721789598
+778,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,9.21585927743
+779,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,34.40213026211
+780,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,31.49591631090
+781,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,20.50762466947
+782,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,20.50762466947
+783,"('spring', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,0.00000000000
+784,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,34.27670172026
+785,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,18.51147603183
+786,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,21.75983145553
+787,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,67.34588635605
+788,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,21.75983145553
+789,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,47.79359886817
+790,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,74.36592790373
+791,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,48.42115006850
+792,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,48.42115006850
+793,"('spring', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,0.00000000000
+794,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,76.82687705689
+795,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,45.44196675121
+796,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,53.41602964532
+797,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,93.93974594145
+798,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,53.41602964532
+799,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,74.38745845356
+800,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,182.55347520636
+801,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,118.86423457643
+802,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,118.86423457643
+803,"('spring', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,0.00000000000
+804,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,58.03368562342
+805,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,33.54754179332
+806,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,39.43439530587
+807,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,80.55702434197
+808,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,39.43439530587
+809,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,61.65753852587
+810,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,134.77014009458
+811,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,87.75154557227
+812,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,87.75154557227
+813,"('spring', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,0.00000000000
+814,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,23.21348420010
+815,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,11.50943962666
+816,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,13.52909201288
+817,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,58.79439845240
+818,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,13.52909201288
+819,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,39.89491263629
+820,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,46.23672845126
+821,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,30.10566345683
+822,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,30.10566345683
+823,"('spring', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,0.00000000000
+824,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,24.89681805744
+825,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,12.57484080219
+826,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,14.78144760921
+827,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,59.84648211323
+828,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,14.78144760921
+829,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,40.94699629713
+830,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,50.51675220854
+831,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,32.89247287017
+832,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,32.89247287017
+833,"('spring', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,0.00000000000
+834,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,40.12632714460
+835,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,22.21377060419
+836,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,26.11179711264
+837,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,71.00190224626
+838,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,26.11179711264
+839,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,51.44961475838
+840,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,89.23911285048
+841,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,58.10537944820
+842,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,58.10537944820
+843,"('spring', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,0.00000000000
+844,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,55.33267880428
+845,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,31.83804380653
+846,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,37.42491810625
+847,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,78.72575211244
+848,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,37.42491810625
+849,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,59.88331789588
+850,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,127.90259370496
+851,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,83.27994821427
+852,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,83.27994821427
+853,"('spring', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,0.00000000000
+854,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,20.21174833169
+855,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,9.60960679856
+856,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,11.29588040301
+857,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,56.77517056707
+858,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,11.29588040301
+859,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,37.93273635051
+860,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,38.60455211629
+861,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,25.13620018727
+862,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,25.13620018727
+863,"('spring', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,0.00000000000
+864,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,29.55109804289
+865,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,15.52058762843
+866,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,42.20158093206
+867,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,63.36069315744
+868,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,42.20158093206
+869,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,44.21989309130
+870,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,55.79112683635
+871,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,237.92234379529
+872,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,inf
+873,"('summer', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,0.00000000000
+874,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,53.49813019628
+875,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,30.67693709260
+876,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,83.41277772777
+877,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,78.32758825331
+878,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,83.41277772777
+879,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,59.18678818716
+880,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,110.27295189587
+881,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,470.26115484377
+882,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,inf
+883,"('summer', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,0.00000000000
+884,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,38.95809963143
+885,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,21.47438610219
+886,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,58.39038425598
+887,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,69.24006915028
+888,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,58.39038425598
+889,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,50.09926908413
+890,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,77.19296951977
+891,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,329.19092148847
+892,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,inf
+893,"('summer', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,0.00000000000
+894,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,29.37859397760
+895,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,15.41140784027
+896,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,41.90471328944
+897,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,63.70140723701
+898,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,41.90471328944
+899,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,44.38172420793
+900,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,55.39866332575
+901,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,236.24867546032
+902,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,inf
+903,"('summer', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,0.00000000000
+904,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,16.72699261599
+905,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,7.40406520634
+906,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,20.13217671144
+907,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,55.34562726563
+908,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,20.13217671144
+909,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,36.20482719948
+910,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,26.61504088390
+911,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,113.50035327211
+912,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,inf
+913,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,0.00000000000
+914,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.00810253296
+915,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,4.41742591329
+916,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.01129114101
+917,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,51.79103491044
+918,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.01129114101
+919,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,32.89154909433
+920,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,15.87910741490
+921,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,67.71675452229
+922,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,inf
+923,"('summer', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,0.00000000000
+924,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,45.32526699997
+925,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,25.50423886709
+926,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,69.34784177204
+927,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,72.61426270232
+928,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,69.34784177204
+929,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,53.71477688622
+930,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,91.67889397487
+931,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,390.96643031474
+932,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,inf
+933,"('summer', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,0.00000000000
+934,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,33.43143616229
+935,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,17.97649783058
+936,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,48.87937619487
+937,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,66.81759538232
+938,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,48.87937619487
+939,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,47.26530789443
+940,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,64.61927310678
+941,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,275.57014663581
+942,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,inf
+943,"('summer', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,0.00000000000
+944,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,17.04518908314
+945,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,7.60545537542
+946,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,20.67977096627
+947,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,54.93921400429
+948,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,20.67977096627
+949,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,36.03972818819
+950,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,27.33896876551
+951,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,116.58755791539
+952,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,inf
+953,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,0.00000000000
+954,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,15.05303656336
+955,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,6.34459935025
+956,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,17.25141337215
+957,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,50.59041511283
+958,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,17.25141337215
+959,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,32.92532747897
+960,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,22.80662820743
+961,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,97.25930275176
+962,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,inf
+963,"('summer', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,0.00000000000
+964,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,28.69762590167
+965,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,14.98041538715
+966,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,40.73281402406
+967,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,63.85896396943
+968,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,40.73281402406
+969,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,44.30667648155
+970,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,53.84939478398
+971,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,229.64178939151
+972,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,inf
+973,"('summer', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,0.00000000000
+974,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,63.13136173741
+975,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,36.77391908066
+976,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,99.99090725454
+977,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,85.38004886677
+978,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,99.99090725454
+979,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,65.82776137889
+980,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,132.18948970400
+981,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,563.72465998656
+982,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,inf
+983,"('summer', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,0.00000000000
+984,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,47.92296872349
+985,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,27.14835388198
+986,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,73.81830793498
+987,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,74.23782627952
+988,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,73.81830793498
+989,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,55.33834046342
+990,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,97.58891781211
+991,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,416.16984283097
+992,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,inf
+993,"('summer', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,0.00000000000
+994,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,19.74471544786
+995,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,9.31401636575
+996,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,25.32547033976
+997,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,56.62641798225
+998,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,25.32547033976
+999,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,37.72693216615
+1000,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,33.48065355569
+1001,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,142.77889310702
+1002,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,inf
+1003,"('summer', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,0.00000000000
+1004,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,21.10695362687
+1005,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,10.17619242842
+1006,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,27.66978863850
+1007,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,57.47781684413
+1008,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,27.66978863850
+1009,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,38.57833102803
+1010,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,36.57987778034
+1011,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,155.99559557137
+1012,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,inf
+1013,"('summer', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,0.00000000000
+1014,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,33.43143616229
+1015,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,17.97649783058
+1016,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,48.87937619487
+1017,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,66.81759538232
+1018,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,48.87937619487
+1019,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,47.26530789443
+1020,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,64.61927310678
+1021,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,275.57014663581
+1022,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,inf
+1023,"('summer', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,0.00000000000
+1024,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,45.73717854601
+1025,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,25.76494237724
+1026,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,70.05671323793
+1027,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,72.72856445102
+1028,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,70.05671323793
+1029,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,53.88613023446
+1030,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,92.61603276716
+1031,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,394.96287706651
+1032,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,inf
+1033,"('summer', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,0.00000000000
+1034,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,17.31556024172
+1035,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,7.77657636186
+1036,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,21.14506115140
+1037,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,54.96505301084
+1038,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,21.14506115140
+1039,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,36.12261879427
+1040,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,27.95408942298
+1041,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,119.21075201825
+1042,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,inf
+1043,"('summer', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,0.00000000000
+1044,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,29.74720548104
+1045,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,15.64470626017
+1046,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,42.53906835742
+1047,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,63.48326030628
+1048,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,42.53906835742
+1049,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,44.34246024014
+1050,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,62.84928702598
+1051,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,39.97083875946
+1052,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,39.97083875946
+1053,"('summer', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,0.00000000000
+1054,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,53.88574284952
+1055,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,30.92226155668
+1056,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,84.07983246888
+1057,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,78.56984616158
+1058,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,84.07983246888
+1059,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,59.42904609544
+1060,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,124.22363231852
+1061,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,79.00364414068
+1062,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,79.00364414068
+1063,"('summer', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,0.00000000000
+1064,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,39.22943517514
+1065,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,21.64611745896
+1066,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,58.85733408165
+1067,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,69.40965386509
+1068,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,58.85733408165
+1069,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,50.26885379895
+1070,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,86.95868646906
+1071,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,55.30391468613
+1072,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,55.30391468613
+1073,"('summer', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,0.00000000000
+1074,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,29.57332189498
+1075,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,15.53465335760
+1076,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,42.23982665437
+1077,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,63.82311218537
+1078,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,42.23982665437
+1079,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,44.50342915630
+1080,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,62.40717277984
+1081,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,39.68966330670
+1082,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,39.68966330670
+1083,"('summer', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,0.00000000000
+1084,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,16.82054525518
+1085,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,7.46327573747
+1086,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,20.29317437494
+1087,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,55.40409766512
+1088,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,20.29317437494
+1089,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,36.26329759898
+1090,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,29.98212129549
+1091,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,19.06800586935
+1092,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,19.06800586935
+1093,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,0.00000000000
+1094,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.06391805072
+1095,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,4.45275219035
+1096,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.10734581166
+1097,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,51.82591960903
+1098,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.10734581166
+1099,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,32.92643379293
+1100,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,17.88798004666
+1101,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,11.37638391609
+1102,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,11.37638391609
+1103,"('summer', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,0.00000000000
+1104,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,45.64752099356
+1105,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,25.70819709088
+1106,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,69.90241875105
+1107,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,72.81567144831
+1108,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,69.90241875105
+1109,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,53.91618563221
+1110,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,103.27723175307
+1111,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,65.68216962537
+1112,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,65.68216962537
+1113,"('summer', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,0.00000000000
+1114,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,33.65857479384
+1115,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,18.12025645814
+1116,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,49.27026617175
+1117,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,66.95955702704
+1118,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,49.27026617175
+1119,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,47.40726953915
+1120,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,72.79428605826
+1121,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,46.29565102252
+1122,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,46.29565102252
+1123,"('summer', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,0.00000000000
+1124,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,17.14128635009
+1125,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,7.66627643046
+1126,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,20.84514775929
+1127,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,54.99927479614
+1128,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,20.84514775929
+1129,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,36.09978898004
+1130,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,30.79763361954
+1131,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,19.58665472301
+1132,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,19.58665472301
+1133,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,0.00000000000
+1134,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,15.13320252015
+1135,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,6.39533729758
+1136,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,17.38937347511
+1137,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,50.64051883583
+1138,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,17.38937347511
+1139,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,32.97543120196
+1140,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,25.69190461558
+1141,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,16.33951741197
+1142,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,16.33951741197
+1143,"('summer', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,0.00000000000
+1144,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,28.88690809463
+1145,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,15.10021424345
+1146,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,41.05855567146
+1147,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,63.97726534003
+1148,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,41.05855567146
+1149,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,44.42497785215
+1150,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,60.66190557688
+1151,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,38.57970971377
+1152,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,38.57970971377
+1153,"('summer', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,0.00000000000
+1154,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,63.59601166469
+1155,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,37.06800131311
+1156,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,100.79053785058
+1157,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,85.67045507132
+1158,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,100.79053785058
+1159,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,66.11816758344
+1160,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,148.91284119842
+1161,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,94.70546679364
+1162,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,94.70546679364
+1163,"('summer', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,0.00000000000
+1164,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,48.26599662443
+1165,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,27.36546014839
+1166,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,74.40863538104
+1167,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,74.45221871760
+1168,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,74.40863538104
+1169,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,55.55273290150
+1170,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,109.93493536850
+1171,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,69.91633046681
+1172,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,69.91633046681
+1173,"('summer', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,0.00000000000
+1174,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,19.86240091722
+1175,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,9.38850084003
+1176,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,25.52799894567
+1177,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,56.69997140060
+1178,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,25.52799894567
+1179,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,37.80048558450
+1180,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,37.71630571943
+1181,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,23.98678608547
+1182,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,23.98678608547
+1183,"('summer', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,0.00000000000
+1184,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,21.23553296039
+1185,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,10.25757175343
+1186,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,27.89106483606
+1187,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,57.55817892758
+1188,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,27.89106483606
+1189,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,38.65869311148
+1190,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,41.20761419698
+1191,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,26.20718556476
+1192,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,26.20718556476
+1193,"('summer', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,0.00000000000
+1194,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,33.65857479384
+1195,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,18.12025645814
+1196,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,49.27026617175
+1197,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,66.95955702704
+1198,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,49.27026617175
+1199,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,47.40726953915
+1200,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,72.79428605826
+1201,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,46.29565102252
+1202,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,46.29565102252
+1203,"('summer', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,0.00000000000
+1204,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,46.06272660998
+1205,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,25.97098545570
+1206,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,70.61695908570
+1207,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,72.93203199100
+1208,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,70.61695908570
+1209,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,54.08959777444
+1210,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,104.33292839617
+1211,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,66.35357070371
+1212,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,66.35357070371
+1213,"('summer', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,0.00000000000
+1214,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,17.41381967584
+1215,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,7.83876587713
+1216,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,21.31415888556
+1217,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,55.02646515717
+1218,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,21.31415888556
+1219,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,36.18403094060
+1220,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,31.49057346851
+1221,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,20.02735003531
+1222,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,20.02735003531
+1223,"('summer', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,0.00000000000
+1224,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,33.46938884369
+1225,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,18.00051851501
+1226,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,25.46414303787
+1227,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,65.80962490794
+1228,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,25.46414303787
+1229,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,46.66882484179
+1230,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,65.20287213404
+1231,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,267.73363606317
+1232,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,inf
+1233,"('autumn', 'all-week', 'night')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,0.00000000000
+1234,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,61.24275787492
+1235,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,35.57860018035
+1236,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,50.33069388687
+1237,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,83.16798055246
+1238,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,50.33069388687
+1239,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,64.02718048631
+1240,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,128.87556891501
+1241,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,529.18413197124
+1242,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,inf
+1243,"('autumn', 'all-week', 'night')",Kenya,CSP with Storage,2020,A1,retrofit,power,0.00000000000
+1244,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,44.37947260365
+1245,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,24.90563481878
+1246,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,35.23235489142
+1247,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,72.62842725791
+1248,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,35.23235489142
+1249,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,53.48762719177
+1250,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,90.21512233392
+1251,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,370.43802191684
+1252,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,inf
+1253,"('autumn', 'all-week', 'night')",Kenya,CSP without Storage,2020,A1,retrofit,power,0.00000000000
+1254,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,33.26932150198
+1255,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,17.87389361519
+1256,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,25.28501515748
+1257,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,66.13311193975
+1258,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,25.28501515748
+1259,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,46.81342891067
+1260,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,64.74420155755
+1261,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,265.85025973793
+1262,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,inf
+1263,"('autumn', 'all-week', 'night')",Kenya,Coal Power Plant,2020,A1,retrofit,power,0.00000000000
+1264,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,18.59620496706
+1265,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,8.58711099816
+1266,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,12.14761731357
+1267,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,56.51388498505
+1268,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,12.14761731357
+1269,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,37.37308491890
+1270,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,31.10489410050
+1271,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,127.72176728690
+1272,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,inf
+1273,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,0.00000000000
+1274,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,13.12331484630
+1275,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,5.12325649135
+1276,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,7.24753117977
+1277,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,52.48804260627
+1278,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,7.24753117977
+1279,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,33.58855679017
+1280,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,18.55785046374
+1281,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,76.20155616257
+1282,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,inf
+1283,"('autumn', 'all-week', 'night')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,0.00000000000
+1284,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,51.76400726655
+1285,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,29.57939093454
+1286,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,41.84400890015
+1287,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,76.63847536892
+1288,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,41.84400890015
+1289,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,57.73898955282
+1290,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,107.14476583272
+1291,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,439.95390410938
+1292,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,inf
+1293,"('autumn', 'all-week', 'night')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,0.00000000000
+1294,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,37.96974036389
+1295,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,20.84884226198
+1296,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,29.49347847030
+1297,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,69.65403550832
+1298,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,29.49347847030
+1299,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,50.10174802044
+1300,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,75.52029230123
+1301,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,310.09864894279
+1302,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,inf
+1303,"('autumn', 'all-week', 'night')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,0.00000000000
+1304,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,18.96524392980
+1305,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,8.82067996191
+1306,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,12.47803189604
+1307,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,56.13924828346
+1308,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,12.47803189604
+1309,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,37.23976246736
+1310,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,31.95094579658
+1311,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,131.19579377999
+1312,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,inf
+1313,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,0.00000000000
+1314,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,16.65477861853
+1315,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,7.35836014466
+1316,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,10.40938465764
+1317,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,51.59150389731
+1318,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,10.40938465764
+1319,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,33.92641626345
+1320,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,26.65401703645
+1321,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,109.44573887197
+1322,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,inf
+1323,"('autumn', 'all-week', 'night')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,0.00000000000
+1324,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,32.47954606967
+1325,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,17.37403574665
+1326,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,24.57789925359
+1327,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,66.22266407444
+1328,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,24.57789925359
+1329,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,46.67037658655
+1330,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,62.93357744603
+1331,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,258.41554131399
+1332,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,inf
+1333,"('autumn', 'all-week', 'night')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,0.00000000000
+1334,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,72.41521936583
+1335,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,42.64977833915
+1336,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,60.33382247598
+1337,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,91.18245988453
+1338,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,60.33382247598
+1339,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,71.63017239665
+1340,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,154.48934130280
+1341,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,634.35846620586
+1342,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,inf
+1343,"('autumn', 'all-week', 'night')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,0.00000000000
+1344,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,54.77677845833
+1345,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,31.48620814453
+1346,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,44.54145723465
+1347,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,78.52145736379
+1348,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,44.54145723465
+1349,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,59.62197154769
+1350,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,114.05178767617
+1351,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,468.31526427650
+1352,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,inf
+1353,"('autumn', 'all-week', 'night')",Kenya,Offshore Wind,2020,A1,retrofit,power,0.00000000000
+1354,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,22.09610964446
+1355,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,10.80224054082
+1356,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,15.28121473668
+1357,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,58.09603935512
+1358,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,15.28121473668
+1359,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,39.19655353902
+1360,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,39.12870889359
+1361,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,160.66886176826
+1362,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,inf
+1363,"('autumn', 'all-week', 'night')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,0.00000000000
+1364,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,23.67601079512
+1365,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,11.80217797794
+1366,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,16.69576016886
+1367,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,59.08347757429
+1368,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,16.69576016886
+1369,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,40.18399175818
+1370,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,42.75076017576
+1371,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,175.54159610817
+1372,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,inf
+1373,"('autumn', 'all-week', 'night')",Kenya,Onshore Wind,2020,A1,retrofit,power,0.00000000000
+1374,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,37.96974036389
+1375,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,20.84884226198
+1376,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,29.49347847030
+1377,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,69.65403550832
+1378,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,29.49347847030
+1379,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,50.10174802044
+1380,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,75.52029230123
+1381,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,310.09864894279
+1382,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,inf
+1383,"('autumn', 'all-week', 'night')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,0.00000000000
+1384,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,52.24173541687
+1385,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,29.88175052335
+1386,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,42.27173703528
+1387,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,76.79391249531
+1388,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,42.27173703528
+1389,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,57.95147827874
+1390,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,108.23999628982
+1391,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,444.45109930637
+1392,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,inf
+1393,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,0.00000000000
+1394,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,19.27881589623
+1395,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,9.01914323181
+1396,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,12.75878477263
+1397,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,56.19208779491
+1398,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,12.75878477263
+1399,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,37.34965357834
+1400,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,32.66983491354
+1401,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,134.14766994722
+1402,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,inf
+1403,"('autumn', 'all-week', 'night')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,0.00000000000
+1404,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,33.40052187523
+1405,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,17.95693182611
+1406,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,25.40248382861
+1407,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,65.76658305265
+1408,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,25.40248382861
+1409,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,46.62578298651
+1410,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,94.77958500132
+1411,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,44.51422635156
+1412,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,44.51422635156
+1413,"('autumn', 'all-week', 'day')",Kenya,Biomass Power Plant,2020,A1,retrofit,power,0.00000000000
+1414,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,61.10664009879
+1415,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,35.49244968912
+1416,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,50.20882247841
+1417,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,83.08290694238
+1418,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,50.20882247841
+1419,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,63.94210687623
+1420,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,187.33489231920
+1421,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,87.98379571427
+1422,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,87.98379571427
+1423,"('autumn', 'all-week', 'day')",Kenya,CSP with Storage,2020,A1,retrofit,power,0.00000000000
+1424,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,44.28418781228
+1425,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,24.84532798880
+1426,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,35.14704280318
+1427,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,72.56887426331
+1428,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,35.14704280318
+1429,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,53.42807419717
+1430,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,131.13765715783
+1431,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,61.59017569797
+1432,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,61.59017569797
+1433,"('autumn', 'all-week', 'day')",Kenya,CSP without Storage,2020,A1,retrofit,power,0.00000000000
+1434,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,33.20093897926
+1435,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,17.83061353752
+1436,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,25.22378969087
+1437,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,66.09037286305
+1438,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,25.22378969087
+1439,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,46.77068983397
+1440,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,94.11285658693
+1441,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,44.20109036946
+1442,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,44.20109036946
+1443,"('autumn', 'all-week', 'day')",Kenya,Coal Power Plant,2020,A1,retrofit,power,0.00000000000
+1444,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,18.56335212521
+1445,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,8.56631806028
+1446,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,12.11820291802
+1447,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,56.49335195889
+1448,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,12.11820291802
+1449,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,37.35255189274
+1450,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,45.21440250768
+1451,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,21.23541932450
+1452,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,21.23541932450
+1453,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (CCGT),2020,A1,retrofit,power,0.00000000000
+1454,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,13.10371413387
+1455,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,5.11085097715
+1456,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,7.22998191840
+1457,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,52.47579216100
+1458,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,7.22998191840
+1459,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,33.57630634490
+1460,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,26.97588681034
+1461,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.66950942529
+1462,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,12.66950942529
+1463,"('autumn', 'all-week', 'day')",Kenya,Gas Power Plant (SCGT),2020,A1,retrofit,power,0.00000000000
+1464,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,51.65084146406
+1465,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,29.50776700892
+1466,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,41.74268726435
+1467,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,76.56774674237
+1468,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,41.74268726435
+1469,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,57.66826092627
+1470,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,155.74676649402
+1471,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,73.14810161539
+1472,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,73.14810161539
+1473,"('autumn', 'all-week', 'day')",Kenya,Geothermal Power Plant,2020,A1,retrofit,power,0.00000000000
+1474,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,37.88997618400
+1475,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,20.79835860382
+1476,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,29.42206257427
+1477,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,69.60418289589
+1478,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,29.42206257427
+1479,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,50.05189540801
+1480,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,109.77709637716
+1481,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,51.55796462991
+1482,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,51.55796462991
+1483,"('autumn', 'all-week', 'day')",Kenya,Large Hydropower Plant (Dam) (>100MW),2020,A1,retrofit,power,0.00000000000
+1484,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,18.93149749206
+1485,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,8.79932145702
+1486,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,12.44781743019
+1487,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,56.11815675987
+1488,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,12.44781743019
+1489,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,37.21867094377
+1490,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,46.44423222585
+1491,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,21.81302173097
+1492,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,21.81302173097
+1493,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Power Plant,2020,A1,retrofit,power,0.00000000000
+1494,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,16.62662677243
+1495,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,7.34054252054
+1496,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,10.38417924192
+1497,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,51.57390899350
+1498,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,10.38417924192
+1499,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,33.90882135963
+1500,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,38.74456040384
+1501,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,18.19679022533
+1502,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,18.19679022533
+1503,"('autumn', 'all-week', 'day')",Kenya,Light Fuel Oil Standalone Generator (1kW),2020,A1,retrofit,power,0.00000000000
+1504,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,32.41307591977
+1505,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,17.33196603152
+1506,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,24.51838600689
+1507,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,66.18112023074
+1508,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,24.51838600689
+1509,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,46.62883274286
+1510,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,91.48091417596
+1511,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,42.96497105326
+1512,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,42.96497105326
+1513,"('autumn', 'all-week', 'day')",Kenya,Medium Hydropower Plant (10-100MW),2020,A1,retrofit,power,0.00000000000
+1514,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,72.25204844184
+1515,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,42.54650560245
+1516,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,60.18772935801
+1517,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,91.08047805704
+1518,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,60.18772935801
+1519,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,71.52819056915
+1520,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,224.56734350744
+1521,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,105.47040632983
+1522,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,105.47040632983
+1523,"('autumn', 'all-week', 'day')",Kenya,Nuclear Power Plant,2020,A1,retrofit,power,0.00000000000
+1524,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,54.65631749134
+1525,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,31.40996702618
+1526,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,44.43360396134
+1527,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,78.44616925942
+1528,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,44.43360396134
+1529,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,59.54668344332
+1530,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,165.78688669767
+1531,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,77.86354921370
+1532,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,77.86354921370
+1533,"('autumn', 'all-week', 'day')",Kenya,Offshore Wind,2020,A1,retrofit,power,0.00000000000
+1534,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,22.05478208656
+1535,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,10.77608385860
+1536,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,15.24421260637
+1537,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,58.07020963143
+1538,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,15.24421260637
+1539,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,39.17072381533
+1540,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,56.87790478700
+1541,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,26.71330531543
+1542,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,26.71330531543
+1543,"('autumn', 'all-week', 'day')",Kenya,Oil Fired Gas Turbine (SCGT),2020,A1,retrofit,power,0.00000000000
+1544,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,23.63085764341
+1545,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,11.77360003382
+1546,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,16.65533283929
+1547,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,59.05525685447
+1548,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,16.65533283929
+1549,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,40.15577103837
+1550,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,62.14295694422
+1551,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,29.18609219907
+1552,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,29.18609219907
+1553,"('autumn', 'all-week', 'day')",Kenya,Onshore Wind,2020,A1,retrofit,power,0.00000000000
+1554,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,37.88997618400
+1555,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,20.79835860382
+1556,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,29.42206257427
+1557,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,69.60418289589
+1558,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,29.42206257427
+1559,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,50.05189540801
+1560,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,109.77709637716
+1561,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,51.55796462991
+1562,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,51.55796462991
+1563,"('autumn', 'all-week', 'day')",Kenya,Small Hydropower Plant (<10MW),2020,A1,retrofit,power,0.00000000000
+1564,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,52.12741283705
+1565,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,29.80939446018
+1566,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,42.16937969285
+1567,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,76.72246088292
+1568,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,42.16937969285
+1569,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,57.88002666636
+1570,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,157.33880510187
+1571,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,73.89581922011
+1572,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,73.89581922011
+1573,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Distributed with Storage),2020,A1,retrofit,power,0.00000000000
+1574,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,19.24431017113
+1575,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,8.99730416529
+1576,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,12.72789048801
+1577,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,56.17052171672
+1578,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,12.72789048801
+1579,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,37.32808750016
+1580,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,47.48921707039
+1581,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,22.30380980676
+1582,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,22.30380980676
+1583,"('autumn', 'all-week', 'day')",Kenya,Solar PV (Utility),2020,A1,retrofit,power,0.00000000000
