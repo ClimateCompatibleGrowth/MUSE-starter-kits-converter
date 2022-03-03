@@ -1,0 +1,11 @@
+Technology,Parameter,Value
+Electricity Transmission,Capital Cost ($/kW in 2020),204.26666666666665
+Electricity Distribution,Capital Cost ($/kW in 2020),102.13333333333333
+Electricity Transmission,Operational Life (years),50
+Electricity Distribution,Operational Life (years),70
+Electricity Transmission,Efficiency (2020),0.82
+Electricity Distribution,Efficiency (2020),1.0
+Electricity Transmission,Efficiency (2030),0.86
+Electricity Distribution,Efficiency (2030),1.0
+Electricity Transmission,Efficiency (2050),0.95
+Electricity Distribution,Efficiency (2050),1.0
