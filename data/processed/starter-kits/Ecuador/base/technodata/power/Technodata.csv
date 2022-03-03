@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2
+Unit,-,Year,-,MUS$2010/PJ_a,-,MUS$2010/PJ,-,MUS$2010/PJ,-,PJ,%,PJ,Years,-,PJ,%,-,-,-,-,Retrofit
+Biomass Power Plant,Ecuador,2020,fixed,60.407153729071545,1.0,0.4122272957889397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.66,1.0,35.0,0.1,energy,biomass,electricity,1.0
+CSP with Storage,Ecuador,2020,fixed,183.82166412988335,1.0,1.8382166412988334,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.4,1.0,35.0,0.1,energy,solar,electricity,1.0
+Coal Power Plant,Ecuador,2020,fixed,79.27447995941148,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,43.0,0.1,energy,coal,electricity,1.0
+Gas Power Plant (CCGT),Ecuador,2020,fixed,39.95433789954338,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,56.99999999999999,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Ecuador,2020,fixed,18.486808726534758,1.0,0.3170979198376459,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,38.0,0.1,energy,gas,electricity,1.0
+Geothermal Power Plant,Ecuador,2020,fixed,120.38527397260275,1.0,3.1709791983764593,1.0,3.17e-06,1.0,10.0,5.0,53.6112,20.0,0.85,1.0,11.0,0.1,energy,geothermal,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2020,fixed,93.19507864028414,1.0,2.7958523592085243,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.52,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Light Fuel Oil Power Plant,Ecuador,2020,fixed,38.05175038051751,1.0,0.47564687975646885,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2020,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Medium Hydropower Plant (10-100MW),Ecuador,2020,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,783.7768224000001,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Nuclear Power Plant,Ecuador,2020,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
+Offshore Wind,Ecuador,2020,fixed,124.56208777270423,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.18,1.0,100.0,0.1,energy,wind,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Ecuador,2020,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Onshore Wind,Ecuador,2020,fixed,50.175355149670224,1.0,1.888635210553019,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.07,1.0,100.0,0.1,energy,wind,electricity,1.0
+Small Hydropower Plant (<10MW),Ecuador,2020,fixed,110.95256215119231,1.0,3.328576864535769,1.0,3.17e-06,1.0,10.0,5.0,9.3535776,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Solar PV (Distributed with Storage),Ecuador,2020,fixed,136.98630136986304,1.0,2.739726027397261,1.0,3.17e-06,1.0,10.0,5.0,10000.0,24.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Ecuador,2020,fixed,56.79287163876206,1.0,0.7382039573820397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Biomass Power Plant,Ecuador,2015,fixed,60.407153729071545,1.0,0.4122272957889397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.66,1.0,35.0,0.1,energy,biomass,electricity,1.0
+Biomass Power Plant,Ecuador,2025,fixed,60.407153729071545,1.0,0.4122272957889397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.66,1.0,35.0,0.1,energy,biomass,electricity,1.0
+Biomass Power Plant,Ecuador,2030,fixed,60.407153729071545,1.0,0.4122272957889397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.66,1.0,35.0,0.1,energy,biomass,electricity,1.0
+Biomass Power Plant,Ecuador,2040,fixed,60.407153729071545,1.0,0.4122272957889397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.66,1.0,35.0,0.1,energy,biomass,electricity,1.0
+Biomass Power Plant,Ecuador,2050,fixed,60.407153729071545,1.0,0.4122272957889397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.66,1.0,35.0,0.1,energy,biomass,electricity,1.0
+CSP with Storage,Ecuador,2015,fixed,274.38261035007616,1.0,1.8382166412988334,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.4,1.0,35.0,0.1,energy,solar,electricity,1.0
+CSP with Storage,Ecuador,2025,fixed,148.08472856418064,1.0,1.8382166412988334,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.4,1.0,35.0,0.1,energy,solar,electricity,1.0
+CSP with Storage,Ecuador,2030,fixed,119.32394723490616,1.0,1.8382166412988334,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.4,1.0,35.0,0.1,energy,solar,electricity,1.0
+CSP with Storage,Ecuador,2040,fixed,116.05783866057841,1.0,1.8382166412988334,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.4,1.0,35.0,0.1,energy,solar,electricity,1.0
+CSP with Storage,Ecuador,2050,fixed,116.05783866057841,1.0,1.8382166412988334,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.4,1.0,35.0,0.1,energy,solar,electricity,1.0
+Coal Power Plant,Ecuador,2015,fixed,79.27447995941148,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,43.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Ecuador,2025,fixed,79.27447995941148,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,43.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Ecuador,2030,fixed,79.27447995941148,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,43.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Ecuador,2040,fixed,79.27447995941148,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,43.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Ecuador,2050,fixed,79.27447995941148,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,43.0,0.1,energy,coal,electricity,1.0
+Gas Power Plant (CCGT),Ecuador,2015,fixed,39.95433789954338,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,56.99999999999999,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Ecuador,2025,fixed,39.95433789954338,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,56.99999999999999,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Ecuador,2030,fixed,39.95433789954338,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,56.99999999999999,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Ecuador,2040,fixed,39.95433789954338,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,56.99999999999999,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Ecuador,2050,fixed,39.95433789954338,1.0,0.6341958396752918,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,56.99999999999999,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Ecuador,2015,fixed,18.486808726534758,1.0,0.3170979198376459,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,38.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Ecuador,2025,fixed,18.486808726534758,1.0,0.3170979198376459,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,38.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Ecuador,2030,fixed,18.486808726534758,1.0,0.3170979198376459,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,38.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Ecuador,2040,fixed,18.486808726534758,1.0,0.3170979198376459,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,38.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Ecuador,2050,fixed,18.486808726534758,1.0,0.3170979198376459,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.85,1.0,38.0,0.1,energy,gas,electricity,1.0
+Geothermal Power Plant,Ecuador,2015,fixed,120.38527397260275,1.0,3.1709791983764593,1.0,3.17e-06,1.0,10.0,5.0,53.6112,20.0,0.85,1.0,11.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Ecuador,2025,fixed,120.38527397260275,1.0,3.1709791983764593,1.0,3.17e-06,1.0,10.0,5.0,53.6112,20.0,0.85,1.0,11.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Ecuador,2030,fixed,120.38527397260275,1.0,3.1709791983764593,1.0,3.17e-06,1.0,10.0,5.0,53.6112,20.0,0.85,1.0,11.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Ecuador,2040,fixed,120.38527397260275,1.0,3.1709791983764593,1.0,3.17e-06,1.0,10.0,5.0,53.6112,20.0,0.85,1.0,11.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Ecuador,2050,fixed,120.38527397260275,1.0,3.1709791983764593,1.0,3.17e-06,1.0,10.0,5.0,53.6112,20.0,0.85,1.0,11.0,0.1,energy,geothermal,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2015,fixed,93.19507864028414,1.0,2.7958523592085243,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.52,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2025,fixed,93.19507864028414,1.0,2.7958523592085243,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.52,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2030,fixed,93.19507864028414,1.0,2.7958523592085243,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.52,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2040,fixed,93.19507864028414,1.0,2.7958523592085243,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.52,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2050,fixed,93.19507864028414,1.0,2.7958523592085243,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.52,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Light Fuel Oil Power Plant,Ecuador,2015,fixed,38.05175038051751,1.0,0.47564687975646885,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Ecuador,2025,fixed,38.05175038051751,1.0,0.47564687975646885,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Ecuador,2030,fixed,38.05175038051751,1.0,0.47564687975646885,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Ecuador,2040,fixed,38.05175038051751,1.0,0.47564687975646885,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Ecuador,2050,fixed,38.05175038051751,1.0,0.47564687975646885,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2015,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2025,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2030,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2040,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2050,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Medium Hydropower Plant (10-100MW),Ecuador,2015,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,783.7768224000001,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Medium Hydropower Plant (10-100MW),Ecuador,2025,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,783.7768224000001,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Medium Hydropower Plant (10-100MW),Ecuador,2030,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,783.7768224000001,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Medium Hydropower Plant (10-100MW),Ecuador,2040,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,783.7768224000001,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Medium Hydropower Plant (10-100MW),Ecuador,2050,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,783.7768224000001,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Nuclear Power Plant,Ecuador,2015,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
+Nuclear Power Plant,Ecuador,2025,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
+Nuclear Power Plant,Ecuador,2030,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
+Nuclear Power Plant,Ecuador,2040,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
+Nuclear Power Plant,Ecuador,2050,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
+Offshore Wind,Ecuador,2015,fixed,130.1369863013699,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.18,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Ecuador,2025,fixed,118.98687214611874,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.18,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Ecuador,2030,fixed,113.41197361745309,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.18,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Ecuador,2040,fixed,102.26185946220194,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.18,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Ecuador,2050,fixed,91.11174530695081,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.18,1.0,100.0,0.1,energy,wind,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Ecuador,2015,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Ecuador,2025,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Ecuador,2030,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Ecuador,2040,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Ecuador,2050,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
+Onshore Wind,Ecuador,2015,fixed,51.36986301369864,1.0,2.5177574835109087,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.07,1.0,100.0,0.1,energy,wind,electricity,1.0
+Onshore Wind,Ecuador,2025,fixed,48.98053018772198,1.0,1.510654490106545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.07,1.0,100.0,0.1,energy,wind,electricity,1.0
+Onshore Wind,Ecuador,2030,fixed,47.786022323693565,1.0,1.3787417554540842,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.07,1.0,100.0,0.1,energy,wind,electricity,1.0
+Onshore Wind,Ecuador,2040,fixed,45.396689497716906,1.0,1.1834094368340944,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.07,1.0,100.0,0.1,energy,wind,electricity,1.0
+Onshore Wind,Ecuador,2050,fixed,43.00735667174024,1.0,1.1834094368340944,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.07,1.0,100.0,0.1,energy,wind,electricity,1.0
+Small Hydropower Plant (<10MW),Ecuador,2015,fixed,110.95256215119231,1.0,3.328576864535769,1.0,3.17e-06,1.0,10.0,5.0,9.3535776,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Ecuador,2025,fixed,110.95256215119231,1.0,3.328576864535769,1.0,3.17e-06,1.0,10.0,5.0,9.3535776,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Ecuador,2030,fixed,110.95256215119231,1.0,3.328576864535769,1.0,3.17e-06,1.0,10.0,5.0,9.3535776,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Ecuador,2040,fixed,110.95256215119231,1.0,3.328576864535769,1.0,3.17e-06,1.0,10.0,5.0,9.3535776,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Ecuador,2050,fixed,110.95256215119231,1.0,3.328576864535769,1.0,3.17e-06,1.0,10.0,5.0,9.3535776,60.0,0.52,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Solar PV (Distributed with Storage),Ecuador,2015,fixed,216.8949771689498,1.0,2.739726027397261,1.0,3.17e-06,1.0,10.0,5.0,10000.0,24.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Distributed with Storage),Ecuador,2025,fixed,108.28893962455608,1.0,2.739726027397261,1.0,3.17e-06,1.0,10.0,5.0,10000.0,24.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Distributed with Storage),Ecuador,2030,fixed,85.6164383561644,1.0,2.739726027397261,1.0,3.17e-06,1.0,10.0,5.0,10000.0,24.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Distributed with Storage),Ecuador,2040,fixed,66.30517503805176,1.0,2.739726027397261,1.0,3.17e-06,1.0,10.0,5.0,10000.0,24.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Distributed with Storage),Ecuador,2050,fixed,66.30517503805176,1.0,2.739726027397261,1.0,3.17e-06,1.0,10.0,5.0,10000.0,24.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Ecuador,2015,fixed,60.21023592085237,1.0,0.7382039573820397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Ecuador,2025,fixed,53.37582445459159,1.0,0.7382039573820397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Ecuador,2030,fixed,49.958460172501276,1.0,0.7382039573820397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Ecuador,2040,fixed,43.124048706240494,1.0,0.7382039573820397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Ecuador,2050,fixed,36.28963723997971,1.0,0.7382039573820397,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.3,1.0,100.0,0.1,energy,solar,electricity,1.0

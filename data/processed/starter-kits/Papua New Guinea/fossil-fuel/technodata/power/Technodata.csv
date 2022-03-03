@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2
+Unit,-,Year,-,MUS$2010/PJ_a,-,MUS$2010/PJ,-,MUS$2010/PJ,-,PJ,%,PJ,Years,-,PJ,%,-,-,-,-,Retrofit
+Biomass Power Plant,Papua New Guinea,2020,fixed,87.20192795535263,1.0,2.1879756468797567,1.0,3.17e-06,1.0,0,0,0,25.0,0.7,1.0,38.0,0.1,energy,biomass,electricity,1.0
+CSP with Storage,Papua New Guinea,2020,fixed,157.44894723490617,1.0,3.805175038051751,1.0,3.17e-06,1.0,0,0,0,35.0,0.3,1.0,33.0,0.1,energy,solar,electricity,1.0
+Coal Power Plant,Papua New Guinea,2020,fixed,41.22272957889397,1.0,1.6489091831557587,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.75,1.0,30.0,0.1,energy,coal,electricity,1.0
+Gas Power Plant (CCGT),Papua New Guinea,2020,fixed,31.709791983764593,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,55.00000000000001,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Papua New Guinea,2020,fixed,24.86047691527144,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,35.0,0.1,energy,gas,electricity,1.0
+Geothermal Power Plant,Papua New Guinea,2020,fixed,79.27447995941148,1.0,3.1709791983764593,1.0,3.17e-06,1.0,0,0,0,50.0,0.7,1.0,10.0,0.1,energy,geothermal,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Papua New Guinea,2020,fixed,48.801369863013704,1.0,1.4640410958904113,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Light Fuel Oil Power Plant,Papua New Guinea,2020,fixed,38.05175038051751,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Papua New Guinea,2020,fixed,47.56468797564689,1.0,1.2049720953830545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Medium Hydropower Plant (10-100MW),Papua New Guinea,2020,fixed,50.50925925925927,1.0,1.5154109589041098,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Nuclear Power Plant,Papua New Guinea,2020,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
+Offshore Wind,Papua New Guinea,2020,fixed,91.20402080162356,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0.24,1.0,100.0,0.1,energy,wind,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Papua New Guinea,2020,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
+Onshore Wind,Papua New Guinea,2020,fixed,70.39859208523593,1.0,1.888635210553019,1.0,3.17e-06,1.0,0,0,0,30.0,0.11,1.0,100.0,0.1,energy,wind,electricity,1.0
+Small Hydropower Plant (<10MW),Papua New Guinea,2020,fixed,68.55657026889905,1.0,2.0566971080669716,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Solar PV (Distributed with Storage),Papua New Guinea,2020,fixed,67.5672247590056,1.0,1.351471334348047,1.0,3.17e-06,1.0,0,0,0,24.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Papua New Guinea,2020,fixed,36.783358701166925,1.0,0.47818366311517,1.0,3.17e-06,1.0,0,0,0,30.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Biomass Power Plant,Papua New Guinea,2015,fixed,87.20192795535263,1.0,2.1879756468797567,1.0,3.17e-06,1.0,0,0,0,25.0,0.7,1.0,38.0,0.1,energy,biomass,electricity,1.0
+Biomass Power Plant,Papua New Guinea,2025,fixed,87.20192795535263,1.0,2.1879756468797567,1.0,3.17e-06,1.0,0,0,0,25.0,0.7,1.0,38.0,0.1,energy,biomass,electricity,1.0
+Biomass Power Plant,Papua New Guinea,2030,fixed,87.20192795535263,1.0,2.1879756468797567,1.0,3.17e-06,1.0,0,0,0,25.0,0.7,1.0,38.0,0.1,energy,biomass,electricity,1.0
+Biomass Power Plant,Papua New Guinea,2040,fixed,87.20192795535263,1.0,2.1879756468797567,1.0,3.17e-06,1.0,0,0,0,25.0,0.7,1.0,38.0,0.1,energy,biomass,electricity,1.0
+Biomass Power Plant,Papua New Guinea,2050,fixed,87.20192795535263,1.0,2.1879756468797567,1.0,3.17e-06,1.0,0,0,0,25.0,0.7,1.0,38.0,0.1,energy,biomass,electricity,1.0
+CSP with Storage,Papua New Guinea,2015,fixed,234.8018138001015,1.0,3.805175038051751,1.0,3.17e-06,1.0,0,0,0,35.0,0.3,1.0,33.0,0.1,energy,solar,electricity,1.0
+CSP with Storage,Papua New Guinea,2025,fixed,126.83916793505837,1.0,3.805175038051751,1.0,3.17e-06,1.0,0,0,0,35.0,0.3,1.0,33.0,0.1,energy,solar,electricity,1.0
+CSP with Storage,Papua New Guinea,2030,fixed,102.20478183663117,1.0,3.805175038051751,1.0,3.17e-06,1.0,0,0,0,35.0,0.3,1.0,33.0,0.1,energy,solar,electricity,1.0
+CSP with Storage,Papua New Guinea,2040,fixed,99.40702688990362,1.0,3.805175038051751,1.0,3.17e-06,1.0,0,0,0,35.0,0.3,1.0,33.0,0.1,energy,solar,electricity,1.0
+CSP with Storage,Papua New Guinea,2050,fixed,99.40702688990362,1.0,3.805175038051751,1.0,3.17e-06,1.0,0,0,0,35.0,0.3,1.0,33.0,0.1,energy,solar,electricity,1.0
+Coal Power Plant,Papua New Guinea,2015,fixed,41.22272957889397,1.0,1.6489091831557587,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.75,1.0,30.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Papua New Guinea,2025,fixed,41.22272957889397,1.0,1.6489091831557587,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.75,1.0,30.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Papua New Guinea,2030,fixed,41.22272957889397,1.0,1.6489091831557587,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.75,1.0,30.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Papua New Guinea,2040,fixed,41.22272957889397,1.0,1.6489091831557587,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.75,1.0,30.0,0.1,energy,coal,electricity,1.0
+Coal Power Plant,Papua New Guinea,2050,fixed,41.22272957889397,1.0,1.6489091831557587,1.0,3.17e-06,1.0,10.0,5.0,10000.0,60.0,0.75,1.0,30.0,0.1,energy,coal,electricity,1.0
+Gas Power Plant (CCGT),Papua New Guinea,2015,fixed,31.709791983764593,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,55.00000000000001,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Papua New Guinea,2025,fixed,31.709791983764593,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,55.00000000000001,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Papua New Guinea,2030,fixed,31.709791983764593,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,55.00000000000001,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Papua New Guinea,2040,fixed,31.709791983764593,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,55.00000000000001,0.1,energy,gas,electricity,1.0
+Gas Power Plant (CCGT),Papua New Guinea,2050,fixed,31.709791983764593,1.0,1.2683916793505836,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,55.00000000000001,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Papua New Guinea,2015,fixed,24.86047691527144,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,35.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Papua New Guinea,2025,fixed,24.86047691527144,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,35.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Papua New Guinea,2030,fixed,24.86047691527144,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,35.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Papua New Guinea,2040,fixed,24.86047691527144,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,35.0,0.1,energy,gas,electricity,1.0
+Gas Power Plant (SCGT),Papua New Guinea,2050,fixed,24.86047691527144,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.55,1.0,35.0,0.1,energy,gas,electricity,1.0
+Geothermal Power Plant,Papua New Guinea,2015,fixed,79.27447995941148,1.0,3.1709791983764593,1.0,3.17e-06,1.0,0,0,0,50.0,0.7,1.0,10.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Papua New Guinea,2025,fixed,79.27447995941148,1.0,3.1709791983764593,1.0,3.17e-06,1.0,0,0,0,50.0,0.7,1.0,10.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Papua New Guinea,2030,fixed,79.27447995941148,1.0,3.1709791983764593,1.0,3.17e-06,1.0,0,0,0,50.0,0.7,1.0,10.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Papua New Guinea,2040,fixed,79.27447995941148,1.0,3.1709791983764593,1.0,3.17e-06,1.0,0,0,0,50.0,0.7,1.0,10.0,0.1,energy,geothermal,electricity,1.0
+Geothermal Power Plant,Papua New Guinea,2050,fixed,79.27447995941148,1.0,3.1709791983764593,1.0,3.17e-06,1.0,0,0,0,50.0,0.7,1.0,10.0,0.1,energy,geothermal,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Papua New Guinea,2015,fixed,48.801369863013704,1.0,1.4640410958904113,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Papua New Guinea,2025,fixed,48.801369863013704,1.0,1.4640410958904113,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Papua New Guinea,2030,fixed,48.801369863013704,1.0,1.4640410958904113,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Papua New Guinea,2040,fixed,48.801369863013704,1.0,1.4640410958904113,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Large Hydropower Plant (Dam) (>100MW),Papua New Guinea,2050,fixed,48.801369863013704,1.0,1.4640410958904113,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,100.0,100.0,0.1,energy,hydro,electricity,1.0
+Light Fuel Oil Power Plant,Papua New Guinea,2015,fixed,38.05175038051751,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Papua New Guinea,2025,fixed,38.05175038051751,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Papua New Guinea,2030,fixed,38.05175038051751,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Papua New Guinea,2040,fixed,38.05175038051751,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Power Plant,Papua New Guinea,2050,fixed,38.05175038051751,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Papua New Guinea,2015,fixed,47.56468797564689,1.0,1.2049720953830545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Papua New Guinea,2025,fixed,47.56468797564689,1.0,1.2049720953830545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Papua New Guinea,2030,fixed,47.56468797564689,1.0,1.2049720953830545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Papua New Guinea,2040,fixed,47.56468797564689,1.0,1.2049720953830545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Light Fuel Oil Standalone Generator (1kW),Papua New Guinea,2050,fixed,47.56468797564689,1.0,1.2049720953830545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
+Medium Hydropower Plant (10-100MW),Papua New Guinea,2015,fixed,50.50925925925927,1.0,1.5154109589041098,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Medium Hydropower Plant (10-100MW),Papua New Guinea,2025,fixed,50.50925925925927,1.0,1.5154109589041098,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Medium Hydropower Plant (10-100MW),Papua New Guinea,2030,fixed,50.50925925925927,1.0,1.5154109589041098,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Medium Hydropower Plant (10-100MW),Papua New Guinea,2040,fixed,50.50925925925927,1.0,1.5154109589041098,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Medium Hydropower Plant (10-100MW),Papua New Guinea,2050,fixed,50.50925925925927,1.0,1.5154109589041098,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Nuclear Power Plant,Papua New Guinea,2015,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
+Nuclear Power Plant,Papua New Guinea,2025,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
+Nuclear Power Plant,Papua New Guinea,2030,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
+Nuclear Power Plant,Papua New Guinea,2040,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
+Nuclear Power Plant,Papua New Guinea,2050,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
+Offshore Wind,Papua New Guinea,2015,fixed,114.79737442922377,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0.24,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Papua New Guinea,2025,fixed,69.35819381024862,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0.24,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Papua New Guinea,2030,fixed,56.25063419583969,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0.24,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Papua New Guinea,2040,fixed,52.232686453576875,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0.24,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Papua New Guinea,2050,fixed,48.21473871131406,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0.24,1.0,100.0,0.1,energy,wind,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Papua New Guinea,2015,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Papua New Guinea,2025,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Papua New Guinea,2030,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Papua New Guinea,2040,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
+Oil Fired Gas Turbine (SCGT),Papua New Guinea,2050,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
+Onshore Wind,Papua New Guinea,2015,fixed,93.8492516489092,1.0,2.5177574835109087,1.0,3.17e-06,1.0,0,0,0,30.0,0.11,1.0,100.0,0.1,energy,wind,electricity,1.0
+Onshore Wind,Papua New Guinea,2025,fixed,56.309614408929484,1.0,1.510654490106545,1.0,3.17e-06,1.0,0,0,0,30.0,0.11,1.0,100.0,0.1,energy,wind,electricity,1.0
+Onshore Wind,Papua New Guinea,2030,fixed,51.39237696600711,1.0,1.3787417554540842,1.0,3.17e-06,1.0,0,0,0,30.0,0.11,1.0,100.0,0.1,energy,wind,electricity,1.0
+Onshore Wind,Papua New Guinea,2040,fixed,44.11149162861492,1.0,1.1834094368340944,1.0,3.17e-06,1.0,0,0,0,30.0,0.11,1.0,100.0,0.1,energy,wind,electricity,1.0
+Onshore Wind,Papua New Guinea,2050,fixed,44.11149162861492,1.0,1.1834094368340944,1.0,3.17e-06,1.0,0,0,0,30.0,0.11,1.0,100.0,0.1,energy,wind,electricity,1.0
+Small Hydropower Plant (<10MW),Papua New Guinea,2015,fixed,68.55657026889905,1.0,2.0566971080669716,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Papua New Guinea,2025,fixed,68.55657026889905,1.0,2.0566971080669716,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Papua New Guinea,2030,fixed,68.55657026889905,1.0,2.0566971080669716,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Papua New Guinea,2040,fixed,68.55657026889905,1.0,2.0566971080669716,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Small Hydropower Plant (<10MW),Papua New Guinea,2050,fixed,68.55657026889905,1.0,2.0566971080669716,1.0,3.17e-06,1.0,0,0,0,40.0,0.38,10.0,100.0,0.1,energy,hydro,electricity,1.0
+Solar PV (Distributed with Storage),Papua New Guinea,2015,fixed,111.0476915271436,1.0,1.351471334348047,1.0,3.17e-06,1.0,0,0,0,24.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Distributed with Storage),Papua New Guinea,2025,fixed,59.63977676306444,1.0,1.351471334348047,1.0,3.17e-06,1.0,0,0,0,24.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Distributed with Storage),Papua New Guinea,2030,fixed,55.67605276509387,1.0,1.351471334348047,1.0,3.17e-06,1.0,0,0,0,24.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Distributed with Storage),Papua New Guinea,2040,fixed,53.61491628614917,1.0,1.351471334348047,1.0,3.17e-06,1.0,0,0,0,24.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Distributed with Storage),Papua New Guinea,2050,fixed,51.55377980720447,1.0,1.351471334348047,1.0,3.17e-06,1.0,0,0,0,24.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Papua New Guinea,2015,fixed,57.791095890410965,1.0,0.47818366311517,1.0,3.17e-06,1.0,0,0,0,30.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Papua New Guinea,2025,fixed,26.266171993911726,1.0,0.47818366311517,1.0,3.17e-06,1.0,0,0,0,30.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Papua New Guinea,2030,fixed,23.650114155251146,1.0,0.47818366311517,1.0,3.17e-06,1.0,0,0,0,30.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Papua New Guinea,2040,fixed,19.299213597158808,1.0,0.47818366311517,1.0,3.17e-06,1.0,0,0,0,30.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0
+Solar PV (Utility),Papua New Guinea,2050,fixed,19.299213597158808,1.0,0.47818366311517,1.0,3.17e-06,1.0,0,0,0,30.0,0.27,1.0,100.0,0.1,energy,solar,electricity,1.0

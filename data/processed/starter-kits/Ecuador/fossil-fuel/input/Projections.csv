@@ -1,0 +1,9 @@
+RegionName,Attribute,Time,crude_oil,biomass,coal,LFO,HFO,gas,CO2f,geothermal,hydro,solar,uranium,wind,electricity,heat
+Unit,-,Year,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/kt,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ
+Ecuador,CommodityPrice,2015,13.14,6.16,3.2,15.89,9.56,3.76,0,0,0,0,1.764,0,1,0
+Ecuador,CommodityPrice,2020,12.2,6.16,3.55,14.75,8.87,4.65,0,0,0,0,1.764,0,1,0
+Ecuador,CommodityPrice,2025,12.76,6.16,3.64,15.43,9.28,5.54,0,0,0,0,1.764,0,1,0
+Ecuador,CommodityPrice,2030,14.27,6.16,3.73,17.25,10.38,6.43,0,0,0,0,1.764,0,1,0
+Ecuador,CommodityPrice,2040,16.9,6.16,3.9,20.43,12.29,8.22,0,0,0,0,1.764,0,1,0
+Ecuador,CommodityPrice,2050,19.52,6.16,4.26,23.61,14.2,10.01,0,0,0,0,1.764,0,1,0
+Ecuador,CommodityPrice,2060,22.15,6.16,4.53,26.79,16.11,11.79,0,0,0,0,1.764,0,1,0

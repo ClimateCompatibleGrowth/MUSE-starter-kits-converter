@@ -1,0 +1,8 @@
+RegionName,Attribute,Time,biomass,coal,LFO,HFO,gas,CO2f,geothermal,hydro,solar,uranium,wind,electricity,heat
+Unit,-,Year,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/kt,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ,MUS$2020/PJ
+Sierra Leone,CommodityPrice,12,1.76,5.199999999999999,15.09,9.075,9.024999999999999,0,0,0,0,1.764,0,1,0
+Sierra Leone,CommodityPrice,13,1.76,4.9,15.89,9.56,8.6,0,0,0,0,1.764,0,1,0
+Sierra Leone,CommodityPrice,14,1.76,5.5,17.25,10.38,10.3,0,0,0,0,1.764,0,1,0
+Sierra Leone,CommodityPrice,16,1.76,5.9,20.43,12.29,11.0,0,0,0,0,1.764,0,1,0
+Sierra Leone,CommodityPrice,19,1.76,5.9,23.61,14.2,11.0,0,0,0,0,1.764,0,1,0
+Sierra Leone,CommodityPrice,22,1.76,5.9,26.79,16.11,11.0,0,0,0,0,1.764,0,1,0

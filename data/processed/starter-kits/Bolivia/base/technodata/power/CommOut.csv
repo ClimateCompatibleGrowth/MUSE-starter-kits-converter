@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Bolivia,2020,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Bolivia,2015,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Bolivia,2025,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Bolivia,2030,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Bolivia,2040,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Bolivia,2050,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Bolivia,2020,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Bolivia,2015,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Bolivia,2025,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Bolivia,2030,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Bolivia,2040,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Bolivia,2050,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Bolivia,2020,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Bolivia,2015,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Bolivia,2025,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Bolivia,2030,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Bolivia,2040,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Bolivia,2050,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Bolivia,2020,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Bolivia,2015,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Bolivia,2025,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Bolivia,2030,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Bolivia,2040,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Bolivia,2050,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Bolivia,2020,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Bolivia,2015,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Bolivia,2025,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Bolivia,2030,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Bolivia,2040,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Bolivia,2050,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Bolivia,2020,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Bolivia,2015,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Bolivia,2025,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Bolivia,2030,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Bolivia,2040,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Bolivia,2050,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Bolivia,2020,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Bolivia,2015,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Bolivia,2025,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Bolivia,2030,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Bolivia,2040,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Bolivia,2050,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Bolivia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Bolivia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Bolivia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Bolivia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Bolivia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Bolivia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0

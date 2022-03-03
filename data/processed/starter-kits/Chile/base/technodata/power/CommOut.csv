@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Chile,2020,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Chile,2015,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Chile,2025,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Chile,2030,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Chile,2040,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Chile,2050,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Chile,2020,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Chile,2015,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Chile,2025,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Chile,2030,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Chile,2040,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Chile,2050,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Chile,2020,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Chile,2015,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Chile,2025,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Chile,2030,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Chile,2040,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Chile,2050,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Chile,2020,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Chile,2015,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Chile,2025,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Chile,2030,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Chile,2040,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Chile,2050,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Chile,2020,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Chile,2015,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Chile,2025,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Chile,2030,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Chile,2040,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Chile,2050,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Chile,2020,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Chile,2015,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Chile,2025,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Chile,2030,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Chile,2040,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Chile,2050,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Chile,2020,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Chile,2015,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Chile,2025,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Chile,2030,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Chile,2040,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Chile,2050,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Chile,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Chile,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Chile,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Chile,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Chile,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Chile,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0

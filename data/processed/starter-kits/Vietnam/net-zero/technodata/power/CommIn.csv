@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Vietnam,2015,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Vietnam,2020,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Vietnam,2025,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Vietnam,2030,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Vietnam,2040,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Vietnam,2050,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Vietnam,2015,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Vietnam,2020,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Vietnam,2025,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Vietnam,2030,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Vietnam,2040,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Vietnam,2050,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+Coal Power Plant,Vietnam,2015,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Vietnam,2020,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Vietnam,2025,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Vietnam,2030,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Vietnam,2040,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Vietnam,2050,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Vietnam,2015,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Vietnam,2020,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Vietnam,2025,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Vietnam,2030,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Vietnam,2040,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Vietnam,2050,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Vietnam,2015,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Vietnam,2020,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Vietnam,2025,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Vietnam,2030,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Vietnam,2040,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Vietnam,2050,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Vietnam,2015,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Vietnam,2020,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Vietnam,2025,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Vietnam,2030,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Vietnam,2040,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Vietnam,2050,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Vietnam,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Vietnam,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Vietnam,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Vietnam,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Vietnam,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Vietnam,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Vietnam,2015,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Vietnam,2020,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Vietnam,2025,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Vietnam,2030,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Vietnam,2040,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Vietnam,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Vietnam,2015,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Vietnam,2020,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Vietnam,2025,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Vietnam,2030,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Vietnam,2040,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Vietnam,2050,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Vietnam,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Vietnam,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Vietnam,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Vietnam,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Vietnam,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Vietnam,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Nuclear Power Plant,Vietnam,2015,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Vietnam,2020,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Vietnam,2025,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Vietnam,2030,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Vietnam,2040,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Vietnam,2050,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Offshore Wind,Vietnam,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Vietnam,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Vietnam,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Vietnam,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Vietnam,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Vietnam,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Oil Fired Gas Turbine (SCGT),Vietnam,2015,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Vietnam,2020,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Vietnam,2025,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Vietnam,2030,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Vietnam,2040,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Vietnam,2050,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Onshore Wind,Vietnam,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Vietnam,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Vietnam,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Vietnam,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Vietnam,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Vietnam,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Small Hydropower Plant (<10MW),Vietnam,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Vietnam,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Vietnam,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Vietnam,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Vietnam,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Vietnam,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Vietnam,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Vietnam,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Vietnam,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Vietnam,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Vietnam,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Vietnam,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Vietnam,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Vietnam,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Vietnam,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Vietnam,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Vietnam,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Vietnam,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

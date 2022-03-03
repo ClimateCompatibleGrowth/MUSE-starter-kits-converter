@@ -1,0 +1,16 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Crude Oil Refinery Option 1,Gabon,2020,fixed,7.98,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0
+Crude Oil Refinery Option 1,Gabon,2025,fixed,7.98,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0
+Crude Oil Refinery Option 1,Gabon,2030,fixed,7.98,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0
+Crude Oil Refinery Option 1,Gabon,2035,fixed,7.98,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0
+Crude Oil Refinery Option 1,Gabon,2040,fixed,7.98,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0
+Crude Oil Refinery Option 1,Gabon,2045,fixed,7.98,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0
+Crude Oil Refinery Option 1,Gabon,2050,fixed,7.98,0,0,0,0,0,0.9,0.1,0,0,0,0,0,0
+Crude Oil Refinery Option 2,Gabon,2020,fixed,7.98,0,0,0,0,0,0.8,0.2,0,0,0,0,0,0
+Crude Oil Refinery Option 2,Gabon,2025,fixed,7.98,0,0,0,0,0,0.8,0.2,0,0,0,0,0,0
+Crude Oil Refinery Option 2,Gabon,2030,fixed,7.98,0,0,0,0,0,0.8,0.2,0,0,0,0,0,0
+Crude Oil Refinery Option 2,Gabon,2035,fixed,7.98,0,0,0,0,0,0.8,0.2,0,0,0,0,0,0
+Crude Oil Refinery Option 2,Gabon,2040,fixed,7.98,0,0,0,0,0,0.8,0.2,0,0,0,0,0,0
+Crude Oil Refinery Option 2,Gabon,2045,fixed,7.98,0,0,0,0,0,0.8,0.2,0,0,0,0,0,0
+Crude Oil Refinery Option 2,Gabon,2050,fixed,7.98,0,0,0,0,0,0.8,0.2,0,0,0,0,0,0
