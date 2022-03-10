@@ -12,7 +12,7 @@ Light Fuel Oil Power Plant,Zimbabwe,2020,fixed,38.05175038051751,1.0,1.109842719
 Light Fuel Oil Standalone Generator (1kW),Zimbabwe,2020,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,10.0,0.3,0.001,16.0,0.1,energy,LFO,electricity,1.0
 Medium Hydropower Plant (10-100MW),Zimbabwe,2020,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,58.3416,50.0,0.68,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Nuclear Power Plant,Zimbabwe,2020,fixed,194.6029934043633,1.0,5.8380898021309,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.85,1.0,33.0,0.1,energy,uranium,electricity,1.0
-Offshore Wind,Zimbabwe,2020,fixed,125.96397767630647,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Zimbabwe,2020,fixed,125.96397767630647,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Zimbabwe,2020,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Onshore Wind,Zimbabwe,2020,fixed,47.215880263825476,1.0,1.888635210553019,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.2,1.0,100.0,0.1,energy,wind,electricity,1.0
 Small Hydropower Plant (<10MW),Zimbabwe,2020,fixed,95.12937595129378,1.0,2.8538812785388132,1.0,3.17e-06,1.0,10.0,5.0,3.7843199999999997,50.0,0.68,10.0,100.0,0.1,energy,hydro,electricity,1.0
@@ -78,11 +78,11 @@ Nuclear Power Plant,Zimbabwe,2025,fixed,194.6029934043633,1.0,5.8380898021309,1.
 Nuclear Power Plant,Zimbabwe,2030,fixed,194.6029934043633,1.0,5.8380898021309,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.85,1.0,33.0,0.1,energy,uranium,electricity,1.0
 Nuclear Power Plant,Zimbabwe,2040,fixed,194.6029934043633,1.0,5.8380898021309,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.85,1.0,33.0,0.1,energy,uranium,electricity,1.0
 Nuclear Power Plant,Zimbabwe,2050,fixed,194.6029934043633,1.0,5.8380898021309,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.85,1.0,33.0,0.1,energy,uranium,electricity,1.0
-Offshore Wind,Zimbabwe,2015,fixed,158.54895991882296,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Zimbabwe,2025,fixed,95.79211060375445,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Zimbabwe,2030,fixed,77.68899036022324,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Zimbabwe,2040,fixed,72.13977676306445,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Zimbabwe,2050,fixed,66.59056316590565,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Zimbabwe,2015,fixed,158.54895991882296,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Zimbabwe,2025,fixed,95.79211060375445,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Zimbabwe,2030,fixed,77.68899036022324,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Zimbabwe,2040,fixed,72.13977676306445,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Zimbabwe,2050,fixed,66.59056316590565,1.0,5.038685946220194,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Zimbabwe,2015,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Zimbabwe,2025,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Zimbabwe,2030,fixed,45.979198376458655,1.0,1.4269406392694066,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.8,1.0,35.0,0.1,energy,HFO,electricity,1.0

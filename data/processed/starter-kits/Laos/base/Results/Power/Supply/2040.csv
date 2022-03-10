@@ -1,0 +1,20 @@
+,commodity,region,technology,year,supply
+0,electricity,Laos,Biomass Power Plant,2040,1.27210000000
+1,electricity,Laos,Biomass Power Plant,2045,0.89040000000
+2,electricity,Laos,Coal Power Plant,2040,378.61550000000
+3,electricity,Laos,Coal Power Plant,2045,353.04700000000
+4,electricity,Laos,Coal Power Plant,2040,596.63740000000
+5,electricity,Laos,Coal Power Plant,2045,596.63740000000
+6,electricity,Laos,Coal Power Plant,2040,462.60710000000
+7,electricity,Laos,Coal Power Plant,2045,462.60710000000
+8,electricity,Laos,Coal Power Plant,2040,474.76340000000
+9,electricity,Laos,Coal Power Plant,2045,474.76340000000
+10,electricity,Laos,Coal Power Plant,2045,433.91960000000
+11,electricity,Laos,Large Hydropower Plant (Dam) (>100MW),2040,122.55960000000
+12,electricity,Laos,Large Hydropower Plant (Dam) (>100MW),2045,85.79170000000
+13,electricity,Laos,Medium Hydropower Plant (10-100MW),2040,6.44570000000
+14,electricity,Laos,Medium Hydropower Plant (10-100MW),2045,4.51200000000
+15,electricity,Laos,Small Hydropower Plant (<10MW),2040,0.55170000000
+16,electricity,Laos,Small Hydropower Plant (<10MW),2045,0.38620000000
+17,electricity,Laos,Solar PV (Distributed with Storage),2040,0.01820000000
+18,electricity,Laos,Solar PV (Distributed with Storage),2045,0.01280000000

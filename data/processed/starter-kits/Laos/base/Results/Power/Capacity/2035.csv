@@ -1,0 +1,52 @@
+asset,year,region,technology,installed,capacity
+0,2035,Laos,Biomass Power Plant,2020,0.32450000000
+0,2040,Laos,Biomass Power Plant,2020,0.22720000000
+0,2045,Laos,Biomass Power Plant,2020,0.15900000000
+0,2050,Laos,Biomass Power Plant,2020,0.11130000000
+1,2035,Laos,Coal Power Plant,2020,69.19030000000
+1,2040,Laos,Coal Power Plant,2020,63.10260000000
+1,2045,Laos,Coal Power Plant,2020,58.84120000000
+1,2050,Laos,Coal Power Plant,2020,55.85820000000
+1,2084,Laos,Coal Power Plant,2020,48.89790000000
+2,2035,Laos,Coal Power Plant,2025,99.43960000000
+2,2040,Laos,Coal Power Plant,2025,99.43960000000
+2,2045,Laos,Coal Power Plant,2025,99.43960000000
+2,2050,Laos,Coal Power Plant,2025,99.43960000000
+2,2084,Laos,Coal Power Plant,2025,99.43960000000
+2,2085,Laos,Coal Power Plant,2025,99.43960000000
+2,2089,Laos,Coal Power Plant,2025,99.43960000000
+3,2035,Laos,Coal Power Plant,2030,77.10120000000
+3,2040,Laos,Coal Power Plant,2030,77.10120000000
+3,2045,Laos,Coal Power Plant,2030,77.10120000000
+3,2050,Laos,Coal Power Plant,2030,77.10120000000
+3,2084,Laos,Coal Power Plant,2030,77.10120000000
+3,2085,Laos,Coal Power Plant,2030,77.10120000000
+3,2089,Laos,Coal Power Plant,2030,77.10120000000
+3,2090,Laos,Coal Power Plant,2030,77.10120000000
+3,2094,Laos,Coal Power Plant,2030,77.10120000000
+4,2040,Laos,Coal Power Plant,2035,79.12720000000
+4,2045,Laos,Coal Power Plant,2035,79.12720000000
+4,2050,Laos,Coal Power Plant,2035,79.12720000000
+4,2084,Laos,Coal Power Plant,2035,79.12720000000
+4,2085,Laos,Coal Power Plant,2035,79.12720000000
+4,2089,Laos,Coal Power Plant,2035,79.12720000000
+4,2090,Laos,Coal Power Plant,2035,79.12720000000
+4,2094,Laos,Coal Power Plant,2035,79.12720000000
+4,2095,Laos,Coal Power Plant,2035,79.12720000000
+4,2099,Laos,Coal Power Plant,2035,79.12720000000
+5,2035,Laos,Large Hydropower Plant (Dam) (>100MW),2020,45.65940000000
+5,2040,Laos,Large Hydropower Plant (Dam) (>100MW),2020,31.96160000000
+5,2045,Laos,Large Hydropower Plant (Dam) (>100MW),2020,22.37310000000
+5,2050,Laos,Large Hydropower Plant (Dam) (>100MW),2020,15.66120000000
+6,2035,Laos,Medium Hydropower Plant (10-100MW),2020,2.40130000000
+6,2040,Laos,Medium Hydropower Plant (10-100MW),2020,1.68090000000
+6,2045,Laos,Medium Hydropower Plant (10-100MW),2020,1.17670000000
+6,2050,Laos,Medium Hydropower Plant (10-100MW),2020,0.82370000000
+7,2035,Laos,Small Hydropower Plant (<10MW),2020,0.20550000000
+7,2040,Laos,Small Hydropower Plant (<10MW),2020,0.14390000000
+7,2045,Laos,Small Hydropower Plant (<10MW),2020,0.10070000000
+7,2050,Laos,Small Hydropower Plant (<10MW),2020,0.07050000000
+8,2035,Laos,Solar PV (Distributed with Storage),2020,0.01760000000
+8,2040,Laos,Solar PV (Distributed with Storage),2020,0.01230000000
+8,2045,Laos,Solar PV (Distributed with Storage),2020,0.00860000000
+8,2050,Laos,Solar PV (Distributed with Storage),2020,0.00600000000

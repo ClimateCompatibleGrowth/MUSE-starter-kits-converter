@@ -11,7 +11,7 @@ Light Fuel Oil Power Plant,Paraguay,2020,fixed,38.05175038051751,1.0,0.475646879
 Light Fuel Oil Standalone Generator (1kW),Paraguay,2020,fixed,23.782343987823445,1.0,0.7293252156265856,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
 Medium Hydropower Plant (10-100MW),Paraguay,2020,fixed,79.27447995941148,1.0,2.3782343987823444,1.0,3.17e-06,1.0,10.0,5.0,391.98301920000006,60.0,0.72,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Nuclear Power Plant,Paraguay,2020,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
-Offshore Wind,Paraguay,2020,fixed,124.56208777270423,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Paraguay,2020,fixed,124.56208777270423,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Paraguay,2020,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Onshore Wind,Paraguay,2020,fixed,50.175355149670224,1.0,1.888635210553019,1.0,3.17e-06,1.0,10.0,5.0,10000.0,30.0,0.2,1.0,100.0,0.1,energy,wind,electricity,1.0
 Small Hydropower Plant (<10MW),Paraguay,2020,fixed,110.95256215119231,1.0,3.328576864535769,1.0,3.17e-06,1.0,10.0,5.0,2.7215567999999997,60.0,0.72,10.0,100.0,0.1,energy,hydro,electricity,1.0
@@ -72,11 +72,11 @@ Nuclear Power Plant,Paraguay,2025,fixed,200.34246575342468,1.0,6.01027397260274,
 Nuclear Power Plant,Paraguay,2030,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
 Nuclear Power Plant,Paraguay,2040,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
 Nuclear Power Plant,Paraguay,2050,fixed,200.34246575342468,1.0,6.01027397260274,1.0,3.17e-06,1.0,10.0,5.0,10000.0,40.0,0.85,1.0,35.0,0.1,energy,uranium,electricity,1.0
-Offshore Wind,Paraguay,2015,fixed,130.1369863013699,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Paraguay,2025,fixed,118.98687214611874,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Paraguay,2030,fixed,113.41197361745309,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Paraguay,2040,fixed,102.26185946220194,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Paraguay,2050,fixed,91.11174530695081,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Paraguay,2015,fixed,130.1369863013699,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Paraguay,2025,fixed,118.98687214611874,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Paraguay,2030,fixed,113.41197361745309,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Paraguay,2040,fixed,102.26185946220194,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Paraguay,2050,fixed,91.11174530695081,1.0,4.98255961440893,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Paraguay,2015,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Paraguay,2025,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Paraguay,2030,fixed,44.393708777270426,1.0,0.7927447995941148,1.0,3.17e-06,1.0,10.0,5.0,10000.0,25.0,0.85,1.0,35.0,0.1,energy,HFO,electricity,1.0

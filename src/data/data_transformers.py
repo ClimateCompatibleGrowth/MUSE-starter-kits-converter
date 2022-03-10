@@ -83,7 +83,7 @@ class Transformer:
                 "ExistingCapacity"
             ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
 
-            muse_data["technodata"]["preset"] = self.get_preset_sector()
+
 
             if self.electricity_demand["RegionName"].str.contains(self.folder).any():
                 self.electricity_demand = self.electricity_demand[
@@ -95,6 +95,8 @@ class Transformer:
                 ] = self.modify_max_capacities(
                     technodata=muse_data["technodata"]["power"]["Technodata"]
                 )
+            else:
+                muse_data["technodata"]["preset"] = self.get_preset_sector()
 
             muse_data["technodata"]["power"]["Technodata"] = self.create_scenarios(
                 scenario, muse_data["technodata"]["power"]["Technodata"]
@@ -640,6 +642,11 @@ class Transformer:
         )
         technodata_edited = technodata_edited.drop(columns="fix_par_x")
         technodata_edited = technodata_edited.rename(columns={"fix_par_y": "fix_par"})
+
+        technodata_edited["UtilizationFactor"] = technodata_edited[
+            "UtilizationFactor"
+        ].fillna(0)
+
         technodata_edited = technodata_edited.reindex(muse_technodata.columns, axis=1)
 
         return technodata_edited

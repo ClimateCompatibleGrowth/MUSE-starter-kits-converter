@@ -11,7 +11,7 @@ Light Fuel Oil Power Plant,Laos,2020,fixed,38.05175038051751,1.0,0.5707762557077
 Light Fuel Oil Standalone Generator (1kW),Laos,2020,fixed,47.56468797564689,1.0,1.2049720953830545,1.0,3.17e-06,1.0,10.0,5.0,10000.0,20.0,0.4,0.001,42.0,0.1,energy,LFO,electricity,1.0
 Medium Hydropower Plant (10-100MW),Laos,2020,fixed,50.50925925925927,1.0,1.5154109589041098,1.0,3.17e-06,1.0,0,0,0,40.0,0.55,10.0,100.0,0.1,energy,hydro,electricity,1.0
 Nuclear Power Plant,Laos,2020,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
-Offshore Wind,Laos,2020,fixed,91.20402080162356,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Laos,2020,fixed,91.20402080162356,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Laos,2020,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
 Onshore Wind,Laos,2020,fixed,70.39859208523593,1.0,1.888635210553019,1.0,3.17e-06,1.0,0,0,0,30.0,0.08,1.0,100.0,0.1,energy,wind,electricity,1.0
 Small Hydropower Plant (<10MW),Laos,2020,fixed,68.55657026889905,1.0,2.0566971080669716,1.0,3.17e-06,1.0,0,0,0,40.0,0.55,10.0,100.0,0.1,energy,hydro,electricity,1.0
@@ -72,11 +72,11 @@ Nuclear Power Plant,Laos,2025,fixed,174.40385591070526,1.0,4.375951293759513,1.0
 Nuclear Power Plant,Laos,2030,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
 Nuclear Power Plant,Laos,2040,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
 Nuclear Power Plant,Laos,2050,fixed,174.40385591070526,1.0,4.375951293759513,1.0,3.17e-06,1.0,0,0,0,60.0,0.83,1.0,33.0,0.1,energy,uranium,electricity,1.0
-Offshore Wind,Laos,2015,fixed,114.79737442922377,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Laos,2025,fixed,69.35819381024862,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Laos,2030,fixed,56.25063419583969,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Laos,2040,fixed,52.232686453576875,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
-Offshore Wind,Laos,2050,fixed,48.21473871131406,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Laos,2015,fixed,114.79737442922377,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Laos,2025,fixed,69.35819381024862,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Laos,2030,fixed,56.25063419583969,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Laos,2040,fixed,52.232686453576875,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
+Offshore Wind,Laos,2050,fixed,48.21473871131406,1.0,3.6482115677321163,1.0,3.17e-06,1.0,0,0,0,30.0,0,1.0,100.0,0.1,energy,wind,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Laos,2015,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Laos,2025,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0
 Oil Fired Gas Turbine (SCGT),Laos,2030,fixed,42.617960426179614,1.0,0.5707762557077627,1.0,3.17e-06,1.0,10.0,5.0,10000.0,50.0,0.25,1.0,40.0,0.1,energy,HFO,electricity,1.0

@@ -1,0 +1,58 @@
+technology,dst_region,region,agent,sector,type,year,capacity
+Biomass Power Plant,Laos,Laos,A1,power,retrofit,2020,0.94610000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2020,59.16150000000
+Large Hydropower Plant (Dam) (>100MW),Laos,Laos,A1,power,retrofit,2020,133.11790000000
+Medium Hydropower Plant (10-100MW),Laos,Laos,A1,power,retrofit,2020,7.00100000000
+Small Hydropower Plant (<10MW),Laos,Laos,A1,power,retrofit,2020,0.59920000000
+Solar PV (Distributed with Storage),Laos,Laos,A1,power,retrofit,2020,0.05140000000
+Biomass Power Plant,Laos,Laos,A1,power,retrofit,2025,0.66230000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2025,90.31100000000
+Large Hydropower Plant (Dam) (>100MW),Laos,Laos,A1,power,retrofit,2025,93.18250000000
+Medium Hydropower Plant (10-100MW),Laos,Laos,A1,power,retrofit,2025,4.90070000000
+Small Hydropower Plant (<10MW),Laos,Laos,A1,power,retrofit,2025,0.41940000000
+Solar PV (Distributed with Storage),Laos,Laos,A1,power,retrofit,2025,0.03600000000
+Biomass Power Plant,Laos,Laos,A1,power,retrofit,2030,0.46360000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2030,77.88700000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2030,99.43960000000
+Large Hydropower Plant (Dam) (>100MW),Laos,Laos,A1,power,retrofit,2030,65.22780000000
+Medium Hydropower Plant (10-100MW),Laos,Laos,A1,power,retrofit,2030,3.43050000000
+Small Hydropower Plant (<10MW),Laos,Laos,A1,power,retrofit,2030,0.29360000000
+Solar PV (Distributed with Storage),Laos,Laos,A1,power,retrofit,2030,0.02520000000
+Biomass Power Plant,Laos,Laos,A1,power,retrofit,2035,0.32450000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2035,69.19030000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2035,99.43960000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2035,77.10120000000
+Large Hydropower Plant (Dam) (>100MW),Laos,Laos,A1,power,retrofit,2035,45.65940000000
+Medium Hydropower Plant (10-100MW),Laos,Laos,A1,power,retrofit,2035,2.40130000000
+Small Hydropower Plant (<10MW),Laos,Laos,A1,power,retrofit,2035,0.20550000000
+Solar PV (Distributed with Storage),Laos,Laos,A1,power,retrofit,2035,0.01760000000
+Biomass Power Plant,Laos,Laos,A1,power,retrofit,2040,0.22720000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2040,63.10260000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2040,99.43960000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2040,77.10120000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2040,79.12720000000
+Large Hydropower Plant (Dam) (>100MW),Laos,Laos,A1,power,retrofit,2040,31.96160000000
+Medium Hydropower Plant (10-100MW),Laos,Laos,A1,power,retrofit,2040,1.68090000000
+Small Hydropower Plant (<10MW),Laos,Laos,A1,power,retrofit,2040,0.14390000000
+Solar PV (Distributed with Storage),Laos,Laos,A1,power,retrofit,2040,0.01230000000
+Biomass Power Plant,Laos,Laos,A1,power,retrofit,2045,0.15900000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2045,58.84120000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2045,99.43960000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2045,77.10120000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2045,79.12720000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2045,72.31990000000
+Large Hydropower Plant (Dam) (>100MW),Laos,Laos,A1,power,retrofit,2045,22.37310000000
+Medium Hydropower Plant (10-100MW),Laos,Laos,A1,power,retrofit,2045,1.17670000000
+Small Hydropower Plant (<10MW),Laos,Laos,A1,power,retrofit,2045,0.10070000000
+Solar PV (Distributed with Storage),Laos,Laos,A1,power,retrofit,2045,0.00860000000
+Biomass Power Plant,Laos,Laos,A1,power,retrofit,2050,0.11130000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2050,55.85820000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2050,99.43960000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2050,77.10120000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2050,79.12720000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2050,72.31990000000
+Coal Power Plant,Laos,Laos,A1,power,retrofit,2050,72.71040000000
+Large Hydropower Plant (Dam) (>100MW),Laos,Laos,A1,power,retrofit,2050,15.66120000000
+Medium Hydropower Plant (10-100MW),Laos,Laos,A1,power,retrofit,2050,0.82370000000
+Small Hydropower Plant (<10MW),Laos,Laos,A1,power,retrofit,2050,0.07050000000
+Solar PV (Distributed with Storage),Laos,Laos,A1,power,retrofit,2050,0.00600000000
