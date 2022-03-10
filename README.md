@@ -1,6 +1,23 @@
 CCG Starter Kits to MUSE input files
 ====================================
 
+Using the data
+==============
+The data for each country is all available in the `data/processed/starter-kits` folder. This data should be ready to run with MUSE without any errors. You will see that there are three folders within the `data/processed/starter-kits` folder. These are:
+- `base`
+- `net-zero`
+- `fossil-fuel`
+
+The base scenario allows any and all technologoes to run. The net-zero scenario allows only renewables and the fossil-fuel scenario allows only fossil fuel technologies.
+
+You will be able to run these models by navigating to your country of interest, for instance Laos: `data/processed/starter-kits/base/` and then run the model with `python -m muse settings.toml`
+
+It must be noted that these starter kits are just places to start from. You will have to investigate and become accustomed with the data. You will likely have to make improvements to the data, such as adjusting the size of the electricity demand. However, as you progress you will find places for improvements.
+
+
+
+Generating the data
+===================
 The MUSE data can be generated with the following command in the root directory:
 ```
 make data start_year=2020 end_year=2055 milestone_year=5
