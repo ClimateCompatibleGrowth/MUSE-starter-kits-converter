@@ -12,7 +12,7 @@ The base scenario allows any and all technologoes to run. The net-zero scenario 
 
 You will be able to run these models by navigating to your country of interest, for instance Laos: `data/processed/starter-kits/base/` and then run the model with `python -m muse settings.toml`
 
-It must be noted that these starter kits are just places to start from. You will have to investigate and become accustomed with the data. You will likely have to make improvements to the data, such as adjusting the size of the electricity demand. However, as you progress you will find places for improvements.
+It must be noted that these starter kits are just places to start from. You will have to investigate and become accustomed with the data. You will likely have to make improvements to the data, such as adjusting the size of the electricity demand. 
 
 
 
