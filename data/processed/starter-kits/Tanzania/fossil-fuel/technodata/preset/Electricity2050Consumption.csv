@@ -1,0 +1,9 @@
+Unnamed: 0,RegionName,ProcessName,Timeslice,electricity,gas,heat,CO2f,wind
+0,Tanzania,electricity_demand,1,42.714,0,0,0,0
+1,Tanzania,electricity_demand,2,42.714,0,0,0,0
+2,Tanzania,electricity_demand,3,42.714,0,0,0,0
+3,Tanzania,electricity_demand,4,42.714,0,0,0,0
+4,Tanzania,electricity_demand,5,42.714,0,0,0,0
+5,Tanzania,electricity_demand,6,42.714,0,0,0,0
+6,Tanzania,electricity_demand,7,42.714,0,0,0,0
+7,Tanzania,electricity_demand,8,42.714,0,0,0,0

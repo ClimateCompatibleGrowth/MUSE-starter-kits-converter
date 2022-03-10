@@ -1,0 +1,31 @@
+asset,year,region,technology,installed,capacity
+0,2045,Brazil,Biomass Power Plant,2020,65.04190000000
+0,2050,Brazil,Biomass Power Plant,2020,45.52930000000
+1,2045,Brazil,Coal Power Plant,2020,21.97220000000
+1,2050,Brazil,Coal Power Plant,2020,15.38050000000
+2,2050,Brazil,Coal Power Plant,2045,69.05150000000
+2,2079,Brazil,Coal Power Plant,2045,69.05150000000
+2,2080,Brazil,Coal Power Plant,2045,69.05150000000
+2,2089,Brazil,Coal Power Plant,2045,69.05150000000
+3,2045,Brazil,Gas Power Plant (CCGT),2020,102.22790000000
+3,2050,Brazil,Gas Power Plant (CCGT),2020,71.55960000000
+4,2050,Brazil,Gas Power Plant (CCGT),2045,24.35510000000
+4,2079,Brazil,Gas Power Plant (CCGT),2045,24.35510000000
+5,2045,Brazil,Gas Power Plant (SCGT),2020,3.80640000000
+5,2050,Brazil,Gas Power Plant (SCGT),2020,2.66450000000
+6,2045,Brazil,Large Hydropower Plant (Dam) (>100MW),2020,470.59380000000
+6,2050,Brazil,Large Hydropower Plant (Dam) (>100MW),2020,329.41570000000
+7,2045,Brazil,Medium Hydropower Plant (10-100MW),2020,36.66190000000
+7,2050,Brazil,Medium Hydropower Plant (10-100MW),2020,25.66330000000
+8,2045,Brazil,Nuclear Power Plant,2020,10.54750000000
+8,2050,Brazil,Nuclear Power Plant,2020,7.38330000000
+9,2045,Brazil,Oil Fired Gas Turbine (SCGT),2020,71.04020000000
+9,2050,Brazil,Oil Fired Gas Turbine (SCGT),2020,49.72810000000
+10,2045,Brazil,Onshore Wind,2020,60.30720000000
+10,2050,Brazil,Onshore Wind,2020,42.21500000000
+11,2045,Brazil,Small Hydropower Plant (<10MW),2020,5.62890000000
+11,2050,Brazil,Small Hydropower Plant (<10MW),2020,3.94020000000
+12,2045,Brazil,Solar PV (Distributed with Storage),2020,0.03830000000
+12,2050,Brazil,Solar PV (Distributed with Storage),2020,0.02680000000
+13,2045,Brazil,Solar PV (Utility),2020,0.03180000000
+13,2050,Brazil,Solar PV (Utility),2020,0.02230000000

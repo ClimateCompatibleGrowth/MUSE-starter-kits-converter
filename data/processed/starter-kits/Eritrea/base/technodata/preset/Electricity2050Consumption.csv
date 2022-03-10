@@ -1,0 +1,9 @@
+Unnamed: 0,RegionName,ProcessName,Timeslice,electricity,gas,heat,CO2f,wind
+0,Eritrea,electricity_demand,1,42.714,0,0,0,0
+1,Eritrea,electricity_demand,2,42.714,0,0,0,0
+2,Eritrea,electricity_demand,3,42.714,0,0,0,0
+3,Eritrea,electricity_demand,4,42.714,0,0,0,0
+4,Eritrea,electricity_demand,5,42.714,0,0,0,0
+5,Eritrea,electricity_demand,6,42.714,0,0,0,0
+6,Eritrea,electricity_demand,7,42.714,0,0,0,0
+7,Eritrea,electricity_demand,8,42.714,0,0,0,0

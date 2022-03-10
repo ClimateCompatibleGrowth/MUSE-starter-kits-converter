@@ -1,0 +1,27 @@
+,commodity,region,technology,year,supply
+0,electricity,Brazil,Biomass Power Plant,2045,343.42140000000
+1,electricity,Brazil,Biomass Power Plant,2050,240.39500000000
+2,electricity,Brazil,Coal Power Plant,2045,149.41100000000
+3,electricity,Brazil,Coal Power Plant,2050,104.58770000000
+4,electricity,Brazil,Coal Power Plant,2050,469.55050000000
+5,electricity,Brazil,Gas Power Plant (CCGT),2045,695.15000000000
+6,electricity,Brazil,Gas Power Plant (CCGT),2050,486.60500000000
+7,electricity,Brazil,Gas Power Plant (CCGT),2050,165.61480000000
+8,electricity,Brazil,Gas Power Plant (SCGT),2045,25.88370000000
+9,electricity,Brazil,Gas Power Plant (SCGT),2050,18.11860000000
+10,electricity,Brazil,Large Hydropower Plant (Dam) (>100MW),2045,1804.53380000000
+11,electricity,Brazil,Large Hydropower Plant (Dam) (>100MW),2050,1263.17370000000
+12,electricity,Brazil,Medium Hydropower Plant (10-100MW),2045,140.58320000000
+13,electricity,Brazil,Medium Hydropower Plant (10-100MW),2050,98.40820000000
+14,electricity,Brazil,Nuclear Power Plant,2045,71.72310000000
+15,electricity,Brazil,Nuclear Power Plant,2050,50.20610000000
+16,electricity,Brazil,Oil Fired Gas Turbine (SCGT),2045,483.07320000000
+17,electricity,Brazil,Oil Fired Gas Turbine (SCGT),2050,338.15120000000
+18,electricity,Brazil,Onshore Wind,2045,95.12620000000
+19,electricity,Brazil,Onshore Wind,2050,66.58840000000
+20,electricity,Brazil,Small Hydropower Plant (<10MW),2045,21.58440000000
+21,electricity,Brazil,Small Hydropower Plant (<10MW),2050,15.10910000000
+22,electricity,Brazil,Solar PV (Distributed with Storage),2045,0.05660000000
+23,electricity,Brazil,Solar PV (Distributed with Storage),2050,0.03960000000
+24,electricity,Brazil,Solar PV (Utility),2045,0.04020000000
+25,electricity,Brazil,Solar PV (Utility),2050,0.02820000000

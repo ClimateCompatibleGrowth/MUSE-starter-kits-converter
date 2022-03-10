@@ -1,0 +1,31 @@
+,commodity,region,technology,year,supply
+0,electricity,Brazil,Biomass Power Plant,2050,240.39500000000
+1,electricity,Brazil,Coal Power Plant,2050,104.58770000000
+2,electricity,Brazil,Gas Power Plant (CCGT),2050,486.60500000000
+3,electricity,Brazil,Gas Power Plant (SCGT),2050,18.11860000000
+4,electricity,Brazil,Large Hydropower Plant (Dam) (>100MW),2050,1263.17370000000
+5,electricity,Brazil,Medium Hydropower Plant (10-100MW),2050,98.40820000000
+6,electricity,Brazil,Nuclear Power Plant,2050,50.20610000000
+7,electricity,Brazil,Oil Fired Gas Turbine (SCGT),2050,338.15120000000
+8,electricity,Brazil,Onshore Wind,2050,66.58840000000
+9,electricity,Brazil,Small Hydropower Plant (<10MW),2050,15.10910000000
+10,electricity,Brazil,Solar PV (Distributed with Storage),2050,0.03960000000
+11,electricity,Brazil,Solar PV (Utility),2050,0.02820000000
+12,electricity,Brazil,Coal Power Plant,2050,469.55050000000
+13,electricity,Brazil,Coal Power Plant,2055,469.55050000000
+14,electricity,Brazil,Gas Power Plant (CCGT),2050,165.61480000000
+15,electricity,Brazil,Gas Power Plant (CCGT),2055,165.61480000000
+16,electricity,Brazil,Biomass Power Plant,2055,211.34680000000
+17,electricity,Brazil,CSP with Storage,2055,105.60320000000
+18,electricity,Brazil,Coal Power Plant,2055,226.69450000000
+19,electricity,Brazil,Gas Power Plant (CCGT),2055,270.03290000000
+20,electricity,Brazil,Gas Power Plant (SCGT),2055,236.93080000000
+21,electricity,Brazil,Large Hydropower Plant (Dam) (>100MW),2055,351.81800000000
+22,electricity,Brazil,Light Fuel Oil Power Plant,2055,305.84200000000
+23,electricity,Brazil,Light Fuel Oil Standalone Generator (1kW),2055,107.80280000000
+24,electricity,Brazil,Medium Hydropower Plant (10-100MW),2055,144.42410000000
+25,electricity,Brazil,Nuclear Power Plant,2055,295.69090000000
+26,electricity,Brazil,Offshore Wind,2055,150.49880000000
+27,electricity,Brazil,Oil Fired Gas Turbine (SCGT),2055,471.84560000000
+28,electricity,Brazil,Onshore Wind,2055,106.61650000000
+29,electricity,Brazil,Solar PV (Distributed with Storage),2055,0.97560000000

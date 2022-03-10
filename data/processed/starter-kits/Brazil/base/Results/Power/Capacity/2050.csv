@@ -1,0 +1,135 @@
+asset,year,region,installed,technology,capacity
+0,2050,Brazil,2020,Biomass Power Plant,45.52930000000
+1,2050,Brazil,2020,Coal Power Plant,15.38050000000
+2,2050,Brazil,2020,Gas Power Plant (CCGT),71.55960000000
+3,2050,Brazil,2020,Gas Power Plant (SCGT),2.66450000000
+4,2050,Brazil,2020,Large Hydropower Plant (Dam) (>100MW),329.41570000000
+5,2050,Brazil,2020,Medium Hydropower Plant (10-100MW),25.66330000000
+6,2050,Brazil,2020,Nuclear Power Plant,7.38330000000
+7,2050,Brazil,2020,Oil Fired Gas Turbine (SCGT),49.72810000000
+8,2050,Brazil,2020,Onshore Wind,42.21500000000
+9,2050,Brazil,2020,Small Hydropower Plant (<10MW),3.94020000000
+10,2050,Brazil,2020,Solar PV (Distributed with Storage),0.02680000000
+11,2050,Brazil,2020,Solar PV (Utility),0.02230000000
+12,2050,Brazil,2045,Coal Power Plant,69.05150000000
+12,2055,Brazil,2045,Coal Power Plant,69.05150000000
+12,2074,Brazil,2045,Coal Power Plant,69.05150000000
+12,2075,Brazil,2045,Coal Power Plant,69.05150000000
+12,2078,Brazil,2045,Coal Power Plant,69.05150000000
+12,2079,Brazil,2045,Coal Power Plant,69.05150000000
+12,2080,Brazil,2045,Coal Power Plant,69.05150000000
+12,2084,Brazil,2045,Coal Power Plant,69.05150000000
+12,2085,Brazil,2045,Coal Power Plant,69.05150000000
+12,2089,Brazil,2045,Coal Power Plant,69.05150000000
+13,2050,Brazil,2045,Gas Power Plant (CCGT),24.35510000000
+13,2055,Brazil,2045,Gas Power Plant (CCGT),24.35510000000
+13,2074,Brazil,2045,Gas Power Plant (CCGT),24.35510000000
+13,2075,Brazil,2045,Gas Power Plant (CCGT),24.35510000000
+13,2078,Brazil,2045,Gas Power Plant (CCGT),24.35510000000
+13,2079,Brazil,2045,Gas Power Plant (CCGT),24.35510000000
+14,2055,Brazil,2050,Biomass Power Plant,40.02780000000
+14,2074,Brazil,2050,Biomass Power Plant,40.02780000000
+14,2075,Brazil,2050,Biomass Power Plant,40.02780000000
+14,2078,Brazil,2050,Biomass Power Plant,40.02780000000
+14,2079,Brazil,2050,Biomass Power Plant,40.02780000000
+15,2055,Brazil,2050,CSP with Storage,50.09640000000
+15,2074,Brazil,2050,CSP with Storage,50.09640000000
+15,2075,Brazil,2050,CSP with Storage,50.09640000000
+15,2078,Brazil,2050,CSP with Storage,50.09640000000
+15,2079,Brazil,2050,CSP with Storage,50.09640000000
+15,2080,Brazil,2050,CSP with Storage,50.09640000000
+15,2084,Brazil,2050,CSP with Storage,50.09640000000
+15,2085,Brazil,2050,CSP with Storage,50.09640000000
+15,2089,Brazil,2050,CSP with Storage,50.09640000000
+15,2090,Brazil,2050,CSP with Storage,50.09640000000
+15,2094,Brazil,2050,CSP with Storage,50.09640000000
+16,2055,Brazil,2050,Coal Power Plant,33.33740000000
+16,2074,Brazil,2050,Coal Power Plant,33.33740000000
+16,2075,Brazil,2050,Coal Power Plant,33.33740000000
+16,2078,Brazil,2050,Coal Power Plant,33.33740000000
+16,2079,Brazil,2050,Coal Power Plant,33.33740000000
+16,2080,Brazil,2050,Coal Power Plant,33.33740000000
+16,2084,Brazil,2050,Coal Power Plant,33.33740000000
+16,2085,Brazil,2050,Coal Power Plant,33.33740000000
+16,2089,Brazil,2050,Coal Power Plant,33.33740000000
+16,2090,Brazil,2050,Coal Power Plant,33.33740000000
+16,2094,Brazil,2050,Coal Power Plant,33.33740000000
+17,2055,Brazil,2050,Gas Power Plant (CCGT),39.71070000000
+17,2074,Brazil,2050,Gas Power Plant (CCGT),39.71070000000
+17,2075,Brazil,2050,Gas Power Plant (CCGT),39.71070000000
+17,2078,Brazil,2050,Gas Power Plant (CCGT),39.71070000000
+17,2079,Brazil,2050,Gas Power Plant (CCGT),39.71070000000
+17,2080,Brazil,2050,Gas Power Plant (CCGT),39.71070000000
+17,2084,Brazil,2050,Gas Power Plant (CCGT),39.71070000000
+18,2055,Brazil,2050,Gas Power Plant (SCGT),34.84280000000
+18,2074,Brazil,2050,Gas Power Plant (SCGT),34.84280000000
+18,2075,Brazil,2050,Gas Power Plant (SCGT),34.84280000000
+18,2078,Brazil,2050,Gas Power Plant (SCGT),34.84280000000
+18,2079,Brazil,2050,Gas Power Plant (SCGT),34.84280000000
+18,2080,Brazil,2050,Gas Power Plant (SCGT),34.84280000000
+18,2084,Brazil,2050,Gas Power Plant (SCGT),34.84280000000
+19,2055,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2074,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2075,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2078,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2079,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2080,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2084,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2085,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2089,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2090,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2094,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2095,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+19,2114,Brazil,2050,Large Hydropower Plant (Dam) (>100MW),91.74860000000
+20,2055,Brazil,2050,Light Fuel Oil Power Plant,44.97680000000
+20,2074,Brazil,2050,Light Fuel Oil Power Plant,44.97680000000
+20,2075,Brazil,2050,Light Fuel Oil Power Plant,44.97680000000
+20,2078,Brazil,2050,Light Fuel Oil Power Plant,44.97680000000
+20,2079,Brazil,2050,Light Fuel Oil Power Plant,44.97680000000
+21,2055,Brazil,2050,Light Fuel Oil Standalone Generator (1kW),33.68840000000
+21,2074,Brazil,2050,Light Fuel Oil Standalone Generator (1kW),33.68840000000
+22,2055,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2074,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2075,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2078,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2079,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2080,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2084,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2085,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2089,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2090,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2094,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2095,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+22,2114,Brazil,2050,Medium Hydropower Plant (10-100MW),37.66350000000
+23,2055,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2074,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2075,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2078,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2079,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2080,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2084,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2085,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2089,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2090,Brazil,2050,Nuclear Power Plant,43.48400000000
+23,2094,Brazil,2050,Nuclear Power Plant,43.48400000000
+24,2055,Brazil,2050,Offshore Wind,41.48260000000
+24,2074,Brazil,2050,Offshore Wind,41.48260000000
+24,2075,Brazil,2050,Offshore Wind,41.48260000000
+24,2078,Brazil,2050,Offshore Wind,41.48260000000
+24,2079,Brazil,2050,Offshore Wind,41.48260000000
+25,2055,Brazil,2050,Oil Fired Gas Turbine (SCGT),69.38910000000
+25,2074,Brazil,2050,Oil Fired Gas Turbine (SCGT),69.38910000000
+25,2075,Brazil,2050,Oil Fired Gas Turbine (SCGT),69.38910000000
+25,2078,Brazil,2050,Oil Fired Gas Turbine (SCGT),69.38910000000
+25,2079,Brazil,2050,Oil Fired Gas Turbine (SCGT),69.38910000000
+26,2055,Brazil,2050,Onshore Wind,67.59170000000
+26,2074,Brazil,2050,Onshore Wind,67.59170000000
+26,2075,Brazil,2050,Onshore Wind,67.59170000000
+26,2078,Brazil,2050,Onshore Wind,67.59170000000
+26,2079,Brazil,2050,Onshore Wind,67.59170000000
+26,2080,Brazil,2050,Onshore Wind,67.59170000000
+26,2084,Brazil,2050,Onshore Wind,67.59170000000
+27,2055,Brazil,2050,Solar PV (Distributed with Storage),0.66110000000
+27,2074,Brazil,2050,Solar PV (Distributed with Storage),0.66110000000
+27,2075,Brazil,2050,Solar PV (Distributed with Storage),0.66110000000
+27,2078,Brazil,2050,Solar PV (Distributed with Storage),0.66110000000

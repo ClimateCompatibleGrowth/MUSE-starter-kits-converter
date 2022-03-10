@@ -1,3 +1,4 @@
 click
 python-dotenv
 pandas
+toml
