@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Ecuador,2015,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Ecuador,2020,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Ecuador,2025,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Ecuador,2030,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Ecuador,2040,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Ecuador,2050,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Ecuador,2015,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Ecuador,2020,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Ecuador,2025,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Ecuador,2030,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Ecuador,2040,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Ecuador,2050,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+Coal Power Plant,Ecuador,2015,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Ecuador,2020,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Ecuador,2025,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Ecuador,2030,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Ecuador,2040,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Ecuador,2050,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Ecuador,2015,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Ecuador,2020,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Ecuador,2025,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Ecuador,2030,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Ecuador,2040,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Ecuador,2050,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Ecuador,2015,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Ecuador,2020,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Ecuador,2025,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Ecuador,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Ecuador,2040,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Ecuador,2050,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Ecuador,2015,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Ecuador,2020,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Ecuador,2025,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Ecuador,2030,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Ecuador,2040,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Ecuador,2050,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Ecuador,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Ecuador,2015,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Ecuador,2020,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Ecuador,2025,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Ecuador,2030,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Ecuador,2040,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Ecuador,2050,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2015,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2020,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2025,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2030,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2040,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Ecuador,2050,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Ecuador,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Ecuador,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Ecuador,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Ecuador,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Ecuador,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Ecuador,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Nuclear Power Plant,Ecuador,2015,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Ecuador,2020,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Ecuador,2025,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Ecuador,2030,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Ecuador,2040,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Ecuador,2050,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Offshore Wind,Ecuador,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Ecuador,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Ecuador,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Ecuador,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Ecuador,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Ecuador,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Oil Fired Gas Turbine (SCGT),Ecuador,2015,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Ecuador,2020,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Ecuador,2025,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Ecuador,2030,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Ecuador,2040,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Ecuador,2050,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Onshore Wind,Ecuador,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Ecuador,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Ecuador,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Ecuador,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Ecuador,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Ecuador,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Small Hydropower Plant (<10MW),Ecuador,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Ecuador,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Ecuador,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Ecuador,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Ecuador,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Ecuador,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Ecuador,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Ecuador,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Ecuador,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Ecuador,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Ecuador,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Ecuador,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Ecuador,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Ecuador,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Ecuador,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Ecuador,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Ecuador,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Ecuador,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

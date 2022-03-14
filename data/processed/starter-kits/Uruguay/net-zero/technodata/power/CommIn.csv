@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Uruguay,2015,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Uruguay,2020,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Uruguay,2025,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Uruguay,2030,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Uruguay,2040,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Uruguay,2050,fixed,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Uruguay,2015,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Uruguay,2020,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Uruguay,2025,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Uruguay,2030,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Uruguay,2040,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+CSP with Storage,Uruguay,2050,fixed,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0
+Coal Power Plant,Uruguay,2015,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Uruguay,2020,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Uruguay,2025,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Uruguay,2030,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Uruguay,2040,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Uruguay,2050,fixed,0,0,2.3255813953488373,0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Uruguay,2015,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Uruguay,2020,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Uruguay,2025,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Uruguay,2030,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Uruguay,2040,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Uruguay,2050,fixed,0,0,0,1.7543859649122808,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Uruguay,2015,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Uruguay,2020,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Uruguay,2025,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Uruguay,2030,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Uruguay,2040,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Uruguay,2050,fixed,0,0,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Uruguay,2015,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Uruguay,2020,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Uruguay,2025,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Uruguay,2030,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Uruguay,2040,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Uruguay,2050,fixed,0,0,0,0,9.090909090909092,0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Uruguay,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Uruguay,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Uruguay,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Uruguay,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Uruguay,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Uruguay,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Uruguay,2015,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Uruguay,2020,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Uruguay,2025,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Uruguay,2030,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Uruguay,2040,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Uruguay,2050,fixed,0,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Uruguay,2015,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Uruguay,2020,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Uruguay,2025,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Uruguay,2030,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Uruguay,2040,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Uruguay,2050,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Uruguay,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Uruguay,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Uruguay,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Uruguay,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Uruguay,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Uruguay,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Nuclear Power Plant,Uruguay,2015,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Uruguay,2020,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Uruguay,2025,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Uruguay,2030,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Uruguay,2040,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Nuclear Power Plant,Uruguay,2050,fixed,0,0,0,0,0,0,0,0,0,0,2.857142857142857,0,0,0
+Offshore Wind,Uruguay,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Uruguay,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Uruguay,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Uruguay,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Uruguay,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Uruguay,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Oil Fired Gas Turbine (SCGT),Uruguay,2015,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Uruguay,2020,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Uruguay,2025,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Uruguay,2030,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Uruguay,2040,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Uruguay,2050,fixed,0,0,0,0,0,0,2.857142857142857,0,0,0,0,0,0,0
+Onshore Wind,Uruguay,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Uruguay,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Uruguay,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Uruguay,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Uruguay,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Uruguay,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Small Hydropower Plant (<10MW),Uruguay,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Uruguay,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Uruguay,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Uruguay,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Uruguay,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Uruguay,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Uruguay,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Uruguay,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Uruguay,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Uruguay,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Uruguay,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Uruguay,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Uruguay,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Uruguay,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Uruguay,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Uruguay,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Uruguay,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Uruguay,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

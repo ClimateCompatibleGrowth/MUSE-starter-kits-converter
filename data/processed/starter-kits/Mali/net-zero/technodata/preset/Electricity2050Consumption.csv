@@ -1,0 +1,9 @@
+Unnamed: 0,RegionName,ProcessName,Timeslice,electricity,gas,heat,CO2f,wind
+0,Mali,electricity_demand,1,42.714,0,0,0,0
+1,Mali,electricity_demand,2,42.714,0,0,0,0
+2,Mali,electricity_demand,3,42.714,0,0,0,0
+3,Mali,electricity_demand,4,42.714,0,0,0,0
+4,Mali,electricity_demand,5,42.714,0,0,0,0
+5,Mali,electricity_demand,6,42.714,0,0,0,0
+6,Mali,electricity_demand,7,42.714,0,0,0,0
+7,Mali,electricity_demand,8,42.714,0,0,0,0

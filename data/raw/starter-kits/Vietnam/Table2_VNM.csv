@@ -1,0 +1,86 @@
+Technology,Parameter,Value
+Biomass Power Plant,Capital Cost ($/kW in 2020),2750.0
+Coal Power Plant,Capital Cost ($/kW in 2020),1300.0
+Geothermal Power Plant,Capital Cost ($/kW in 2020),2500.0
+Light Fuel Oil Power Plant,Capital Cost ($/kW in 2020),1200.0
+Oil Fired Gas Turbine (SCGT),Capital Cost ($/kW in 2020),1344.0
+Gas Power Plant (CCGT),Capital Cost ($/kW in 2020),1000.0
+Gas Power Plant (SCGT),Capital Cost ($/kW in 2020),784.0
+Solar PV (Utility),Capital Cost ($/kW in 2020),1160.0
+CSP with Storage,Capital Cost ($/kW in 2020),4965.31
+Large Hydropower Plant (Dam) (>100MW),Capital Cost ($/kW in 2020),1539.0
+Medium Hydropower Plant (10-100MW),Capital Cost ($/kW in 2020),1592.86
+Small Hydropower Plant (<10MW),Capital Cost ($/kW in 2020),2162.0
+Onshore Wind,Capital Cost ($/kW in 2020),2220.09
+Offshore Wind,Capital Cost ($/kW in 2020),2876.21
+Nuclear Power Plant,Capital Cost ($/kW in 2020),5500.0
+Light Fuel Oil Standalone Generator (1kW),Capital Cost ($/kW in 2020),1500.0
+Solar PV (Distributed with Storage),Capital Cost ($/kW in 2020),2130.8
+Biomass Power Plant,Fixed Cost ($/kW/yr in 2020),69.0
+Coal Power Plant,Fixed Cost ($/kW/yr in 2020),52.0
+Geothermal Power Plant,Fixed Cost ($/kW/yr in 2020),100.0
+Light Fuel Oil Power Plant,Fixed Cost ($/kW/yr in 2020),18.0
+Oil Fired Gas Turbine (SCGT),Fixed Cost ($/kW/yr in 2020),18.0
+Gas Power Plant (CCGT),Fixed Cost ($/kW/yr in 2020),40.0
+Gas Power Plant (SCGT),Fixed Cost ($/kW/yr in 2020),23.0
+Solar PV (Utility),Fixed Cost ($/kW/yr in 2020),15.08
+CSP with Storage,Fixed Cost ($/kW/yr in 2020),120.0
+Large Hydropower Plant (Dam) (>100MW),Fixed Cost ($/kW/yr in 2020),46.17
+Medium Hydropower Plant (10-100MW),Fixed Cost ($/kW/yr in 2020),47.79
+Small Hydropower Plant (<10MW),Fixed Cost ($/kW/yr in 2020),64.86
+Onshore Wind,Fixed Cost ($/kW/yr in 2020),88.8
+Offshore Wind,Fixed Cost ($/kW/yr in 2020),115.05
+Nuclear Power Plant,Fixed Cost ($/kW/yr in 2020),138.0
+Light Fuel Oil Standalone Generator (1kW),Fixed Cost ($/kW/yr in 2020),38.0
+Solar PV (Distributed with Storage),Fixed Cost ($/kW/yr in 2020),42.62
+Biomass Power Plant,Operational Life (years),25.0
+Coal Power Plant,Operational Life (years),60.0
+Geothermal Power Plant,Operational Life (years),50.0
+Light Fuel Oil Power Plant,Operational Life (years),50.0
+Oil Fired Gas Turbine (SCGT),Operational Life (years),50.0
+Gas Power Plant (CCGT),Operational Life (years),30.0
+Gas Power Plant (SCGT),Operational Life (years),30.0
+Solar PV (Utility),Operational Life (years),30.0
+CSP with Storage,Operational Life (years),35.0
+Large Hydropower Plant (Dam) (>100MW),Operational Life (years),40.0
+Medium Hydropower Plant (10-100MW),Operational Life (years),40.0
+Small Hydropower Plant (<10MW),Operational Life (years),40.0
+Onshore Wind,Operational Life (years),30.0
+Offshore Wind,Operational Life (years),30.0
+Nuclear Power Plant,Operational Life (years),60.0
+Light Fuel Oil Standalone Generator (1kW),Operational Life (years),20.0
+Solar PV (Distributed with Storage),Operational Life (years),24.0
+Biomass Power Plant,Efficiency ,0.38
+Coal Power Plant,Efficiency ,0.3
+Geothermal Power Plant,Efficiency ,0.1
+Light Fuel Oil Power Plant,Efficiency ,0.4
+Oil Fired Gas Turbine (SCGT),Efficiency ,0.4
+Gas Power Plant (CCGT),Efficiency ,0.55
+Gas Power Plant (SCGT),Efficiency ,0.35
+Solar PV (Utility),Efficiency ,1.0
+CSP with Storage,Efficiency ,0.33
+Large Hydropower Plant (Dam) (>100MW),Efficiency ,1.0
+Medium Hydropower Plant (10-100MW),Efficiency ,1.0
+Small Hydropower Plant (<10MW),Efficiency ,1.0
+Onshore Wind,Efficiency ,1.0
+Offshore Wind,Efficiency ,1.0
+Nuclear Power Plant,Efficiency ,0.33
+Light Fuel Oil Standalone Generator (1kW),Efficiency ,0.42
+Solar PV (Distributed with Storage),Efficiency ,1.0
+Biomass Power Plant,Average Capacity Factor,0.7
+Coal Power Plant,Average Capacity Factor,0.75
+Geothermal Power Plant,Average Capacity Factor,0.7
+Light Fuel Oil Power Plant,Average Capacity Factor,0.25
+Oil Fired Gas Turbine (SCGT),Average Capacity Factor,0.25
+Gas Power Plant (CCGT),Average Capacity Factor,0.55
+Gas Power Plant (SCGT),Average Capacity Factor,0.55
+Solar PV (Utility),Average Capacity Factor,0.23
+CSP with Storage,Average Capacity Factor,0.3
+Large Hydropower Plant (Dam) (>100MW),Average Capacity Factor,0.49
+Medium Hydropower Plant (10-100MW),Average Capacity Factor,0.49
+Small Hydropower Plant (<10MW),Average Capacity Factor,0.49
+Onshore Wind,Average Capacity Factor,0.15
+Offshore Wind,Average Capacity Factor,0.27
+Nuclear Power Plant,Average Capacity Factor,0.83
+Light Fuel Oil Standalone Generator (1kW),Average Capacity Factor,0.4
+Solar PV (Distributed with Storage),Average Capacity Factor,0.23

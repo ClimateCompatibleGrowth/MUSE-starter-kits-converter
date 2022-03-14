@@ -1,0 +1,25 @@
+,commodity,region,technology,year,supply
+0,electricity,Brazil,Biomass Power Plant,2035,700.85990000000
+1,electricity,Brazil,Biomass Power Plant,2040,490.60200000000
+2,electricity,Brazil,Coal Power Plant,2035,304.92050000000
+3,electricity,Brazil,Coal Power Plant,2040,213.44430000000
+4,electricity,Brazil,Gas Power Plant (CCGT),2035,1418.67340000000
+5,electricity,Brazil,Gas Power Plant (CCGT),2040,993.07140000000
+6,electricity,Brazil,Gas Power Plant (SCGT),2035,52.82390000000
+7,electricity,Brazil,Gas Power Plant (SCGT),2040,36.97680000000
+8,electricity,Brazil,Large Hydropower Plant (Dam) (>100MW),2035,3682.72200000000
+9,electricity,Brazil,Large Hydropower Plant (Dam) (>100MW),2040,2577.90540000000
+10,electricity,Brazil,Medium Hydropower Plant (10-100MW),2035,286.90450000000
+11,electricity,Brazil,Medium Hydropower Plant (10-100MW),2040,200.83310000000
+12,electricity,Brazil,Nuclear Power Plant,2035,146.37360000000
+13,electricity,Brazil,Nuclear Power Plant,2040,102.46150000000
+14,electricity,Brazil,Oil Fired Gas Turbine (SCGT),2035,985.86360000000
+15,electricity,Brazil,Oil Fired Gas Turbine (SCGT),2040,690.10450000000
+16,electricity,Brazil,Onshore Wind,2035,194.13520000000
+17,electricity,Brazil,Onshore Wind,2040,135.89460000000
+18,electricity,Brazil,Small Hydropower Plant (<10MW),2035,44.04980000000
+19,electricity,Brazil,Small Hydropower Plant (<10MW),2040,30.83490000000
+20,electricity,Brazil,Solar PV (Distributed with Storage),2035,0.11540000000
+21,electricity,Brazil,Solar PV (Distributed with Storage),2040,0.08080000000
+22,electricity,Brazil,Solar PV (Utility),2035,0.08210000000
+23,electricity,Brazil,Solar PV (Utility),2040,0.05750000000

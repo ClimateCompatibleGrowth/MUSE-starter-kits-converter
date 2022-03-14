@@ -1,0 +1,104 @@
+time_framework = [ 2020, 2025, 2030, 2035, 2040, 2045, 2050,]
+foresight = 5
+regions = [ "Papua New Guinea",]
+interest_rate = 0.1
+interpolation_mode = "Active"
+log_level = "info"
+excluded_commodities = [ "crude_oil", "biomass", "coal", "gas", "geothermal", "hydro", "solar", "uranium", "wind", "heat", "hfo", "lfo",]
+equilibrium_variable = "demand"
+maximum_iterations = 100
+tolerance = 0.5
+tolerance_unmet_demand = -0.5
+[[outputs]]
+quantity = "prices"
+sink = "aggregate"
+filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
+
+[[outputs]]
+quantity = "capacity"
+sink = "aggregate"
+filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
+index = false
+keep_columns = [ "technology", "dst_region", "region", "agent", "sector", "type", "year", "capacity",]
+
+[[outputs]]
+quantity = "supply"
+sink = "aggregate"
+filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
+
+[[outputs]]
+quantity = "LCOE"
+sink = "aggregate"
+filename = "{cwd}/{default_output_dir}/MCA{Quantity}.csv"
+columns = [ "timeslice", "region", "technology", "year", "agent", "category", "sector", "LCOE",]
+
+[[outputs]]
+quantity = "timeslice_supply"
+sink = "aggregate"
+filename = "{path}/{default_output_dir}/MCA{Quantity}.csv"
+columns = [ "timeslice", "commodity", "region", "technology", "year", "agent", "category", "sector", "supply",]
+
+[global_input_files]
+projections = "{path}/input/Projections.csv"
+global_commodities = "{path}/input/GlobalCommodities.csv"
+
+[timeslices]
+level_names = [ "month", "day", "hour",]
+
+[sectors.power]
+type = "default"
+priority = 2
+dispatch_production = "maximum_production"
+technodata = "{path}/technodata/power/Technodata.csv"
+commodities_in = "{path}/technodata/power/CommIn.csv"
+commodities_out = "{path}/technodata/power/CommOut.csv"
+technodata_timeslices = "{path}/technodata/power/TechnodataTimeslices.csv"
+[[sectors.power.outputs]]
+filename = "{cwd}/{default_output_dir}/{Sector}/{Quantity}/{year}{suffix}"
+quantity = "capacity"
+sink = "csv"
+overwrite = true
+index = false
+
+[[sectors.power.outputs]]
+filename = "{cwd}/{default_output_dir}/{Sector}/{Quantity}/{year}{suffix}"
+columns = [ "commodity", "region", "technology", "year", "supply",]
+sink = "csv"
+overwrite = true
+
+[sectors.power.outputs.quantity]
+name = "supply"
+sum_over = "timeslice"
+drop = [ "comm_usage", "units_prices",]
+[[sectors.power.interactions]]
+net = "new_to_retro"
+interaction = "transfer"
+
+[sectors.electricity_presets]
+type = "presets"
+priority = 0
+consumption_path = "{path}/technodata/preset/*Consumption.csv"
+
+[timeslices.winter.all-week]
+night = 1095
+day = 1095
+
+[timeslices.spring.all-week]
+night = 1095
+day = 1095
+
+[timeslices.summer.all-week]
+night = 1095
+day = 1095
+
+[timeslices.autumn.all-week]
+night = 1095
+day = 1095
+
+[sectors.power.subsectors.retro_and_new]
+agents = "{path}/technodata/Agents.csv"
+existing_capacity = "{path}/technodata/power/ExistingCapacity.csv"
+lpsolver = "adhoc"
+constraints = [ "max_production", "max_capacity_expansion", "demand", "search_space",]
+demand_share = "new_and_retro"
+forecast = 5

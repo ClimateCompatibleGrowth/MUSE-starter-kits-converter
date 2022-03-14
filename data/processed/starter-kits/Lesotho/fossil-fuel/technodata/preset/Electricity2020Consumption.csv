@@ -1,0 +1,9 @@
+Unnamed: 0,RegionName,ProcessName,Timeslice,electricity,gas,heat,CO2f,wind
+0,Lesotho,electricity_demand,1,5.979,0,0,0,0
+1,Lesotho,electricity_demand,2,5.979,0,0,0,0
+2,Lesotho,electricity_demand,3,5.979,0,0,0,0
+3,Lesotho,electricity_demand,4,5.979,0,0,0,0
+4,Lesotho,electricity_demand,5,5.979,0,0,0,0
+5,Lesotho,electricity_demand,6,5.979,0,0,0,0
+6,Lesotho,electricity_demand,7,5.979,0,0,0,0
+7,Lesotho,electricity_demand,8,5.979,0,0,0,0

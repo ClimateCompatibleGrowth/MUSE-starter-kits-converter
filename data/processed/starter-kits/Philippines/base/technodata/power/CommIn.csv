@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Philippines,2015,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Philippines,2020,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Philippines,2025,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Philippines,2030,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Philippines,2040,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+Biomass Power Plant,Philippines,2050,fixed,0,2.6315789473684212,0,0,0,0,0,0,0,0,0,0,0,0
+CSP with Storage,Philippines,2015,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Philippines,2020,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Philippines,2025,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Philippines,2030,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Philippines,2040,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+CSP with Storage,Philippines,2050,fixed,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0,0
+Coal Power Plant,Philippines,2015,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Philippines,2020,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Philippines,2025,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Philippines,2030,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Philippines,2040,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Coal Power Plant,Philippines,2050,fixed,0,0,3.3333333333333335,0,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Philippines,2015,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Philippines,2020,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Philippines,2025,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Philippines,2030,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Philippines,2040,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (CCGT),Philippines,2050,fixed,0,0,0,1.818181818181818,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Philippines,2015,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Philippines,2020,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Philippines,2025,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Philippines,2030,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Philippines,2040,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Gas Power Plant (SCGT),Philippines,2050,fixed,0,0,0,2.857142857142857,0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Philippines,2015,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Philippines,2020,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Philippines,2025,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Philippines,2030,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Philippines,2040,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Geothermal Power Plant,Philippines,2050,fixed,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Philippines,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Philippines,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Philippines,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Philippines,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Philippines,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Large Hydropower Plant (Dam) (>100MW),Philippines,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Philippines,2015,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Philippines,2020,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Philippines,2025,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Philippines,2030,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Philippines,2040,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Power Plant,Philippines,2050,fixed,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Philippines,2015,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Philippines,2020,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Philippines,2025,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Philippines,2030,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Philippines,2040,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Light Fuel Oil Standalone Generator (1kW),Philippines,2050,fixed,0,0,0,0,0,0,0,2.380952380952381,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Philippines,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Philippines,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Philippines,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Philippines,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Philippines,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Medium Hydropower Plant (10-100MW),Philippines,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Nuclear Power Plant,Philippines,2015,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Philippines,2020,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Philippines,2025,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Philippines,2030,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Philippines,2040,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Nuclear Power Plant,Philippines,2050,fixed,0,0,0,0,0,0,0,0,0,0,3.0303030303030303,0,0,0
+Offshore Wind,Philippines,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Philippines,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Philippines,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Philippines,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Philippines,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Offshore Wind,Philippines,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Oil Fired Gas Turbine (SCGT),Philippines,2015,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Philippines,2020,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Philippines,2025,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Philippines,2030,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Philippines,2040,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Oil Fired Gas Turbine (SCGT),Philippines,2050,fixed,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0
+Onshore Wind,Philippines,2015,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Philippines,2020,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Philippines,2025,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Philippines,2030,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Philippines,2040,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Onshore Wind,Philippines,2050,fixed,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0
+Small Hydropower Plant (<10MW),Philippines,2015,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Philippines,2020,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Philippines,2025,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Philippines,2030,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Philippines,2040,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Small Hydropower Plant (<10MW),Philippines,2050,fixed,0,0,0,0,0,1.0,0,0,0,0,0,0,0,0
+Solar PV (Distributed with Storage),Philippines,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Philippines,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Philippines,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Philippines,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Philippines,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Distributed with Storage),Philippines,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Philippines,2015,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Philippines,2020,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Philippines,2025,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Philippines,2030,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Philippines,2040,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+Solar PV (Utility),Philippines,2050,fixed,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0

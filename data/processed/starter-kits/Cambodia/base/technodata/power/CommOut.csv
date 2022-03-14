@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Cambodia,2020,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Cambodia,2015,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Cambodia,2025,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Cambodia,2030,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Cambodia,2040,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Cambodia,2050,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Cambodia,2020,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Cambodia,2015,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Cambodia,2025,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Cambodia,2030,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Cambodia,2040,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Cambodia,2050,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Cambodia,2020,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Cambodia,2015,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Cambodia,2025,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Cambodia,2030,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Cambodia,2040,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Cambodia,2050,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Cambodia,2020,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Cambodia,2015,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Cambodia,2025,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Cambodia,2030,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Cambodia,2040,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Cambodia,2050,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Cambodia,2020,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Cambodia,2015,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Cambodia,2025,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Cambodia,2030,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Cambodia,2040,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Cambodia,2050,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Cambodia,2020,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Cambodia,2015,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Cambodia,2025,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Cambodia,2030,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Cambodia,2040,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Cambodia,2050,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Cambodia,2020,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Cambodia,2015,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Cambodia,2025,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Cambodia,2030,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Cambodia,2040,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Cambodia,2050,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Cambodia,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Cambodia,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Cambodia,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Cambodia,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Cambodia,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Cambodia,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0

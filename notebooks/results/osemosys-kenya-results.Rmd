@@ -15,7 +15,7 @@ library(tidyverse)
 ```
 
 ```{r}
-osemosys_generation = read_csv("/Users/alexanderkell/Documents/SGI/Projects/11-starter-kits/data/processed/osemosys-outputs/kenya-capacity-output.csv")
+osemosys_generation = read_csv("/Users/alexanderkell/GitHub/SGI/2-starter-kits/data/processed/osemosys-outputs/kenya-capacity-output.csv")
 head(osemosys_generation)
 ```
 

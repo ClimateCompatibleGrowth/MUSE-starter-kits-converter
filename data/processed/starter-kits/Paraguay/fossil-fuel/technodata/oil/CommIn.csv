@@ -1,0 +1,16 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Crude Oil Refinery Option 1,Paraguay,2020,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Paraguay,2025,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Paraguay,2030,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Paraguay,2035,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Paraguay,2040,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Paraguay,2045,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 1,Paraguay,2050,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Paraguay,2020,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Paraguay,2025,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Paraguay,2030,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Paraguay,2035,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Paraguay,2040,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Paraguay,2045,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Crude Oil Refinery Option 2,Paraguay,2050,fixed,0,0,0,0,0,0,0,0,1,0,0,0,0,0

@@ -4,6 +4,7 @@ import glob
 import pandas as pd
 from src.defaults import PROJECT_DIR, plant_fuels, units
 import numpy as np
+import toml
 
 
 class Transformer:
@@ -39,6 +40,8 @@ class Transformer:
         scenarios_data = {}
         for scenario in scenarios:
             muse_data = {}
+
+            muse_data["main"] = self.generate_toml()
 
             muse_data["input"] = {
                 "GlobalCommodities": self.generate_global_commodities()
@@ -80,6 +83,8 @@ class Transformer:
                 "ExistingCapacity"
             ] = self.create_empty_existing_capacity(self.raw_tables["Table5"])
 
+
+
             if self.electricity_demand["RegionName"].str.contains(self.folder).any():
                 self.electricity_demand = self.electricity_demand[
                     self.electricity_demand.RegionName == self.folder
@@ -90,6 +95,8 @@ class Transformer:
                 ] = self.modify_max_capacities(
                     technodata=muse_data["technodata"]["power"]["Technodata"]
                 )
+            else:
+                muse_data["technodata"]["preset"] = self.get_preset_sector()
 
             muse_data["technodata"]["power"]["Technodata"] = self.create_scenarios(
                 scenario, muse_data["technodata"]["power"]["Technodata"]
@@ -127,24 +134,34 @@ class Transformer:
                 os.makedirs(output_path_scenario)
             for folder in results_data[scenario]:
                 output_path_folder = output_path_scenario / Path(folder)
-                for sector in results_data[scenario][folder]:
-                    output_path = output_path_scenario / Path(folder) / Path(sector)
-                    if (
-                        not os.path.exists(output_path)
-                        and type(results_data[scenario][folder][sector]) is dict
-                    ):
-                        os.makedirs(output_path)
-                    elif not os.path.exists(output_path_folder):
-                        os.makedirs(output_path_folder)
-                    if type(results_data[scenario][folder][sector]) is pd.DataFrame:
-                        results_data[scenario][folder][sector].to_csv(
-                            str(output_path) + ".csv", index=False
-                        )
-                    else:
-                        for csv in results_data[scenario][folder][sector]:
-                            results_data[scenario][folder][sector][csv].to_csv(
-                                str(output_path) + "/" + csv + ".csv", index=False
+                if folder == "main":
+                    toml_path = output_path_scenario / Path("settings.toml")
+                    with open(str(toml_path), "w") as f:
+                        toml.dump(results_data[scenario][folder], f)
+                else:
+                    for sector in results_data[scenario][folder]:
+                        output_path = output_path_scenario / Path(folder) / Path(sector)
+                        if (
+                            not os.path.exists(output_path)
+                            and type(results_data[scenario][folder][sector]) is dict
+                        ):
+                            os.makedirs(output_path)
+                        elif not os.path.exists(output_path_folder):
+                            os.makedirs(output_path_folder)
+                        if type(results_data[scenario][folder][sector]) is pd.DataFrame:
+                            results_data[scenario][folder][sector].to_csv(
+                                str(output_path) + ".csv", index=False
                             )
+                        else:
+                            for csv in results_data[scenario][folder][sector]:
+                                results_data[scenario][folder][sector][csv].to_csv(
+                                    str(output_path) + "/" + csv + ".csv", index=False
+                                )
+
+    def generate_toml(self):
+        settings_toml = toml.load("data/external/settings.toml")
+        settings_toml["regions"] = [self.folder]
+        return settings_toml
 
     def generate_agents_file(self):
         agents = pd.read_csv("data/external/muse_data/default/technodata/Agents.csv")
@@ -625,6 +642,11 @@ class Transformer:
         )
         technodata_edited = technodata_edited.drop(columns="fix_par_x")
         technodata_edited = technodata_edited.rename(columns={"fix_par_y": "fix_par"})
+
+        technodata_edited["UtilizationFactor"] = technodata_edited[
+            "UtilizationFactor"
+        ].fillna(0)
+
         technodata_edited = technodata_edited.reindex(muse_technodata.columns, axis=1)
 
         return technodata_edited
@@ -1069,6 +1091,23 @@ class Transformer:
             )
         )
         return forwardfilled_projected_technoeconomic
+
+    def get_preset_sector(self):
+        elec_consumption_2020 = pd.read_csv(
+            "data/external/example_preset/Electricity2020Consumption.csv"
+        )
+        elec_consumption_2020["RegionName"] = self.folder
+
+        elec_consumption_2050 = pd.read_csv(
+            "data/external/example_preset/Electricity2050Consumption.csv"
+        )
+        elec_consumption_2050["RegionName"] = self.folder
+
+        result = {
+            "Electricity2020Consumption": elec_consumption_2020,
+            "Electricity2050Consumption": elec_consumption_2050,
+        }
+        return result
 
     def _insert_constant_columns(self, technoeconomic_data_wide, fuel_type, end_use):
         """

@@ -1,0 +1,9 @@
+Unnamed: 0,RegionName,ProcessName,Timeslice,electricity,gas,heat,CO2f,wind
+0,Niger,electricity_demand,1,5.979,0,0,0,0
+1,Niger,electricity_demand,2,5.979,0,0,0,0
+2,Niger,electricity_demand,3,5.979,0,0,0,0
+3,Niger,electricity_demand,4,5.979,0,0,0,0
+4,Niger,electricity_demand,5,5.979,0,0,0,0
+5,Niger,electricity_demand,6,5.979,0,0,0,0
+6,Niger,electricity_demand,7,5.979,0,0,0,0
+7,Niger,electricity_demand,8,5.979,0,0,0,0

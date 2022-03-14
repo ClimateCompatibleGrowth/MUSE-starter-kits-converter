@@ -1,0 +1,58 @@
+asset,year,region,installed,technology,capacity
+0,2045,Laos,2020,Biomass Power Plant,0.15900000000
+0,2050,Laos,2020,Biomass Power Plant,0.11130000000
+1,2045,Laos,2020,Coal Power Plant,58.84120000000
+1,2050,Laos,2020,Coal Power Plant,55.85820000000
+1,2084,Laos,2020,Coal Power Plant,48.89790000000
+2,2045,Laos,2020,Large Hydropower Plant (Dam) (>100MW),22.37310000000
+2,2050,Laos,2020,Large Hydropower Plant (Dam) (>100MW),15.66120000000
+3,2045,Laos,2020,Medium Hydropower Plant (10-100MW),1.17670000000
+3,2050,Laos,2020,Medium Hydropower Plant (10-100MW),0.82370000000
+4,2045,Laos,2020,Small Hydropower Plant (<10MW),0.10070000000
+4,2050,Laos,2020,Small Hydropower Plant (<10MW),0.07050000000
+5,2045,Laos,2020,Solar PV (Distributed with Storage),0.00860000000
+5,2050,Laos,2020,Solar PV (Distributed with Storage),0.00600000000
+6,2045,Laos,2025,Coal Power Plant,99.43960000000
+6,2050,Laos,2025,Coal Power Plant,99.43960000000
+6,2084,Laos,2025,Coal Power Plant,99.43960000000
+6,2085,Laos,2025,Coal Power Plant,99.43960000000
+6,2089,Laos,2025,Coal Power Plant,99.43960000000
+7,2045,Laos,2030,Coal Power Plant,77.10120000000
+7,2050,Laos,2030,Coal Power Plant,77.10120000000
+7,2084,Laos,2030,Coal Power Plant,77.10120000000
+7,2085,Laos,2030,Coal Power Plant,77.10120000000
+7,2089,Laos,2030,Coal Power Plant,77.10120000000
+7,2090,Laos,2030,Coal Power Plant,77.10120000000
+7,2094,Laos,2030,Coal Power Plant,77.10120000000
+8,2045,Laos,2035,Coal Power Plant,79.12720000000
+8,2050,Laos,2035,Coal Power Plant,79.12720000000
+8,2084,Laos,2035,Coal Power Plant,79.12720000000
+8,2085,Laos,2035,Coal Power Plant,79.12720000000
+8,2089,Laos,2035,Coal Power Plant,79.12720000000
+8,2090,Laos,2035,Coal Power Plant,79.12720000000
+8,2094,Laos,2035,Coal Power Plant,79.12720000000
+8,2095,Laos,2035,Coal Power Plant,79.12720000000
+8,2099,Laos,2035,Coal Power Plant,79.12720000000
+9,2045,Laos,2040,Coal Power Plant,72.31990000000
+9,2050,Laos,2040,Coal Power Plant,72.31990000000
+9,2084,Laos,2040,Coal Power Plant,72.31990000000
+9,2085,Laos,2040,Coal Power Plant,72.31990000000
+9,2089,Laos,2040,Coal Power Plant,72.31990000000
+9,2090,Laos,2040,Coal Power Plant,72.31990000000
+9,2094,Laos,2040,Coal Power Plant,72.31990000000
+9,2095,Laos,2040,Coal Power Plant,72.31990000000
+9,2099,Laos,2040,Coal Power Plant,72.31990000000
+9,2100,Laos,2040,Coal Power Plant,72.31990000000
+9,2104,Laos,2040,Coal Power Plant,72.31990000000
+10,2050,Laos,2045,Coal Power Plant,72.71040000000
+10,2084,Laos,2045,Coal Power Plant,72.71040000000
+10,2085,Laos,2045,Coal Power Plant,72.71040000000
+10,2089,Laos,2045,Coal Power Plant,72.71040000000
+10,2090,Laos,2045,Coal Power Plant,72.71040000000
+10,2094,Laos,2045,Coal Power Plant,72.71040000000
+10,2095,Laos,2045,Coal Power Plant,72.71040000000
+10,2099,Laos,2045,Coal Power Plant,72.71040000000
+10,2100,Laos,2045,Coal Power Plant,72.71040000000
+10,2104,Laos,2045,Coal Power Plant,72.71040000000
+10,2105,Laos,2045,Coal Power Plant,72.71040000000
+10,2109,Laos,2045,Coal Power Plant,72.71040000000

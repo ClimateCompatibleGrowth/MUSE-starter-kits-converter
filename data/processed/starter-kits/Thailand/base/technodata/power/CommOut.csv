@@ -1,0 +1,104 @@
+ProcessName,RegionName,Time,Level,CO2f,biomass,coal,gas,geothermal,hydro,HFO,LFO,crude_oil,solar,uranium,wind,electricity,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+Biomass Power Plant,Thailand,2020,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Thailand,2015,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Thailand,2025,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Thailand,2030,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Thailand,2040,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Biomass Power Plant,Thailand,2050,fixed,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+CSP with Storage,Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Thailand,2020,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Thailand,2015,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Thailand,2025,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Thailand,2030,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Thailand,2040,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Coal Power Plant,Thailand,2050,fixed,94.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Thailand,2020,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Thailand,2015,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Thailand,2025,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Thailand,2030,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Thailand,2040,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (CCGT),Thailand,2050,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Thailand,2020,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Thailand,2015,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Thailand,2025,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Thailand,2030,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Thailand,2040,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Gas Power Plant (SCGT),Thailand,2050,fixed,56.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Geothermal Power Plant,Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Large Hydropower Plant (Dam) (>100MW),Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Thailand,2020,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Thailand,2015,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Thailand,2025,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Thailand,2030,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Thailand,2040,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Power Plant,Thailand,2050,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Thailand,2020,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Thailand,2015,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Thailand,2025,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Thailand,2030,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Thailand,2040,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Light Fuel Oil Standalone Generator (1kW),Thailand,2050,fixed,69.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Medium Hydropower Plant (10-100MW),Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Nuclear Power Plant,Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Offshore Wind,Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Thailand,2020,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Thailand,2015,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Thailand,2025,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Thailand,2030,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Thailand,2040,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Oil Fired Gas Turbine (SCGT),Thailand,2050,fixed,77.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Onshore Wind,Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Small Hydropower Plant (<10MW),Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Distributed with Storage),Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Thailand,2020,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Thailand,2015,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Thailand,2025,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Thailand,2030,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Thailand,2040,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0
+Solar PV (Utility),Thailand,2050,fixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,0

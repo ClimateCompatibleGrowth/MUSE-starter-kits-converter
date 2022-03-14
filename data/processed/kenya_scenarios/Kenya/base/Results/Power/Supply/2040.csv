@@ -1,0 +1,32 @@
+,commodity,region,technology,year,supply
+0,electricity,Kenya,Biomass Power Plant,2040,2.72580000000
+1,electricity,Kenya,Biomass Power Plant,2045,1.90810000000
+2,electricity,Kenya,Geothermal Power Plant,2040,459.67440000000
+3,electricity,Kenya,Geothermal Power Plant,2045,453.65920000000
+4,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2040,14.48830000000
+5,electricity,Kenya,Large Hydropower Plant (Dam) (>100MW),2045,10.14180000000
+6,electricity,Kenya,Light Fuel Oil Power Plant,2040,13.93210000000
+7,electricity,Kenya,Light Fuel Oil Power Plant,2045,9.75250000000
+8,electricity,Kenya,Medium Hydropower Plant (10-100MW),2040,7.22380000000
+9,electricity,Kenya,Medium Hydropower Plant (10-100MW),2045,5.05670000000
+10,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2040,21.66140000000
+11,electricity,Kenya,Oil Fired Gas Turbine (SCGT),2045,15.16300000000
+12,electricity,Kenya,Onshore Wind,2040,3.70250000000
+13,electricity,Kenya,Onshore Wind,2045,2.59170000000
+14,electricity,Kenya,Solar PV (Distributed with Storage),2040,0.42290000000
+15,electricity,Kenya,Solar PV (Distributed with Storage),2045,0.29600000000
+16,electricity,Kenya,Solar PV (Utility),2040,0.22990000000
+17,electricity,Kenya,Solar PV (Utility),2045,0.16090000000
+18,electricity,Kenya,Geothermal Power Plant,2040,257.83330000000
+19,electricity,Kenya,Geothermal Power Plant,2045,257.83330000000
+20,electricity,Kenya,Biomass Power Plant,2040,94.44970000000
+21,electricity,Kenya,Biomass Power Plant,2045,94.44970000000
+22,electricity,Kenya,Geothermal Power Plant,2040,387.15120000000
+23,electricity,Kenya,Geothermal Power Plant,2045,387.15120000000
+24,electricity,Kenya,Biomass Power Plant,2040,58.65720000000
+25,electricity,Kenya,Biomass Power Plant,2045,58.65720000000
+26,electricity,Kenya,Geothermal Power Plant,2040,342.63890000000
+27,electricity,Kenya,Geothermal Power Plant,2045,342.63890000000
+28,electricity,Kenya,Biomass Power Plant,2045,85.69520000000
+29,electricity,Kenya,Coal Power Plant,2045,214.07240000000
+30,electricity,Kenya,Geothermal Power Plant,2045,384.74150000000

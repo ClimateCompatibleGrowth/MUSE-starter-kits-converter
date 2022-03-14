@@ -1,0 +1,9 @@
+Unnamed: 0,RegionName,ProcessName,Timeslice,electricity,gas,heat,CO2f,wind
+0,Uruguay,electricity_demand,1,42.714,0,0,0,0
+1,Uruguay,electricity_demand,2,42.714,0,0,0,0
+2,Uruguay,electricity_demand,3,42.714,0,0,0,0
+3,Uruguay,electricity_demand,4,42.714,0,0,0,0
+4,Uruguay,electricity_demand,5,42.714,0,0,0,0
+5,Uruguay,electricity_demand,6,42.714,0,0,0,0
+6,Uruguay,electricity_demand,7,42.714,0,0,0,0
+7,Uruguay,electricity_demand,8,42.714,0,0,0,0
